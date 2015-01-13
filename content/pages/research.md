@@ -13,6 +13,17 @@ Visual motion provides humans and animals with information about their own movem
 infants and mothers. *Neural Computation*, *26*(11), 2652-2668. [doi:10.1162/NECO\_a\_00645](http://dx.doi.org/10.1162/NECO\_a\_00645).
 - Raudies, F., Gilmore, R.O., Kretch, K.S., Franchak, J.M, & Adolph, K.E. (2012). Understanding the development of motion processing by characterizing optic flow experienced by infants and their mothers. *Proceedings of the IEEE International Conference on Development and Learning*. [doi:10.1109/DevLrn.2012.6400584](http://dx.doi.org/10.1109/DevLrn.2012.6400584).
 
+** Presentations **
+
+- Raudies, F. & Gilmore, R.O. (2014, May). The statistics of optic flow experienced by infant observers differs under passive versus active self-motion. Poster presented at the Vision Sciences Society meeting, St. Pete's Beach, FL.
+- Thomas, A.L., Fesi, J.D. & Gilmore, R.O. (2014, May). Temporal and Speed Tuning in Brain Responses to Local and Global Motion Patterns. Poster presented at the Vision Sciences Society meeting, St. Pete's Beach, FL.
+
+** Code **
+
+- [Random Dot Kinematogram (RDK) code (Matlab)](https://github.com/gilmore-lab/RDK)
+- [Motion Coherence (MOCO) 3-Pattern Psychophysics Project](https://github.com/gilmore-lab/moco-3-pattern-psychophysics)
+- [Motion Coherence Demo code (Python)](https://github.com/rogilmore/moco-mofo-demo)
+
 ** Collaborator **
 
 - Florian Raudies, Boston University
