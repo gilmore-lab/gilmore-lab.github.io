@@ -132,6 +132,10 @@ London: U.K. MRC Cognitive Development Unit.
 
 # Invited Talks
 
+Gilmore, R.O. (2015, January). Penn State University, Child Study Center. [Talk on GitHub](http://gilmore-lab.github.io/talks/2015-01-23)
+
+Gilmore, R.O. (2014, December). Penn State University, Quantitative Developmental Methdology Group. [Talk on GitHub](http://gilmore-lab.github.io/talks/2014-12-10-quant-dev)
+
 Gilmore, R.O. (2014, November). Northwestern University.
 
 Gilmore, R.O. (2014, October). Data on the Mind Workshop. University of California -- Berkeley. [Materials on Databrary](https://nyu.databrary.org/volume/66)
