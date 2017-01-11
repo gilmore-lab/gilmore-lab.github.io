@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title></title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<link rel="stylesheet"
+      href="site_libs/highlight/textmate.css"
+      type="text/css" />
+<script src="site_libs/highlight/highlight.js"></script>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Gilmore Lab</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="about.html">About</a>
+</li>
+<li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="publications.html">Publications</a>
+</li>
+<li>
+  <a href="parents.html">Parents</a>
+</li>
+<li>
+  <a href="participants.html">Participants</a>
+</li>
+<li>
+  <a href="students.html">Students</a>
+</li>
+<li>
+  <a href="site-info.html">Site info</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<div id="for-students" class="section level1">
+<h1>For Students</h1>
+<p>The Brain Development Lab, part of the <a href="http://psych.la.psu.edu">Psychology Department</a> at Penn State, is looking for research assistants to study brain development in infants, children, and adolescents for <strong>Spring 2017</strong>. You can earn research project (PSY 494) credit or work study funds, and learn video, computer, and communication skills. Prior research experience and computer skills are a plus, but aren’t required. We are especially interested in students who have morning availability, computer skills, or are interested in developing skills in advertising, marketing, or public relations. You may apply by completing an <a href="https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform">application</a>.</p>
+<div id="current-staff" class="section level2">
+<h2>Current Staff</h2>
+<div id="andrea-seisler-lab-manager" class="section level3">
+<h3><a href="mailto:ars17psu@gmail.com">Andrea Seisler</a>, Lab Manager</h3>
+<p>Andrea R. Seisler is the Laboratory Manager of the Brain Development Laboratory directed by Dr. Rick O. Gilmore. She received her bachelor’s and master’s degree in Biomedical Engineering from <a href="http://www.cua.edu/">The Catholic University of America</a>. During her graduate studies, she was a recipient of the <a href="http://www.hluce.org/cblprogram.aspx">Clare Booth Luce Fellowship</a> award.</p>
+<p>She completed MRI based neuroscience and orthopedics research while working at <a href="http://www.nih.gov/">The National Institutes of Health</a> from 2001-2007. After her move to State College, she served as an IRB Compliance Coordinator for the <a href="http://www.research.psu.edu/orp/humans">Office for Research Protections</a> at Penn State and then moved on to manage the Human Electrophysiology Facility located at the <a href="http://www.imaging.psu.edu/">Social, Life, and Enginineering Sciences Imaging Center</a> through 2014.</p>
+<div id="contact-information" class="section level4">
+<h4>Contact Information</h4>
+<p>
+449 Moore Building<br/> Department of Psychology<br/> The Pennsylvania State University<br/> University Park, PA 16802<br/> ars17 AT-SIGN psu DOT edu
+</p>
+</div>
+</div>
+<div id="gillian-bruce-undergraduate-student" class="section level3">
+<h3>Gillian Bruce, Undergraduate Student</h3>
+</div>
+<div id="michael-dexheimer-undergraduate-student" class="section level3">
+<h3>Michael Dexheimer, Undergraduate Student</h3>
+<p>Michael is majoring in <a href="http://www.esm.psu.edu/">Engineering Science</a> at The Pennsylvania State University. He is working to improve his understanding of research and technology in neuroscience.</p>
+<p>After graduating in the spring of 2018 Michael intends to further his education in medical school, where he will combine his interests in Engineering, Neuroscience, and Medicine.</p>
+</div>
+<div id="daved-fared-undergraduate-student" class="section level3">
+<h3>Daved Fared, Undergraduate Student</h3>
+</div>
+<div id="auburn-lattanzio-undergraduate-student" class="section level3">
+<h3>Auburn Lattanzio, Undergraduate Student</h3>
+<p>Auburn is a Senior majoring in Mathematics and minoring in Psychology at Pennsylvania State University. After graduating in Spring 2017, she hopes to apply the skills she has learned as a Math major to Psychology research in grad school.</p>
+<p>In her free time, Auburn is a Math Instructor at <a href="http://www.mathnasium.com/statecollege/our-team">Mathnasium</a>, a tutoring center that focuses on instructing students in grades 2 through 12.</p>
+</div>
+<div id="hifzah-malik-undergraduate-student" class="section level3">
+<h3>Hifzah Malik, Undergraduate Student</h3>
+<p>Hifzah is a junior majoring in BioBehavioral Health and is minoring in Psychology at Pennsylvania State University. She plans on going to PA school after graduation to become a physician assistant.</p>
+<p>Other than social science, she also spends her time taking part in the <a href="https://www.shesthefirst.org/campus-chapters/">She’s the First</a> club which focuses on fundraising money to provide education for girls in third world countries.</p>
+</div>
+<div id="michael-oneill-undergraduate-student" class="section level3">
+<h3>Michael O’Neill, Undergraduate Student</h3>
+<p>Michael grew up in State College, PA and graduated from State College Area High School in May 2013. He is currently enrolled at Penn State University, double majoring in Psychology and Communication: Arts and Sciences as an undergrad. He plans to graduate in 2017.</p>
+<p>Michael is interested in building his skills in a lab setting, and using said skills to benefit the field of psychology as well as his peers.</p>
+</div>
+<div id="alyssa-pandos-undergraduate-student" class="section level3">
+<h3>Alyssa Pandos, Undergraduate Student</h3>
+<p>Alyssa is an undergraduate student pursuing a degree in Psychology with a concentration in Neuroscience and a minor in Biology. She plans on graduating in the spring of 2018. After graduation, her ultimate goal is to further her education by obtaining a PhD in a field of Neuroscience or Neuropsychology.</p>
+</div>
+<div id="shivani-patel-undergraduate-student" class="section level3">
+<h3>Shivani Patel, Undergraduate Student</h3>
+<p>Shivani Patel is an undergraduate student majoring in Biological Genetics and minoring in Psychology at Pennsylvania State University. She plans to attend medical school after graduation and become a pediatrician. For the summer of 2015, she plans to attend a medical ashram in India where she will explore different fields in medicine, while volunteering at blood and eye banks.</p>
+</div>
+<div id="katie-torres-undergraduate-student" class="section level3">
+<h3>Katie Torres, Undergraduate Student</h3>
+<p>Katie Torres is a Senior majoring in Social Psychology in the <a href="http://psych.la.psu.edu/graduate/program-areas/social">Penn State Social Psychology Department</a>, intending to graduate in spring of 2017. She intends to continue her education in grad school to be a Personality Analyst.</p>
+<p>Katie has been a <a href="http://sites.psu.edu/clubsports/clubs/powerlifting/">Power Lifter</a> for two years and plans on getting certified in personal training. In her free time she enjoys doing yoga and meditating.</p>
+</div>
+<div id="raya-willoughby-undergraduate-student" class="section level3">
+<h3>Raya Willoughby, Undergraduate Student</h3>
+<p>Raya is a Psychology major with a concentration in Neuroscience and plans to graduate in 2018. Her long term plans include earning her PhD in Psychology and ultimately going into the field of research. She hopes to combine her love for the field with her love for working with kids by specializing in Autism research.</p>
+<p>Raya has been an internationally competitive figure skater for 15 years. She coaches figure skating and hockey private lessons and group lessons at <a href="http://www.gopsusports.com/pegula-ice-arena/">Pegula Ice Arena</a> and she also <a href="http://onwardstate.com/2016/01/27/video-the-penn-state-figuring-skating-team-glides-to-success/">Penn State Figure Skating Team’s</a> THON Chair.</p>
+</div>
+</div>
+<div id="recent-alumni" class="section level2">
+<h2>Recent Alumni</h2>
+<ul>
+<li>Michelle Shade</li>
+<li>Sam Pai</li>
+<li>Jun Oh, Apprentice Ruby on Rails Developer, Launch Academy, Inc.</li>
+<li>Amanda Thomas, Postdoctoral researcher, Swarthmore</li>
+<li>William Adamiak, NIH IRTA</li>
+<li>Shivam Vedak, Medical student</li>
+<li>Dan Elbich, Graduate student, Penn State</li>
+<li>Jeremy Fesi, Ph.D., Postdoctoral Scientist, CUNY</li>
+<li>Lorena Gonzalez, Graduate student, Penn State</li>
+<li>Ricky Groner, IT Support Specialist, Huck Institutes of the Life Sciences, Penn State</li>
+<li>Ken Hwang, Consultant, Anexinet</li>
+<li>Matthew Lee, MBA student, Penn State</li>
+<li>Patricia Jones, Optometry student, Pennsylvania College of Optometry</li>
+</ul>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+$(document).ready(function () {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

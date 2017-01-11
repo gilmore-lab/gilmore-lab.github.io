@@ -1,0 +1,25 @@
+name: "Gilmore Lab"
+navbar:
+  title: "Gilmore Lab"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Research"
+      href: research.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Parents"
+      href: parents.html
+    - text: "Participants"
+      href: participants.html
+    - text: "Students"
+      href: students.html
+    - text: "Site info"
+      href: site-info.html
+output_dir: "."
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
