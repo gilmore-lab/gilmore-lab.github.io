@@ -16,6 +16,8 @@ navbar:
       href: participants.html
     - text: "Students"
       href: students.html
+    - text: "Lab mtgs"
+      href: lab-meetings.html
     - text: "Site info"
       href: site-info.html
 output_dir: "."
