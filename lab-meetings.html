@@ -19,12 +19,11 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
-<link rel="stylesheet"
-      href="site_libs/highlight/textmate.css"
-      type="text/css" />
-<script src="site_libs/highlight/highlight.js"></script>
 <style type="text/css">
   pre:not([class]) {
     background-color: white;
@@ -151,7 +150,6 @@ $(document).ready(function () {
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
-<script src="site_libs/navigation-1.1/tabsets.js"></script>
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
@@ -223,12 +221,18 @@ $(document).ready(function () {
 <div id="lab-meetings" class="section level1">
 <h1>Lab Meetings</h1>
 <p>For the Spring 2017 Semester, our meeting will be at <strong>8:00 am</strong> every <strong>Tuesday</strong> in room <strong>444 Moore</strong>.</p>
+<div id="goals-for-the-term" class="section level2">
+<h2>Goals for the term</h2>
+<ul>
+<li>Learn R and R Markdown</li>
+</ul>
+</div>
 <div id="next-meeting-january-17-2017" class="section level2">
 <h2>Next Meeting: January 17, 2017</h2>
-</div>
-<div id="goals" class="section level2">
-<h2>Goals</h2>
-<p>Learn R Markdown to enable the conversion of our current lab website from python to R markdown</p>
+<ul>
+<li>Read and discuss: Munafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Sert, N. P. du, … Ioannidis, J. P. A. (2017). A manifesto for reproducible science. Nature Human Behaviour, 1, 0021. <a href="https://doi.org/10.1038/s41562-016-0021" class="uri">https://doi.org/10.1038/s41562-016-0021</a>.</li>
+<li>Discuss plan for learning R and R Markdown using DataCamp courses.</li>
+</ul>
 </div>
 <div id="lab-meeting-minutes" class="section level2">
 <h2>Lab Meeting Minutes</h2>
@@ -244,10 +248,12 @@ $(document).ready(function () {
 <ul>
 <li>Training Videos</li>
 <li>Mini projects</li>
-<li>Ultimate goal: Convert current lab website to R Markdown</li>
+<li>Ultimate goal: Convert current lab website to R Markdown<br />
+</li>
 </ul></li>
 </ul></li>
 </ul></li>
+<li>Remember to check the Slack channel: <a href="http://gilmore-lab.slack.com" class="uri">http://gilmore-lab.slack.com</a></li>
 </ul>
 </div>
 <div id="fall-2016" class="section level2">
@@ -854,8 +860,11 @@ Send all Certificates of Completion to the lab gmail account
 <script>
 
 // add bootstrap table styles to pandoc tables
-$(document).ready(function () {
+function bootstrapStylePandocTables() {
   $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
 });
 
 

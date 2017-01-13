@@ -10,7 +10,7 @@ The Gilmore Lab in the [Psychology Department](http://psych.la.psu.edu) at [Penn
 
 ## Active Projects
 
-We have several active projects related to visual perception and open science that are described [here](pages/research.html). You can also get a taste of what we do by visiting the <a href="https://databrary.org">Databrary</a> digital data library, specifically the page devoted to <a href="https://databrary.org/party/6">our research</a>.
+We have several active projects related to visual perception and open science that are described [here](research.html). You can also get a taste of what we do by visiting the <a href="https://databrary.org">Databrary</a> digital data library, specifically the page devoted to <a href="https://databrary.org/party/6">our research</a>.
 
 ## Contact Information
 
