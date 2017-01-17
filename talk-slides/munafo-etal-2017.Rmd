@@ -50,7 +50,7 @@ Munafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., 
 ## Is psychological science underpowered?
 
 - Button, K. S., Ioannidis, J. P. A., Mokrysz, C., Nosek, B. A., Flint, J., Robinson, E. S. J., & Munafò, M. R. (2013). Power failure: why small sample size undermines the reliability of neuroscience. Nature Reviews Neuroscience, 14(5), 365–376. <https://doi.org/10.1038/nrn3475>
--Ioannidis, J. P. A. (2005). Why Most Published Research Findings Are False. PLOS Medicine, 2(8), e124. <https://doi.org/10.1371/journal.pmed.0020124>
+- Ioannidis, J. P. A. (2005). Why Most Published Research Findings Are False. PLOS Medicine, 2(8), e124. <https://doi.org/10.1371/journal.pmed.0020124>
 
 ## Is psychological science underpowered?
 
