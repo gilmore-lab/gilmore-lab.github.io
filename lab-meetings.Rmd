@@ -10,17 +10,26 @@ For the Spring 2017 Semester, our meeting will be at **8:00 am** every **Tuesday
 
 - Learn R and R Markdown
 
-## Next Meeting: January 17, 2017
- 
-- Read and discuss: Munafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Sert, N. P. du, … Ioannidis, J. P. A. (2017). A manifesto for reproducible science. Nature Human Behaviour, 1, 0021. <https://doi.org/10.1038/s41562-016-0021>.
-    - Slides. [HTML](talk-slides/munafo-etal-2017.html). [Rmd](talk-slides/munafo-etal-2017.Rmd)
-- Discuss plan for learning R and R Markdown using [DataCamp](http://www.datacamp.com) courses.
-    + Sign-up link: <https://www.datacamp.com/groups/1b7b16b432bbc53dc4edfe34923406705194b3e7/invite>
+## Next Meeting: January 24, 2017
 
 ## Spring 2017 Lab Meeting Minutes
 
+- 2017-01-24
+    + Check-in on DataCamp
+    + Side-by-side evaluation of [Zotero] vs. [PaperPile](https://paperpile.com/)
+    + Project-by-project workflow review
+        + [Symmetry sorting](https://github.com/gilmore-lab/symmetry-sorting)
+        + [Infant moco](https://github.com/gilmore-lab/moco)
+        + [Child moco behavior](https://github.com/gilmore-lab/moco-3-pattern-psychophysics)
+        + [Child motion form (MOFO)](https://github.com/gilmore-lab/child-motion-form) vs. [This](https://github.com/gilmore-lab/mofo)
+    + Compare to <http://psu-psychology.github.io/psy-511-reproducible-research-spring-2017/in-class-activities/2017-01-23.html#22>
+- 2017-01-17
+    - Read and discuss: Munafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Sert, N. P. du, … Ioannidis, J. P. A. (2017). A manifesto for reproducible science. Nature Human Behaviour, 1, 0021. <https://doi.org/10.1038/s41562-016-0021>.
+        - Slides. [HTML](talk-slides/munafo-etal-2017.html). [Rmd](talk-slides/munafo-etal-2017.Rmd)
+    - Discuss plan for learning R and R Markdown using [DataCamp](http://www.datacamp.com) courses.
+        + Sign-up link: <https://www.datacamp.com/groups/1b7b16b432bbc53dc4edfe34923406705194b3e7/invite>
 - 2017-01-10
-	+ Attending -
+	+ Attending
 	+ Agenda
 		* Complete Forms for Credit
 		* Ensure all training is complete
