@@ -10,7 +10,12 @@ For the Spring 2017 Semester, our meeting will be at **8:00 am** every **Tuesday
 
 - Learn R and R Markdown
 
-## Next Meeting: January 24, 2017
+## Next Meeting: January 31, 2017
+
+- Watch & discuss: <https://youtu.be/NGFO0kdbZmk>
+- Discuss preregistration
+    + Read: Chambers, C., Munafò, M., & signatories, more than 80. (2013, June 5). Trust in science would be improved by study pre-registration. The Guardian. Retrieved from <https://www.theguardian.com/science/blog/2013/jun/05/trust-in-science-study-pre-registration>
+    + Read: Frank, M. (2016, July 22). Preregister everything. <http://babieslearninglanguage.blogspot.com/2016/07/preregister-everything.html>
 
 ## Spring 2017 Lab Meeting Minutes
 
