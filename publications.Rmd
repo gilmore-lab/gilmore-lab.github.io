@@ -148,6 +148,14 @@ London: U.K. MRC Cognitive Development Unit.
 
 # Invited Talks
 
+Gilmore, R.O. (2017, January 31). An -ome of our own: Toward a more reproducible, robust, and insightful science of human behavior. Talk given to the Social Data Analytics (SoDA) 501 students. Penn State University. [HTML slides](http://gilmore-lab.github.io/soda-2017-01-31)
+
+Gilmore, R.O. (2016, October). The future of big data in developmental science. Talk given at a meeting of the Penn State Child Study Center (CSC) faculty. [HTML slides](http://rawgit.com/gilmore-lab/psu-child-study-ctr-talk-2016-10-28/master/gilmore-csc-talk.html).
+
+Gilmore, R.O. (2016, September). Donald Rumsfeld and the promise of a 'big data' science of human behavior. Talk given at a meeting of the Stochastic Modeling and Computational Statistics (SMACS) group, Department of Statistics. [HTML slides](https://rawgit.com/gilmore-lab/psu-stats-smacs-2016-talk/master/gilmore-smacs-2016-09-02.html).
+
+Gilmore, R.O., Adolph, K.E., & Millman, D. (2016, May). Video doesn't lie: Reproducible workflows with Databrary. Talk given at the NYU Data Science Center [Symposium on Reproducibility](https://reproduciblescience.org/nyu/events/reproducibility-symposium-2016/schedule/). [HTML slides](https://rawgit.com/databrary/presentations/master/nyu-data-science-reproducibility-16/be-bold.html#1)
+
 Gilmore, R.O. (2015, September). Experience matters: Measuring the microstructure of visual experience to better understand perceptual development. PSU Developmental Area Proseminar. [HTML](https://rawgit.com/psu-psychology/developmental/master/prosem/2015-09-16-gilmore/dev-prosem-2015-09-16.html). [Markdown](https://github.com/psu-psychology/developmental/blob/master/prosem/2015-09-16-gilmore/dev-prosem-2015-09-16.Rmd).
 
 Gilmore, R.O. (2015, September). Open science practices have made my research better. PSU Cognitive Psychology Area Brown Bag. [HTML](https://rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/cog-bbag-2015-09-09.html). [Markdown](https://github.com/psu-psychology/cognitive/blob/master/brown-bag/2015-09-09-gilmore/cog-bbag-2015-09-09.Rmd).
