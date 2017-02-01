@@ -8,6 +8,8 @@ Johnson, M.H., Munakata, Y., & Gilmore, R.O. (2002). *Brain development and cogn
 
 ## Peer-reviewed Articles
 
+Gilmore, R.O., Diaz, M.T., Wyble, B.A., & Yarkoni, T. (in press). Progress toward openness, transparency, and reproducibility in cognitive neuroscience. *Annals of the New York Academy of Sciences*.
+
 Gilmore, R.O., Adolph, K.E., & Millman, D.S. (2016). Curating identifiable data for sharing: The Databrary project. In Proceedings of the 2016 New York Scientific Data Summit. [PDF of paper](https://github.com/databrary/presentations/blob/master/nysds-2016/gilmore-adolph-millman-nysds-2016.pdf).
 
 Gilmore, R.O., Thomas, A.L., & Fesi, J.D (2016). Children's brain responses to optic flow vary by pattern type and motion speed. *PLoS ONE*. [doi: 10.1371/journal.pone.0157911](http://doi.org/10.1371/journal.pone.0157911). Materials on Databrary at [http://doi.org/10.17910/B7QG6W](http://doi.org/10.17910/B7QG6W).
