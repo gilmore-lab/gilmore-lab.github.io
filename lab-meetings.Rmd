@@ -10,18 +10,21 @@ For the Spring 2017 Semester, our meeting will be at **8:00 am** every **Tuesday
 
 - Learn R and R Markdown
 
-## Next Meeting: January 31, 2017
+## Next Meeting: February 6, 2017
 
-- Watch & discuss this video: <https://youtu.be/NGFO0kdbZmk>
-- Discuss preregistration
-    + Read: Chambers, C., Munafò, M., & signatories, more than 80. (2013, June 5). Trust in science would be improved by study pre-registration. The Guardian. Retrieved from <https://www.theguardian.com/science/blog/2013/jun/05/trust-in-science-study-pre-registration>
-    + Read: Frank, M. (2016, July 22). Preregister everything. <http://babieslearninglanguage.blogspot.com/2016/07/preregister-everything.html>.
+- Read and discuss <https://aeon.co/essays/how-cognitive-maps-help-animals-navigate-the-world>
+- Plan for using <http://alias.libraries.psu.edu/ERESOURCES/PSU01568> to collect and visualize some data for the PLAY project
 - AAC study
     + Recruiting opportunity
     + Add to our website
 
 ## Spring 2017 Lab Meeting Minutes
 
+- 2017-01-31
+    - Watch & discuss this video: <https://youtu.be/NGFO0kdbZmk>
+    - Discuss preregistration
+          + Read: Chambers, C., Munafò, M., & signatories, more than 80. (2013, June 5). Trust in science would be improved by study pre-registration. The Guardian. Retrieved from <https://www.theguardian.com/science/blog/2013/jun/05/trust-in-science-study-pre-registration>
+          + Read: Frank, M. (2016, July 22). Preregister everything. <http://babieslearninglanguage.blogspot.com/2016/07/preregister-everything.html>.
 - 2017-01-24
     + Check-in on DataCamp
     + Side-by-side evaluation of [Zotero](http://www.zotero.org) vs. [PaperPile](https://paperpile.com/)
