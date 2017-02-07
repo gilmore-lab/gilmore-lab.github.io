@@ -12,15 +12,20 @@ For the Spring 2017 Semester, our meeting will be at **8:00 am** every **Tuesday
 
 ## Next Meeting: February 6, 2017
 
+- Katie's report on Paperpile
+- Reports on GitHub/Databrary dataset quality check for
+    + Infant MOCO
+    + Child Motion Form (MOFO)
+    + Child/Adult MOCO Behavio
+- Updates about PLAY project demographics
 - Read and discuss <https://aeon.co/essays/how-cognitive-maps-help-animals-navigate-the-world>
-- Plan for using <http://alias.libraries.psu.edu/ERESOURCES/PSU01568> to collect and visualize some data for the PLAY project
-- Katie's report on [Paperpile](http://paperpile.com)
-- AAC study
-    + Recruiting opportunity
-    + Add to our website
 
 ## Spring 2017 Lab Meeting Minutes
 
+- 2017-02-07
+    - Katie's report on [Paperpile](http://paperpile.com)
+        + Katie will demo its use on the RIDIR grant next week.
+    - Plan for using <http://alias.libraries.psu.edu/ERESOURCES/PSU01568> to collect and visualize some data for the PLAY project
 - 2017-01-31
     - Watch & discuss this video: <https://youtu.be/NGFO0kdbZmk>
     - Discuss preregistration
