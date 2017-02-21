@@ -10,18 +10,24 @@ For the Spring 2017 Semester, our meeting will be at **8:00 am** every **Tuesday
 
 - Learn R and R Markdown
 
-## Next Meeting: February 6, 2017
+## Next Meeting: February 28, 2017
 
 - Katie's report on Paperpile
 - Reports on GitHub/Databrary dataset quality check for
     + Infant MOCO
     + Child Motion Form (MOFO)
-    + Child/Adult MOCO Behavio
-- Updates about PLAY project demographics
+    + Child/Adult MOCO Behavior
 - Read and discuss <https://aeon.co/essays/how-cognitive-maps-help-animals-navigate-the-world>
 
 ## Spring 2017 Lab Meeting Minutes
 
+- 2017-02-21
+    - Updates about PLAY project demographics
+    - Discuss GitHub/Databrary dataset quality check for
+        + Infant MOCO
+        + Child Motion Form (MOFO)
+        + Child/Adult MOCO Behavior
+    - Discuss [WordBank](http://wordbank.stanford.edu)
 - 2017-02-07
     - Katie's report on [Paperpile](http://paperpile.com)
         + Katie will demo its use on the RIDIR grant next week.
