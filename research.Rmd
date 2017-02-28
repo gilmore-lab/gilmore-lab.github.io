@@ -21,6 +21,7 @@ infants and mothers. *Neural Computation*, *26*(11), 2652-2668. [doi:10.1162/NEC
 
 **Presentations**
 
+- Gilmore, R.O. (2017, February). Go with the flow: The development of behavioral sensitivity and brain responses to optic flow. Talk at Temple University. [HTML slides](http://gilmore-lab.github.io/temple-2017-02-27). [Markdown](https://github.com/gilmore-lab/temple-2017-02-27/blob/master/index.md).
 - Gilmore, R.O., Fared, D.A., Dexheimer, M.G., & Seisler, A.R. (2016, November). The appearance and disappearance of visual forms defined by differential motion evokes distinctive EEG responses in school-age children. Presentation at the Society for Neuroscience meeting in San Diego, CA. [PDF](https://github.com/gilmore-lab/child-motion-form/blob/master/pubs/sfn-16-poster/poster_landscape.pdf).
 - Gilmore, R.O. (2016, October). Go with the flow: The development of behavioral sensitivity and brain responses to optic flow. Talk at the Penn State Action club meeting. [HTML slides](http://rawgit.com/gilmore-lab/psu-action-club-2016-10-28/master/gilmore-action-club.html).
 - Jayaraman, S., Gilmore, R.O., & Raudies, F. (2016, May). Changes in early optic flow experiences across development and culture. Talk at the International Congress on Infant Studies (ICIS) in New Orleans, LA. [HTML slides](https://rawgit.com/gilmore-lab/ICIS-2016-New-Orleans/master/jayaraman-gilmore-raudies-ICIS-2016.html).
