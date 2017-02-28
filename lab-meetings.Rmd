@@ -10,17 +10,20 @@ For the Spring 2017 Semester, our meeting will be at **8:00 am** every **Tuesday
 
 - Learn R and R Markdown
 
-## Next Meeting: February 28, 2017
+## Next Meeting: March 14, 2017
 
 - Katie's report on Paperpile
-- Reports on GitHub/Databrary dataset quality check for
-    + Infant MOCO
-    + Child Motion Form (MOFO)
-    + Child/Adult MOCO Behavior
-- Read and discuss <https://aeon.co/essays/how-cognitive-maps-help-animals-navigate-the-world>
+- Read and discuss (Rick, Daved, Michael leads)
+    + Warren, W. H. (2009). How do animals get about by vision? Visually controlled locomotion and orientation after 50 years. British Journal of Psychology, 100(S1), 277–281. <https://doi.org/10.1348/000712609X414150>
+- No meeting 2017-03-21
 
 ## Spring 2017 Lab Meeting Minutes
 
+- 2017-02-28
+    - Reports on GitHub/Databrary dataset quality check for
+      + Child Motion Form (MOFO)
+      + Child/Adult MOCO Behavior
+    - Read and discuss <https://aeon.co/essays/how-cognitive-maps-help-animals-navigate-the-world>
 - 2017-02-21
     - Updates about PLAY project demographics
     - Discuss GitHub/Databrary dataset quality check for
