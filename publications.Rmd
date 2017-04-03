@@ -150,6 +150,8 @@ London: U.K. MRC Cognitive Development Unit.
 
 # Invited Talks
 
+Gilmore, R.O. (2017, April). Go with the flow: Babies, brains, behavior, and open science. Talk at the Undergraduate Research in Science & Engineering (URISE) meeting. [HTML slides](http://gilmore-lab.github.io/urise-2017-03-30)
+
 Gilmore, R.O. (2017, February). Go with the flow: The development of behavioral sensitivity and brain responses to optic flow. Talk at Temple University. [HTML slides](http://gilmore-lab.github.io/temple-2017-02-27). [Markdown](https://github.com/gilmore-lab/temple-2017-02-27/blob/master/index.md).
 
 Gilmore, R.O. (2017, January 31). An -ome of our own: Toward a more reproducible, robust, and insightful science of human behavior. Talk given to the Social Data Analytics (SoDA) 501 students. Penn State University. [HTML slides](http://gilmore-lab.github.io/soda-2017-01-31)
