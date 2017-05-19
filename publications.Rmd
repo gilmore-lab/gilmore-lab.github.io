@@ -8,6 +8,8 @@ Johnson, M.H., Munakata, Y., & Gilmore, R.O. (2002). *Brain development and cogn
 
 ## Peer-reviewed Articles
 
+Gilmore, R.O. & Adolph, K.E. (in press). Video can make behavioural science more reproducible. *Nature Human Behaviour*.
+
 Gilmore, R.O., Diaz, M.T., Wyble, B.A., & Yarkoni, T. (2017). Progress toward openness, transparency, and reproducibility in cognitive neuroscience. *Annals of the New York Academy of Sciences*. [doi: 10.1111/nyas.13325](http://doi.org/10.1111/nyas.13325).
 
 Gilmore, R.O., Adolph, K.E., & Millman, D.S. (2016). Curating identifiable data for sharing: The Databrary project. In Proceedings of the 2016 New York Scientific Data Summit. [doi: 10.1109/NYSDS.2016.7747817](https://doi.org/10.1109/NYSDS.2016.7747817)
@@ -100,17 +102,14 @@ Gilmore, R.O. (2003). Where are they going? The perception of
 information about visual direction in young infants. In B. Hopkins &
 S.P. Johnson (Eds.), *Neurobiology of Infant Vision, Advances in Infancy Research*. Westport, CT: Praeger Publishers. 181-210.
 
-Gilmore, R.O. (2003). Toward a neuropsychology of visual development. In
-S. J. Segalowitz & I. Rapin (Eds.), *Handbook of Neuropsychology (2nd Ed.)*, Vol 8., Part II: Child Neuropsychology. Amsterdam: Elsevier
-Science. 417-437.
+Gilmore, R.O. (2003). Toward a neuropsychology of visual development. In S. J. Segalowitz & I. Rapin (Eds.), *Handbook of Neuropsychology (2nd Ed.)*, Vol 8., Part II: Child Neuropsychology. Amsterdam: Elsevier Science. 417-437.
 
 Gilmore, R.O. (2000). The development of representations for
 perception and action. In J.G. Warhol, N. Fox, & L. Leavitt, (Eds.),
 *The Role of Early Experience in Infant Development: Johnson & Johnson Pediatric Roundtable Series*.
 
 Johnson, M.H., & Gilmore, R.O. (2000). Infancy: Biological
-processes, in A. Kazdin (Ed.), *Encyclopedia of Psychology*. Washington,
-DC: APA Press.
+processes, in A. Kazdin (Ed.), *Encyclopedia of Psychology*. Washington, DC: APA Press.
 
 Gilmore, R.O., & Johnson, M.H. (1998). Learning what is where:
 Oculomotor constraints on the development of spatial cognition. In G.
