@@ -4,6 +4,48 @@ Title: research
 
 # Active Projects
 
+<img src="http://databrary.org/theme/img/logo/databrary.png">
+
+The [Databrary Project ](http://databrary.org) aims to increase scientific transparency and accelerate discovery in developmental science by building the infrastructure for researchers to share video data and related meta-data. The project has five specific aims:
+
+- Create a web-based [data library](http://databrary.org) for sharing and preserving video data and associated meta-data.
+- Create participant and contributor/user standards that enable open sharing of video data while limiting access to authorized users to ensure participant confidentiality.
+- Expand the free, open source video coding software, [Datavyu](http://datavyu.org) to enable coding, exploring, and analyzing video data.
+- Build a data management system to support data sharing within labs, among collaborators, and in the Databrary repository.
+- Transform the culture of developmental science by building a community of researchers committed to open video data sharing.
+
+Databrary is an [open-source](http://github.com/databrary) software project. Penn State is one of the major "nodes", with a large number of authorized users.
+
+**Publications**
+
+- Gilmore, R.O. & Adolph, K.E. (in press). Video can make behavioural science more reproducible. *Nature Human Behaviour*.
+- Gilmore, R.O., Diaz, M.T., Wyble, B.A., & Yarkoni, T. (2017). Progress toward openness, transparency, and reproducibility in cognitive neuroscience. *Annals of the New York Academy of Sciences*. [doi: 10.1111/nyas.13325](http://doi.org/10.1111/nyas.13325)
+- Gilmore, R.O., & Adolph, K.E. (2017, February 6). Video can make science more open, transparent, robust, and reproducible. Retrieved from <http://osf.io/3kvp7>.
+- Gilmore, R.O., & Adolph, K.E. (in press). Open sharing of research video: Breaking the boundaries of the research team, in *Advancing Social and Behavioral Health Research through Cross-disciplinary Team Science: Principles for Success*. Hall, Kara, Croyle, R., & Vogel, A. (Eds.). Springer.
+- Gilmore, R.O., Adolph, K.E., Millman, D.S. (2016). Curating identifiable data for sharing: The Databrary project. In Proceedings of the 2016 New York Scientific Data Summit. [PDF of paper](https://github.com/databrary/presentations/blob/master/nysds-2016/gilmore-adolph-millman-nysds-2016.pdf).
+- Gilmore, R.O., Adolph, K.E., Millman, D.S., & Gordon, A. (2016). Transforming education research through open video data sharing. *Advances in Engineering Education*, *5*(2). [HTML](http://advances.asee.org/publication/transforming-education-research-through-open-video-data-sharing/).
+- Gilmore, R.O. (2016). From big data to deep insight in developmental science. *Wiley Interdisciplinary Reviews Cognitive Science*. [DOI: 10.1002/wcs.1379](http://doi.org/10.1001/wcs.1379).
+- Gordon, A., Millman, D.S., Steiger, L., Adolph, K.E., & Gilmore, R.O. (2015). Researcher-library collaborations: Data repositories as a service for researchers. *Journal of Librarianship and Scholarly Communication*. [doi:10.7710/2162-3309.1238](http://dx.doi.org/10.7710/2162-3309.1238).
+- Adolph, K.E., Gilmore, R.O., Freeman, C., Sanderson, P., & Millman, D. (2012). Toward Open Behavioral Science, *Psychological Inquiry: An International Journal for the Advancement of Psychological Theory*, *23*(3), 244-247. [doi:10.1080/1047840X.2012.705133](http://dx.doi.org/10.1080/1047840X.2012.705133).
+
+**Presentations**
+
+- Gilmore, R.O. (2017, February 22). A Databservatory for human behavior. Talk given at the Cognitive Area Brown Bag. [HTML slides](https://gilmore-lab.github.io/cog-bbag-talk-2017-02-22).
+- Gilmore, R.O. (2017, January 31). An -ome of our own: Toward a more reproducible, robust, and insightful science of human behavior. Talk given to the Social Data Analytics (SoDA) 501 students. Penn State University. [HTML slides](http://gilmore-lab.github.io/soda-2017-01-31)
+- Gilmore, R.O. (2016, October). The future of big data in developmental science. Talk given at a meeting of the Penn State Child Study Center (CSC) faculty. [HTML slides](http://rawgit.com/gilmore-lab/psu-child-study-ctr-talk-2016-10-28/master/gilmore-csc-talk.html).
+- Gilmore, R.O. (2016, September). Donald Rumsfeld and the promise of a 'big data' science of human behavior. Talk given at a meeting of the Stochastic Modeling and Computational Statistics (SMACS) group, Department of Statistics. [HTML slides](https://rawgit.com/gilmore-lab/psu-stats-smacs-2016-talk/master/gilmore-smacs-2016-09-02.html).
+- Gilmore, R.O., Adolph, K.E., & Millman, D.S. (2016, August). Curating identifiable data for sharing: The Databrary project. In Proceedings of the 2016 New York Scientific Data Summit. [HTML slides](https://rawgit.com/databrary/presentations/master/nysds-2016/gilmore-nysds-2016.html). [PDF of paper](https://github.com/databrary/presentations/blob/master/nysds-2016/gilmore-adolph-millman-nysds-2016.pdf).
+- Gilmore, R.O., Adolph, K.E., & Millman, D. (2016, May). Video doesn't lie: Reproducible workflows with Databrary. Talk given at the NYU Data Science Center [Symposium on Reproducibility](https://reproduciblescience.org/nyu/events/reproducibility-symposium-2016/schedule/). [HTML slides](https://rawgit.com/databrary/presentations/master/nyu-data-science-reproducibility-16/be-bold.html#1)
+- Gilmore, R.O., Adolph, K.E., Millman, D.S., Steiger, L., & Simon, D.A. (2015, May). Sharing displays and data from vision science research with Databrary. Poster presented at the Vision Sciences Society meeting, St. Pete Beach, FL. [PDF](../pdfs/gilmore-etal-vss-2015.pdf).
+
+**Collaborators**
+
+- Karen Adolph, New York University, Co-Principal Investigator and Project Director
+- David Millman, New York University, Co-Investigator.
+
+**Support**
+
+This project is supported by the U.S. National Science Foundation (NSF) Grant No. [BCS-1238599](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1238599) and the Eunice Kennedy Shriver National Institute of Child Health and Human Development under Cooperative Agreement [1-U01-HD-076595-01](http://projectreporter.nih.gov/project_info_description.cfm?aid=8531595&amp;icde=15908155&amp;ddparam=&amp;ddvalue=&amp;ddsub=&amp;cr=1&amp;csb=default&amp;cs=ASC).
 ## Developmental Dynamics of Optic Flow Processing
 
 ![Brain activity](images/fesi-2014.jpg) ![Optic flow](images/optic-flow.jpg)
@@ -73,48 +115,6 @@ The ability to sense regular or near-regular patterns serves critical biological
 
 This project is supported by the National Science Foundation under grant [IIS-1248076](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1248076).
 
-<img src="http://databrary.org/theme/img/logo/databrary.png">
-
-The [Databrary Project ](http://databrary.org) aims to increase scientific transparency and accelerate discovery in developmental science by building the infrastructure for researchers to share video data and related meta-data. The project has five specific aims:
-
-- Create a web-based [data library](http://databrary.org) for sharing and preserving video data and associated meta-data.
-- Create participant and contributor/user standards that enable open sharing of video data while limiting access to authorized users to ensure participant confidentiality.
-- Expand the free, open source video coding software, [Datavyu](http://datavyu.org) to enable coding, exploring, and analyzing video data.
-- Build a data management system to support data sharing within labs, among collaborators, and in the Databrary repository.
-- Transform the culture of developmental science by building a community of researchers committed to open video data sharing.
-
-Databrary is an [open-source](http://github.com/databrary) software project. Penn State is one of the major "nodes", with a large number of authorized users.
-
-**Publications**
-
-- Gilmore, R.O., Diaz, M.T., Wyble, B.A., & Yarkoni, T. (2017). Progress toward openness, transparency, and reproducibility in cognitive neuroscience. *Annals of the New York Academy of Sciences*. [doi: 10.1111/nyas.13325](http://doi.org/10.1111/nyas.13325)
-- Gilmore, R.O., & Adolph, K.E. (2017, February 6). Video can make science more open, transparent, robust, and reproducible. Retrieved from <http://osf.io/3kvp7>.
-- Gilmore, R.O., & Adolph, K.E. (in press). Open sharing of research video: Breaking the boundaries of the research team, in *Advancing Social and Behavioral Health Research through Cross-disciplinary Team Science: Principles for Success*. Hall, Kara, Croyle, R., & Vogel, A. (Eds.). Springer.
-- Gilmore, R.O., Adolph, K.E., & Millman, D.S. (2016). Curating identifiable data for sharing: The Databrary project. In Proceedings of the 2016 New York Scientific Data Summit. [PDF of paper](https://github.com/databrary/presentations/blob/master/nysds-2016/gilmore-adolph-millman-nysds-2016.pdf).
-- Gilmore, R.O., Adolph, K.E., & Millman, D.S. (2016). Transforming education research through open video data sharing. *Advances in Engineering Education*, *5*(2). [HTML](http://advances.asee.org/publication/transforming-education-research-through-open-video-data-sharing/).
-- Gilmore, R.O. (2016). From big data to deep insight in developmental science. *Wiley Interdisciplinary Reviews Cognitive Science*. [DOI: 10.1002/wcs.1379](http://doi.org/10.1001/wcs.1379).
-- Gordon, A., Millman, D.S., Steiger, L., Adolph, K.E., & Gilmore, R.O. (2015). Researcher-library collaborations: Data repositories as a service for researchers. *Journal of Librarianship and Scholarly Communication*. [doi:10.7710/2162-3309.1238](http://dx.doi.org/10.7710/2162-3309.1238).
-- Adolph, K.E., Gilmore, R.O., Freeman, C., Sanderson, P., & Millman, D. (2012). Toward Open Behavioral Science, *Psychological Inquiry: An International Journal for the Advancement of Psychological Theory*, *23*(3), 244-247. [doi:10.1080/1047840X.2012.705133](http://dx.doi.org/10.1080/1047840X.2012.705133).
-
-**Presentations**
-
-- Gilmore, R.O. (2017, February 22). A Databservatory for human behavior. Talk given at the Cognitive Area Brown Bag. [HTML slides](https://gilmore-lab.github.io/cog-bbag-talk-2017-02-22).
-- Gilmore, R.O. (2017, January 31). An -ome of our own: Toward a more reproducible, robust, and insightful science of human behavior. Talk given to the Social Data Analytics (SoDA) 501 students. Penn State University. [HTML slides](http://gilmore-lab.github.io/soda-2017-01-31)
-- Gilmore, R.O. (2016, October). The future of big data in developmental science. Talk given at a meeting of the Penn State Child Study Center (CSC) faculty. [HTML slides](http://rawgit.com/gilmore-lab/psu-child-study-ctr-talk-2016-10-28/master/gilmore-csc-talk.html).
-- Gilmore, R.O. (2016, September). Donald Rumsfeld and the promise of a 'big data' science of human behavior. Talk given at a meeting of the Stochastic Modeling and Computational Statistics (SMACS) group, Department of Statistics. [HTML slides](https://rawgit.com/gilmore-lab/psu-stats-smacs-2016-talk/master/gilmore-smacs-2016-09-02.html).
-- Gilmore, R.O., Adolph, K.E., & Millman, D.S. (2016, August). Curating identifiable data for sharing: The Databrary project. In Proceedings of the 2016 New York Scientific Data Summit. [HTML slides](https://rawgit.com/databrary/presentations/master/nysds-2016/gilmore-nysds-2016.html). [PDF of paper](https://github.com/databrary/presentations/blob/master/nysds-2016/gilmore-adolph-millman-nysds-2016.pdf).
-- Gilmore, R.O., Adolph, K.E., & Millman, D. (2016, May). Video doesn't lie: Reproducible workflows with Databrary. Talk given at the NYU Data Science Center [Symposium on Reproducibility](https://reproduciblescience.org/nyu/events/reproducibility-symposium-2016/schedule/). [HTML slides](https://rawgit.com/databrary/presentations/master/nyu-data-science-reproducibility-16/be-bold.html#1)
-- Gilmore, R.O., Adolph, K.E., Millman, D.S., Steiger, L., & Simon, D.A. (2015, May). Sharing displays and data from vision science research with Databrary. Poster presented at the Vision Sciences Society meeting, St. Pete Beach, FL. [PDF](../pdfs/gilmore-etal-vss-2015.pdf).
-
-**Collaborators**
-
-- Karen Adolph, New York University, Co-Principal Investigator and Project Director
-- David Millman, New York University, Co-Investigator.
-
-**Support**
-
-This project is supported by the U.S. National Science Foundation (NSF) Grant No. [BCS-1238599](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1238599) and the Eunice Kennedy Shriver National Institute of Child Health and Human Development under Cooperative Agreement [1-U01-HD-076595-01](http://projectreporter.nih.gov/project_info_description.cfm?aid=8531595&amp;icde=15908155&amp;ddparam=&amp;ddvalue=&amp;ddsub=&amp;cr=1&amp;csb=default&amp;cs=ASC).
-
 ## The Proximal Emotional Environment Project (PEEP)
 
 A 5-year-old overhears her parents arguing loudly in the next room. She may not understand why they are arguing, but she realizes something is wrong because she perceives anger in their voices. Exposure to interpersonal conflict is consistently associated with less skillful emotion regulation in children although the mechanisms remain to be explained. Because inter-personal conflict is a heterogeneous phenomenon, investigation of the specific features of conflict that contribute to developmental pathways to emotional dysfunction and symptoms requires a process-oriented approach. In this project, we focus on brain responses to angry prosody in natural speech. We are studying young children’s neural processing of angry prosody, spoken by mothers and strangers, as a first step toward a future longitudinal study investigating how the neurocognitive processing of angry prosody mediates relations between conflict exposure in children and the development of anxiety- and anger-related symptoms.
@@ -135,3 +135,15 @@ This project has received support from the Penn State [Social Sciences Research 
 - [PEEP II repo on GitHub](https://github.com/gilmore-lab/peep-II).
 - [PEEP I repo on GitHub](https://github.com/gilmore-lab/PEEP-I).
 - [PEEP I stimuli on Databrary](https://nyu.databrary.org/volume/248)
+
+## Eye Tracking Technologies to Characterize and Optimize Visual Attending in Down Syndrome
+
+Down Syndrome (DS) is the most common known genetic origin of intellectual disability and has an estimated incidence of 1 in every 1000 live births. Such children face unique challenges as they enter into the school years, because the speech that was previously adequate for communication with familiar partners in supportive settings is often not sufficient for academic communication with unfamiliar partners. Indeed, 95% of parents surveyed reported that their children with DS had difficulty being understood by persons outside their immediate social circle (Kumin, 1994). This has significant implications for academic, social, and vocational success; children with limited language skills are at risk of falling behind nondisabled peers academically and experiencing social isolation. Secondary issues often arise when children experience frustration in communication, commonly in the form of challenging behaviors. All aspects of development are further compromised when these behaviors involve aggression toward others, have significant health implications when they are self-injurious, and exacerbate service costs when they necessitate extensive behavior management plans. Children with DS are in desperate need of communication interventions that provide them with the tools to succeed throughout the school years. One form of intervention is called aided augmentative and alternative communication (AAC). In typical clinical applications, aided AAC systems employ picture books, tablet-style computers that present the user with graphic symbols, and sometimes text or synthesized voice output. Because AAC relies on vision rather than sound/speech for access to the communication messages, it is critical to map out how children with DS examine and extract information from visual AAC displays. Otherwise there is the risk of implementing systems that are poorly matched to children's skills and needs, a practice that in turn results in limited use or abandonment of the system. Few current AAC designs consider the fit between the system and the visual processing skills of users, and most are uninformed by empirical knowledge about human visual information processing. Moreover, little is known about visual processing in persons with significant communication limitations associated with DS. This research aims to improve the design of AAC displays through characterization of visual attention patterns to different AAC displays and their effects on functional use. Eye tracking - rarely used in DS - will reveal attention patterns/processes that typically go unrecorded in behavioral research. Our three-phase program will begin with eye tracking studies of visual attention under largely non-social laboratory conditions. In the next phase, we will introduce social interactions and record gaze path using mobile eye tracking technology. In the final phase, we will translate the knowledge gained in the laboratory studies to optimize functional communication in individuals with DS in performing tasks that represent typical daily life activities.
+
+**Collaborators**
+
+- Krista Wilkinson, Penn State, PI
+
+**Support**
+
+The project is supported by NICHD under [R01HD083381-02](https://projectreporter.nih.gov/project_info_description.cfm?aid=9194421&icde=0).
