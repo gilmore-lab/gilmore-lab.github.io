@@ -10,9 +10,9 @@ Johnson, M.H., Munakata, Y., & Gilmore, R.O. (2002). *Brain development and cogn
 
 Gilmore, R.O. & Adolph, K.E. (in press). Video can make behavioural science more reproducible. *Nature Human Behaviour*. [doi:s41562-017-0128](http://doi.org/s41562-017-0128).
 
-Gilmore, R.O., Diaz, M.T., Wyble, B.A., & Yarkoni, T. (2017). Progress toward openness, transparency, and reproducibility in cognitive neuroscience. *Annals of the New York Academy of Sciences*. [doi: 10.1111/nyas.13325](http://doi.org/10.1111/nyas.13325).
+Gilmore, R.O., Diaz, M.T., Wyble, B.A., & Yarkoni, T. (2017). Progress toward openness, transparency, and reproducibility in cognitive neuroscience. *Annals of the New York Academy of Sciences*, 1396, 5–18. [doi: 10.1111/nyas.13325](http://doi.org/10.1111/nyas.13325).
 
-Gilmore, R.O., Adolph, K.E., & Millman, D.S. (2016). Curating identifiable data for sharing: The Databrary project. In Proceedings of the 2016 New York Scientific Data Summit. [doi: 10.1109/NYSDS.2016.7747817](https://doi.org/10.1109/NYSDS.2016.7747817)
+Gilmore, R.O., Adolph, K.E., & Millman, D.S. (2016). Curating identifiable data for sharing: The Databrary project. In Proceedings of the 2016 New York Scientific Data Summit. [doi: 10.1109/NYSDS.2016.7747817](https://doi.org/10.1109/NYSDS.2016.7747817).
 
 Gilmore, R.O., Thomas, A.L., & Fesi, J.D (2016). Children's brain responses to optic flow vary by pattern type and motion speed. *PLoS ONE*. [doi: 10.1371/journal.pone.0157911](http://doi.org/10.1371/journal.pone.0157911). Materials on Databrary at [http://doi.org/10.17910/B7QG6W](http://doi.org/10.17910/B7QG6W).
 
