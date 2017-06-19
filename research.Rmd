@@ -47,7 +47,7 @@ Databrary is an [open-source](http://github.com/databrary) software project. Pen
 
 **Support**
 
-This project is supported by the U.S. National Science Foundation (NSF) Grant No. [BCS-1238599](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1238599) and the Eunice Kennedy Shriver National Institute of Child Health and Human Development under Cooperative Agreement [1-U01-HD-076595-01](http://projectreporter.nih.gov/project_info_description.cfm?aid=8531595&amp;icde=15908155&amp;ddparam=&amp;ddvalue=&amp;ddsub=&amp;cr=1&amp;csb=default&amp;cs=ASC).
+This project is supported by the U.S. National Science Foundation (NSF) Grant No. [BCS-1238599](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1238599), the Eunice Kennedy Shriver National Institute of Child Health and Human Development under Cooperative Agreement [1-U01-HD-076595-01](http://projectreporter.nih.gov/project_info_description.cfm?aid=8531595&amp;icde=15908155&amp;ddparam=&amp;ddvalue=&amp;ddsub=&amp;cr=1&amp;csb=default&amp;cs=ASC), the Society for Research in Child Development, the LEGO Foundation, and the Alfred P. Sloan Foundation.
 
 ## Developmental Dynamics of Optic Flow Processing
 
