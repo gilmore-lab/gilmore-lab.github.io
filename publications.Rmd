@@ -131,6 +131,8 @@ London: U.K. MRC Cognitive Development Unit.
 
 # Invited Talks
 
+Gilmore, R.O. (2017, July 10). The reproducibility crisis in psychology & neuroscience. Talk given at the Penn State Data Reproducibility Bootcamp. [HTML slides](http://gilmore-lab.github.io/psu-data-repro-bootcamp-2017-07-10).
+
 Gilmore, R.O. (2017, April). Go with the flow: Babies, brains, behavior, and open science. Talk at the Undergraduate Research in Science & Engineering (URISE) meeting. [HTML slides](http://gilmore-lab.github.io/urise-2017-03-30)
 
 Gilmore, R.O. (2017, February). Go with the flow: The development of behavioral sensitivity and brain responses to optic flow. Talk at Temple University. [HTML slides](http://gilmore-lab.github.io/temple-2017-02-27). [Markdown](https://github.com/gilmore-lab/temple-2017-02-27/blob/master/index.md).
