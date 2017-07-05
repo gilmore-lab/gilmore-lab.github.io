@@ -18,7 +18,7 @@ Databrary is an [open-source](http://github.com/databrary) software project. Pen
 
 **Publications**
 
-- Gilmore, R.O. & Adolph, K.E. (in press). Video can make behavioural science more reproducible. *Nature Human Behaviour*. [doi:10.1038/s41562-017-0128](http://doi.org/10.1038/s41562-017-0128).
+- Gilmore, R.O. & Adolph, K.E. (2017). Video can make behavioural science more reproducible. *Nature Human Behaviour*. [doi:10.1038/s41562-017-0128](http://doi.org/10.1038/s41562-017-0128).
 - Gilmore, R.O., Diaz, M.T., Wyble, B.A., & Yarkoni, T. (2017). Progress toward openness, transparency, and reproducibility in cognitive neuroscience. *Annals of the New York Academy of Sciences*, 1396, 5–18. [doi: 10.1111/nyas.13325](http://doi.org/10.1111/nyas.13325).
 - Gilmore, R.O., & Adolph, K.E. (2017, February 6). Video can make science more open, transparent, robust, and reproducible. Retrieved from <http://osf.io/3kvp7>.
 - Gilmore, R.O., & Adolph, K.E. (in press). Open sharing of research video: Breaking the boundaries of the research team, in *Advancing Social and Behavioral Health Research through Cross-disciplinary Team Science: Principles for Success*. Hall, Kara, Croyle, R., & Vogel, A. (Eds.). Springer.
@@ -30,6 +30,7 @@ Databrary is an [open-source](http://github.com/databrary) software project. Pen
 
 **Presentations**
 
+- Gilmore, R.O. & Nilsonne, G. (2017, July 30). IRBs and the ethical sharing of research data. Talk given at the Society for Improving Psychological Science meeting. [HTML slides](http://gilmore-lab-github.io/sips-2017-07-30/). [OSF project](http://osf.io/9d5hr). 
 - Gilmore, R.O. (2017, July 10). The reproducibility crisis in psychology & neuroscience. Talk given at the Penn State Data Reproducibility Bootcamp. [HTML slides](http://gilmore-lab.github.io/psu-data-repro-bootcamp-2017-07-10/).
 - Adolph., K.E., Binion, G. Gilmore, R.O., Oakes, L., & Vazire, S. (2017, April 6). Openness, replication, & data reuse in developmental science – unique challenges, existing resources, & what is still needed. Invited roundtable at the Society for Research in Child Development meeting, Austin, TX.
 - Gilmore, R.O. (2017, February 22). A Databservatory for human behavior. Talk given at the Cognitive Area Brown Bag. [HTML slides](https://gilmore-lab.github.io/cog-bbag-talk-2017-02-22).
