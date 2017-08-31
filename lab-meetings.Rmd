@@ -4,7 +4,7 @@ Title: lab-meetings
 
 # Lab Meetings
 
-For the Fall 2017 Semester, our meeting date and time has not yet been determined. Check back soon!
+For the Fall 2017 Semester, our first meeting date and time will be **Thursday, August 31, 2017**.
 
 ## Goals
 
@@ -20,3 +20,14 @@ For the Fall 2017 Semester, our meeting date and time has not yet been determine
 - Cohen, M. X. (2017). Where Does EEG Come From and What Does It Mean? Trends in neurosciences, 40(4), 208–218. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.02.004
 
 ## Schedule
+
+### 2017-08-31
+
+- Agenda
+    - Meeting time
+    - Goals for the semester
+    - Announcements
+        - Rick giving [ACI-ICS talk](http://gilmore-lab.github.io/aci-ics-2017-09-07/) on Thursday, September 7, 1:30-3:00 pm in 223A HUB.
+        - Move
+- Attending
+- Discussion
