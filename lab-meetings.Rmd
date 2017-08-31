@@ -31,6 +31,7 @@ For the Fall 2017 Semester, our first meeting date and time will be **Thursday, 
     - Announcements
         - Rick giving [ACI-ICS talk](http://gilmore-lab.github.io/aci-ics-2017-09-07/) on Thursday, September 7, 1:30-3:00 pm in 223A HUB.
         - Moved to 503 Moore
+        - Fun illustration of [kestrel head stabilization](http://i.imgur.com/MbuGlD2.gifv).
 - Attending
     - Rick, Andrea, Alyssa (2nd year in lab), Lena, Bin, Andrew
 - Discussion
