@@ -21,6 +21,23 @@ For the Fall 2017 Semester, our first meeting date and time will be **Thursday, 
 
 ## Schedule
 
+### 2017-09-05
+
+- Agenda
+    - Apply for [ACI-ICS accounts](https://ics.psu.edu/advanced-cyberinfrastructure/accounts/). Rick (rog1) is principal investigator (PI).
+    - Plan work topics for semester
+        - Learn R Markdown
+        - R Markdown for lab/project management
+            - Lab page(s)
+            - Project sites or pages
+        - Active projects
+            - Infant MOCO EEG
+            - Child MOFO EEG
+            - Child MOCO psychophysics
+            - PLAY
+        - Read primary source literature papers
+- Attending
+
 ### 2017-08-31
 
 - Agenda
@@ -34,4 +51,3 @@ For the Fall 2017 Semester, our first meeting date and time will be **Thursday, 
         - Fun illustration of [kestrel head stabilization](http://i.imgur.com/MbuGlD2.gifv).
 - Attending
     - Rick, Andrea, Alyssa (2nd year in lab), Lena, Bin, Andrew
-- Discussion
