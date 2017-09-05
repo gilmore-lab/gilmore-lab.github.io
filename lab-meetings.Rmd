@@ -25,6 +25,7 @@ For the Fall 2017 Semester, our first meeting date and time will be **Thursday, 
 
 - Agenda
     - Apply for [ACI-ICS accounts](https://ics.psu.edu/advanced-cyberinfrastructure/accounts/). Rick (rog1) is principal investigator (PI).
+    - [Register](http://databrary.org/register) for affiliate access to Databrary. Andrea will provide further details.
     - Plan work topics for semester
         - Learn R Markdown
         - R Markdown for lab/project management
