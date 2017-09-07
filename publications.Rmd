@@ -88,6 +88,8 @@ response task. *Journal of Experimental Child Psychology,* *59*,
 
 ## Book chapters, preprints, and technical reports
 
+Gilmore, R. O., Kennedy, J. L., & Adolph, K. E. (2017, September 7). Practical solutions for the ethical sharing of identifiable research data. Retrieved from <http://psyarxiv.com/kew8u>.
+
 Seisler, A.R. & Gilmore, R.O. (2017). Developing R Code for the Processing and Analysis of Optic Flow Data. In Kitzes, J., Turek, D., & Deniz, F. (Eds.). *The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences*, Oakland, CA: University of California Press, [Online Version]. Retrieved from http://www.practicereproducibleresearch.org.
 
 Gilmore, R. O., & Adolph, K. E. (2017, February 6). Video can make science more open, transparent, robust, and reproducible. Retrieved from <http://osf.io/3kvp7>.
@@ -132,6 +134,8 @@ infants* (Developmental Cognitive Neuroscience Tech. Report 95-3).
 London: U.K. MRC Cognitive Development Unit.
 
 # Invited Talks
+
+Gilmore, R.O. (2017, September 7). Reproducibility in computationally intensive behavioral research. Talk at the ACI-ICS seminar series, Penn State. [HTML slides](http://gilmore-lab.github.io/aci-ics-2017-09-07/).
 
 Gilmore, R.O. (2017, July 10). The reproducibility crisis in psychology & neuroscience. Talk given at the Penn State Data Reproducibility Bootcamp. [HTML slides](http://gilmore-lab.github.io/psu-data-repro-bootcamp-2017-07-10).
 
