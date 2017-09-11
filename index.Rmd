@@ -12,7 +12,7 @@ The Gilmore Lab in the [Psychology Department](http://psych.la.psu.edu) at [Penn
 
 We have several active projects related to visual perception and open science that are described [here](research.html). You can also get a taste of what we do by visiting the <a href="https://databrary.org">Databrary</a> digital data library, specifically the page devoted to <a href="https://databrary.org/party/6">our research</a>.
 
-During the Spring 2017 semester, we are focusing on improving our collective data science chops thanks to the support of online training offered by [**DataCamp**](http://www.datacamp.com). Thanks, DataCamp!
+During the Fall 2017 semester, we are focusing on improving our collective data science chops thanks to the support of online training offered by [**DataCamp**](http://www.datacamp.com). Thanks, DataCamp!
 
 ## Contact Information
 
