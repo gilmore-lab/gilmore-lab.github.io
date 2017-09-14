@@ -21,6 +21,38 @@ For the Fall 2017 Semester, our first meeting date and time will be **Thursday, 
 
 ## Schedule
 
+### 2017-09-14
+
+- Agenda
+    - Attending
+        - Rick, Andrea, Alyssa, Charmi, Bin
+    - Old business
+        - ACI-ICS account creation
+            - Lab rstudio projects are in `/storage/home/rog1/rstudio/`
+            - Log in to `http://rstudio.aci.ics.psu.edu`
+            - From RStudio, open "Tools/Shell..."
+            - At command line, enter "pwd" and hit ENTER
+            - Then enter "cd /storage/home/rog1/rstudio"
+        - DataCamp
+        - Databrary
+    - New business
+        - Assign staff to teams
+            - Size matters project, see
+                - Herculano-Houzel, S., Catania, K., Manger, P. R., & Kaas, J. H. (2015). Mammalian Brains Are Made of These: A Dataset of the Numbers and Densities of Neuronal and Nonneuronal Cells in the Brain of Glires, Primates, Scandentia, Eulipotyphlans, Afrotherians and Artiodactyls, and Their Relationship with Body Mass. Brain, behavior and evolution, 86(3-4), 145–163. Retrieved from http://dx.doi.org/10.1159/000437413.
+                - <https://www.ted.com/talks/suzana_herculano_houzel_what_is_so_special_about_the_human_brain#t-788756>
+                - Charmi (lead)
+            - Infant motion coherence (MOCO) EEG project. | [Databrary](https://nyu.databrary.org/volume/146) |
+                  - Alyssa (lead)
+            - Child MOCO psychophysics | [Databrary](https://nyu.databrary.org/volume/218) |
+            - Child MOFO EEG project | [Databrary](https://nyu.databrary.org/volume/144) |
+                - Add SfN poster to Databrary
+        - Lab how-tos
+            - On-boarding: CITI, Child Abuse, Databrary, ACI-ICS 
+            - Slack, Asana, DataCamp, PaperPile
+    - Next week
+        - Rick's talk about optic flow, probably 
+based on [this](http://gilmore-lab.github.io/temple-2017-02-27)
+
 ### 2017-09-05
 
 - Agenda

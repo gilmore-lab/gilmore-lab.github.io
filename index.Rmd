@@ -6,7 +6,7 @@ Title: Home
 
 ## Mission
 
-The Gilmore Lab in the [Psychology Department](http://psych.la.psu.edu) at [Penn State](http://www.psu.edu) studies the development of perception, action, and memory. Our goal is to understand patterns of brain and behavioral change in infants, children, and young adults. We use behavioral, EEG, and MRI methods in our research. 
+The Gilmore Lab in the [Psychology Department](http://psych.la.psu.edu) at [Penn State](http://www.psu.edu) studies the development of perception, action, and memory. Our goal is to understand patterns of brain and behavioral change in infants, children, and young adults. We use behavioral, EEG, MRI, and computational modeling methods in our research. We also advocate for and try to embrace and demonstrate open science practices in our work. 
 
 ## Active Projects
 
