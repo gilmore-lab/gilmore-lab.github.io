@@ -21,6 +21,14 @@ For the Fall 2017 Semester, our first meeting date and time will be **Thursday, 
 
 ## Schedule
 
+## 2017-09-28
+
+- Agenda
+    - Attending
+    - New business
+        - [Size matters project](https://github.com/gilmore-lab/brain-behavior-data) (Charmi lead)
+        - [Infant MOCO project](https://github.com/gilmore-lab/moco) (Alyssa lead)
+
 ### 2017-09-14
 
 - Agenda
