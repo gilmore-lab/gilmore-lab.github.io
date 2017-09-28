@@ -1,7 +1,11 @@
 ---
 Title: who-we-are
 ---
-## Gilmore Bio
+## For Interested Students
+
+The Brain Development Lab, part of the [Psychology Department](http://psych.la.psu.edu) at Penn State, is looking for research assistants to study brain development in infants, children, and adolescents for **Spring 2018**. You can earn research project (PSY 494) credit or work study funds, and learn video, computer, and communication skills. Prior research experience and computer skills are a plus, but aren't required. We are especially interested in students who have morning availability, computer skills, or are interested in developing skills in advertising, marketing, or public relations. You may apply by completing an [application](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform).
+
+## Lab Director
 
 Rick O. Gilmore is Associate Professor of Psychology, a Huck Institute of the Life Sciences faculty member, and an Associate of the Institute for Cyberscience. He earned his bachelor's degree *magna cum laude* in Cognitive Science from [Brown University](http://www.brown.edu), and master's and doctoral degrees in Psychology from [Carnegie Mellon University](http://www.cmu.edu) where he participated in the [Center for the Neural Basis of Cognition (CNBC)](http://cnbc.cmu.edu) training program in cognitive neuroscience. Gilmore's research focuses on the development of visual perception and memory. He is particularly interested in the development of brain networks that enable perceivers to extract information about the layout of the environment, the shape of objects, and the speed and direction of self-movement from patterns of visual motion called optic flow. Gilmore is also keenly interested in developing tools and practices that make scientific research more open, transparent, and reproducible. He is co-founder and Co-Director of the [Databrary.org](http://databrary.org) data library.
 
@@ -20,9 +24,6 @@ rogilmore AT-SIGN psu DOT edu<br/>
 
 <a href="http://www.personal.psu.edu/rog1">http://www.personal.psu.edu/rog1</a></br>
 
-# For Students
-
-The Brain Development Lab, part of the [Psychology Department](http://psych.la.psu.edu) at Penn State, is looking for research assistants to study brain development in infants, children, and adolescents for **Spring 2018**. You can earn research project (PSY 494) credit or work study funds, and learn video, computer, and communication skills. Prior research experience and computer skills are a plus, but aren't required. We are especially interested in students who have morning availability, computer skills, or are interested in developing skills in advertising, marketing, or public relations. You may apply by completing an [application](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform).
 
 ## Current Staff
 
