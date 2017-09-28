@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 Title: who-we-are
+=======
+Title: Who-we-are
+>>>>>>> 2ce4a552f5bf7f4a030e7934c642b2022f9fe0ad
 ---
 ## Gilmore Bio
 

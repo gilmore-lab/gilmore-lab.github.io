@@ -4,6 +4,11 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+<<<<<<< HEAD
+=======
+    <!--- text: "About"--> 
+    <!---href: about.html--> 
+>>>>>>> 2ce4a552f5bf7f4a030e7934c642b2022f9fe0ad
     - text: "Research"
       href: research.html
     - text: "Publications"
@@ -13,7 +18,11 @@ navbar:
     - text: "Participants"
       href: participants.html
     - text: "Who we are"
+<<<<<<< HEAD
       href: who-we-are.html
+=======
+      href: Who we are.html
+>>>>>>> 2ce4a552f5bf7f4a030e7934c642b2022f9fe0ad
     - text: "Lab mtgs"
       href: lab-meetings.html
     - text: "Resources"
