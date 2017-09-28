@@ -19,15 +19,22 @@ For the Fall 2017 Semester, our first meeting date and time will be **Thursday, 
 - Rowland, D. C., Roudi, Y., Moser, M.-B., & Moser, E. I. (2016). Ten Years of Grid Cells. Annual review of neuroscience, 39, 19–40. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013824
 - Cohen, M. X. (2017). Where Does EEG Come From and What Does It Mean? Trends in neurosciences, 40(4), 208–218. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.02.004
 
+## Things to talk about
+
+- Tidy data
+- Git workflow and pull requests
+
 ## Schedule
 
 ## 2017-09-28
 
 - Agenda
     - Attending
+        - Charmi, Sarah, Alyssa, Bin, Andrea, Rick
     - New business
         - [Size matters project](https://github.com/gilmore-lab/brain-behavior-data) (Charmi lead)
         - [Infant MOCO project](https://github.com/gilmore-lab/moco) (Alyssa lead)
+        - [PLAY Project Pilot](https://nyu.databrary.org/volume/254#panel-data)
 
 ### 2017-09-14
 
