@@ -4,8 +4,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    <!--- text: "About"--> 
+    <!---href: about.html--> 
     - text: "Research"
       href: research.html
     - text: "Publications"
@@ -14,8 +14,8 @@ navbar:
       href: parents.html
     - text: "Participants"
       href: participants.html
-    - text: "Students"
-      href: students.html
+    - text: "Who we are"
+      href: Who we are.html
     - text: "Lab mtgs"
       href: lab-meetings.html
     - text: "Resources"
