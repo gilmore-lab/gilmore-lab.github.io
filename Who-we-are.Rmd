@@ -1,5 +1,5 @@
 ---
-Title: Who-we-are
+Title: who-we-are
 ---
 ## Gilmore Bio
 
