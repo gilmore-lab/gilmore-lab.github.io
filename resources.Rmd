@@ -1,0 +1,11 @@
+---
+Title: resources
+---
+
+[Onboarding](https://github.com/gilmore-lab/protocols/blob/master/onboarding.md)
+
+
+
+## Active Projects
+
+
