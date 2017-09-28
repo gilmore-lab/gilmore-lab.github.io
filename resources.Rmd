@@ -1,27 +1,38 @@
 ---
 Title: resources
 ---
+  
+## Lab Resources  
+[New Lab Member Instructions](https://github.com/gilmore-lab/protocols/blob/master/onboarding.md)  
 
-[New Lab Member Instructions](https://github.com/gilmore-lab/protocols/blob/master/onboarding.md)
-
-We use [Paperpile](https://paperpile.com/) for reference management. Please use the [Paperpile Instructions](https://github.com/gilmore-lab/protocols/blob/master/paperpile_instructions.md) to utilize this web based reference management system.
-
+We use [Paperpile](https://paperpile.com/) for reference management. Please use the [Paperpile Instructions](https://github.com/gilmore-lab/protocols/blob/master/paperpile_instructions.md) to utilize this web based reference management system.  
 
 ## Active Projects
 
 #### Motion Coherence (MOCO)   
-  - Infant High Density EEG on [git](https://github.com/gilmore-lab/moco) and [Databrary](https://nyu.databrary.org/volume/146)  
-  - Child Behavioral on [git](https://github.com/gilmore-lab/moco-psychophysics/tree/master/child-laminar-radial) and [Databrary](https://nyu.databrary.org/volume/218)  
-  - Adult Behavioral data on [git](https://github.com/gilmore-lab/moco-psychophysics/tree/master/adult-laminar-radial) and [Databrary](https://nyu.databrary.org/volume/73)  
-  
-#### Size Matters 
- - Data on [git](https://github.com/gilmore-lab/brain-behavior-data)
+  - Infant High Density EEG Data  
+    - [GitHub](https://github.com/gilmore-lab/moco)  
+    - [Databrary](https://nyu.databrary.org/volume/146)   
+  - Child Behavioral Data  
+    - [GitHub](https://github.com/gilmore-lab/moco-psychophysics/tree/master/child-laminar-radial)  
+    - [Databrary](https://nyu.databrary.org/volume/218)  
+  - Adult Behavioral Data  
+    - [GitHub](https://github.com/gilmore-lab/moco-psychophysics/tree/master/adult-laminar-radial)  
+    - [Databrary](https://nyu.databrary.org/volume/73)    
 
 #### Motion Form (MOFO)  
-  - Child High Density EEG on [git](https://github.com/gilmore-lab/child-motion-form) and [Databrary](https://nyu.databrary.org/volume/144)  
+  - Child High Density EEG Data
+    - [GitHub](https://github.com/gilmore-lab/child-motion-form)  
+    - [Databrary](https://nyu.databrary.org/volume/144)  
+  
+#### Size Matters 
+ - Data
+    - [GitHub](https://github.com/gilmore-lab/brain-behavior-data)
 
-#### Symmetry Adult  
-  - Behavorial on [git](https://github.com/gilmore-lab/symmetry-sorting) and [Databrary](https://nyu.databrary.org/volume/324)  
+#### Symmetry 
+  - Adult Behavorial Data  
+    - [GitHub](https://github.com/gilmore-lab/symmetry-sorting)  
+    - [Databrary](https://nyu.databrary.org/volume/324)  
 
 
 
