@@ -33,9 +33,11 @@ For the Fall 2017 Semester, our first meeting date and time will be **Thursday, 
         - Rick
     - Old business
         - [Size matters project](https://github.com/gilmore-lab/brain-behavior-data) (Charmi lead)
+            - ROG add Charmi to GitHub repo
         - [Infant MOCO project](https://github.com/gilmore-lab/moco) (Alyssa lead)
+            - ROG check on local pull/push; resolve conflict with Andrea's latest
     - New business
-        - Read and discuss next week: Leonard, J. A., Lee, Y., & Schulz, L. E. (2017). Infants make more attempts to achieve a goal when they see adults persist. *Science*, *357*(6357), 1290–1294. Retrieved from <http://dx.doi.org/10.1126/science.aan2317>.
+        - Read and discuss next week: Leonard, J. A., Lee, Y., & Schulz, L. E. (2017). Infants make more attempts to achieve a goal when they see adults persist. *Science*, *357*(6357), 1290–1294. Retrieved from <http://dx.doi.org/10.1126/science.aan2317>. [video sample](http://science.sciencemag.org/highwire/filestream/699641/field_highwire_adjunct_files/1/aan2317s1.mp4).
 
 ## 2017-09-28
 
