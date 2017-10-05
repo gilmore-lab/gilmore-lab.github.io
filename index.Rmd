@@ -22,33 +22,33 @@ Dr. [Rick Gilmore](http://www.personal.psu.edu/rog1), ([rogilmore@psu.edu](mailt
 
 [Andrea Seisler](mailto:ars17@psu.edu) is the Lab Manager.
 
-## Testing Sites
+<!-- ## Testing Sites -->
 
-We have two testing sites. 
+<!-- We have two testing sites.  -->
 
-### 449 Moore
+<!-- ### 449 Moore -->
 
-<p>Department of Psychology</br>
-The Pennsylvania State University</br>
-University Park, PA 16802</br>
-814-863-3116</br>
-</p>
-![Campus map](images/moore-map.jpg)
+<!-- <p>Department of Psychology</br> -->
+<!-- The Pennsylvania State University</br> -->
+<!-- University Park, PA 16802</br> -->
+<!-- 814-863-3116</br> -->
+<!-- </p> -->
+<!-- ![Campus map](images/moore-map.jpg) -->
 
-Parking for studies at the Moore Building can be found in the Nittany Lion Parking Deck.
+<!-- Parking for studies at the Moore Building can be found in the Nittany Lion Parking Deck. -->
 
-### 120 Chandlee
+<!-- ### 120 Chandlee -->
 
-<p>Human Electrophysiology Facility</br>
-[Social, Life, & Engineering Sciences Imaging Center (SLEIC)](http://imaging.psu.edu)</br>
-University Park, PA 16802</br>
-</p>
+<!-- <p>Human Electrophysiology Facility</br> -->
+<!-- [Social, Life, & Engineering Sciences Imaging Center (SLEIC)](http://imaging.psu.edu)</br> -->
+<!-- University Park, PA 16802</br> -->
+<!-- </p> -->
 
-Parking for studies at Chandlee can be found near the building. Our research staff will provide full instructions when we schedule a visit.
+<!-- Parking for studies at Chandlee can be found near the building. Our research staff will provide full instructions when we schedule a visit. -->
 
-## [For Students](pages/students.html)
+## [For Students](pages/who-we-are.html)
 
-The lab employs an active and engaged group of undergraduate and graduate research assistants. If you are a Penn State undergraduate student and wish to be considered for a position in the lab, complete an online application [here](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform).  If you are a prospective graduate student, contact Dr. Gilmore by email.  For more information about current students and alumni, see the [student page](pages/students.html).
+The lab employs an active and engaged group of undergraduate and graduate research assistants. If you are a Penn State undergraduate student and wish to be considered for a position in the lab, complete an online application [here](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform).  If you are a prospective graduate student, contact Dr. Gilmore by email.  For more information about current students and alumni, see the [student page](pages/who-we-are.html).
 
 ## [For Parents](pages/parents.html)
 
