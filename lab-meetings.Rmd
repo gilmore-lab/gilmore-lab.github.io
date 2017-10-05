@@ -13,10 +13,10 @@ For the Fall 2017 Semester, our first meeting date and time will be **Thursday, 
 
 ## Let's read
 
-- Finkelstein, A., Las, L., & Ulanovsky, N. (2016). 3-D Maps and Compasses in the Brain. Annual review of neuroscience, 39, 171–196. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013831
-- Egnor, S. E. R., & Branson, K. (2016). Computational Analysis of Behavior. Annual review of neuroscience, 39, 217–236. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013845
-- Kaplan, R., Schuck, N. W., & Doeller, C. F. (2017). The Role of Mental Maps in Decision-Making. Trends in neurosciences, 40(5), 256–259. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.03.002
-- Rowland, D. C., Roudi, Y., Moser, M.-B., & Moser, E. I. (2016). Ten Years of Grid Cells. Annual review of neuroscience, 39, 19–40. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013824
+- Finkelstein, A., Las, L., & Ulanovsky, N. (2016). 3-D Maps and Compasses in the Brain. Annual Review of Neuroscience, 39, 171–196. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013831
+- Egnor, S. E. R., & Branson, K. (2016). Computational Analysis of Behavior. Annual Review of Neuroscience, 39, 217–236. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013845
+- Kaplan, R., Schuck, N. W., & Doeller, C. F. (2017). The Role of Mental Maps in Decision-Making. Trends in Neurosciences, 40(5), 256–259. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.03.002
+- Rowland, D. C., Roudi, Y., Moser, M.-B., & Moser, E. I. (2016). Ten Years of Grid Cells. Annual Review of Neuroscience, 39, 19–40. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013824
 - Cohen, M. X. (2017). Where Does EEG Come From and What Does It Mean? Trends in neurosciences, 40(4), 208–218. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.02.004
 
 ## Things to talk about
@@ -25,6 +25,17 @@ For the Fall 2017 Semester, our first meeting date and time will be **Thursday, 
 - Git workflow and pull requests
 
 ## Schedule
+
+## 2017-10-05
+
+- Agenda
+    - Attending
+        - Rick
+    - Old business
+        - [Size matters project](https://github.com/gilmore-lab/brain-behavior-data) (Charmi lead)
+        - [Infant MOCO project](https://github.com/gilmore-lab/moco) (Alyssa lead)
+    - New business
+        - Read and discuss next week: Leonard, J. A., Lee, Y., & Schulz, L. E. (2017). Infants make more attempts to achieve a goal when they see adults persist. *Science*, *357*(6357), 1290–1294. Retrieved from <http://dx.doi.org/10.1126/science.aan2317>.
 
 ## 2017-09-28
 
