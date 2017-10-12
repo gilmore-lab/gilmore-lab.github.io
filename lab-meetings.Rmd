@@ -30,7 +30,11 @@ For the Fall 2017 Semester, our first meeting date and time will be **Thursday, 
 
 - Attending
 - Agenda
-    - Discuss [Leonard, Lee, & Schultz 2017](lab-mtgs/leonard-lee-schultz.html)
+    - Old business
+        - [Size matters project](https://github.com/gilmore-lab/brain-behavior-data) (Charmi lead)
+        - [Infant MOCO project](https://github.com/gilmore-lab/moco) (Alyssa lead)
+    - New business
+        - Discuss [Leonard, Lee, & Schultz 2017](lab-mtgs/leonard-lee-schultz-2017.html)
 
 ### 2017-10-05
 

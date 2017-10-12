@@ -18,6 +18,8 @@ Leonard, J. A., Lee, Y., & Schulz, L. E. (2017). Infants make more attempts to a
 Your browser does not support the video tag.
 </video>
 
+<http://science.sciencemag.org/highwire/filestream/699641/field_highwire_adjunct_files/1/aan2317s1.mp4>
+
 ## Figures
 
 <div class="centered">
@@ -32,11 +34,13 @@ Your browser does not support the video tag.
 
 ## Methods info from [supplementary materials](http://science.sciencemag.org/content/sci/suppl/2017/09/20/357.6357.1290.DC1/aan2317_Leonard_SM.pdf)
 
->"Button presses were operationalized as a hand pushing down the button. Button presses were coded from videotape by two coders blind to hypotheses and condition (inter-rater reliability $r = .99, p < .001$). Data from a single coder was used for analyses but all results held with the second coder’s data. Coders agreed with the experimenter’s judgment on the termination of the experiment 100% of the time." (Supplement, p. 2)
+>"Button presses were operationalized as a hand pushing down the button. Button presses were coded from videotape by two coders blind to hypotheses and condition (inter-rater reliability $r = .99, p < .001$). Data from a single coder was used for analyses but all results held with the second coder’s data. Coders agreed with the experimenter’s judgment on the termination of the experiment 100% of the time." 
+
+(Supplement, p. 2)
 
 ---
 
 >"Additionally, a coder blind to condition and hypotheses
-coded the tapes for potential confounds. No difference was found across the conditions for whether the parent talked to the child ($\chi^2(2, N=102)=1.03$, p = .60), parents’ proximity to the infant (as distance in inches, H(2) = 4.32, p = .12), and parents’ encouragement to the infant (X2 (2, N = 102) = 5.56, p = .06). Additionally, because the experimenter might have conveyed more enthusiasm in handing the toy to the child in the Effort than the No Effort condition, a
-second coder rated the experimenter’s enthusiasm at the start of the test trial on a Likert scale, blind to conditions (W = 525, p = .50)."
+coded the tapes for potential confounds. No difference was found across the conditions for whether the parent talked to the child ($\chi^2 (2, N=102)=1.03$, $p = .60$), parents’ proximity to the infant (as distance in inches, $H(2) = 4.32$, $p = .12$), and parents’ encouragement to the infant ($\chi^2 (2, N = 102) = 5.56$, $p = .06$). Additionally, because the experimenter might have conveyed more enthusiasm in handing the toy to the child in the Effort than the No Effort condition, a second coder rated the experimenter’s enthusiasm at the start of the test trial on a Likert scale, blind to conditions ($W = 525$, $p = .50$)."
 
+(Supplement, p. 2)
