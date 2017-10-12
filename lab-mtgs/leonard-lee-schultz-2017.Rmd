@@ -13,10 +13,7 @@ Leonard, J. A., Lee, Y., & Schulz, L. E. (2017). Infants make more attempts to a
 
 ## Video exemplar
 
-<video width="800" height="600" controls>
-  <source src="http://science.sciencemag.org/highwire/filestream/699641/field_highwire_adjunct_files/1/aan2317s1.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+(tried to embed, but this only works sporadically.)
 
 <http://science.sciencemag.org/highwire/filestream/699641/field_highwire_adjunct_files/1/aan2317s1.mp4>
 
@@ -44,3 +41,27 @@ Your browser does not support the video tag.
 coded the tapes for potential confounds. No difference was found across the conditions for whether the parent talked to the child ($\chi^2 (2, N=102)=1.03$, $p = .60$), parents’ proximity to the infant (as distance in inches, $H(2) = 4.32$, $p = .12$), and parents’ encouragement to the infant ($\chi^2 (2, N = 102) = 5.56$, $p = .06$). Additionally, because the experimenter might have conveyed more enthusiasm in handing the toy to the child in the Effort than the No Effort condition, a second coder rated the experimenter’s enthusiasm at the start of the test trial on a Likert scale, blind to conditions ($W = 525$, $p = .50$)."
 
 (Supplement, p. 2)
+
+## Questions, cheers, & lamentations
+
+### Questions
+
+- Could 'effort' be based on personal qualities of child?
+- Differences in environment (noise, what parent did, etc.)?
+- What do parents & siblings do (for work, at home)?
+- Would parent as demonstrator elicit stronger responses from kid?
+- How does child's attention span affect outcome?
+- Individual differences in child's interest in the toy?
+
+### Cheers
+
+- Preregistration of replication
+- Show video exemplars
+- Shared [data and analysis scripts](https://osf.io/xjz8e/).
+
+## Lamentations
+
+- Plots don't show individual responses (but we could fix with data file)
+- Focus only on button pressing, lots of other behaviors that might have distinguished groups
+- Could share videos of all participants on Databrary so other researchers could follow up
+- *Science* article space limitations causes important details to be 'buried' in teh supplementary materials
