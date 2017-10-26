@@ -26,6 +26,34 @@ For the Fall 2017 Semester, our first meeting date and time will be **Thursday, 
 
 ## Schedule
 
+## 2017-11-02
+
+- Agenda
+    - Old business
+    - New business
+        - Background on optic flow projects. [Rick's developmental area talk](http://gilmore-lab.github.io/2017-10-18-the-whole-elephant).
+        
+### 2017-10-26
+
+- Attending
+    - Rick, Charmi, Sara, Bin, Alyssa
+- Agenda
+    - Old business
+        - [Size matters project](https://github.com/gilmore-lab/brain-behavior-data) (Charmi lead)
+            - Rick, Charmi schedule meeting time
+        - [Infant MOCO project](https://github.com/gilmore-lab/moco) (Alyssa lead)
+        - [Child MOFO project](https://github.com/gilmore-lab/child-motion-form) (Michael lead)
+    - New business
+        - [Galaxy project](https://usegalaxy.org/)
+        - PLAY project. | [Pilot data on Databrary](https://nyu.databrary.org/volume/254) | [Additional data](https://nyu.databrary.org/volume/444) | [GitHub repo](https://github.com/PLAY-behaviorome) |
+            - Brainstorm about how to represent, visualize data
+        - Developing expertise in [Xaringen](https://github.com/gilmore-lab/xaringen) package for making presentations.
+        - Developing expertise in [dplyr](http://dplyr.tidyverse.org/).
+            - Specific goal: extract participant demographics from infant MOCO & infant MOFO datasets.
+        - Developing expertise in [papaja](https://github.com/crsh/papaja)
+            - Specific goal: convert working manuscripts into this format
+        - Develop workflow for 're-analyzing' data stored on OSF. [This](https://github.com/chartgerink/osfr) may be helpful.
+
 ### 2017-10-12
 
 - Attending
@@ -47,7 +75,7 @@ For the Fall 2017 Semester, our first meeting date and time will be **Thursday, 
         - [Infant MOCO project](https://github.com/gilmore-lab/moco) (Alyssa lead)
             - ROG check on local pull/push; resolve conflict with Andrea's latest
     - New business
-        - Read and discuss next week: Leonard, J. A., Lee, Y., & Schulz, L. E. (2017). Infants make more attempts to achieve a goal when they see adults persist. *Science*, *357*(6357), 1290–1294. Retrieved from <http://dx.doi.org/10.1126/science.aan2317>. [video sample](http://science.sciencemag.org/highwire/filestream/699641/field_highwire_adjunct_files/1/aan2317s1.mp4).
+        - Read and discuss next week: Leonard, J. A., Lee, Y., & Schulz, L. E. (2017). Infants make more attempts to achieve a goal when they see adults persist. *Science*, *357*(6357), 1290–1294. Retrieved from <http://dx.doi.org/10.1126/science.aan2317>. [video sample](http://science.sciencemag.org/highwire/filestream/699641/field_highwire_adjunct_files/1/aan2317s1.mp4). [Data & code](https://osf.io/xjz8e/).
 
 ### 2017-09-28
 
