@@ -26,10 +26,28 @@ For the Fall 2017 Semester, our first meeting date and time will be **Thursday, 
 
 ## Schedule
 
+## 2017-11-09
+
+- Agenda
+  - Old business
+        - Finish background on optic flow projects. [Rick's developmental area talk](http://gilmore-lab.github.io/2017-10-18-the-whole-elephant).
+  - New business
+      - Read and discuss: MacLeana, Evan L., et al (2014). The evolution of self-control. PNAS, 111(20), E2140-E2148. Retrieved from http://dx.doi.org/10.1073/pnas.1323533111
+
 ## 2017-11-02
 
 - Agenda
+    - Attending
+        - Rick, Charmi, Bin, Alyssa
+    - Announcements
+        - **No lab meeting Thursday, 2017-11-16**
     - Old business
+        - [Size matters project](https://github.com/gilmore-lab/brain-behavior-data) (Charmi lead)
+            - Rick, Charmi schedule meeting time
+        - [Infant MOCO project](https://github.com/gilmore-lab/moco) (Alyssa lead)
+        - [Child MOFO project](https://github.com/gilmore-lab/child-motion-form) (Michael lead)
+        - Databrary (Andrea lead)
+        - PLAY (Rick lead)
     - New business
         - Background on optic flow projects. [Rick's developmental area talk](http://gilmore-lab.github.io/2017-10-18-the-whole-elephant).
         
