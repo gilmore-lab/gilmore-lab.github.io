@@ -59,6 +59,32 @@ Databrary is an [open-source](http://github.com/databrary) software project. Pen
 
 This project is supported by the U.S. National Science Foundation (NSF) Grant No. [BCS-1238599](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1238599), the Eunice Kennedy Shriver National Institute of Child Health and Human Development under Cooperative Agreement [1-U01-HD-076595-01](http://projectreporter.nih.gov/project_info_description.cfm?aid=8531595&amp;icde=15908155&amp;ddparam=&amp;ddvalue=&amp;ddsub=&amp;cr=1&amp;csb=default&amp;cs=ASC), the Society for Research in Child Development, the LEGO Foundation, and the Alfred P. Sloan Foundation.
 
+## Play & Learning Across a Year (PLAY)
+
+The Play & Learning Across a Year (PLAY) project serves as a model system for doing development science from a "big" data approach. Natural free play represents the foundation of infant learning, but we know little about how infants play, how play unfolds in real time and across development, and how individual and group differences promote infant learning and development through play. To answer these questions, the PLAY project will collect, code, and share 900 hours of video collected in the homes of children at 12, 18, and 24 months of age drawn from 30 sites across North America.
+
+The aim of the project is to develop a new approach to developmental science that enables (1) “big” data science for researchers who would not otherwise have access; (2) a communal, low-cost means of collecting and coding data that retains the autonomy of individual labs; and (3) a plan for leveraging diverse expertise to address a common goal.
+
+**Presentations**
+
+- Adolph, K.E., Tamis-LeMonda, C., & Gilmore, R.O. (2016, December 16). Video-based communal data collection & coding: Advancing the science of infant learning & development. A workshop held at the Eunice Kennedy Shriver National Institute of Child Health and Human Development. [Video Cast](https://videocast.nih.gov/summary.asp?Live=20371&bhcp=1). [Materials & data](https://nyu.databrary.org/volume/254).
+
+**Materials**
+
+- Gilmore, R.O. (2017). PLAY-behaviorome. Github code repository. Retrieved December 19, 2017 from <https://github.com/PLAY-behaviorome/>.
+- Adolph, K., Tamis-LeMonda, C. & Gilmore, R.O. (2017). PLAY Pilot Data Collections. Databrary. Retrieved December 19, 2017 from <https://nyu.databrary.org/volume/444>.
+- Adolph, K., Tamis-LeMonda, C. & Gilmore, R.O. (2016). PLAY Project: Materials. Databrary. Retrieved December 19, 2017 from <https://nyu.databrary.org/volume/254>.
+Adolph, K., Tamis-LeMonda, C. & Gilmore, R.O. (2016). PLAY Project: Webinar discussions on protocol and coding. Databrary. Retrieved December 19, 2017 from <https://nyu.databrary.org/volume/232>.
+
+** Collaborators**
+
+- Karen Adolph, New York University, Co-Principal Investigator
+- Catherine Tamis-LeMonda, New York University, Co-Principal Investigator
+
+**Support**
+
+Support for the planning phase of this project has been provided by the Eunice Kennedy Shriver National Institute of Child Health and Human Development and the LEGO Foundation. A grant is under consideration by the National Institutes of Health.
+
 ## Developmental Dynamics of Optic Flow Processing
 
 ![Brain activity](images/fesi-2014.jpg) ![Optic flow](images/optic-flow.jpg)
@@ -108,26 +134,6 @@ infants and mothers. *Neural Computation*, *26*(11), 2652-2668. [doi:10.1162/NEC
 
 This project was supported by the National Science Foundation under grant [BCS-1147440](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1147440).
 
-## Computational Symmetry
-
-![Symmetric image](images/symmetry-sample-1.png) ![Symmetric image](images/symmetry-sample-2.png)
-
-The ability to sense regular or near-regular patterns serves critical biological needs and is equally important for computer vision and machine intelligence. Despite wide variation in the types of regularity present in natural images, research on human and computer processing of pattern regularity has focused primarily on detecting bilateral reflection symmetry, using largely atheoretical approaches. The goals of this interdisciplinary research are to i) use principles of group theory to develop a conceptual framework for understanding regularity perception and brain activation in humans, and ii) to design general computer-based symmetry detection algorithms that can operate at a level of practical usability.
-
-**Presentations**
-
-- Vedak, S.C., Gilmore, R.O., Kohler, P.J., Liu, Y., & Norcia, A.M. (2015, May). The salience of low-order visual features in highly self-similar wallpaper groups. Poster presented at the Vision Sciences Society meeting, St. Pete Beach, FL. [PDF](../pdfs/vedak-etal-vss-2015.pdf). [Materials on Databrary](http://databrary.org/volume/77).
-- Thomas, A.L., Gilmore, R.O., Norcia, A.M., Liu, Y., Fesi, J.D., Hwang, K.D., Stitt, J., & Liu, J. (2012, October). Visual patterns with rotational symmetry activate distinct cortical regions. Poster presented at the Society for Neuroscience meeting, New Orleans, LA.
-
-**Collaborators**
-
-- Yanxi Liu, Penn State Computer Science & Engineering
-- Anthony Norcia, Stanford University, Department of Psychology
-
-**Support**
-
-This project is supported by the National Science Foundation under grant [IIS-1248076](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1248076).
-
 ## The Proximal Emotional Environment Project (PEEP)
 
 A 5-year-old overhears her parents arguing loudly in the next room. She may not understand why they are arguing, but she realizes something is wrong because she perceives anger in their voices. Exposure to interpersonal conflict is consistently associated with less skillful emotion regulation in children although the mechanisms remain to be explained. Because inter-personal conflict is a heterogeneous phenomenon, investigation of the specific features of conflict that contribute to developmental pathways to emotional dysfunction and symptoms requires a process-oriented approach. In this project, we focus on brain responses to angry prosody in natural speech. We are studying young children’s neural processing of angry prosody, spoken by mothers and strangers, as a first step toward a future longitudinal study investigating how the neurocognitive processing of angry prosody mediates relations between conflict exposure in children and the development of anxiety- and anger-related symptoms.
@@ -155,8 +161,36 @@ Down Syndrome (DS) is the most common known genetic origin of intellectual disab
 
 **Collaborators**
 
-- Krista Wilkinson, Penn State, PI
+- Krista Wilkinson, Penn State, Principal Investigator
+
+**Materials**
+
+- Gilmore, R.O. (2017). Wilkinson-lab. Code repository on GitHub. Retrieved December 19, 2017 from <https://github.com/gilmore-lab/wilkinson-lab>.
+- Gilmore, R.O. (2017). Eye-tracking-DS. Code repository on GitHub. Retrieved December 19, 2017 from <https://github.com/gilmore-lab/eye-tracking-DS>.
 
 **Support**
 
 The project is supported by NICHD under [R01HD083381-02](https://projectreporter.nih.gov/project_info_description.cfm?aid=9194421&icde=0).
+
+# Finished projects
+
+## Computational Symmetry
+
+![Symmetric image](images/symmetry-sample-1.png) ![Symmetric image](images/symmetry-sample-2.png)
+
+The ability to sense regular or near-regular patterns serves critical biological needs and is equally important for computer vision and machine intelligence. Despite wide variation in the types of regularity present in natural images, research on human and computer processing of pattern regularity has focused primarily on detecting bilateral reflection symmetry, using largely atheoretical approaches. The goals of this interdisciplinary research are to i) use principles of group theory to develop a conceptual framework for understanding regularity perception and brain activation in humans, and ii) to design general computer-based symmetry detection algorithms that can operate at a level of practical usability.
+
+**Presentations**
+
+- Vedak, S.C., Gilmore, R.O., Kohler, P.J., Liu, Y., & Norcia, A.M. (2015, May). The salience of low-order visual features in highly self-similar wallpaper groups. Poster presented at the Vision Sciences Society meeting, St. Pete Beach, FL. [PDF](../pdfs/vedak-etal-vss-2015.pdf). [Materials on Databrary](http://databrary.org/volume/77).
+- Thomas, A.L., Gilmore, R.O., Norcia, A.M., Liu, Y., Fesi, J.D., Hwang, K.D., Stitt, J., & Liu, J. (2012, October). Visual patterns with rotational symmetry activate distinct cortical regions. Poster presented at the Society for Neuroscience meeting, New Orleans, LA.
+
+**Collaborators**
+
+- Yanxi Liu, Penn State Computer Science & Engineering
+- Anthony Norcia, Stanford University, Department of Psychology
+
+**Support**
+
+This project was supported by the National Science Foundation under grant [IIS-1248076](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1248076).
+
