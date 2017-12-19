@@ -18,7 +18,7 @@ Databrary is an [open-source](http://github.com/databrary) software project. Pen
 
 **Publications**
 
-- Gilmore, R.O., Kennedy, J.L., & Adolph, K.E. (in press). Practical solutions for sharing data and materials from psychological research. Advances in Methods and Practices in Psychological Science.
+- Gilmore, R.O., Kennedy, J.L., & Adolph, K.E. (in press). Practical solutions for sharing data and materials from psychological research. *Advances in Methods and Practices in Psychological Science*. [OSF preprint](https://osf.io/rw7f3/).
 - Adolph, K.E., Gilmore, R.O., & Kennedy, J.L. (2017, October). Video data and documentation will improve psychological science. *Psychological Science Agenda*. <http://www.apa.org/science/about/psa/2017/10/video-data.aspx>
 - Gilmore, R. O., Kennedy, J. L., & Adolph, K. E. (2017, September 7). Practical solutions for the ethical sharing of identifiable research data. Retrieved from <http://psyarxiv.com/kew8u>.
 - Gilmore, R.O. & Adolph, K.E. (2017). Video can make behavioural science more reproducible. *Nature Human Behaviour*. [doi:10.1038/s41562-017-0128](http://doi.org/10.1038/s41562-017-0128).
@@ -35,8 +35,8 @@ Databrary is an [open-source](http://github.com/databrary) software project. Pen
 
 - Gilmore, R.O. (2017, September 29). Data sharing, research ethics, & scientific reproducibility. Talk at the Scholarship and Research Integrity (SARI) workshop series, Penn State. [HTML slides](http://gilmore-lab.github.io/psu-sari-2017-09-28/).
 - Gilmore, R.O. (2017, September 7). Reproducibility in computationally intensive behavioral research. Talk at the ACI-ICS seminar series, Penn State. [HTML slides](http://gilmore-lab.github.io/aci-ics-2017-09-07/).
-- Gilmore, R.O. (2017, July 31). Beyond physics envy: Toward a databservatory for human behavior. Lightning talk at the Society for Improving Psychological Science meeting, Charlottesville, VA. [HTML slides](http://gilmore-lab-github.io/sips-2017-databservatory).
-- Gilmore, R.O. & Nilsonne, G. (2017, July 30). IRBs and the ethical sharing of research data. Talk given at the Society for Improving Psychological Science meeting, Charlottesville, VA. [HTML slides](http://gilmore-lab-github.io/sips-2017-07-30/). [OSF project](http://osf.io/9d5hr). 
+- Gilmore, R.O. (2017, July 31). Beyond physics envy: Toward a databservatory for human behavior. Lightning talk at the Society for Improving Psychological Science meeting, Charlottesville, VA. [HTML slides](http://gilmore-lab.github.io/sips-2017-databservatory).
+- Gilmore, R.O. & Nilsonne, G. (2017, July 30). IRBs and the ethical sharing of research data. Talk given at the Society for Improving Psychological Science meeting, Charlottesville, VA. [HTML slides](http://gilmore-lab.github.io/sips-2017-07-30/). [OSF project](http://osf.io/9d5hr). 
 - Gilmore, R.O. (2017, July 26). Yes, we can. Invited panelist at the AERA Workshop on Data Sharing and Research Transparency at the Article Publishing Stage. [HTML slides](http://gilmore-lab.github.io/aera-workshop-2017-07-26/).
 - Gilmore, R.O. (2017, July 10). The reproducibility crisis in psychology & neuroscience. Talk given at the Penn State Data Reproducibility Bootcamp. [HTML slides](http://gilmore-lab.github.io/psu-data-repro-bootcamp-2017-07-10/).
 - Adolph, K.E., Binion, G. Gilmore, R.O., Oakes, L., & Vazire, S. (2017, April 6). Openness, replication, & data reuse in developmental science – unique challenges, existing resources, & what is still needed. Invited roundtable at the Society for Research in Child Development meeting, Austin, TX.
