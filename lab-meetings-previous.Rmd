@@ -2,13 +2,181 @@
 Title: lab-meetings
 ---
 
-# Lab Meetings
+# Past Lab Meetings
 
-For the Spring 2017 Semester, our meeting will be at **8:00 am** every **Tuesday** in room **444 Moore**.
+---
 
-## Goals for the term
+## Fall 2017
 
-- Learn R and R Markdown
+## 2017-11-30
+
+- Attending
+    - Rick, Andrea, Charmi, Sarah, Alyssa
+- Agenda
+    - Announcements
+        - Lab breakfast next Thursday, 2017-12-7 at E. College Waffle Shop
+    - Old business
+        - Stand up reports
+            - Andrea
+            - Alyssa
+                - Infant MOCO EEG poster for ICIS 2018. [Poster draft](https://github.com/gilmore-lab/infant-moco-eeg/blob/master/pubs/icis-2018-poster/icis-2018-abstract-2017-12-01.Rmd). [Analysis](https://github.com/gilmore-lab/infant-moco-eeg/tree/master/analysis).
+            - Sarah
+            - Minnie
+                - Submitted optic flow paper to computer vision/agriculture journal.
+            - Charmi
+                - [Brain-Behavior data repo](https://github.com/gilmore-lab/brain-behavior-data).
+        - Read and discuss: MacLean, Evan L., et al (2014). The evolution of self-control. *Proceedings of the National Academy of Sciences*, *111*(20), E2140-E2148. Retrieved from <http://dx.doi.org/10.1073/pnas.1323533111>. [Data on FigShare](https://figshare.com/articles/MacLean_et_al_PNAS_2014_Self-Control_Data/5579335).
+## 2017-11-09
+
+- Attending
+    - Rick, Minnie, Andrea, Charmi, Alyssa
+- Agenda
+    - Announcements
+        - **No lab meeting Thursday, 2017-11-16**
+        - Next lab meeting Thursday, 2017-11-30.
+    - Old business
+        - Stand-up reports
+        - Finish background discussion on optic flow projects. [Rick's developmental area talk](http://gilmore-lab.github.io/2017-10-18-the-whole-elephant).
+    - New business
+      - Read and discuss: MacLean, Evan L., et al (2014). The evolution of self-control. *Proceedings of the National Academy of Sciences*, *111*(20), E2140-E2148. Retrieved from <http://dx.doi.org/10.1073/pnas.1323533111>. [Data on FigShare](https://figshare.com/articles/MacLean_et_al_PNAS_2014_Self-Control_Data/5579335).
+
+## 2017-11-02
+
+- Attending
+    - Rick, Charmi, Bin, Alyssa
+- Agenda
+    - Announcements
+        - **No lab meeting Thursday, 2017-11-16**
+    - Old business
+        - [Size matters project](https://github.com/gilmore-lab/brain-behavior-data) (Charmi lead)
+            - Rick, Charmi schedule meeting time
+        - [Infant MOCO project](https://github.com/gilmore-lab/moco) (Alyssa lead)
+        - [Child MOFO project](https://github.com/gilmore-lab/child-motion-form) (Michael lead)
+        - Databrary (Andrea lead)
+        - PLAY (Rick lead)
+    - New business
+        - Background on optic flow projects. [Rick's developmental area talk](http://gilmore-lab.github.io/2017-10-18-the-whole-elephant).
+        
+### 2017-10-26
+
+- Attending
+    - Rick, Charmi, Sara, Bin, Alyssa
+- Agenda
+    - Old business
+        - [Size matters project](https://github.com/gilmore-lab/brain-behavior-data) (Charmi lead)
+            - Rick, Charmi schedule meeting time
+        - [Infant MOCO project](https://github.com/gilmore-lab/moco) (Alyssa lead)
+        - [Child MOFO project](https://github.com/gilmore-lab/child-motion-form) (Michael lead)
+    - New business
+        - [Galaxy project](https://usegalaxy.org/)
+        - PLAY project. | [Pilot data on Databrary](https://nyu.databrary.org/volume/254) | [Additional data](https://nyu.databrary.org/volume/444) | [GitHub repo](https://github.com/PLAY-behaviorome) |
+            - Brainstorm about how to represent, visualize data
+        - Developing expertise in [Xaringen](https://github.com/gilmore-lab/xaringen) package for making presentations.
+        - Developing expertise in [dplyr](http://dplyr.tidyverse.org/).
+            - Specific goal: extract participant demographics from infant MOCO & infant MOFO datasets.
+        - Developing expertise in [papaja](https://github.com/crsh/papaja)
+            - Specific goal: convert working manuscripts into this format
+        - Develop workflow for 're-analyzing' data stored on OSF. [This](https://github.com/chartgerink/osfr) may be helpful.
+
+### 2017-10-12
+
+- Attending
+- Agenda
+    - Old business
+        - [Size matters project](https://github.com/gilmore-lab/brain-behavior-data) (Charmi lead)
+        - [Infant MOCO project](https://github.com/gilmore-lab/moco) (Alyssa lead)
+    - New business
+        - Discuss [Leonard, Lee, & Schultz 2017](lab-mtgs/leonard-lee-schultz-2017.html)
+
+### 2017-10-05
+
+- Agenda
+    - Attending
+        - Rick
+    - Old business
+        - [Size matters project](https://github.com/gilmore-lab/brain-behavior-data) (Charmi lead)
+            - ROG add Charmi to GitHub repo
+        - [Infant MOCO project](https://github.com/gilmore-lab/moco) (Alyssa lead)
+            - ROG check on local pull/push; resolve conflict with Andrea's latest
+    - New business
+        - Read and discuss next week: Leonard, J. A., Lee, Y., & Schulz, L. E. (2017). Infants make more attempts to achieve a goal when they see adults persist. *Science*, *357*(6357), 1290–1294. Retrieved from <http://dx.doi.org/10.1126/science.aan2317>. [video sample](http://science.sciencemag.org/highwire/filestream/699641/field_highwire_adjunct_files/1/aan2317s1.mp4). [Data & code](https://osf.io/xjz8e/).
+
+### 2017-09-28
+
+- Agenda
+    - Attending
+        - Charmi, Sarah, Alyssa, Bin, Andrea, Rick
+    - New business
+        - [Size matters project](https://github.com/gilmore-lab/brain-behavior-data) (Charmi lead)
+        - [Infant MOCO project](https://github.com/gilmore-lab/moco) (Alyssa lead)
+        - [PLAY Project Pilot](https://nyu.databrary.org/volume/254#panel-data)
+
+### 2017-09-14
+
+- Agenda
+    - Attending
+        - Rick, Andrea, Alyssa, Charmi, Bin
+    - Old business
+        - ACI-ICS account creation
+            - Lab rstudio projects are in `/storage/home/rog1/rstudio/`
+            - Log in to `http://rstudio.aci.ics.psu.edu`
+            - From RStudio, open "Tools/Shell..."
+            - At command line, enter "pwd" and hit ENTER
+            - Then enter "cd /storage/home/rog1/rstudio"
+        - DataCamp
+        - Databrary
+    - New business
+        - Assign staff to teams
+            - Size matters project, see
+                - Herculano-Houzel, S., Catania, K., Manger, P. R., & Kaas, J. H. (2015). Mammalian Brains Are Made of These: A Dataset of the Numbers and Densities of Neuronal and Nonneuronal Cells in the Brain of Glires, Primates, Scandentia, Eulipotyphlans, Afrotherians and Artiodactyls, and Their Relationship with Body Mass. Brain, behavior and evolution, 86(3-4), 145–163. Retrieved from http://dx.doi.org/10.1159/000437413.
+                - <https://www.ted.com/talks/suzana_herculano_houzel_what_is_so_special_about_the_human_brain#t-788756>
+                - Charmi (lead)
+            - Infant motion coherence (MOCO) EEG project. | [Databrary](https://nyu.databrary.org/volume/146) |
+                  - Alyssa (lead)
+            - Child MOCO psychophysics | [Databrary](https://nyu.databrary.org/volume/218) |
+            - Child MOFO EEG project | [Databrary](https://nyu.databrary.org/volume/144) |
+                - Add SfN poster to Databrary
+        - Lab how-tos
+            - On-boarding: CITI, Child Abuse, Databrary, ACI-ICS 
+            - Slack, Asana, DataCamp, PaperPile
+    - Next week
+        - Rick's talk about optic flow, probably 
+based on [this](http://gilmore-lab.github.io/temple-2017-02-27)
+
+### 2017-09-05
+
+- Agenda
+    - Apply for [ACI-ICS accounts](https://ics.psu.edu/advanced-cyberinfrastructure/accounts/). Rick (rog1) is principal investigator (PI).
+    - [Register](http://databrary.org/register) for affiliate access to Databrary. Andrea will provide further details.
+    - Plan work topics for semester
+        - Learn R Markdown
+        - R Markdown for lab/project management
+            - Lab page(s)
+            - Project sites or pages
+        - Active projects
+            - [Databrary](http://databrary.org) and [Datavyu](http://datavyu.org)
+            - Infant MOCO EEG
+            - Child motion form [child-motion-form](https://github.com/gilmore-lab/child-motion-form)
+            - [Child motion psychophysics](https://github.com/gilmore-lab/child-motion-psychophysics)
+            - [PLAY](https://nyu.databrary.org/volume/254) and [pilot data](https://nyu.databrary.org/volume/444) 
+        - Read primary source literature papers
+- Attending
+    - Rick, Andrea, Andrew, Charmi, Alyssa, Bin LIAO
+
+### 2017-08-31
+
+- Agenda
+    - Meeting time
+        - Move to 8:15 am on Tuesdays, starting 9/5.
+    - Goals for the semester
+        - Read and understand primary literature
+    - Announcements
+        - Rick giving [ACI-ICS talk](http://gilmore-lab.github.io/aci-ics-2017-09-07/) on Thursday, September 7, 1:30-3:00 pm in 223A HUB.
+        - Moved to 503 Moore
+        - Fun illustration of [kestrel head stabilization](http://i.imgur.com/MbuGlD2.gifv).
+- Attending
+    - Rick, Andrea, Alyssa (2nd year in lab), Lena, Bin, Andrew
+
 
 ## Next Meeting: March 14, 2017
 
