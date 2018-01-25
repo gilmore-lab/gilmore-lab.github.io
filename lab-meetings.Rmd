@@ -28,6 +28,11 @@ For the Fall 2017 Semester, our first meeting date and time will be **Thursday, 
 
 ## Schedule
 
+### 2018-01-25 Thursday
+
+- Agenda
+    - Discuss: Cohen, M. X. (2017). Where Does EEG Come From and What Does It Mean? *Trends in Neurosciences*, *40*(4), 208–218. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.02.004. | [Notes](lab-mtgs/notes-cohen-2017.html) |
+
 ### 2018-01-18 Thursday
 
 - Agenda
