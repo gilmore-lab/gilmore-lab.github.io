@@ -1,13 +1,17 @@
 ---
-Title: Who-we-are
+Title: who-we-are
 ---
-## Gilmore Bio
+## For Interested Students
+
+The Brain Development Lab, part of the [Psychology Department](http://psych.la.psu.edu) at Penn State, is looking for research assistants to study brain development in infants, children, and adolescents for **Spring 2018**. You can earn research project (PSY 494) credit or work study funds, and learn video, computer, and communication skills. Prior research experience and computer skills are a plus, but aren't required. We are especially interested in students who have morning availability, computer skills, or are interested in developing skills in advertising, marketing, or public relations. You may apply by completing an [application](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform).
+
+## Lab Director
 
 Rick O. Gilmore is Associate Professor of Psychology, a Huck Institute of the Life Sciences faculty member, and an Associate of the Institute for Cyberscience. He earned his bachelor's degree *magna cum laude* in Cognitive Science from [Brown University](http://www.brown.edu), and master's and doctoral degrees in Psychology from [Carnegie Mellon University](http://www.cmu.edu) where he participated in the [Center for the Neural Basis of Cognition (CNBC)](http://cnbc.cmu.edu) training program in cognitive neuroscience. Gilmore's research focuses on the development of visual perception and memory. He is particularly interested in the development of brain networks that enable perceivers to extract information about the layout of the environment, the shape of objects, and the speed and direction of self-movement from patterns of visual motion called optic flow. Gilmore is also keenly interested in developing tools and practices that make scientific research more open, transparent, and reproducible. He is co-founder and Co-Director of the [Databrary.org](http://databrary.org) data library.
 
 From 2008 to 2014, Gilmore served as the founding Director of Human Imaging at Penn State's Social, Life, and Engineering Sciences Imaging Center [(SLEIC)](http://imaging.psu.edu). He has won the College of the Liberal Arts tenure-line faculty teaching award, leads the Human Developmental Neuroscience Initiative for the Child Study Center, and has had support for his research from the National Institutes of Health and the National Science Foundation. Gilmore has served as president of the [Centre Region Bicycle Coalition](http://centrebike.org), the [Acoustic Brew Concert Series](http://acousticbrew.org), and the [State College Community Theatre](http://scctonline.org).
 
-## Contact Information
+#### Contact Information
 
 <p>114 Moore Building<br/>
 Department of Psychology<br/>
@@ -20,9 +24,6 @@ rogilmore AT-SIGN psu DOT edu<br/>
 
 <a href="http://www.personal.psu.edu/rog1">http://www.personal.psu.edu/rog1</a></br>
 
-# For Students
-
-The Brain Development Lab, part of the [Psychology Department](http://psych.la.psu.edu) at Penn State, is looking for research assistants to study brain development in infants, children, and adolescents for **Spring 2018**. You can earn research project (PSY 494) credit or work study funds, and learn video, computer, and communication skills. Prior research experience and computer skills are a plus, but aren't required. We are especially interested in students who have morning availability, computer skills, or are interested in developing skills in advertising, marketing, or public relations. You may apply by completing an [application](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform).
 
 ## Current Staff
 
@@ -60,7 +61,7 @@ Michael is majoring in [Engineering Science](http://www.esm.psu.edu/) at The Pen
 
 After graduating in the spring of 2018 Michael intends to further his education in medical school, where he will combine his interests in Engineering, Neuroscience, and Medicine. 
 
-### Sarah Shahriar
+### Sarah Shahriar, Undergraduate Student
 Sarah is a junior majoring in Psychology with a concentration in Neuroscience. She hopes to pursue a medical degree after studying at Penn State University and hopes to practice as a psychiatrist in the future. 
 
 Sarah is originally from Hershey, PA and enjoys spending her time volunteering at Penn State Hershey Medical Center Children’s Hospital within the Ronald McDonald charities. 

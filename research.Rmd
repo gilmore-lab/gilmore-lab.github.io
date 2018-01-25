@@ -1,7 +1,7 @@
 ---
 Title: research
 ---
-
+  
 # Active Projects
 
 <img src="http://databrary.org/theme/img/logo/databrary.png">
@@ -18,6 +18,9 @@ Databrary is an [open-source](http://github.com/databrary) software project. Pen
 
 **Publications**
 
+- Gilmore, R.O., Kennedy, J.L., & Adolph, K.E. (in press). Practical solutions for sharing data and materials from psychological research. *Advances in Methods and Practices in Psychological Science*. [OSF preprint](https://osf.io/rw7f3/).
+- Adolph, K.E., Gilmore, R.O., & Kennedy, J.L. (2017, October). Video data and documentation will improve psychological science. *Psychological Science Agenda*. <http://www.apa.org/science/about/psa/2017/10/video-data.aspx>
+- Gilmore, R. O., Kennedy, J. L., & Adolph, K. E. (2017, September 7). Practical solutions for the ethical sharing of identifiable research data. Retrieved from <http://psyarxiv.com/kew8u>.
 - Gilmore, R.O. & Adolph, K.E. (2017). Video can make behavioural science more reproducible. *Nature Human Behaviour*. [doi:10.1038/s41562-017-0128](http://doi.org/10.1038/s41562-017-0128).
 - Gilmore, R.O., Diaz, M.T., Wyble, B.A., & Yarkoni, T. (2017). Progress toward openness, transparency, and reproducibility in cognitive neuroscience. *Annals of the New York Academy of Sciences*, 1396, 5–18. [doi: 10.1111/nyas.13325](http://doi.org/10.1111/nyas.13325).
 - Gilmore, R.O., & Adolph, K.E. (2017, February 6). Video can make science more open, transparent, robust, and reproducible. Retrieved from <http://osf.io/3kvp7>.
@@ -30,12 +33,14 @@ Databrary is an [open-source](http://github.com/databrary) software project. Pen
 
 **Presentations**
 
+- Gilmore, R.O. (2017, September 29). Data sharing, research ethics, & scientific reproducibility. Talk at the Scholarship and Research Integrity (SARI) workshop series, Penn State. [HTML slides](http://gilmore-lab.github.io/psu-sari-2017-09-28/).
 - Gilmore, R.O. (2017, September 7). Reproducibility in computationally intensive behavioral research. Talk at the ACI-ICS seminar series, Penn State. [HTML slides](http://gilmore-lab.github.io/aci-ics-2017-09-07/).
-- Gilmore, R.O. (2017, July 31). Beyond physics envy: Toward a databservatory for human behavior. Lightning talk at the Society for Improving Psychological Science meeting, Charlottesville, VA. [HTML slides](http://gilmore-lab-github.io/sips-2017-databservatory).
-- Gilmore, R.O. & Nilsonne, G. (2017, July 30). IRBs and the ethical sharing of research data. Talk given at the Society for Improving Psychological Science meeting, Charlottesville, VA. [HTML slides](http://gilmore-lab-github.io/sips-2017-07-30/). [OSF project](http://osf.io/9d5hr). 
+- Gilmore, R.O. (2017, August 1). Video can improve the reproducibility of psychological science. Lightning talk at the Society for Improving Psychological Science meeting, Charlottesville, VA. [HTML slides](https://gilmore-lab.github.io/sips-2017-video-reproducibility)
+- Gilmore, R.O. (2017, July 31). Beyond physics envy: Toward a databservatory for human behavior. Lightning talk at the Society for Improving Psychological Science meeting, Charlottesville, VA. [HTML slides](http://gilmore-lab.github.io/sips-2017-databservatory).
+- Gilmore, R.O. & Nilsonne, G. (2017, July 30). IRBs and the ethical sharing of research data. Talk given at the Society for Improving Psychological Science meeting, Charlottesville, VA. [HTML slides](http://gilmore-lab.github.io/sips-2017-07-30/). [OSF project](http://osf.io/9d5hr). 
 - Gilmore, R.O. (2017, July 26). Yes, we can. Invited panelist at the AERA Workshop on Data Sharing and Research Transparency at the Article Publishing Stage. [HTML slides](http://gilmore-lab.github.io/aera-workshop-2017-07-26/).
 - Gilmore, R.O. (2017, July 10). The reproducibility crisis in psychology & neuroscience. Talk given at the Penn State Data Reproducibility Bootcamp. [HTML slides](http://gilmore-lab.github.io/psu-data-repro-bootcamp-2017-07-10/).
-- Adolph., K.E., Binion, G. Gilmore, R.O., Oakes, L., & Vazire, S. (2017, April 6). Openness, replication, & data reuse in developmental science – unique challenges, existing resources, & what is still needed. Invited roundtable at the Society for Research in Child Development meeting, Austin, TX.
+- Adolph, K.E., Binion, G. Gilmore, R.O., Oakes, L., & Vazire, S. (2017, April 6). Openness, replication, & data reuse in developmental science – unique challenges, existing resources, & what is still needed. Invited roundtable at the Society for Research in Child Development meeting, Austin, TX.
 - Gilmore, R.O. (2017, February 22). A Databservatory for human behavior. Talk given at the Cognitive Area Brown Bag. [HTML slides](https://gilmore-lab.github.io/cog-bbag-talk-2017-02-22).
 - Gilmore, R.O. (2017, January 31). An -ome of our own: Toward a more reproducible, robust, and insightful science of human behavior. Talk given to the Social Data Analytics (SoDA) 501 students. Penn State University. [HTML slides](http://gilmore-lab.github.io/soda-2017-01-31)
 - Gilmore, R.O. (2016, October). The future of big data in developmental science. Talk given at a meeting of the Penn State Child Study Center (CSC) faculty. [HTML slides](http://rawgit.com/gilmore-lab/psu-child-study-ctr-talk-2016-10-28/master/gilmore-csc-talk.html).
@@ -54,6 +59,32 @@ Databrary is an [open-source](http://github.com/databrary) software project. Pen
 
 This project is supported by the U.S. National Science Foundation (NSF) Grant No. [BCS-1238599](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1238599), the Eunice Kennedy Shriver National Institute of Child Health and Human Development under Cooperative Agreement [1-U01-HD-076595-01](http://projectreporter.nih.gov/project_info_description.cfm?aid=8531595&amp;icde=15908155&amp;ddparam=&amp;ddvalue=&amp;ddsub=&amp;cr=1&amp;csb=default&amp;cs=ASC), the Society for Research in Child Development, the LEGO Foundation, and the Alfred P. Sloan Foundation.
 
+## Play & Learning Across a Year (PLAY)
+
+The Play & Learning Across a Year (PLAY) project serves as a model system for doing development science from a "big" data approach. Natural free play represents the foundation of infant learning, but we know little about how infants play, how play unfolds in real time and across development, and how individual and group differences promote infant learning and development through play. To answer these questions, the PLAY project will collect, code, and share 900 hours of video collected in the homes of children at 12, 18, and 24 months of age drawn from 30 sites across North America.
+
+The aim of the project is to develop a new approach to developmental science that enables (1) “big” data science for researchers who would not otherwise have access; (2) a communal, low-cost means of collecting and coding data that retains the autonomy of individual labs; and (3) a plan for leveraging diverse expertise to address a common goal.
+
+**Presentations**
+
+- Adolph, K.E., Tamis-LeMonda, C., & Gilmore, R.O. (2016, December 16). Video-based communal data collection & coding: Advancing the science of infant learning & development. A workshop held at the Eunice Kennedy Shriver National Institute of Child Health and Human Development. [Video Cast](https://videocast.nih.gov/summary.asp?Live=20371&bhcp=1). [Materials & data](https://nyu.databrary.org/volume/254).
+
+**Materials**
+
+- Gilmore, R.O. (2017). PLAY-behaviorome. Github code repository. Retrieved December 19, 2017 from <https://github.com/PLAY-behaviorome/>.
+- Adolph, K., Tamis-LeMonda, C. & Gilmore, R.O. (2017). PLAY Pilot Data Collections. Databrary. Retrieved December 19, 2017 from <https://nyu.databrary.org/volume/444>.
+- Adolph, K., Tamis-LeMonda, C. & Gilmore, R.O. (2016). PLAY Project: Materials. Databrary. Retrieved December 19, 2017 from <https://nyu.databrary.org/volume/254>.
+Adolph, K., Tamis-LeMonda, C. & Gilmore, R.O. (2016). PLAY Project: Webinar discussions on protocol and coding. Databrary. Retrieved December 19, 2017 from <https://nyu.databrary.org/volume/232>.
+
+** Collaborators**
+
+- Karen Adolph, New York University, Co-Principal Investigator
+- Catherine Tamis-LeMonda, New York University, Co-Principal Investigator
+
+**Support**
+
+Support for the planning phase of this project has been provided by the Eunice Kennedy Shriver National Institute of Child Health and Human Development and the LEGO Foundation. A grant is under consideration by the National Institutes of Health.
+
 ## Developmental Dynamics of Optic Flow Processing
 
 ![Brain activity](images/fesi-2014.jpg) ![Optic flow](images/optic-flow.jpg)
@@ -71,7 +102,7 @@ infants and mothers. *Neural Computation*, *26*(11), 2652-2668. [doi:10.1162/NEC
 
 **Presentations**
 
-- Gilmore, R.O., Seisler, A., Shade, M., O'Neill, M. (2017, April). School-age children perceive fast radial optic flow in noise more accurately than slow linear flow. Poster presentation at the Society for Research in Child Development, Austin, TX. [PDF]https://github.com/gilmore-lab/moco-3-pattern-psychophysics/tree/master/child-motion-psychophysics/pubs/srcd-17-poster/gilmore-seisler-shade-oneill-srcd-2017.pdf) [Databrary](http://nyu.databrary.org/volume/218). [GitHub](https://github.com/gilmore-lab/moco-3-pattern-psychophysics/tree/master/child-motion-psychophysics). 
+- Gilmore, R.O., Seisler, A., Shade, M., O'Neill, M. (2017, April). School-age children perceive fast radial optic flow in noise more accurately than slow linear flow. Poster presentation at the Society for Research in Child Development, Austin, TX. [PDF](https://github.com/gilmore-lab/child-motion-psychophysics/blob/master/pubs/srcd-17-poster/gilmore-seisler-shade-oneill-srcd-2017.pdf). [Databrary](http://nyu.databrary.org/volume/218). [GitHub](https://github.com/gilmore-lab/moco-3-pattern-psychophysics/tree/master/child-motion-psychophysics). 
 - Gilmore, R.O. (2017, February). Go with the flow: The development of behavioral sensitivity and brain responses to optic flow. Talk at Temple University. [HTML slides](http://gilmore-lab.github.io/temple-2017-02-27). [Markdown](https://github.com/gilmore-lab/temple-2017-02-27/blob/master/index.md).
 - Gilmore, R.O., Fared, D.A., Dexheimer, M.G., & Seisler, A.R. (2016, November). The appearance and disappearance of visual forms defined by differential motion evokes distinctive EEG responses in school-age children. Presentation at the Society for Neuroscience meeting in San Diego, CA. [PDF](https://github.com/gilmore-lab/child-motion-form/blob/master/pubs/sfn-16-poster/poster_landscape.pdf).
 - Gilmore, R.O. (2016, October). Go with the flow: The development of behavioral sensitivity and brain responses to optic flow. Talk at the Penn State Action club meeting. [HTML slides](http://rawgit.com/gilmore-lab/psu-action-club-2016-10-28/master/gilmore-action-club.html).
@@ -79,7 +110,7 @@ infants and mothers. *Neural Computation*, *26*(11), 2652-2668. [doi:10.1162/NEC
 - Gilmore, R.O. (2016, September). Open science practices have made my work better. Talk at the Penn State Psychology Cognitive Area brown bag. [HTML slides](https://cdn.rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/cog-bbag-2015-09-09.html).
 - Adamiak, W., Thomas, A.L., Patel, S.M., & Gilmore. R.O. (2015, May). Adult observers’ sensitivity to optic flow varies by pattern and speed. Poster presented at the Vision Sciences Society meeting, St. Pete's Beach, FL. doi:10.1167/15.12.1008. [PDF](../pdfs/adamiak-etal-vss-2015.pdf). [Materials on Databrary](http://databrary.org/volume/73).
 - Raudies, F. & Gilmore, R.O. (2014, May). An analysis of optic flow experienced by infants during natural activities. Poster presented at the Vision Sciences Society meeting, St. Pete Beach, FL. Journal of Vision, 14(10). 226. doi:10.1167/14.10.226. [PDF](../pdf/raudies-etal-vss-2014.pdf)
-- Thomas, A.L., Fesi, J.D. & Gilmore, R.O. (2014, May). Temporal and speed tuning in brain Responses to local and global motion patterns. Poster presented at the Vision Sciences Society meeting, St. Pete Beach, FL. Journal of Vision, 14(10). 482. doi:10.1167/14.10.482.
+- Thomas, A.L., Fesi, J.D. & Gilmore, R.O. (2014, May). Temporal and speed tuning in brain responses to local and global motion patterns. Poster presented at the Vision Sciences Society meeting, St. Pete Beach, FL. Journal of Vision, 14(10). 482. doi:10.1167/14.10.482.
 - Fesi, J.D., Thomas, A.L., & Gilmore, R.O. (2012, October). Distinct space-time sampling thresholds of VEP responses to optic flow. Poster presented at the Society for Neuroscience meeting, New Orleans, LA. [PDF](../pdf/fesi-etal-sfn-2012.pdf)
 - Gilmore, R.O., Raudies, F., Kretch, K.S., Franchak, J.M., & Adolph, K.E. (2012, June). Do you see what I see? Comparing optic flow experienced by infants and their mothers. Poster presented at the International Conference on Infant Studies, Minneapolis, MN. [PDF](../pdf/gilmore-etal-icis-2012.pdf).
 - Fesi, J.D., Stiffler, J.R., & Gilmore, R.O. (2012, May). Speed tuning of cortical responses to 2D figures defined by motion contrast is non-uniform across contrast types. Poster presented at the Vision Sciences Society meeting, Naples, FL.
@@ -102,26 +133,6 @@ infants and mothers. *Neural Computation*, *26*(11), 2652-2668. [doi:10.1162/NEC
 **Support**
 
 This project was supported by the National Science Foundation under grant [BCS-1147440](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1147440).
-
-## Computational Symmetry
-
-![Symmetric image](images/symmetry-sample-1.png) ![Symmetric image](images/symmetry-sample-2.png)
-
-The ability to sense regular or near-regular patterns serves critical biological needs and is equally important for computer vision and machine intelligence. Despite wide variation in the types of regularity present in natural images, research on human and computer processing of pattern regularity has focused primarily on detecting bilateral reflection symmetry, using largely atheoretical approaches. The goals of this interdisciplinary research are to i) use principles of group theory to develop a conceptual framework for understanding regularity perception and brain activation in humans, and ii) to design general computer-based symmetry detection algorithms that can operate at a level of practical usability.
-
-**Presentations**
-
-- Vedak, S.C., Gilmore, R.O., Kohler, P.J., Liu, Y., & Norcia, A.M. (2015, May). The salience of low-order visual features in highly self-similar wallpaper groups. Poster presented at the Vision Sciences Society meeting, St. Pete Beach, FL. [PDF](../pdfs/vedak-etal-vss-2015.pdf). [Materials on Databrary](http://databrary.org/volume/77).
-- Thomas, A.L., Gilmore, R.O., Norcia, A.M., Liu, Y., Fesi, J.D., Hwang, K.D., Stitt, J., & Liu, J. (2012, October). Visual patterns with rotational symmetry activate distinct cortical regions. Poster presented at the Society for Neuroscience meeting, New Orleans, LA.
-
-**Collaborators**
-
-- Yanxi Liu, Penn State Computer Science & Engineering
-- Anthony Norcia, Stanford University, Department of Psychology
-
-**Support**
-
-This project is supported by the National Science Foundation under grant [IIS-1248076](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1248076).
 
 ## The Proximal Emotional Environment Project (PEEP)
 
@@ -150,8 +161,36 @@ Down Syndrome (DS) is the most common known genetic origin of intellectual disab
 
 **Collaborators**
 
-- Krista Wilkinson, Penn State, PI
+- Krista Wilkinson, Penn State, Principal Investigator
+
+**Materials**
+
+- Gilmore, R.O. (2017). Wilkinson-lab. Code repository on GitHub. Retrieved December 19, 2017 from <https://github.com/gilmore-lab/wilkinson-lab>.
+- Gilmore, R.O. (2017). Eye-tracking-DS. Code repository on GitHub. Retrieved December 19, 2017 from <https://github.com/gilmore-lab/eye-tracking-DS>.
 
 **Support**
 
 The project is supported by NICHD under [R01HD083381-02](https://projectreporter.nih.gov/project_info_description.cfm?aid=9194421&icde=0).
+
+# Finished projects
+
+## Computational Symmetry
+
+![Symmetric image](images/symmetry-sample-1.png) ![Symmetric image](images/symmetry-sample-2.png)
+
+The ability to sense regular or near-regular patterns serves critical biological needs and is equally important for computer vision and machine intelligence. Despite wide variation in the types of regularity present in natural images, research on human and computer processing of pattern regularity has focused primarily on detecting bilateral reflection symmetry, using largely atheoretical approaches. The goals of this interdisciplinary research are to i) use principles of group theory to develop a conceptual framework for understanding regularity perception and brain activation in humans, and ii) to design general computer-based symmetry detection algorithms that can operate at a level of practical usability.
+
+**Presentations**
+
+- Vedak, S.C., Gilmore, R.O., Kohler, P.J., Liu, Y., & Norcia, A.M. (2015, May). The salience of low-order visual features in highly self-similar wallpaper groups. Poster presented at the Vision Sciences Society meeting, St. Pete Beach, FL. [PDF](../pdfs/vedak-etal-vss-2015.pdf). [Materials on Databrary](http://databrary.org/volume/77).
+- Thomas, A.L., Gilmore, R.O., Norcia, A.M., Liu, Y., Fesi, J.D., Hwang, K.D., Stitt, J., & Liu, J. (2012, October). Visual patterns with rotational symmetry activate distinct cortical regions. Poster presented at the Society for Neuroscience meeting, New Orleans, LA.
+
+**Collaborators**
+
+- Yanxi Liu, Penn State Computer Science & Engineering
+- Anthony Norcia, Stanford University, Department of Psychology
+
+**Support**
+
+This project was supported by the National Science Foundation under grant [IIS-1248076](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1248076).
+

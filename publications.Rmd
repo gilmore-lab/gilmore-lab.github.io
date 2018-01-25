@@ -8,7 +8,9 @@ Johnson, M.H., Munakata, Y., & Gilmore, R.O. (2002). *Brain development and cogn
 
 ## Peer-reviewed Articles
 
-Gilmore, R.O. & Adolph, K.E. (in press). Video can make behavioural science more reproducible. *Nature Human Behaviour*. [doi:10.1038/s41562-017-0128](http://doi.org/10.1038/s41562-017-0128).
+Gilmore, R.O., Kennedy, J.L., & Adolph, K.E. (in press). Practical solutions for sharing data and materials from psychological research. *Advances in Methods and Practices in Psychological Science*.
+
+Gilmore, R.O. & Adolph, K.E. (2017). Video can make behavioural science more reproducible. *Nature Human Behaviour*. [doi:10.1038/s41562-017-0128](http://doi.org/10.1038/s41562-017-0128).
 
 Gilmore, R.O., Diaz, M.T., Wyble, B.A., & Yarkoni, T. (2017). Progress toward openness, transparency, and reproducibility in cognitive neuroscience. *Annals of the New York Academy of Sciences*, 1396, 5–18. [doi: 10.1111/nyas.13325](http://doi.org/10.1111/nyas.13325).
 
@@ -88,6 +90,12 @@ response task. *Journal of Experimental Child Psychology,* *59*,
 
 ## Book chapters, preprints, and technical reports
 
+Adolph, K.E., Gilmore, R.O., & Kennedy, J.L. (2017, October). Video data and documentation will improve psychological science. *Psychological Science Agenda*. <http://www.apa.org/science/about/psa/2017/10/video-data.aspx>.
+
+Gilmore, R. O., Kennedy, J. L., & Adolph, K. E. (2017, September 7). Practical solutions for the ethical sharing of identifiable research data. Retrieved from <http://psyarxiv.com/kew8u>.
+
+Seisler, A.R. & Gilmore, R.O. (2017). Developing R Code for the Processing and Analysis of Optic Flow Data. In Kitzes, J., Turek, D., & Deniz, F. (Eds.). *The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences*, Oakland, CA: University of California Press, [Online Version]. Retrieved from http://www.practicereproducibleresearch.org.
+
 Gilmore, R. O., & Adolph, K. E. (2017, February 6). Video can make science more open, transparent, robust, and reproducible. Retrieved from <http://osf.io/3kvp7>.
 
 Gilmore, R.O., & Adolph, K.E. (in press). Open sharing of research video: Breaking the boundaries of the research team, in *Advancing Social and Behavioral Health Research through Cross-disciplinary Team Science: Principles for Success*. Hall, K., Croyle, R., & Vogel, A. (Eds.). Springer: Philadelphia.
@@ -130,6 +138,8 @@ infants* (Developmental Cognitive Neuroscience Tech. Report 95-3).
 London: U.K. MRC Cognitive Development Unit.
 
 # Invited Talks
+
+Gilmore, R.O. (2017, September 7). Reproducibility in computationally intensive behavioral research. Talk at the ACI-ICS seminar series, Penn State. [HTML slides](http://gilmore-lab.github.io/aci-ics-2017-09-07/).
 
 Gilmore, R.O. (2017, July 10). The reproducibility crisis in psychology & neuroscience. Talk given at the Penn State Data Reproducibility Bootcamp. [HTML slides](http://gilmore-lab.github.io/psu-data-repro-bootcamp-2017-07-10).
 

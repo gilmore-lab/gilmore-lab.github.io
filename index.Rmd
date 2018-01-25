@@ -6,13 +6,15 @@ Title: Home
 
 ## Mission
 
-The Gilmore Lab in the [Psychology Department](http://psych.la.psu.edu) at [Penn State](http://www.psu.edu) studies the development of perception, action, and memory. Our goal is to understand patterns of brain and behavioral change in infants, children, and young adults. We use behavioral, EEG, and MRI methods in our research. 
+The Gilmore Lab in the [Psychology Department](http://psych.la.psu.edu) at [Penn State](http://www.psu.edu) studies the development of perception, action, and memory. Our goal is to understand patterns of brain and behavioral change in infants, children, and young adults. We use behavioral, EEG, MRI, and computational modeling methods in our research. We also advocate for and try to embrace and demonstrate open science practices in our work. 
 
 ## Active Projects
 
 We have several active projects related to visual perception and open science that are described [here](research.html). You can also get a taste of what we do by visiting the <a href="https://databrary.org">Databrary</a> digital data library, specifically the page devoted to <a href="https://databrary.org/party/6">our research</a>.
 
-During the Spring 2017 semester, we are focusing on improving our collective data science chops thanks to the support of online training offered by [**DataCamp**](http://www.datacamp.com). Thanks, DataCamp!
+During the Fall 2017 semester, we are focusing on improving our collective data science chops thanks to the support of online training offered by 
+<img src="https://pbs.twimg.com/profile_images/883047035758313472/UM0JK6WN_400x400.jpg" height=75px width=50px>
+[**DataCamp**](http://www.datacamp.com). Thanks, DataCamp!
 
 ## Contact Information
 
@@ -20,33 +22,33 @@ Dr. [Rick Gilmore](http://www.personal.psu.edu/rog1), ([rogilmore@psu.edu](mailt
 
 [Andrea Seisler](mailto:ars17@psu.edu) is the Lab Manager.
 
-## Testing Sites
+<!-- ## Testing Sites -->
 
-We have two testing sites. 
+<!-- We have two testing sites.  -->
 
-### 449 Moore
+<!-- ### 449 Moore -->
 
-<p>Department of Psychology</br>
-The Pennsylvania State University</br>
-University Park, PA 16802</br>
-814-863-3116</br>
-</p>
-![Campus map](images/moore-map.jpg)
+<!-- <p>Department of Psychology</br> -->
+<!-- The Pennsylvania State University</br> -->
+<!-- University Park, PA 16802</br> -->
+<!-- 814-863-3116</br> -->
+<!-- </p> -->
+<!-- ![Campus map](images/moore-map.jpg) -->
 
-Parking for studies at the Moore Building can be found in the Nittany Lion Parking Deck.
+<!-- Parking for studies at the Moore Building can be found in the Nittany Lion Parking Deck. -->
 
-### 120 Chandlee
+<!-- ### 120 Chandlee -->
 
-<p>Human Electrophysiology Facility</br>
-[Social, Life, & Engineering Sciences Imaging Center (SLEIC)](http://imaging.psu.edu)</br>
-University Park, PA 16802</br>
-</p>
+<!-- <p>Human Electrophysiology Facility</br> -->
+<!-- [Social, Life, & Engineering Sciences Imaging Center (SLEIC)](http://imaging.psu.edu)</br> -->
+<!-- University Park, PA 16802</br> -->
+<!-- </p> -->
 
-Parking for studies at Chandlee can be found near the building. Our research staff will provide full instructions when we schedule a visit.
+<!-- Parking for studies at Chandlee can be found near the building. Our research staff will provide full instructions when we schedule a visit. -->
 
-## [For Students](pages/students.html)
+## [For Students](pages/who-we-are.html)
 
-The lab employs an active and engaged group of undergraduate and graduate research assistants. If you are a Penn State undergraduate student and wish to be considered for a position in the lab, complete an online application [here](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform).  If you are a prospective graduate student, contact Dr. Gilmore by email.  For more information about current students and alumni, see the [student page](pages/students.html).
+The lab employs an active and engaged group of undergraduate and graduate research assistants. If you are a Penn State undergraduate student and wish to be considered for a position in the lab, complete an online application [here](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform).  If you are a prospective graduate student, contact Dr. Gilmore by email.  For more information about current students and alumni, see the [student page](pages/who-we-are.html).
 
 ## [For Parents](pages/parents.html)
 
