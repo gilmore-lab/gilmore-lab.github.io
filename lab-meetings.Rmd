@@ -4,7 +4,7 @@ Title: lab-meetings
 
 # Lab Meetings
 
-For the Fall 2017 Semester, our first meeting date and time will be **Thursday, August 31, 2017**.
+For the Spring 2018 Semester, we will meet on Thursdays from 9-10am in room 467 Moore.
 
 ## Goals
 
@@ -20,12 +20,10 @@ For the Fall 2017 Semester, our first meeting date and time will be **Thursday, 
 
 ## Let's read
 
-- Finkelstein, A., Las, L., & Ulanovsky, N. (2016). 3-D Maps and Compasses in the Brain. Annual review of neuroscience, 39, 171–196. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013831
-- Egnor, S. E. R., & Branson, K. (2016). Computational Analysis of Behavior. Annual review of neuroscience, 39, 217–236. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013845
-- Kaplan, R., Schuck, N. W., & Doeller, C. F. (2017). The Role of Mental Maps in Decision-Making. Trends in neurosciences, 40(5), 256–259. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.03.002
-- Rowland, D. C., Roudi, Y., Moser, M.-B., & Moser, E. I. (2016). Ten Years of Grid Cells. Annual review of neuroscience, 39, 19–40. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013824  
-~~- Cohen, M. X. (2017). Where Does EEG Come From and What Does It Mean? Trends in neurosciences, 40(4), 208–218. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.02.004~~
-- Chen Yu's work or others on computer vision techniques in developmental science
+- Finkelstein, A., Las, L., & Ulanovsky, N. (2016). 3-D Maps and Compasses in the Brain. *Annual Review of Neuroscience*, *39*, 171–196. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013831
+- Egnor, S. E. R., & Branson, K. (2016). Computational Analysis of Behavior. *Annual Review of Neuroscience*, *39*, 217–236. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013845
+- Kaplan, R., Schuck, N. W., & Doeller, C. F. (2017). The Role of Mental Maps in Decision-Making. *Trends in Neurosciences*, *40*(5), 256–259. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.03.002
+- Rowland, D. C., Roudi, Y., Moser, M.-B., & Moser, E. I. (2016). Ten Years of Grid Cells. *Annual Review of Neuroscience*, *39*, 19–40. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013824
 
 ## Schedule
 
@@ -34,8 +32,21 @@ For the Fall 2017 Semester, our first meeting date and time will be **Thursday, 
 - Agenda
     - Reports
         - Psi Chi dates
-        - Undergrad conference dates
-    - Discuss: Cohen, M. X. (2017). Where Does EEG Come From and What Does It Mean? *Trends in Neurosciences*, *40*(4), 208–218. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.02.004. | [Notes](lab-mtgs/notes-cohen-2017.html) |
+            - Deadlines: Application due ***March 23rd at 4:00 pm***
+            - Conceptual or Empirical research application: Submit as an email attachment (MS Word document) to psichi.honorsociety.psu@gmail.com by March 23, 2018 by 6 PM.
+            - Need to figure out what questions were more important in the domain in order to extract data from.
+            - Psi Chi Conference Date: **April 12th 2-4:30pm**
+        - [Undergrad conference dates](https://undergradresearch.psu.edu/exhibition/)
+             - Poster Presentation—traditional research poster
+             - Performance—Limited to 5 minutes
+             - Oral Presentation (1 slide/visual, 5 minutes)—students will present their research/creative work in 5 minutes using 1
+             - PowerPoint slide or 1 visual display (i.e. an original piece of visual art)
+             - Entries will be accepted ***February 12-March 28, 2018***
+             - Poster Presentation Date: **April 18th, 5-8pm**
+      - Discuss: Cohen, M. X. (2017). Where Does EEG Come From and What Does It Mean? *Trends in Neurosciences*, *40*(4), 208–218. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.02.004. | [Notes](lab-mtgs/notes-cohen-2017.html) |
+- Next Meeting
+    - Jackson, A.F., & Bolger, D. J. (2014) The neurophysiological bases of EEG and EEG measurement: a review for the rest of us. *Psychophysiology*. 2014 Nov;51(11):1061-71. Retrieved from http://dx.doi.org/10.1111/psyp.12283. Epub 2014 Jul 17.
+    - Talk about the grant that Dr. Gilmore is writing about testing different brain measuring equipment
 
 ### 2018-01-18 Thursday
 
@@ -46,3 +57,4 @@ For the Fall 2017 Semester, our first meeting date and time will be **Thursday, 
     - Discuss [jupyter notebooks](http://jupyter.org) and Rick's preliminary work on [`pliers`](https://github.com/tyarkoni/pliers), a tool to apply computer vision/machine learning tools to images, video, and audio.
 - Next meeting
     - Cohen, M. X. (2017). Where Does EEG Come From and What Does It Mean? *Trends in Neurosciences*, 40(4), 208–218. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.02.004
+    
