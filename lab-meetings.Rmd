@@ -23,8 +23,8 @@ For the Fall 2017 Semester, our first meeting date and time will be **Thursday, 
 - Finkelstein, A., Las, L., & Ulanovsky, N. (2016). 3-D Maps and Compasses in the Brain. Annual review of neuroscience, 39, 171–196. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013831
 - Egnor, S. E. R., & Branson, K. (2016). Computational Analysis of Behavior. Annual review of neuroscience, 39, 217–236. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013845
 - Kaplan, R., Schuck, N. W., & Doeller, C. F. (2017). The Role of Mental Maps in Decision-Making. Trends in neurosciences, 40(5), 256–259. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.03.002
-- Rowland, D. C., Roudi, Y., Moser, M.-B., & Moser, E. I. (2016). Ten Years of Grid Cells. Annual review of neuroscience, 39, 19–40. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013824
-- Cohen, M. X. (2017). Where Does EEG Come From and What Does It Mean? Trends in neurosciences, 40(4), 208–218. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.02.004
+- Rowland, D. C., Roudi, Y., Moser, M.-B., & Moser, E. I. (2016). Ten Years of Grid Cells. Annual review of neuroscience, 39, 19–40. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013824  
+~~- Cohen, M. X. (2017). Where Does EEG Come From and What Does It Mean? Trends in neurosciences, 40(4), 208–218. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.02.004~~
 - Chen Yu's work or others on computer vision techniques in developmental science
 
 ## Schedule
