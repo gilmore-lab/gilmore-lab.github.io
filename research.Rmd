@@ -6,7 +6,7 @@ Title: research
 
 <img src="http://databrary.org/theme/img/logo/databrary.png">
 
-The [Databrary Project ](http://databrary.org) aims to increase scientific transparency and accelerate discovery in developmental science by building the infrastructure for researchers to share video data and related meta-data. The project has five specific aims:
+The [Databrary Project ](http://databrary.org) aims to increase scientific transparency and accelerate discovery in developmental science by building infrastructure for researchers to share video data and related meta-data. The project has five specific aims:
 
 - Create a web-based [data library](http://databrary.org) for sharing and preserving video data and associated meta-data.
 - Create participant and contributor/user standards that enable open sharing of video data while limiting access to authorized users to ensure participant confidentiality.
