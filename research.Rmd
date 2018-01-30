@@ -6,7 +6,7 @@ Title: research
 
 <img src="http://databrary.org/theme/img/logo/databrary.png">
 
-The [Databrary Project ](http://databrary.org) aims to increase scientific transparency and accelerate discovery in developmental science by building the infrastructure for researchers to share video data and related meta-data. The project has five specific aims:
+The [Databrary Project ](http://databrary.org) aims to increase scientific transparency and accelerate discovery in developmental science by building infrastructure for researchers to share video data and related meta-data. The project has five specific aims:
 
 - Create a web-based [data library](http://databrary.org) for sharing and preserving video data and associated meta-data.
 - Create participant and contributor/user standards that enable open sharing of video data while limiting access to authorized users to ensure participant confidentiality.
@@ -33,6 +33,9 @@ Databrary is an [open-source](http://github.com/databrary) software project. Pen
 
 **Presentations**
 
+- Gilmore, R.O. (2018, May). Open, says me: Practical solutions for sharing data and materials. Invited talk at the Association for Psychological Science 2018 meeting. San Francisco, CA.
+- Gilmore, R.O. (2018, January 31). Introducing Databrary. Talk given at the Penn State [Software in the Humanities & Social Sciences](https://sites.psu.edu/librarynews/2017/12/11/software-in-the-humanities-and-social-sciences-workshops/) workshop. [HTML slides](https://gilmore-lab.github.io/2018-01-31-software-in-humanities/).
+- Gilmore, R.O. (2018, January 26). The Video DatAbservatory: A platform for behavioral discovery. Talk at the Pathways to Competence initiative meeting of the Penn State Child Study Center. [HTML slides](https://gilmore-lab.github.io/2018-01-26-p2c/). 
 - Gilmore, R.O. (2017, September 29). Data sharing, research ethics, & scientific reproducibility. Talk at the Scholarship and Research Integrity (SARI) workshop series, Penn State. [HTML slides](http://gilmore-lab.github.io/psu-sari-2017-09-28/).
 - Gilmore, R.O. (2017, September 7). Reproducibility in computationally intensive behavioral research. Talk at the ACI-ICS seminar series, Penn State. [HTML slides](http://gilmore-lab.github.io/aci-ics-2017-09-07/).
 - Gilmore, R.O. (2017, August 1). Video can improve the reproducibility of psychological science. Lightning talk at the Society for Improving Psychological Science meeting, Charlottesville, VA. [HTML slides](https://gilmore-lab.github.io/sips-2017-video-reproducibility)
