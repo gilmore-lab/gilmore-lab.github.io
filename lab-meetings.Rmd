@@ -27,14 +27,19 @@ For the Spring 2018 Semester, we will meet on Thursdays from 9-10am in room 467 
 
 ## Schedule
 
+### 2018-02-08 Thursday
+- Agenda
+    - Discuss
+        - Excerpt from Palmer chapter on [Fourier analysis](pdfs/20180202145140744.pdf).
+        - Watch [video](https://youtu.be/spUNpyF58BY)
+        - Rick's [lecture notes](https://psu-psychology.github.io/psy-525-vision-spring-2017/slides/2018-01-29-retinal-image.html#34) on Fourier analysis
+
 ### 2018-02-01 Thursday
 
 - Attending:
-
 - Agenda  
     - Reports
         - Lab Dinner graduate recruit - Monday 2/12 @ X:XX pm @ PLACE  
-  
     - Discuss
         - Jackson, A.F., & Bolger, D. J. (2014) The neurophysiological bases of EEG and EEG measurement: a review for the rest of us. *Psychophysiology*. 2014 Nov;51(11):1061-71. Retrieved from http://dx.doi.org/10.1111/psyp.12283. Epub 2014 Jul 17.
 
