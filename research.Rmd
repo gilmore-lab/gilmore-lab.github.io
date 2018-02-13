@@ -18,7 +18,7 @@ Databrary is an [open-source](http://github.com/databrary) software project. Pen
 
 **Publications**
 
-- Gilmore, R.O., Kennedy, J.L., & Adolph, K.E. (in press). Practical solutions for sharing data and materials from psychological research. *Advances in Methods and Practices in Psychological Science*. [OSF preprint](https://osf.io/rw7f3/).
+- Gilmore, R. O., Kennedy, J. L., & Adolph, K. E. (2018). Practical Solutions for Sharing Data and Materials From Psychological Research. *Advances in Methods and Practices in Psychological Science*, SAGE Publications Inc. Retrieved from https://doi.org/10.1177/2515245917746500. [OSF preprint](https://osf.io/rw7f3/).
 - Adolph, K.E., Gilmore, R.O., & Kennedy, J.L. (2017, October). Video data and documentation will improve psychological science. *Psychological Science Agenda*. <http://www.apa.org/science/about/psa/2017/10/video-data.aspx>
 - Gilmore, R. O., Kennedy, J. L., & Adolph, K. E. (2017, September 7). Practical solutions for the ethical sharing of identifiable research data. Retrieved from <http://psyarxiv.com/kew8u>.
 - Gilmore, R.O. & Adolph, K.E. (2017). Video can make behavioural science more reproducible. *Nature Human Behaviour*. [doi:10.1038/s41562-017-0128](http://doi.org/10.1038/s41562-017-0128).
