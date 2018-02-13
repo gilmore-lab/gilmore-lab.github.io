@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,10 +30,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -247,8 +249,23 @@ $(document).ready(function () {
 <div id="schedule" class="section level2">
 <h2>Schedule</h2>
 <div id="thursday" class="section level3">
+<h3>2018-02-15 Thursday</h3>
+<ul>
+<li>Attending:</li>
+<li>Agenda
+<ul>
+<li>Discuss
+<ul>
+<li>Teller Acuity Cards</li>
+<li>Visual Acuity Paper</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="thursday-1" class="section level3">
 <h3>2018-02-08 Thursday</h3>
 <ul>
+<li>Attending: Rick, Andrea, Charmi, Amber, Alyssa, Sarah</li>
 <li>Agenda
 <ul>
 <li>Discuss
@@ -258,9 +275,13 @@ $(document).ready(function () {
 <li>Rick’s <a href="https://psu-psychology.github.io/psy-525-vision-spring-2017/slides/2018-01-29-retinal-image.html#34">lecture notes</a> on Fourier analysis</li>
 </ul></li>
 </ul></li>
+<li>Next Meeting
+<ul>
+<li>Read paper on Visual Acuity</li>
+</ul></li>
 </ul>
 </div>
-<div id="thursday-1" class="section level3">
+<div id="thursday-2" class="section level3">
 <h3>2018-02-01 Thursday</h3>
 <ul>
 <li>Attending:</li>
@@ -279,7 +300,7 @@ $(document).ready(function () {
 <li>Next Meeting</li>
 </ul>
 </div>
-<div id="thursday-2" class="section level3">
+<div id="thursday-3" class="section level3">
 <h3>2018-01-25 Thursday</h3>
 <ul>
 <li>Agenda
@@ -312,7 +333,7 @@ $(document).ready(function () {
 </ul></li>
 </ul>
 </div>
-<div id="thursday-3" class="section level3">
+<div id="thursday-4" class="section level3">
 <h3>2018-01-18 Thursday</h3>
 <ul>
 <li>Agenda

@@ -27,12 +27,26 @@ For the Spring 2018 Semester, we will meet on Thursdays from 9-10am in room 467 
 
 ## Schedule
 
+### 2018-02-15 Thursday
+
+- Attending: 
+- Agenda
+    - Discuss 
+        - Teller Acuity Cards
+        - Visual Acuity Paper
+
+
 ### 2018-02-08 Thursday
+
+- Attending: Rick, Andrea, Charmi, Amber, Alyssa, Sarah
 - Agenda
     - Discuss
         - Excerpt from Palmer chapter on [Fourier analysis](pdfs/20180202145140744.pdf).
         - Watch [video](https://youtu.be/spUNpyF58BY)
         - Rick's [lecture notes](https://psu-psychology.github.io/psy-525-vision-spring-2017/slides/2018-01-29-retinal-image.html#34) on Fourier analysis
+        
+- Next Meeting 
+    - Read paper on Visual Acuity
 
 ### 2018-02-01 Thursday
 
