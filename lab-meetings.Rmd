@@ -27,13 +27,27 @@ For the Spring 2018 Semester, we will meet on Thursdays from 9-10am in room 467 
 
 ## Schedule
 
-### 2018-02-15 Thursday
+### 2018-02-22 Thursday
 
 - Attending: 
-- Agenda
+- Agenda 
     - Discuss 
-        - Teller Acuity Cards
-        - Visual Acuity Paper
+        - Lee, D. N., & Reddish, P. E. (1981). Plummeting gannets: a paradigm of ecological optics. Nature, 293, 293. Nature Publishing Group. Retrieved from http://dx.doi.org/10.1038/293293a0
+- Next Meeting     
+
+### 2018-02-15 Thursday
+
+- Attending: Rick, Andrea, Alyssa, Sarah, Amber, Charmi 
+- Agenda 
+    - Discuss 
+        - Visual Acuity Paper: Nityananda, V., Tarawneh, G., Henriksen, S., Umeton, D., Simmons, A., & Read, J. C. A. (2018). A Novel Form of Stereo Vision in the Praying Mantis. Current biology: CB. Retrieved from http://dx.doi.org/10.1016/j.cub.2018.01.012 
+        - Vestibular motion 
+        - [Psi Chi Conference](http://sites.psu.edu/psichi/research-conference-2/) 
+              - Application due March 23rd at 4:00 pm - [Pertinent Information](https://docs.google.com/document/d/1CBm5eAsiAbZv1Iol2dasNsdMb1KHkp4srFkl2pgE2vY/edit?usp=sharing)
+              - Draft after spring break 
+- Next Meeting 
+    - read: Lee, D. N., & Reddish, P. E. (1981). Plummeting gannets: a paradigm of ecological optics. Nature, 293, 293. Nature Publishing Group. Retrieved from http://dx.doi.org/10.1038/293293a0
+    - Discuss Teller Acuity Cards and Stereo Vision Tests
 
 
 ### 2018-02-08 Thursday
@@ -53,7 +67,7 @@ For the Spring 2018 Semester, we will meet on Thursdays from 9-10am in room 467 
 - Attending:
 - Agenda  
     - Reports
-        - Lab Dinner graduate recruit - Monday 2/12 @ X:XX pm @ PLACE  
+        - Lab Dinner graduate recruit - Monday 2/12 @ 5:45 pm @ The Field
     - Discuss
         - Jackson, A.F., & Bolger, D. J. (2014) The neurophysiological bases of EEG and EEG measurement: a review for the rest of us. *Psychophysiology*. 2014 Nov;51(11):1061-71. Retrieved from http://dx.doi.org/10.1111/psyp.12283. Epub 2014 Jul 17.
 

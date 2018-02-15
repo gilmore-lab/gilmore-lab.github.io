@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,10 +30,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -247,20 +249,44 @@ $(document).ready(function () {
 <div id="schedule" class="section level2">
 <h2>Schedule</h2>
 <div id="thursday" class="section level3">
-<h3>2018-02-15 Thursday</h3>
+<h3>2018-02-22 Thursday</h3>
 <ul>
 <li>Attending:</li>
 <li>Agenda
 <ul>
 <li>Discuss
 <ul>
-<li>Teller Acuity Cards</li>
-<li>Visual Acuity Paper</li>
+<li>Lee, D. N., &amp; Reddish, P. E. (1981). Plummeting gannets: a paradigm of ecological optics. Nature, 293, 293. Nature Publishing Group. Retrieved from <a href="http://dx.doi.org/10.1038/293293a0" class="uri">http://dx.doi.org/10.1038/293293a0</a></li>
 </ul></li>
 </ul></li>
+<li>Next Meeting</li>
 </ul>
 </div>
 <div id="thursday-1" class="section level3">
+<h3>2018-02-15 Thursday</h3>
+<ul>
+<li>Attending: Rick, Andrea, Alyssa, Sarah, Amber, Charmi</li>
+<li>Agenda
+<ul>
+<li>Discuss
+<ul>
+<li>Visual Acuity Paper: Nityananda, V., Tarawneh, G., Henriksen, S., Umeton, D., Simmons, A., &amp; Read, J. C. A. (2018). A Novel Form of Stereo Vision in the Praying Mantis. Current biology: CB. Retrieved from <a href="http://dx.doi.org/10.1016/j.cub.2018.01.012" class="uri">http://dx.doi.org/10.1016/j.cub.2018.01.012</a></li>
+<li>Vestibular motion</li>
+<li><a href="http://sites.psu.edu/psichi/research-conference-2/">Psi Chi Conference</a>
+<ul>
+<li>Application due March 23rd at 4:00 pm - <a href="https://docs.google.com/document/d/1CBm5eAsiAbZv1Iol2dasNsdMb1KHkp4srFkl2pgE2vY/edit?usp=sharing">Pertinent Information</a></li>
+<li>Draft after spring break</li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li>Next Meeting
+<ul>
+<li>read: Lee, D. N., &amp; Reddish, P. E. (1981). Plummeting gannets: a paradigm of ecological optics. Nature, 293, 293. Nature Publishing Group. Retrieved from <a href="http://dx.doi.org/10.1038/293293a0" class="uri">http://dx.doi.org/10.1038/293293a0</a></li>
+<li>Discuss Teller Acuity Cards and Stereo Vision Tests</li>
+</ul></li>
+</ul>
+</div>
+<div id="thursday-2" class="section level3">
 <h3>2018-02-08 Thursday</h3>
 <ul>
 <li>Attending: Rick, Andrea, Charmi, Amber, Alyssa, Sarah</li>
@@ -279,7 +305,7 @@ $(document).ready(function () {
 </ul></li>
 </ul>
 </div>
-<div id="thursday-2" class="section level3">
+<div id="thursday-3" class="section level3">
 <h3>2018-02-01 Thursday</h3>
 <ul>
 <li>Attending:</li>
@@ -287,8 +313,7 @@ $(document).ready(function () {
 <ul>
 <li>Reports
 <ul>
-<li>Lab Dinner graduate recruit - Monday 2/12 @ X:XX pm @ PLACE<br />
-</li>
+<li>Lab Dinner graduate recruit - Monday 2/12 @ 5:45 pm @ The Field</li>
 </ul></li>
 <li>Discuss
 <ul>
@@ -298,7 +323,7 @@ $(document).ready(function () {
 <li>Next Meeting</li>
 </ul>
 </div>
-<div id="thursday-3" class="section level3">
+<div id="thursday-4" class="section level3">
 <h3>2018-01-25 Thursday</h3>
 <ul>
 <li>Agenda
@@ -331,7 +356,7 @@ $(document).ready(function () {
 </ul></li>
 </ul>
 </div>
-<div id="thursday-4" class="section level3">
+<div id="thursday-5" class="section level3">
 <h3>2018-01-18 Thursday</h3>
 <ul>
 <li>Agenda
