@@ -80,7 +80,7 @@ The aim of the project is to develop a new approach to developmental science tha
 - Adolph, K., Tamis-LeMonda, C. & Gilmore, R.O. (2016). PLAY Project: Materials. Databrary. Retrieved December 19, 2017 from <https://nyu.databrary.org/volume/254>.
 Adolph, K., Tamis-LeMonda, C. & Gilmore, R.O. (2016). PLAY Project: Webinar discussions on protocol and coding. Databrary. Retrieved December 19, 2017 from <https://nyu.databrary.org/volume/232>.
 
-** Collaborators**
+**Collaborators**
 
 - Karen Adolph, New York University, Co-Principal Investigator
 - Catherine Tamis-LeMonda, New York University, Co-Principal Investigator
