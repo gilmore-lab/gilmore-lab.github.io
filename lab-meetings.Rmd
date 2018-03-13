@@ -27,14 +27,33 @@ For the Spring 2018 Semester, we will meet on Thursdays from 9-10am in room 467 
 
 ## Schedule
 
+### 2018-03-15 Thursday  
+
+- Attending: 
+- Agenda  
+    - Discuss:
+        - [Galaxy S9](https://www.youtube.com/watch?v=5_-NKRVn7IQ) - New Camera Phone with Iris
+        - Fortenbaugh, F. C., Hicks, J. C., Hao, L., & Turano, K. A. (2006). High-speed navigators: Using more than what meets the eye. Journal of vision, 6(5), 565–579. Retrieved from http://dx.doi.org/10.1167/6.5.3
+        - How to create a data repository on R
+
 ### 2018-03-01 Thursday
 
-- Attending:  
+- Attending: Rick, Andrea, Sarah, Charmi, Alyssa
 - Agenda  
-    - Discuss:  
+    - Discuss: 
+        - Talk about RIDIR NSF submission - for research infrastructure
+        - Project Updates  
+            - Infant MOCO  
+                - outline paper  
+                - switch from R server to RStudio local  
+            - Map of PLAY project locations  
+                - ggmap using census data  
+                - Create Shiny App - In progress 
+            - PLAY pilot data survey results and workflow analysis to aid in future data collection   
         - [Chapter 2](pdfs/gibson-1979-ch-2.pdf) - Gibson, J. J. (2014). The Ecological Approach to Visual Perception: Classic Edition. Psychology Press.  
         - [Galaxy S9](https://www.youtube.com/watch?v=5_-NKRVn7IQ) - New Camera Phone with Iris
 - Next Meeting: 3/15/2018
+    - Pick K. Adolph paper and find related videos on Databrary - crawling vs. walking
 
 ### 2018-02-22 Thursday
 

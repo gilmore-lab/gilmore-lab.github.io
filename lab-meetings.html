@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,10 +30,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -247,23 +249,59 @@ $(document).ready(function () {
 <div id="schedule" class="section level2">
 <h2>Schedule</h2>
 <div id="thursday" class="section level3">
-<h3>2018-03-01 Thursday</h3>
+<h3>2018-03-15 Thursday</h3>
 <ul>
-<li>Attending:<br />
-</li>
+<li>Attending:</li>
 <li>Agenda
 <ul>
 <li>Discuss:
 <ul>
+<li><a href="https://www.youtube.com/watch?v=5_-NKRVn7IQ">Galaxy S9</a> - New Camera Phone with Iris</li>
+<li>Fortenbaugh, F. C., Hicks, J. C., Hao, L., &amp; Turano, K. A. (2006). High-speed navigators: Using more than what meets the eye. Journal of vision, 6(5), 565–579. Retrieved from <a href="http://dx.doi.org/10.1167/6.5.3" class="uri">http://dx.doi.org/10.1167/6.5.3</a></li>
+<li>How to create a data repository on R</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="thursday-1" class="section level3">
+<h3>2018-03-01 Thursday</h3>
+<ul>
+<li>Attending: Rick, Andrea, Sarah, Charmi, Alyssa</li>
+<li>Agenda
+<ul>
+<li>Discuss:
+<ul>
+<li>Talk about RIDIR NSF submission - for research infrastructure</li>
+<li>Project Updates
+<ul>
+<li>Infant MOCO
+<ul>
+<li>outline paper<br />
+</li>
+<li>switch from R server to RStudio local<br />
+</li>
+</ul></li>
+<li>Map of PLAY project locations
+<ul>
+<li>ggmap using census data<br />
+</li>
+<li>Create Shiny App - In progress</li>
+</ul></li>
+<li>PLAY pilot data survey results and workflow analysis to aid in future data collection<br />
+</li>
+</ul></li>
 <li><a href="pdfs/gibson-1979-ch-2.pdf">Chapter 2</a> - Gibson, J. J. (2014). The Ecological Approach to Visual Perception: Classic Edition. Psychology Press.<br />
 </li>
 <li><a href="https://www.youtube.com/watch?v=5_-NKRVn7IQ">Galaxy S9</a> - New Camera Phone with Iris</li>
 </ul></li>
 </ul></li>
-<li>Next Meeting: 3/15/2018</li>
+<li>Next Meeting: 3/15/2018
+<ul>
+<li>Pick K. Adolph paper and find related videos on Databrary - crawling vs. walking</li>
+</ul></li>
 </ul>
 </div>
-<div id="thursday-1" class="section level3">
+<div id="thursday-2" class="section level3">
 <h3>2018-02-22 Thursday</h3>
 <ul>
 <li>Attending: Rick, Andrea, Sarah, Charmi, Amber, Quendresa, Alyssa<br />
@@ -285,7 +323,7 @@ $(document).ready(function () {
 </ul></li>
 </ul>
 </div>
-<div id="thursday-2" class="section level3">
+<div id="thursday-3" class="section level3">
 <h3>2018-02-15 Thursday</h3>
 <ul>
 <li>Attending: Rick, Andrea, Alyssa, Sarah, Amber, Charmi</li>
@@ -309,7 +347,7 @@ $(document).ready(function () {
 </ul></li>
 </ul>
 </div>
-<div id="thursday-3" class="section level3">
+<div id="thursday-4" class="section level3">
 <h3>2018-02-08 Thursday</h3>
 <ul>
 <li>Attending: Rick, Andrea, Charmi, Amber, Alyssa, Sarah</li>
@@ -328,7 +366,7 @@ $(document).ready(function () {
 </ul></li>
 </ul>
 </div>
-<div id="thursday-4" class="section level3">
+<div id="thursday-5" class="section level3">
 <h3>2018-02-01 Thursday</h3>
 <ul>
 <li>Attending:</li>
@@ -346,7 +384,7 @@ $(document).ready(function () {
 <li>Next Meeting</li>
 </ul>
 </div>
-<div id="thursday-5" class="section level3">
+<div id="thursday-6" class="section level3">
 <h3>2018-01-25 Thursday</h3>
 <ul>
 <li>Agenda
@@ -379,7 +417,7 @@ $(document).ready(function () {
 </ul></li>
 </ul>
 </div>
-<div id="thursday-6" class="section level3">
+<div id="thursday-7" class="section level3">
 <h3>2018-01-18 Thursday</h3>
 <ul>
 <li>Agenda
