@@ -46,8 +46,10 @@ For the Spring 2018 Semester, we will meet on Thursdays from 9-10am in room 467 
         - [Galaxy S9](https://www.youtube.com/watch?v=5_-NKRVn7IQ) - New Camera Phone with Iris
         - Fortenbaugh, F. C., Hicks, J. C., Hao, L., & Turano, K. A. (2006). High-speed navigators: Using more than what meets the eye. Journal of vision, 6(5), 565–579. Retrieved from http://dx.doi.org/10.1167/6.5.3  
         - [databrary-r-api overview](https://rawgit.com/gilmore-lab/databrary-r-api/master/vignettes.html) - Shared data in one or more repositories that can be easily accessed, visualized, and analyzed because the data are in a common format. A new way interact with data on Databrary 
+        - [R commands to access Databrary](https://github.com/gilmore-lab/databrary-r-api)
 - Next Meeting:  
     - Read: Ballard, D. H., Hayhoe, M. M., & Pelz, J. B. (1995). Memory representations in natural tasks. Journal of cognitive neuroscience, 7(1), 66–80. Retrieved from http://dx.doi.org/10.1162/jocn.1995.7.1.66
+
 
 ### 2018-03-01 Thursday
 
