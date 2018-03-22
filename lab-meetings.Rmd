@@ -29,10 +29,12 @@ For the Spring 2018 Semester, we will meet on Thursdays from 9-10am in room 467 
 
 ### 2018-03-22 Thursday
 
-- Attending: 
+- Attending: Rick, Andrea, Sarah, Charmi, Alyssa
 - Agenda  
     - Posters for upcoming undergraduate conferences
+        - Charmi and Alyssa will submit Friday
     - Diagnose issue with PLAY pilot crawling and walking onsets (ROG)
+        - Review videos for issues with locomotion.csv to confirm survey answers
     - Give Rick feedback about [IBAD paper](https://github.com/PLAY-behaviorome/ibad-lets-PLAY) plots.
     - Discuss: Ballard, D. H., Hayhoe, M. M., & Pelz, J. B. (1995). Memory representations in natural tasks. Journal of cognitive neuroscience, 7(1), 66–80. Retrieved from http://dx.doi.org/10.1162/jocn.1995.7.1.66  
 
