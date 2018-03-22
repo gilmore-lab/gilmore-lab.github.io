@@ -31,9 +31,10 @@ For the Spring 2018 Semester, we will meet on Thursdays from 9-10am in room 467 
 
 - Attending: 
 - Agenda  
-    - Discuss: 
-        - Posters for upcoming undergraduate conferences
-        - Ballard, D. H., Hayhoe, M. M., & Pelz, J. B. (1995). Memory representations in natural tasks. Journal of cognitive neuroscience, 7(1), 66–80. Retrieved from http://dx.doi.org/10.1162/jocn.1995.7.1.66  
+    - Posters for upcoming undergraduate conferences
+    - Diagnose issue with PLAY pilot crawling and walking onsets (ROG)
+    - Give Rick feedback about [IBAD paper](https://github.com/PLAY-behaviorome/ibad-lets-PLAY) plots.
+    - Discuss: Ballard, D. H., Hayhoe, M. M., & Pelz, J. B. (1995). Memory representations in natural tasks. Journal of cognitive neuroscience, 7(1), 66–80. Retrieved from http://dx.doi.org/10.1162/jocn.1995.7.1.66  
 
 ### 2018-03-15 Thursday  
 
