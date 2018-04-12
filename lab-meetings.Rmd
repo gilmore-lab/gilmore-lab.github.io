@@ -27,6 +27,22 @@ For the Spring 2018 Semester, we will meet on Thursdays from 9-10am in room 467 
 
 ## Schedule
 
+### 2018-04-12 Thursday
+
+- Attending: Rick, Andrea, Sarah, Charmi, Alyssa
+- Agenda
+    - Practice Poster Presentations
+        - Infant brain responses differentiate between optic flow patterns and motion speeds - Alyssa 
+        - Reanalyzing Shared Data about Brains and Behavior - Charmi 
+    - Review Databrary API - Package to interact with Databrary using R
+        - devtools::load_all()  - use to load tool
+          - summarize_demog(volume = VOLNUMBER)
+          - download videos
+          - BUG: list_assets_by_type (type = "text") 
+          - list_people: only show authorized people
+          - instructions: github PLAY-behaviorome
+          - can 2 different accounts be logged in at the same time?
+        
 ### 2018-03-22 Thursday
 
 - Attending: Rick, Andrea, Sarah, Charmi, Alyssa
