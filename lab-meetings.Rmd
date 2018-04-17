@@ -27,6 +27,19 @@ For the Spring 2018 Semester, we will meet on Thursdays from 9-10am in room 467 
 
 ## Schedule
 
+### 2018-05-03 Breakfast
+
+- Lab breakfast 8:30am at E. College Waffle Shop
+
+### 2018-04-26 **No Meeting**
+
+### 2018-04-19 Thursday
+
+- Attending:
+- Agenda
+    - Create reproducible workflow for using [ShareLaTeX](https://www.sharelatex.com/) 
+        - Learn how to [sync GitHub and ShareLaTeX](https://www.sharelatex.com/blog/2015/02/10/shareLaTeX-github-sync.html)
+
 ### 2018-04-12 Thursday
 
 - Attending: Rick, Andrea, Sarah, Charmi, Alyssa
