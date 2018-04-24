@@ -67,7 +67,7 @@ Congratulations to our Undergraduate Research Assistants for presenting their po
 ![](images/2018PsiChiAlyssaPandos.jpg)  
 <br>
 <br>
-Charmi Mehta presented her poster **Reanalyzing Shared Data about Brains and Behavior**. 
+Charmi Mehta presented her poster [Reanalyzing Shared Data about Brains and Behavior](https://github.com/gilmore-lab/brain-behavior-data/blob/master/pubs/psi-chi-2018/mehta-psi-chi-2018.pdf). 
 
 ![Charmi Mehta](images/2018PsiChiCharmiMehta.jpg)</center>
 
