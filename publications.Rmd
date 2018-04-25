@@ -84,7 +84,7 @@ Six-month-olds' performance on two versions of the oculomotor delayed
 response task. *Journal of Experimental Child Psychology,* *59*,
 397-418. [doi:10.1006/jecp.1995.1019](http://dx.doi.org/10.1006/jecp.1995.1019).
 
-## Book chapters, preprints, and technical reports
+## Other (non-peer-reviewed) publications
 
 Adolph, K.E., Gilmore, R.O., & Kennedy, J.L. (2017, October). Video data and documentation will improve psychological science. *Psychological Science Agenda*. <http://www.apa.org/science/about/psa/2017/10/video-data.aspx>.
 
@@ -134,6 +134,14 @@ infants* (Developmental Cognitive Neuroscience Tech. Report 95-3).
 London: U.K. MRC Cognitive Development Unit.
 
 # Invited Talks
+
+Gilmore, R.O. (2018, April 25). Video as data and documentation. Talk in the Department of Communication Arts & Sciences, Penn State. [HTML slides](http://gilmore-lab.github.io/2018-04-25-introducing-databrary/).
+
+Gilmore, R.O. (2018, February 14). The future of quantitative developmental science. Talk given at the Quantitative Developmental Methodology brown bag series. [HTML slides](http://gilmore-lab.github.io/2018-02-14-quant-dev/).
+
+Gilmore, R.O. (2018, January 31). Introducing Databrary. Talk given at the Penn State [Software in the Humanities & Social Sciences](https://sites.psu.edu/librarynews/2017/12/11/software-in-the-humanities-and-social-sciences-workshops/) workshop. [HTML slides](https://gilmore-lab.github.io/2018-01-31-software-in-humanities/).
+
+Gilmore, R.O. (2018, January 26). The Video DatAbservatory: A platform for behavioral discovery. Talk at the Pathways to Competence initiative meeting of the Penn State Child Study Center. [HTML slides](https://gilmore-lab.github.io/2018-01-26-p2c/).
 
 Gilmore, R.O. (2017, September 7). Reproducibility in computationally intensive behavioral research. Talk at the ACI-ICS seminar series, Penn State. [HTML slides](http://gilmore-lab.github.io/aci-ics-2017-09-07/).
 
