@@ -88,7 +88,7 @@ Simon, D.A., Gordon, A.S., Steiger, L., & Gilmore, R.O. (2015, June). Databrary:
 
 **Collaborators**
 
-- Karen Adolph, New York University, Co-Principal Investigator and Project Director
+- Karen Adolph, New York University, Co-Principal Investigator and Project Director.
 - David Millman, New York University, Co-Investigator.
 
 **Support**
@@ -201,6 +201,18 @@ A 5-year-old overhears her parents arguing loudly in the next room. She may not 
 
 Moriarty, P. M., Vigeant, M. C., Liu, P., Gilmore, R., Wolf, R., & Cole, P. M. (2016). Low frequency analysis of acoustical parameters of emotional speech for use with functional magnetic resonance imaging. *The Journal of the Acoustical Society of America*, *140*(4), 3237–3238. Acoustical Society of America. Retrieved from https://doi.org/10.1121/1.4970240
 
+Maggi, M., Cole, P., Elbich, D., Gilmore, R.O., Pérez–Edgar, K., Scherf, K.S. (submitted). Hearing emotions: School-aged children's neural processing of the human voice and affective prosody.
+
+Liu, P., Cole, P., Gilmore, R.O., Pérez-Edgar, K., Vigeant, M., Moriarty, P., Scherf, K.S. (submitted). Mother's voice uniquely modulates young children's voice-sensitive neural network.
+
+**Presentations**
+
+Stoop, T.B., Moriarty, P., Vigeant, M., Gilmore, R.O., Liu, P., & Cole, P.M. (submitted). Children’s ratings of vocal emotion intensity depend on the emotion spoken and speaker familiarity but not acoustic parameters.
+
+Moriarty, P., Vigeant, M., Liu, P. Gilmore, R.O, & Cole, P.M. (submitted) Comparing theory, consensus, and perception to the acoustics of emotional speech.
+
+Moriarty, P.M., Vigeant, M., Wolf, R., Gilmore, R., & Cole, P. (2018). Creation and characterization of an emotional speech database. *The Journal of the Acoustical Society of America*, *143*(3), 1869–1869. ASA. Retrieved from https://asa.scitation.org/doi/abs/10.1121/1.5036133
+
 **Collaborators**
 
 - Pamela Cole, Penn State
@@ -210,6 +222,7 @@ Moriarty, P. M., Vigeant, M. C., Liu, P., Gilmore, R., Wolf, R., & Cole, P. M. (
 - Pan Liu
 - Mirella Maggi
 - Peter Moriarty, Penn State
+- Tawni O'Dell, Penn State
 
 **Materials**
 
@@ -230,7 +243,6 @@ Down Syndrome (DS) is the most common known genetic origin of intellectual disab
 - Krista Wilkinson, Penn State, Principal Investigator
 
 **Materials**
-
 
 Gilmore, R.O. (2017). Wilkinson-lab. Code repository on GitHub. Retrieved December 19, 2017 from <https://github.com/gilmore-lab/wilkinson-lab>.
 
