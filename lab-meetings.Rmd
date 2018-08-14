@@ -4,19 +4,18 @@ Title: lab-meetings
 
 # Lab Meetings
 
-For the Spring 2018 Semester, we will meet on Thursdays from 9-10am in room 467 Moore.
+For the Fall 2018 Semester, we will meet on XXXX from XXam in room XX Moore.
 
 ## Goals
 
-- Submit posters to Psi Chi conference on the "size matters" project, infant MOCO, PLAY.
+- Submit posters to Psi Chi conference on PLAY.
 - Submit papers from infant MOCO, child/adult MOCO psychophysics
 - Analyze the child MOFO
 - Train on locomotion coding on PLAY pilots
 - Learn more about jupyter notebooks and python
 - Read more primary source papers
 - Turn data from "size matters" into a Shiny app
-- Write/edit LaTex posters in RMarkdown
-- Discuss new federal regulations, Common Rule
+
 
 ## Let's read
 
@@ -27,162 +26,5 @@ For the Spring 2018 Semester, we will meet on Thursdays from 9-10am in room 467 
 
 ## Schedule
 
-### 2018-05-03 Breakfast
 
-- Lab breakfast 8:30am at E. College Waffle Shop
-
-### 2018-04-26 **No Meeting**
-
-### 2018-04-19 Thursday
-
-- Attending:
-- Agenda
-    - Create reproducible workflow for using [ShareLaTeX](https://www.sharelatex.com/) 
-        - Learn how to [sync GitHub and ShareLaTeX](https://www.sharelatex.com/blog/2015/02/10/shareLaTeX-github-sync.html)
-
-### 2018-04-12 Thursday
-
-- Attending: Rick, Andrea, Sarah, Charmi, Alyssa
-- Agenda
-    - Practice Poster Presentations
-        - Infant brain responses differentiate between optic flow patterns and motion speeds - Alyssa 
-        - Reanalyzing Shared Data about Brains and Behavior - Charmi 
-    - Review Databrary API - Package to interact with Databrary using R
-        - devtools::load_all()  - use to load tool
-          - summarize_demog(volume = VOLNUMBER)
-          - download videos
-          - BUG: list_assets_by_type (type = "text") 
-          - list_people: only show authorized people
-          - instructions: github PLAY-behaviorome
-          - can 2 different accounts be logged in at the same time?
-        
-### 2018-03-22 Thursday
-
-- Attending: Rick, Andrea, Sarah, Charmi, Alyssa
-- Agenda  
-    - Posters for upcoming undergraduate conferences
-        - Charmi and Alyssa will submit Friday
-    - Diagnose issue with PLAY pilot crawling and walking onsets (ROG)
-        - Review videos for issues with locomotion.csv to confirm survey answers
-    - Give Rick feedback about [IBAD paper](https://github.com/PLAY-behaviorome/ibad-lets-PLAY) plots.
-    - Discuss: Ballard, D. H., Hayhoe, M. M., & Pelz, J. B. (1995). Memory representations in natural tasks. Journal of cognitive neuroscience, 7(1), 66–80. Retrieved from http://dx.doi.org/10.1162/jocn.1995.7.1.66  
-
-### 2018-03-15 Thursday  
-
-- Attending: Rick, Andrea, Sarah, Charmi, Amber, Alyssa
-- Agenda  
-    - Discuss:
-        - Databrary User Growth Plot  
-            - How to create plot using R  
-            - Aesthetic feedback provided  
-        - [Galaxy S9](https://www.youtube.com/watch?v=5_-NKRVn7IQ) - New Camera Phone with Iris
-        - Fortenbaugh, F. C., Hicks, J. C., Hao, L., & Turano, K. A. (2006). High-speed navigators: Using more than what meets the eye. Journal of vision, 6(5), 565–579. Retrieved from http://dx.doi.org/10.1167/6.5.3  
-        - [databrary-r-api overview](https://rawgit.com/gilmore-lab/databrary-r-api/master/vignettes.html) - Shared data in one or more repositories that can be easily accessed, visualized, and analyzed because the data are in a common format. A new way interact with data on Databrary 
-        - [R commands to access Databrary](https://github.com/gilmore-lab/databrary-r-api)
-- Next Meeting:  
-    - Read: Ballard, D. H., Hayhoe, M. M., & Pelz, J. B. (1995). Memory representations in natural tasks. Journal of cognitive neuroscience, 7(1), 66–80. Retrieved from http://dx.doi.org/10.1162/jocn.1995.7.1.66
-
-
-### 2018-03-01 Thursday
-
-- Attending: Rick, Andrea, Sarah, Charmi, Alyssa
-- Agenda  
-    - Discuss: 
-        - Talk about RIDIR NSF submission - for research infrastructure
-        - Project Updates  
-            - Infant MOCO  
-                - outline paper  
-                - switch from R server to RStudio local  
-            - Map of PLAY project locations  
-                - ggmap using census data  
-                - Create Shiny App - In progress 
-            - PLAY pilot data survey results and workflow analysis to aid in future data collection   
-        - [Chapter 2](pdfs/gibson-1979-ch-2.pdf) - Gibson, J. J. (2014). The Ecological Approach to Visual Perception: Classic Edition. Psychology Press.  
-        - [Galaxy S9](https://www.youtube.com/watch?v=5_-NKRVn7IQ) - New Camera Phone with Iris
-- Next Meeting: 3/15/2018
-    - Pick K. Adolph paper and find related videos on Databrary - crawling vs. walking
-
-### 2018-02-22 Thursday
-
-- Attending: Rick, Andrea, Sarah, Charmi, Amber, Quendresa, Alyssa  
-- Agenda 
-    - Discuss 
-        - Watch 'Torpedo Gannet Diving!' Video
-        - Lee, D. N., & Reddish, P. E. (1981). Plummeting gannets: a paradigm of ecological optics. Nature, 293, 293. Nature Publishing Group. Retrieved from http://dx.doi.org/10.1038/293293a0
-        - <https://youtu.be/1Cp1n_vPvYY>
-- Next Meeting     
-        - Time to contact issues in different sports
-        - Difference between aiming and steering, balance, object manipulation
-        - Vision testing tools - Teller Acuity Cards
-- Next Meeting       
-    - Read [Chapter 2](pdfs/gibson-1979-ch-2.pdf): Gibson, J. J. (2014). The Ecological Approach to Visual Perception: Classic Edition. Psychology Press. Retrieved from https://market.android.com/details?id=book-8BSLBQAAQBAJ  
-    
-### 2018-02-15 Thursday
-
-- Attending: Rick, Andrea, Alyssa, Sarah, Amber, Charmi 
-- Agenda 
-    - Discuss 
-        - Visual Acuity Paper: Nityananda, V., Tarawneh, G., Henriksen, S., Umeton, D., Simmons, A., & Read, J. C. A. (2018). A Novel Form of Stereo Vision in the Praying Mantis. Current biology: CB. Retrieved from http://dx.doi.org/10.1016/j.cub.2018.01.012 
-        - Vestibular motion 
-        - [Psi Chi Conference](http://sites.psu.edu/psichi/research-conference-2/) 
-              - Application due March 23rd at 4:00 pm - [Pertinent Information](https://docs.google.com/document/d/1CBm5eAsiAbZv1Iol2dasNsdMb1KHkp4srFkl2pgE2vY/edit?usp=sharing)
-              - Draft after spring break 
-- Next Meeting 
-    - read: Lee, D. N., & Reddish, P. E. (1981). Plummeting gannets: a paradigm of ecological optics. Nature, 293, 293. Nature Publishing Group. Retrieved from http://dx.doi.org/10.1038/293293a0
-    - Discuss Teller Acuity Cards and Stereo Vision Tests
-
-
-### 2018-02-08 Thursday
-
-- Attending: Rick, Andrea, Charmi, Amber, Alyssa, Sarah
-- Agenda
-    - Discuss
-        - Excerpt from Palmer chapter on [Fourier analysis](pdfs/20180202145140744.pdf).
-        - Watch [video](https://youtu.be/spUNpyF58BY)
-        - Rick's [lecture notes](https://psu-psychology.github.io/psy-525-vision-spring-2017/slides/2018-01-29-retinal-image.html#34) on Fourier analysis
-        
-- Next Meeting 
-    - Read paper on Visual Acuity
-
-### 2018-02-01 Thursday
-
-- Attending:
-- Agenda  
-    - Reports
-        - Lab Dinner graduate recruit - Monday 2/12 @ 5:45 pm @ The Field
-    - Discuss
-        - Jackson, A.F., & Bolger, D. J. (2014) The neurophysiological bases of EEG and EEG measurement: a review for the rest of us. *Psychophysiology*. 2014 Nov;51(11):1061-71. Retrieved from http://dx.doi.org/10.1111/psyp.12283. Epub 2014 Jul 17.
-
-- Next Meeting
-
-### 2018-01-25 Thursday
-
-- Agenda
-    - Reports
-        - Psi Chi dates
-            - Deadlines: Application due ***March 23rd at 4:00 pm***
-            - Conceptual or Empirical research application: Submit as an email attachment (MS Word document) to psichi.honorsociety.psu@gmail.com by March 23, 2018 by 6 PM.
-            - Need to figure out what questions were more important in the domain in order to extract data from.
-            - Psi Chi Conference Date: **April 12th 2-4:30pm**
-        - [Undergrad conference dates](https://undergradresearch.psu.edu/exhibition/)
-             - Poster Presentation—traditional research poster
-             - Performance—Limited to 5 minutes
-             - Oral Presentation (1 slide/visual, 5 minutes)—students will present their research/creative work in 5 minutes using 1
-             - PowerPoint slide or 1 visual display (i.e. an original piece of visual art)
-             - Entries will be accepted ***February 12-March 28, 2018***
-             - Poster Presentation Date: **April 18th, 5-8pm**
-      - Discuss: Cohen, M. X. (2017). Where Does EEG Come From and What Does It Mean? *Trends in Neurosciences*, *40*(4), 208–218. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.02.004. | [Notes](lab-mtgs/notes-cohen-2017.html) |
-- Next Meeting
-    - Jackson, A.F., & Bolger, D. J. (2014) The neurophysiological bases of EEG and EEG measurement: a review for the rest of us. *Psychophysiology*. 2014 Nov;51(11):1061-71. Retrieved from http://dx.doi.org/10.1111/psyp.12283. Epub 2014 Jul 17.
-    - Talk about the grant that Dr. Gilmore is writing about testing different brain measuring equipment
-
-### 2018-01-18 Thursday
-
-- Agenda
-    - Goal-setting
-    - Assign Psi Chi submission info and report (Sarah)
-    - Info about undergrad research conference (Charmi)
-    - Discuss [jupyter notebooks](http://jupyter.org) and Rick's preliminary work on [`pliers`](https://github.com/tyarkoni/pliers), a tool to apply computer vision/machine learning tools to images, video, and audio.
-- Next meeting
-    - Cohen, M. X. (2017). Where Does EEG Come From and What Does It Mean? *Trends in Neurosciences*, 40(4), 208–218. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.02.004
     
