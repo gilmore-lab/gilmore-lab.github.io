@@ -4,7 +4,7 @@ Title: lab-meetings
 
 # Lab Meetings
 
-For the Fall 2018 Semester, we will meet on Wednesdays from 9-10 am in room 444 Moore.
+For the Fall 2018 Semester, we will meet on Wednesdays starting 8/29/18 from 9-10 am in room 444 Moore.
 
 ## Goals
 
@@ -26,5 +26,6 @@ For the Fall 2018 Semester, we will meet on Wednesdays from 9-10 am in room 444 
 
 ## Schedule
 
+### 2018-08-29
 
     
