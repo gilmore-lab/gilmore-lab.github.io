@@ -46,13 +46,13 @@ Dr. [Rick Gilmore](http://www.personal.psu.edu/rog1), ([rogilmore@psu.edu](mailt
 
 <!-- Parking for studies at Chandlee can be found near the building. Our research staff will provide full instructions when we schedule a visit. -->
 
-## [For Students](pages/who-we-are.html)
+## [For Students](who-we-are.html)
 
-The lab employs an active and engaged group of undergraduate and graduate research assistants. If you are a Penn State undergraduate student and wish to be considered for a position in the lab, complete an online application [here](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform).  If you are a prospective graduate student, contact Dr. Gilmore by email.  For more information about current students and alumni, see the [student page](pages/who-we-are.html).
+The lab employs an active and engaged group of undergraduate and graduate research assistants. If you are a Penn State undergraduate student and wish to be considered for a position in the lab, complete an online application [here](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform).  If you are a prospective graduate student, contact Dr. Gilmore by email.  For more information about current students and alumni, see the [student page](who-we-are.html).
 
-## [For Parents](pages/parents.html)
+## [For Parents](parents.html)
 
-Much of our research involves testing infants and young children. To sign-up for a study or learn more about what a visit entails please follow [this link](pages/parents.html). 
+Much of our research involves testing infants and young children. To sign-up for a study or learn more about what a visit entails please follow [this link](parents.html). 
 
 ## News
 

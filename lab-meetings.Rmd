@@ -26,7 +26,26 @@ For the Fall 2018 Semester, we will meet on Wednesdays starting 8/29/18 from 9-1
 
 ## Schedule
 
+<<<<<<< HEAD
 ### 2018-08-29
 
 Agenda
     
+=======
+### 2018-08-29 Wednesday
+
+- Attending: Rick, Andrea, Yiming, Michelle, Ashton 
+- Agenda:
+    - Introductions
+    - Overview of projects
+        - [Databrary](http://databrary.org)
+        - [Datavyu](http://datavyu.org)
+        - [Play & Learning Across a Year (PLAY)] (https://nyu.databrary.org/volume/724)
+        - Wilkinson
+        - Optic flow
+        - PEEP [I](https://nyu.databrary.org/volume/248), [II](https://nyu.databrary.org/volume/339)
+    - Plan for semester
+- Next Meeting:
+    - **Wednesday, 9/5, 9a, 444 Moore**
+    
+>>>>>>> 228e22659d52975aa27328d8e6f84bd40ca06a9f
