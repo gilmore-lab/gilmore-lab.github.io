@@ -4,20 +4,17 @@ Title: lab-meetings
 
 # Lab Meetings
 
-For the Fall 2018 Semester, we will meet on Wednesdays from 9-10 am in room 444 Moore.
+For the Fall 2018 Semester, we will meet on Fridays from 9-10 am in room 350 Moore.
 
 ## Goals
 
-- Submit posters to Psi Chi conference on PLAY.
 - Submit papers from infant MOCO, child/adult MOCO psychophysics
 - Analyze the child MOFO
 - Train on locomotion coding on PLAY pilots
 - Learn more about jupyter notebooks and python
 - Read more primary source papers
-- Turn data from "size matters" into a Shiny app
 
-
-## Let's read
+## Possible readings
 
 - Finkelstein, A., Las, L., & Ulanovsky, N. (2016). 3-D Maps and Compasses in the Brain. *Annual Review of Neuroscience*, *39*, 171–196. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013831
 - Egnor, S. E. R., & Branson, K. (2016). Computational Analysis of Behavior. *Annual Review of Neuroscience*, *39*, 217–236. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013845
@@ -25,6 +22,13 @@ For the Fall 2018 Semester, we will meet on Wednesdays from 9-10 am in room 444 
 - Rowland, D. C., Roudi, Y., Moser, M.-B., & Moser, E. I. (2016). Ten Years of Grid Cells. *Annual Review of Neuroscience*, *39*, 19–40. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013824
 
 ## Schedule
+
+### 2018-09-07 Friday
+
+- Attending:
+- Agenda:
+    - Check-in/update
+    - Discuss Murray, S. O., Schallmo, M.-P., Kolodny, T., Millin, R., Kale, A., Thomas, P., Rammsayer, T. H., et al. (2018). Sex Differences in Visual Motion Processing. *Current Biology: CB*. Retrieved from http://dx.doi.org/10.1016/j.cub.2018.06.014. [Discussion notes](lab-mtgs/notes-murray-2018.html)
 
 ### 2018-08-29 Wednesday
 

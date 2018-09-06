@@ -1,0 +1,35 @@
+---
+title: "notes-murray-2018"
+author: "Rick Gilmore & Yiming Qian"
+date: "`r Sys.time()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Background
+
+Notes and resources to discuss 
+
+Murray, S. O., Schallmo, M.-P., Kolodny, T., Millin, R., Kale, A., Thomas, P., Rammsayer, T. H., et al. (2018). Sex Differences in Visual Motion Processing. *Current Biology: CB*. Retrieved from http://dx.doi.org/10.1016/j.cub.2018.06.014
+
+## Figure 1
+
+<img src="https://www.cell.com/cms/attachment/4eb49b11-0f51-4c46-b461-5cc59a037be3/gr1.jpg"/>
+
+## Figure 2
+
+<img src="https://www.cell.com/cms/attachment/18c43e7a-48ad-4819-a1bd-e2e00a0ed23f/gr2.jpg"/>
+
+## Supplemental Materials
+
+<https://www.cell.com/cms/10.1016/j.cub.2018.06.014/attachment/4f09c701-2144-4732-b7e6-92265a65ed7d/mmc1.pdf>
+
+## Additional sources of data
+
+Melnick, M. D., Harrison, B. R., Park, S., Bennetto, L., & Tadin, D. (2013). A strong interactive link between sensory discriminations and intelligence. Current biology: CB, 23(11), 1013–1017. Retrieved from http://dx.doi.org/10.1016/j.cub.2013.04.053
+
+Troche, S. J., Thomas, P., Tadin, D., & Rammsayer, T. H. (2018). On the relationship between spatial suppression, speed of information processing, and psychometric intelligence. Intelligence, 67, 11–18. Retrieved from http://www.sciencedirect.com/science/article/pii/S0160289617302027
+
