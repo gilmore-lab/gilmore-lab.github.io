@@ -33,3 +33,6 @@ Melnick, M. D., Harrison, B. R., Park, S., Bennetto, L., & Tadin, D. (2013). A s
 
 Troche, S. J., Thomas, P., Tadin, D., & Rammsayer, T. H. (2018). On the relationship between spatial suppression, speed of information processing, and psychometric intelligence. Intelligence, 67, 11–18. Retrieved from http://www.sciencedirect.com/science/article/pii/S0160289617302027
 
+## What do the stimuli look like?
+
+- Documentation about PsychoPy [`GratingStim`](http://www.psychopy.org/api/visual/gratingstim.html#psychopy.visual.GratingStim) function
