@@ -44,6 +44,8 @@ Adolph, K.E., Gilmore, R.O., Freeman, C., Sanderson, P., & Millman, D. (2012). T
 
 **Presentations**
 
+Gilmore, R.O. (2018, September). Big data behavioral science: From micro- to macro-scale. Annual Conference of the Federal Statistical Research Data Centers. [HTML slides](http://gilmore-lab.github.io/2018-09-07-fsrdc)
+
 Gilmore, R.O. (2018, May). Open, says me: Practical solutions for sharing data and materials. Invited talk at the Association for Psychological Science 2018 meeting. San Francisco, CA. [HTML slides](http://gilmore-lab.github.io/2018-05-26-aps-opensaysme)
 
 Gilmore, R.O. (2018, April 25). Video as data and documentation. Talk in the Department of Communication Arts & Sciences, Penn State. [HTML slides](http://gilmore-lab.github.io/2018-04-25-introducing-databrary/)
