@@ -59,6 +59,11 @@ ars17 AT-SIGN psu DOT edu</p>
 <!-- Michael is majoring in [Engineering Science](http://www.esm.psu.edu/) at The Pennsylvania State University. He is working to improve his understanding of research and technology in neuroscience. -->
 
 <!-- After graduating in the spring of 2018 Michael intends to further his education in medical school, where he will combine his interests in Engineering, Neuroscience, and Medicine.  -->
+### Yiming Qian
+
+Yiming is the graduate student in the department of Psychology at PSU. She is interested in exploring the development of brain networks from early childhood to adulthood, using neuroimaging tools. 
+
+Yiming enjoys reading, cooking, hiking and fishing.
 
 ### Sarah Shahriar
 
