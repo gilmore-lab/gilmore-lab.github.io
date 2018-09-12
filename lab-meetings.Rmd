@@ -4,11 +4,7 @@ Title: lab-meetings
 
 # Lab Meetings
 
-<<<<<<< HEAD
-For the Fall 2018 Semester, we will meet on Wednesdays starting 8/29/18 from 9-10 am in room 444 Moore.
-=======
 For the Fall 2018 Semester, we will meet on Fridays from 9-10 am in room 350 Moore.
->>>>>>> 26941412007bc6b22aa1c758cdb43045db324221
 
 ## Goals
 
@@ -27,18 +23,12 @@ For the Fall 2018 Semester, we will meet on Fridays from 9-10 am in room 350 Moo
 
 ## Schedule
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-### 2018-08-29
 
-Agenda
-    
-=======
-=======
 ### 2018-09-14  
 
 - Attending:  
 - Agenda:  
+  - Discuss Toddlers are “tiny apes” who share 96 per cent of same gestures, scientists find. (2018, September 11). The Daily Telegraph. Retrieved September 12, 2018, from https://www.telegraph.co.uk/science/2018/09/11/toddlers-tiny-apeswho-share-96pcof-gestures-scientists-find/
 - Next Meeting:  
 
 ### 2018-09-07 Friday (**350 Moore!**)
@@ -48,9 +38,9 @@ Agenda
     - Check-in/update 
     - Discuss Murray, S. O., Schallmo, M.-P., Kolodny, T., Millin, R., Kale, A., Thomas, P., Rammsayer, T. H., et al. (2018). Sex Differences in Visual Motion Processing. *Current Biology: CB*. Retrieved from http://dx.doi.org/10.1016/j.cub.2018.06.014. | [Discussion notes](lab-mtgs/notes-murray-2018.html) | 
 - Next Meeting:  
+  - Read: Toddlers are “tiny apes” who share 96 per cent of same gestures, scientists find. (2018, September 11). The Daily Telegraph. Retrieved September 12, 2018, from https://www.telegraph.co.uk/science/2018/09/11/toddlers-tiny-apeswho-share-96pcof-gestures-scientists-find/
   
 
->>>>>>> 26941412007bc6b22aa1c758cdb43045db324221
 ### 2018-08-29 Wednesday
 
 - Attending: Rick, Andrea, Yiming, Michelle, Ashton 
@@ -67,4 +57,4 @@ Agenda
 - Next Meeting:
     - **Wednesday, 9/5, 9a, 444 Moore**
     
->>>>>>> 228e22659d52975aa27328d8e6f84bd40ca06a9f
+
