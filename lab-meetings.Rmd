@@ -26,9 +26,14 @@ For the Fall 2018 Semester, we will meet on Fridays from 9-10 am in room 350 Moo
 
 ### 2018-09-21  
 
-- Attending: 
-- Agenda: Discuss R 
+- Attending: Rick, Andrea, Yiming, Michelle, Sandy, Ashton
+- Agenda: Discuss R  
+    - [Slow R talk](https://psu-psychology.github.io/r-bootcamp-2018/talks/slow-r.html) 
+    - R Studio Server: http://lat.tlt.psu.edu/home/remoteaccess/oss-web-apps/ 
 - Next Meeting: 
+    - Try the steps in the Slow R Talk on the R Studio server
+    - Datacamp class: PSYCH 494 Fall 2018 
+    - A link to reading will be sent out soon 
 
 
 ### 2018-09-14  
