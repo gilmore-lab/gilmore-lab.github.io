@@ -24,6 +24,24 @@ For the Fall 2018 Semester, we will meet on Fridays from 9-10 am in room 350 Moo
 
 ## Schedule
 
+### 2018-10-05
+
+NO MEETING TODAY
+
+### 2018-09-28  
+
+- Attending: Rick, Ashton, Sandy, Zhichun, Michelle  
+- Agenda:  
+    - Lab Activities: (mainly R) - Who has done it, how’s it going, do we like it  
+    - Dr. Gilmore won’t be here next week - going to a conference  
+	    - discussed [Devsec](https://www.srcd.org/meetings/special-topic-meetings/devsec18) (the conference he’s going to)   
+  	- Secondary data - our knowledge of it; pros and cons  
+    - Poster that was made for databrary and datavyu (PLAY Project)  
+    - Databrary play coding (this is what he will be discussing during the conference)  
+- Next Meeting:  
+    - No meeting on 10/5 - Dr. Gilmore will be at the conference  
+
+
 ### 2018-09-21  
 
 - Attending: Rick, Andrea, Yiming, Michelle, Sandy, Ashton
