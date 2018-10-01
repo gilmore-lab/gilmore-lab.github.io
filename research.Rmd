@@ -18,6 +18,8 @@ Databrary is an [open-source](http://github.com/databrary) software project. Pen
 
 **Publications**
 
+Ossmy, O., Gilmore, R.O., & Adolph, K.E. (in press). AutoViDev: A computer-vision framework to enhance and accelerate research in human development. Paper to be presented at Computer Vision Conference (CVC) 2019, 25-26 April 2019, Las Vegas, NV.
+
 Gilmore, R. O., Kennedy, J. L., & Adolph, K. E. (2018). Practical Solutions for Sharing Data and Materials From Psychological Research. *Advances in Methods and Practices in Psychological Science*, SAGE Publications Inc. Retrieved from https://doi.org/10.1177/2515245917746500. [OSF preprint](https://osf.io/rw7f3/).
 
 Adolph, K.E., Gilmore, R.O., & Kennedy, J.L. (2017, October). Video data and documentation will improve psychological science. *Psychological Science Agenda*. <http://www.apa.org/science/about/psa/2017/10/video-data.aspx>
@@ -44,7 +46,7 @@ Adolph, K.E., Gilmore, R.O., Freeman, C., Sanderson, P., & Millman, D. (2012). T
 
 **Presentations**
 
-Gilmore, R.O. (2018, September). Big data behavioral science: From micro- to macro-scale. Annual Conference of the Federal Statistical Research Data Centers. [HTML slides](http://gilmore-lab.github.io/2018-09-07-fsrdc)
+Gilmore, R.O. (2018, September). Big data behavioral science: From micro- to macro-scale. Annual Conference of the Federal Statistical Research Data Centers. University Park, PA. [HTML slides](http://gilmore-lab.github.io/2018-09-07-fsrdc)
 
 Gilmore, R.O. (2018, May). Open, says me: Practical solutions for sharing data and materials. Invited talk at the Association for Psychological Science 2018 meeting. San Francisco, CA. [HTML slides](http://gilmore-lab.github.io/2018-05-26-aps-opensaysme)
 
