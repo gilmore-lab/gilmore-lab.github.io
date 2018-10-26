@@ -24,6 +24,14 @@ For the Fall 2018 Semester, we will meet on Fridays from 9-10 am in room 350 Moo
 
 ## Schedule
 
+### 2018-10-26  
+
+- Attending: Rick, Andrea, Yiming  
+- Agenda: Start two new projects    
+    - [Annotating Databrary](https://github.com/gilmore-lab/annotating-databrary)
+    - [Development of Motion Sensitivity Meta-analysis](https://github.com/gilmore-lab/motion-metaanalysis)
+- Next week:    
+
 ### 2018-10-19
 
 - Attending: Rick, Andrea, Yiming, Michelle, Sarah, Ashton  
