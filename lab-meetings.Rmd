@@ -8,11 +8,19 @@ For the Fall 2018 Semester, we will meet on Fridays from 9-10 am in room 350 Moo
 
 ## Goals
 
-- Submit papers from infant MOCO, child/adult MOCO psychophysics
-- Analyze the child MOFO
-- Train on locomotion coding on PLAY pilots
-- Learn more about jupyter notebooks and python
+- Write-ups
+    - child/adult MOCO psychophysics
+    - infant MOCO EEG
+    - child MOFO
+- Preparation for PLAY
+    - Train on locomotion coding on PLAY pilots
+- Data science
+    - Learn more about jupyter notebooks and python
 - Read more primary source papers
+- Launch new projects
+    - [Annotating Databrary](https://github.com/gilmore-lab/annotating-databrary) project
+    - [Development of Motion Sensitivity Meta-analysis](https://github.com/gilmore-lab/motion-metaanalysis)
+    - [Behaviors in developmental psychology research](https://github.com/dev-psych-behavior) project
 
 ## Possible readings
 
@@ -21,8 +29,20 @@ For the Fall 2018 Semester, we will meet on Fridays from 9-10 am in room 350 Moo
 - Kaplan, R., Schuck, N. W., & Doeller, C. F. (2017). The Role of Mental Maps in Decision-Making. *Trends in Neurosciences*, *40*(5), 256–259. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.03.002
 - Rowland, D. C., Roudi, Y., Moser, M.-B., & Moser, E. I. (2016). Ten Years of Grid Cells. *Annual Review of Neuroscience*, *39*, 19–40. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013824
 
-
 ## Schedule
+
+### 2018-11-02
+
+- Attending: Andrea, Yiming, Sandy, Rick, Michelle, Ashton, Zhichun
+- Agenda:
+    - Choose readings for next few weeks
+    - Work on [Development of Motion Sensitivity Meta-analysis](https://github.com/gilmore-lab/motion-metaanalysis)    
+    - ~~Work on [Annotating Databrary](https://github.com/gilmore-lab/annotating-databrary) project~~
+    - ~~(if time) Work on [Behaviors in developmental psychology research](https://github.com/dev-psych-behavior) project~~
+- Next week:
+    - Read: Land, M., Mennie, N., & Rusted, J. (1999). The roles of vision and eye movements in the control of activities of daily living. Perception, 28(11), 1311–1328. Retrieved from http://dx.doi.org/10.1068/p2935 (Ashton & Sandy lead).
+        - What did they do? What did they find? Why does it matter? (ideally in R Markdown document).
+    - Project status reports 
 
 ### 2018-10-26  
 
@@ -57,7 +77,7 @@ NO MEETING TODAY
     - Lab Activities: (mainly R) - Who has done it, how’s it going, do we like it  
     - Dr. Gilmore won’t be here next week - going to a conference  
 	    - discussed [Devsec](https://www.srcd.org/meetings/special-topic-meetings/devsec18) (the conference he’s going to)   
-  	- Secondary data - our knowledge of it; pros and cons  
+  	- Secondary data - our knowledge of it; pros and cons
     - Poster that was made for databrary and datavyu (PLAY Project)  
     - Databrary play coding (this is what he will be discussing during the conference)  
 - Next Meeting:  
@@ -74,7 +94,6 @@ NO MEETING TODAY
     - Try the steps in the Slow R Talk on the R Studio server
     - Datacamp class: PSYCH 494 Fall 2018 
     - A link to reading will be sent out soon 
-
 
 ### 2018-09-14  
 
@@ -93,7 +112,6 @@ NO MEETING TODAY
 - Next Meeting:  
   - Read: Toddlers are “tiny apes” who share 96 per cent of same gestures, scientists find. (2018, September 11). The Daily Telegraph. Retrieved September 12, 2018, from https://www.telegraph.co.uk/science/2018/09/11/toddlers-tiny-apeswho-share-96pcof-gestures-scientists-find/
   
-
 ### 2018-08-29 Wednesday
 
 - Attending: Rick, Andrea, Yiming, Michelle, Ashton 
@@ -110,4 +128,3 @@ NO MEETING TODAY
 - Next Meeting:
     - **Wednesday, 9/5, 9a, 444 Moore**
     
-
