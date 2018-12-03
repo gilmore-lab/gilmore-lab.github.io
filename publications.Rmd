@@ -8,6 +8,8 @@ Johnson, M.H., Munakata, Y., & Gilmore, R.O. (2002). *Brain development and cogn
 
 ## Peer-reviewed Articles
 
+Liu, P., Cole, P.M., Gilmore, R.O., Pérez-Edgar, K.E., Vigeant, M.C., Moriarty, P., Scherf, K.S. (in press). Young children's neural processing of their mother’s voice: An fMRI study. *Neuropsychologia*.
+
 Ossmy, O., Gilmore, R.O., & Adolph, K.E. (in press). AutoViDev: A computer-vision framework to enhance and accelerate research in human development. Paper to be presented at Computer Vision Conference (CVC) 2019, 25-26 April 2019, Las Vegas, NV. 
 
 Gilmore, R. O., Kennedy, J. L., & Adolph, K. E. (2018). Practical Solutions for Sharing Data and Materials From Psychological Research. *Advances in Methods and Practices in Psychological Science*, SAGE Publications Inc. Retrieved from https://doi.org/10.1177/2515245917746500

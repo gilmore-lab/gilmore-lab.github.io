@@ -211,11 +211,11 @@ A 5-year-old overhears her parents arguing loudly in the next room. She may not 
 
 **Publications**
 
+Liu, P., Cole, P.M., Gilmore, R.O., Pérez-Edgar, K.E., Vigeant, M.C., Moriarty, P., Scherf, K.S. (in press). Young children's neural processing of their mother’s voice: An fMRI study. Neuropsychologia.
+
 Moriarty, P. M., Vigeant, M. C., Liu, P., Gilmore, R., Wolf, R., & Cole, P. M. (2016). Low frequency analysis of acoustical parameters of emotional speech for use with functional magnetic resonance imaging. *The Journal of the Acoustical Society of America*, *140*(4), 3237–3238. Acoustical Society of America. Retrieved from https://doi.org/10.1121/1.4970240
 
-Maggi, M., Cole, P., Elbich, D., Gilmore, R.O., Pérez–Edgar, K., Scherf, K.S. (submitted). Hearing emotions: School-aged children's neural processing of the human voice and affective prosody.
-
-Liu, P., Cole, P., Gilmore, R.O., Pérez-Edgar, K., Vigeant, M., Moriarty, P., Scherf, K.S. (submitted). Mother's voice uniquely modulates young children's voice-sensitive neural network.
+Maggi, M., Cole, P., Elbich, D., Gilmore, R.O., Pérez–Edgar, K., Scherf, K.S. (in prep). Hearing emotions: School-aged children's neural processing of the human voice and affective prosody.
 
 **Presentations**
 
