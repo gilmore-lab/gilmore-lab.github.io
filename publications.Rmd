@@ -8,7 +8,7 @@ Johnson, M.H., Munakata, Y., & Gilmore, R.O. (2002). *Brain development and cogn
 
 ## Peer-reviewed Articles
 
-Liu, P., Cole, P.M., Gilmore, R.O., Pérez-Edgar, K.E., Vigeant, M.C., Moriarty, P., Scherf, K.S. (in press). Young children's neural processing of their mother’s voice: An fMRI study. *Neuropsychologia*.
+Liu, P., Cole, P.M., Gilmore, R.O., Pérez-Edgar, K.E., Vigeant, M.C., Moriarty, P., Scherf, K.S. (in press). Young children's neural processing of their mother’s voice: An fMRI study. *Neuropsychologia*. [doi: 10.1016/j.neuropsychologia.2018.12.003](http://doi.org/10.1016/j.neuropsychologia.2018.12.003).
 
 Ossmy, O., Gilmore, R.O., & Adolph, K.E. (in press). AutoViDev: A computer-vision framework to enhance and accelerate research in human development. Paper to be presented at Computer Vision Conference (CVC) 2019, 25-26 April 2019, Las Vegas, NV. 
 
