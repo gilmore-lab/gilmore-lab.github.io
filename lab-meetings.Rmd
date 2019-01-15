@@ -8,6 +8,7 @@ For the Spring 2019 Semester, we will meet on Tuesdays from 8-9 am in room 350 M
 
 ## Goals
 
+- Present at Psy Chi
 - Write-ups
     - child/adult MOCO psychophysics
     - infant MOCO EEG
@@ -33,17 +34,30 @@ For the Spring 2019 Semester, we will meet on Tuesdays from 8-9 am in room 350 M
 
 ### 2019-01-15 
 
-- Attending:
-- Agenda:
-    - Introductions
-    - Overview of projects
-        - [Databrary](http://databrary.org)
+- Attending: Rick, Andrea, Ashton, Sarah, Yiming, Zichun, Michelle  
+  - Sandy (sick)  
+- Agenda:  
+    - Introductions  
+    - Psy-Chi - Application online April 11 2-4:30  
+      - 1-2 projects  
+    - Overview of projects  
+        - Motion Meta-analysis  
+        - Developmental Methods 
+        - [Databrary](http://databrary.org)  
+            - apply computer vision to stored videos  
+            - [Open Pose Example](https://www.youtube.com/watch?v=pW6nZXeWlGM)  
         - [Datavyu](http://datavyu.org)
-        - [Play & Learning Across a Year (PLAY)] (https://nyu.databrary.org/volume/724)
+        - [Play & Learning Across a Year (PLAY)](https://nyu.databrary.org/volume/724)
+            - teach coding this semester  
         - Wilkinson
         - Optic flow
-        - PEEP [I](https://nyu.databrary.org/volume/248), [II](https://nyu.databrary.org/volume/339)
+            - paper in progress
+        - PEEP [I](https://nyu.databrary.org/volume/248), [II](https://nyu.databrary.org/volume/339)  
+        - R package for Databrary API-translate to python  
+            - document or sample uses  
+    - Causes of Motion on Retina - diagram  
+        - use this type of diagram to unpack methods/results in a research paper  
     - Plan for semester
 - Next Meeting:
-    
-    
+    - Discuss paper using Open Pose - future
+    - Review Ahmad, mohr and lewis 2014 paper
