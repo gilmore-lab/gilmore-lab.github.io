@@ -5,6 +5,161 @@ Title: lab-meetings
 # Past Lab Meetings
 
 ---
+## Fall 2018  
+
+## Goals
+
+- Write-ups
+    - child/adult MOCO psychophysics
+    - infant MOCO EEG
+    - child MOFO
+- Preparation for PLAY
+    - Train on locomotion coding on PLAY pilots
+- Data science
+    - Learn more about jupyter notebooks and python
+- Read more primary source papers
+- Launch new projects
+    - [Annotating Databrary](https://github.com/gilmore-lab/annotating-databrary) project
+    - [Development of Motion Sensitivity Meta-analysis](https://github.com/gilmore-lab/motion-metaanalysis)
+    - [Behaviors in developmental psychology research](https://github.com/dev-psych-behavior) project
+
+## Possible readings
+
+- Finkelstein, A., Las, L., & Ulanovsky, N. (2016). 3-D Maps and Compasses in the Brain. *Annual Review of Neuroscience*, *39*, 171–196. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013831
+- Egnor, S. E. R., & Branson, K. (2016). Computational Analysis of Behavior. *Annual Review of Neuroscience*, *39*, 217–236. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013845
+- Kaplan, R., Schuck, N. W., & Doeller, C. F. (2017). The Role of Mental Maps in Decision-Making. *Trends in Neurosciences*, *40*(5), 256–259. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.03.002
+- Rowland, D. C., Roudi, Y., Moser, M.-B., & Moser, E. I. (2016). Ten Years of Grid Cells. *Annual Review of Neuroscience*, *39*, 19–40. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013824
+
+## Schedule
+
+### 2018-12-07  
+
+9:00am - Breakfast at the Waffle Shop Downtown
+
+### 2018-11-30  
+
+- Attending: Andrea, Yiming, Sandy, Rick, Michelle, Ashton  
+- Agenda:  
+    - Discuss: Land, M., Mennie, N., & Rusted, J. (1999). The roles of vision and eye movements in the control of activities of daily living. Perception, 28(11), 1311–1328. Retrieved from http://dx.doi.org/10.1068/p2935 (Ashton & Sandy lead). [Github](student-testbed/LandM_etal_1999_paper_presentation.md)  
+- Next Meeting:  
+    - Breakfast at the Waffle Shop Downtown, 9am 
+
+### 2018-11-23  
+
+THANKSGIVING BREAK - No Meeting  
+
+### 2018-11-16   
+
+SNOW DAY! - No Meeting  
+
+### 2018-11-09  
+
+- Attending: Andrea, Yiming, Rick, Michelle, Zhichun  
+- Agenda:
+    - Work on [Development of Motion Sensitivity Meta-analysis](https://github.com/gilmore-lab/motion-metaanalysis) specifically grating-motion  
+    - Work on [Annotating Databrary](https://github.com/gilmore-lab/annotating-databrary) project
+    
+- Next Meeting:  
+    - Read: Land, M., Mennie, N., & Rusted, J. (1999). The roles of vision and eye movements in the control of activities of daily living. Perception, 28(11), 1311–1328. Retrieved from http://dx.doi.org/10.1068/p2935 (Ashton & Sandy lead). [Github](student-testbed/LandM_etal_1999_paper_presentation.md)
+    
+### 2018-11-02
+
+- Attending: Andrea, Yiming, Sandy, Rick, Michelle, Ashton, Zhichun
+- Agenda:
+    - Choose readings for next few weeks
+    - Work on [Development of Motion Sensitivity Meta-analysis](https://github.com/gilmore-lab/motion-metaanalysis)    
+    - ~~Work on [Annotating Databrary](https://github.com/gilmore-lab/annotating-databrary) project~~
+    - ~~(if time) Work on [Behaviors in developmental psychology research](https://github.com/dev-psych-behavior) project~~
+- Next week:
+    - Read: Land, M., Mennie, N., & Rusted, J. (1999). The roles of vision and eye movements in the control of activities of daily living. Perception, 28(11), 1311–1328. Retrieved from http://dx.doi.org/10.1068/p2935 (Ashton & Sandy lead).
+        - What did they do? What did they find? Why does it matter? (ideally in R Markdown document).
+    - Project status reports 
+
+### 2018-10-26  
+
+- Attending: Rick, Andrea, Yiming  
+- Agenda: Start two new projects    
+    - [Annotating Databrary](https://github.com/gilmore-lab/annotating-databrary)
+    - [Development of Motion Sensitivity Meta-analysis](https://github.com/gilmore-lab/motion-metaanalysis)
+- Next week:    
+
+### 2018-10-19
+
+- Attending: Rick, Andrea, Yiming, Michelle, Sarah, Ashton  
+- Agenda:  
+    - Yiming present the MOCO project  
+    - Next project meta analysis neural and behavioral literature  
+- Next week:  
+    - Meta analysis of motion  
+    - Developmental research methods  
+
+### 2018-10-12
+
+NO MEETING TODAY
+
+### 2018-10-05
+
+NO MEETING TODAY
+
+### 2018-09-28  
+
+- Attending: Rick, Ashton, Sandy, Zhichun, Michelle  
+- Agenda:  
+    - Lab Activities: (mainly R) - Who has done it, how’s it going, do we like it  
+    - Dr. Gilmore won’t be here next week - going to a conference  
+	    - discussed [Devsec](https://www.srcd.org/meetings/special-topic-meetings/devsec18) (the conference he’s going to)   
+  	- Secondary data - our knowledge of it; pros and cons
+    - Poster that was made for databrary and datavyu (PLAY Project)  
+    - Databrary play coding (this is what he will be discussing during the conference)  
+- Next Meeting:  
+    - No meeting on 10/5 - Dr. Gilmore will be at the conference  
+
+
+### 2018-09-21  
+
+- Attending: Rick, Andrea, Yiming, Michelle, Sandy, Ashton
+- Agenda: Discuss R  
+    - [Slow R talk](https://psu-psychology.github.io/r-bootcamp-2018/talks/slow-r.html) 
+    - R Studio Server: http://lat.tlt.psu.edu/home/remoteaccess/oss-web-apps/ 
+- Next Meeting: 
+    - Try the steps in the Slow R Talk on the R Studio server
+    - Datacamp class: PSYCH 494 Fall 2018 
+    - A link to reading will be sent out soon 
+
+### 2018-09-14  
+
+- Attending: Rick, Andrea, Yiming, Sarah, Zhichun, Michelle, Sandy
+- Agenda:  
+    - Training and Schedule Update 
+    - Discuss Toddlers are “tiny apes” who share 96 per cent of same gestures, scientists find. (2018, September 11). The Daily Telegraph. Retrieved September 12, 2018, from https://www.telegraph.co.uk/science/2018/09/11/toddlers-tiny-apeswho-share-96pcof-gestures-scientists-find/ Original Article: https://doi.org/10.1007/s10071-018-1213-z 
+- Next Meeting:  Work on R
+
+### 2018-09-07 Friday (**350 Moore!**)
+
+- Attending: Rick, Andrea, Yiming, Michelle, Ashton, Sandy, Sarah  
+- Agenda:  
+    - Check-in/update 
+    - Discuss Murray, S. O., Schallmo, M.-P., Kolodny, T., Millin, R., Kale, A., Thomas, P., Rammsayer, T. H., et al. (2018). Sex Differences in Visual Motion Processing. *Current Biology: CB*. Retrieved from http://dx.doi.org/10.1016/j.cub.2018.06.014. | [Discussion notes](lab-mtgs/notes-murray-2018.html) | 
+- Next Meeting:  
+  - Read: Toddlers are “tiny apes” who share 96 per cent of same gestures, scientists find. (2018, September 11). The Daily Telegraph. Retrieved September 12, 2018, from https://www.telegraph.co.uk/science/2018/09/11/toddlers-tiny-apeswho-share-96pcof-gestures-scientists-find/
+  
+### 2018-08-29 Wednesday
+
+- Attending: Rick, Andrea, Yiming, Michelle, Ashton 
+- Agenda:
+    - Introductions
+    - Overview of projects
+        - [Databrary](http://databrary.org)
+        - [Datavyu](http://datavyu.org)
+        - [Play & Learning Across a Year (PLAY)] (https://nyu.databrary.org/volume/724)
+        - Wilkinson
+        - Optic flow
+        - PEEP [I](https://nyu.databrary.org/volume/248), [II](https://nyu.databrary.org/volume/339)
+    - Plan for semester
+- Next Meeting:
+    - **Wednesday, 9/5, 9a, 444 Moore**
+    
+
 ## Spring 2018  
 
 ## Goals
