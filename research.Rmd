@@ -46,6 +46,8 @@ Adolph, K.E., Gilmore, R.O., Freeman, C., Sanderson, P., & Millman, D. (2012). T
 
 **Presentations**
 
+Gilmore, R.O. (2019, January). An open science of human health & behavior. Invited talk given to the College of Health & Human Development. [HTML slides](https://gilmore-lab.github.io/2019-01-15-open-science-psu-hhd/).
+
 Gilmore, R.O. (2018, October). The Open Data and Developmental Science (ODDS) Initiative. Invited talk at the Penn State Child Study Center [(CSC)](http://csc.la.psu.edu/). [HTML slides](https://gilmore-lab.github.io/2018-10-12-ODDS/).
 
 Gilmore, R.O. (2018, October). The promise of open developmental science. Invited talk at the [SRCD Conference on the Use of Secondary and Open Source Data in Developmental Science](https://convention2.allacademic.com/one/srcd/devsec18/index.php?cmd=Prepare+Online+Program&program_focus=main&PHPSESSID=ghs9iuu3994o7nv5bd03p5d1g3). Phoenix, AZ. [HTML slides](http://gilmore-lab.github.io/DEVSEC-2018/promise-of-open-dev-sci/)
