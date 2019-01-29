@@ -32,6 +32,19 @@ For the Spring 2019 Semester, we will meet on Tuesdays from 8-9 am in room 350 M
 
 ## Schedule
 
+### 2019-01-29
+
+- Attending: Rick, Andrea, Yiming, Sandy, Michelle, Sarah
+- Agenda:
+    - Psi Chi projects
+        - Datavyu coding (Michelle?)
+        - Motion mega-analysis (Zhichun?)
+    - Next week:
+        - Yiming & Rick present on motion psychophysics
+    - Discuss:
+        - Hadad, B., Maurer, D., & Lewis, T. L. (2011). Long trajectory for the development of sensitivity to global and biological motion. *Developmental Science*, *14*(6), 1330–1339. Wiley Online Library. Retrieved April 17, 2012, from http://onlinelibrary.wiley.com/doi/10.1111/j.1467-7687.2011.01078.x/abstract
+        - Biological motion demo: <https://www.biomotionlab.ca/bml-scrambled/>
+
 ### 2019-01-15 
 
 - Attending: Rick, Andrea, Ashton, Sarah, Yiming, Zichun, Michelle  
@@ -46,7 +59,7 @@ For the Spring 2019 Semester, we will meet on Tuesdays from 8-9 am in room 350 M
         - [Behaviors in developmental psychology research](https://github.com/dev-psych-behavior) project
         - [Databrary](http://databrary.org)  
             - apply computer vision to stored videos  
-            - [Open Pose Example](https://www.youtube.com/watch?v=pW6nZXeWlGM)  
+            - [Open Pose Example](https://www.youtube.com/watch?v=pW6nZXeWlGM)
         - [Datavyu](http://datavyu.org)
         - [Play & Learning Across a Year (PLAY)](https://nyu.databrary.org/volume/724)
             - teach coding this semester  
@@ -57,10 +70,10 @@ For the Spring 2019 Semester, we will meet on Tuesdays from 8-9 am in room 350 M
         - R package for Databrary API-translate to python  
             - document  
             - sample uses  
-        - [Annotating Databrary](https://github.com/gilmore-lab/annotating-databrary) project    
+        - [Annotating Databrary](https://github.com/gilmore-lab/annotating-databrary) project
     - Causes of Motion on Retina - diagram  
         - use this type of diagram to unpack methods/results in a research paper  
     - Plan for semester
         - Future Meeting - Discuss Adolph/Gilmore paper using Open Pose 
 - Next Meeting:
-    - Read: Hadad, B., Maurer, D., & Lewis, T. L. (2011). Long trajectory for the development of sensitivity to global and biological motion, Long trajectory for the development of sensitivity to global and biological motion. Developmental science, 14(6), 1330–1339. Wiley Online Library. Retrieved April 17, 2012, from http://onlinelibrary.wiley.com/doi/10.1111/j.1467-7687.2011.01078.x/abstract
+    - Read: Hadad, B., Maurer, D., & Lewis, T. L. (2011). Long trajectory for the development of sensitivity to global and biological motion. *Developmental Science*, *14*(6), 1330–1339. Wiley Online Library. Retrieved April 17, 2012, from http://onlinelibrary.wiley.com/doi/10.1111/j.1467-7687.2011.01078.x/abstract
