@@ -32,6 +32,32 @@ For the Spring 2019 Semester, we will meet on Tuesdays from 8-9 am in room 350 M
 
 ## Schedule
 
+### 2019-02-05
+
+- Attending: Rick, Sarah, Yiming, Ashton, Zhichun
+- Agenda:
+    - Motion psychophysics project (Yiming & Rick) postpone?
+    - Psi Chi projects
+        - PLAY pilot data (resources)
+            - Adolph, K., Tamis-LeMonda, C. & Gilmore, R.O. (2017). PLAY Project: Pilot Data Collections. Databrary. Retrieved February 5, 2019 from <https://nyu.databrary.org/volume/444>.
+            - Adolph, K., Tamis-LeMonda, C., Gilmore, R.O. & Soska, K. (2016). PLAY Project: NICHD Workshop (2016-12-16). Databrary. Retrieved February 5, 2019 from http://doi.org/10.17910/B7.254.
+            - PLAY wiki: <https://dev1.ed-projects.nyu.edu/wikis/docuwiki/doku.php>
+            - Sample report using `databraryapi`: <https://gilmore-lab.github.io/2018-10-15-nyu/PLAY-LEGO-report.html>
+            - WordBank at Stanford: <http://wordbank.stanford.edu>
+            
+#### Using `databraryapi` with PLAY pilot data
+            
+To install `databraryapi` from its [GitHub repository](https://github.com/PLAY-behaviorome/databraryapi) into your RStudio project:
+
+```
+devtools::install_github("PLAY-behaviorome/databraryapi")
+```
+            
+```{r}
+# load databraryapi
+library(databraryapi)
+```
+
 ### 2019-01-29
 
 - Attending: Rick, Andrea, Yiming, Sandy, Michelle, Sarah
