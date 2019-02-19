@@ -96,6 +96,9 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
@@ -110,7 +113,6 @@ body {
   padding-top: 56px;
   margin-top: -56px;
 }
-
 .section h2 {
   padding-top: 56px;
   margin-top: -56px;
@@ -130,6 +132,43 @@ body {
 .section h6 {
   padding-top: 56px;
   margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -151,18 +190,77 @@ $(document).ready(function () {
 });
 </script>
 
-
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
 });
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
 </script>
 
 <!-- code folding -->
-
 
 
 
@@ -226,10 +324,253 @@ $(document).ready(function () {
 <div id="past-lab-meetings" class="section level1">
 <h1>Past Lab Meetings</h1>
 <hr />
+<div id="fall-2018" class="section level2">
+<h2>Fall 2018</h2>
+</div>
+<div id="goals" class="section level2">
+<h2>Goals</h2>
+<ul>
+<li>Write-ups
+<ul>
+<li>child/adult MOCO psychophysics</li>
+<li>infant MOCO EEG</li>
+<li>child MOFO</li>
+</ul></li>
+<li>Preparation for PLAY
+<ul>
+<li>Train on locomotion coding on PLAY pilots</li>
+</ul></li>
+<li>Data science
+<ul>
+<li>Learn more about jupyter notebooks and python</li>
+</ul></li>
+<li>Read more primary source papers</li>
+<li>Launch new projects
+<ul>
+<li><a href="https://github.com/gilmore-lab/annotating-databrary">Annotating Databrary</a> project</li>
+<li><a href="https://github.com/gilmore-lab/motion-metaanalysis">Development of Motion Sensitivity Meta-analysis</a></li>
+<li><a href="https://github.com/dev-psych-behavior">Behaviors in developmental psychology research</a> project</li>
+</ul></li>
+</ul>
+</div>
+<div id="possible-readings" class="section level2">
+<h2>Possible readings</h2>
+<ul>
+<li>Finkelstein, A., Las, L., &amp; Ulanovsky, N. (2016). 3-D Maps and Compasses in the Brain. <em>Annual Review of Neuroscience</em>, <em>39</em>, 171–196. Retrieved from <a href="http://dx.doi.org/10.1146/annurev-neuro-070815-013831" class="uri">http://dx.doi.org/10.1146/annurev-neuro-070815-013831</a></li>
+<li>Egnor, S. E. R., &amp; Branson, K. (2016). Computational Analysis of Behavior. <em>Annual Review of Neuroscience</em>, <em>39</em>, 217–236. Retrieved from <a href="http://dx.doi.org/10.1146/annurev-neuro-070815-013845" class="uri">http://dx.doi.org/10.1146/annurev-neuro-070815-013845</a></li>
+<li>Kaplan, R., Schuck, N. W., &amp; Doeller, C. F. (2017). The Role of Mental Maps in Decision-Making. <em>Trends in Neurosciences</em>, <em>40</em>(5), 256–259. Retrieved from <a href="http://dx.doi.org/10.1016/j.tins.2017.03.002" class="uri">http://dx.doi.org/10.1016/j.tins.2017.03.002</a></li>
+<li>Rowland, D. C., Roudi, Y., Moser, M.-B., &amp; Moser, E. I. (2016). Ten Years of Grid Cells. <em>Annual Review of Neuroscience</em>, <em>39</em>, 19–40. Retrieved from <a href="http://dx.doi.org/10.1146/annurev-neuro-070815-013824" class="uri">http://dx.doi.org/10.1146/annurev-neuro-070815-013824</a></li>
+</ul>
+</div>
+<div id="schedule" class="section level2">
+<h2>Schedule</h2>
+<div id="section" class="section level3">
+<h3>2018-12-07</h3>
+<p>9:00am - Breakfast at the Waffle Shop Downtown</p>
+</div>
+<div id="section-1" class="section level3">
+<h3>2018-11-30</h3>
+<ul>
+<li>Attending: Andrea, Yiming, Sandy, Rick, Michelle, Ashton<br />
+</li>
+<li>Agenda:
+<ul>
+<li>Discuss: Land, M., Mennie, N., &amp; Rusted, J. (1999). The roles of vision and eye movements in the control of activities of daily living. Perception, 28(11), 1311–1328. Retrieved from <a href="http://dx.doi.org/10.1068/p2935" class="uri">http://dx.doi.org/10.1068/p2935</a> (Ashton &amp; Sandy lead). <a href="student-testbed/LandM_etal_1999_paper_presentation.md">Github</a><br />
+</li>
+</ul></li>
+<li>Next Meeting:
+<ul>
+<li>Breakfast at the Waffle Shop Downtown, 9am</li>
+</ul></li>
+</ul>
+</div>
+<div id="section-2" class="section level3">
+<h3>2018-11-23</h3>
+<p>THANKSGIVING BREAK - No Meeting</p>
+</div>
+<div id="section-3" class="section level3">
+<h3>2018-11-16</h3>
+<p>SNOW DAY! - No Meeting</p>
+</div>
+<div id="section-4" class="section level3">
+<h3>2018-11-09</h3>
+<ul>
+<li>Attending: Andrea, Yiming, Rick, Michelle, Zhichun<br />
+</li>
+<li>Agenda:
+<ul>
+<li>Work on <a href="https://github.com/gilmore-lab/motion-metaanalysis">Development of Motion Sensitivity Meta-analysis</a> specifically grating-motion<br />
+</li>
+<li>Work on <a href="https://github.com/gilmore-lab/annotating-databrary">Annotating Databrary</a> project</li>
+</ul></li>
+<li>Next Meeting:
+<ul>
+<li>Read: Land, M., Mennie, N., &amp; Rusted, J. (1999). The roles of vision and eye movements in the control of activities of daily living. Perception, 28(11), 1311–1328. Retrieved from <a href="http://dx.doi.org/10.1068/p2935" class="uri">http://dx.doi.org/10.1068/p2935</a> (Ashton &amp; Sandy lead). <a href="student-testbed/LandM_etal_1999_paper_presentation.md">Github</a></li>
+</ul></li>
+</ul>
+</div>
+<div id="section-5" class="section level3">
+<h3>2018-11-02</h3>
+<ul>
+<li>Attending: Andrea, Yiming, Sandy, Rick, Michelle, Ashton, Zhichun</li>
+<li>Agenda:
+<ul>
+<li>Choose readings for next few weeks</li>
+<li>Work on <a href="https://github.com/gilmore-lab/motion-metaanalysis">Development of Motion Sensitivity Meta-analysis</a><br />
+</li>
+<li><del>Work on <a href="https://github.com/gilmore-lab/annotating-databrary">Annotating Databrary</a> project</del></li>
+<li><del>(if time) Work on <a href="https://github.com/dev-psych-behavior">Behaviors in developmental psychology research</a> project</del></li>
+</ul></li>
+<li>Next week:
+<ul>
+<li>Read: Land, M., Mennie, N., &amp; Rusted, J. (1999). The roles of vision and eye movements in the control of activities of daily living. Perception, 28(11), 1311–1328. Retrieved from <a href="http://dx.doi.org/10.1068/p2935" class="uri">http://dx.doi.org/10.1068/p2935</a> (Ashton &amp; Sandy lead).
+<ul>
+<li>What did they do? What did they find? Why does it matter? (ideally in R Markdown document).</li>
+</ul></li>
+<li>Project status reports</li>
+</ul></li>
+</ul>
+</div>
+<div id="section-6" class="section level3">
+<h3>2018-10-26</h3>
+<ul>
+<li>Attending: Rick, Andrea, Yiming<br />
+</li>
+<li>Agenda: Start two new projects
+<ul>
+<li><a href="https://github.com/gilmore-lab/annotating-databrary">Annotating Databrary</a></li>
+<li><a href="https://github.com/gilmore-lab/motion-metaanalysis">Development of Motion Sensitivity Meta-analysis</a></li>
+</ul></li>
+<li>Next week:</li>
+</ul>
+</div>
+<div id="section-7" class="section level3">
+<h3>2018-10-19</h3>
+<ul>
+<li>Attending: Rick, Andrea, Yiming, Michelle, Sarah, Ashton<br />
+</li>
+<li>Agenda:
+<ul>
+<li>Yiming present the MOCO project<br />
+</li>
+<li>Next project meta analysis neural and behavioral literature<br />
+</li>
+</ul></li>
+<li>Next week:
+<ul>
+<li>Meta analysis of motion<br />
+</li>
+<li>Developmental research methods</li>
+</ul></li>
+</ul>
+</div>
+<div id="section-8" class="section level3">
+<h3>2018-10-12</h3>
+<p>NO MEETING TODAY</p>
+</div>
+<div id="section-9" class="section level3">
+<h3>2018-10-05</h3>
+<p>NO MEETING TODAY</p>
+</div>
+<div id="section-10" class="section level3">
+<h3>2018-09-28</h3>
+<ul>
+<li>Attending: Rick, Ashton, Sandy, Zhichun, Michelle<br />
+</li>
+<li>Agenda:
+<ul>
+<li>Lab Activities: (mainly R) - Who has done it, how’s it going, do we like it<br />
+</li>
+<li>Dr. Gilmore won’t be here next week - going to a conference
+<ul>
+<li>discussed <a href="https://www.srcd.org/meetings/special-topic-meetings/devsec18">Devsec</a> (the conference he’s going to)<br />
+</li>
+</ul></li>
+<li>Secondary data - our knowledge of it; pros and cons</li>
+<li>Poster that was made for databrary and datavyu (PLAY Project)<br />
+</li>
+<li>Databrary play coding (this is what he will be discussing during the conference)<br />
+</li>
+</ul></li>
+<li>Next Meeting:
+<ul>
+<li>No meeting on 10/5 - Dr. Gilmore will be at the conference</li>
+</ul></li>
+</ul>
+</div>
+<div id="section-11" class="section level3">
+<h3>2018-09-21</h3>
+<ul>
+<li>Attending: Rick, Andrea, Yiming, Michelle, Sandy, Ashton</li>
+<li>Agenda: Discuss R
+<ul>
+<li><a href="https://psu-psychology.github.io/r-bootcamp-2018/talks/slow-r.html">Slow R talk</a></li>
+<li>R Studio Server: <a href="http://lat.tlt.psu.edu/home/remoteaccess/oss-web-apps/" class="uri">http://lat.tlt.psu.edu/home/remoteaccess/oss-web-apps/</a></li>
+</ul></li>
+<li>Next Meeting:
+<ul>
+<li>Try the steps in the Slow R Talk on the R Studio server</li>
+<li>Datacamp class: PSYCH 494 Fall 2018</li>
+<li>A link to reading will be sent out soon</li>
+</ul></li>
+</ul>
+</div>
+<div id="section-12" class="section level3">
+<h3>2018-09-14</h3>
+<ul>
+<li>Attending: Rick, Andrea, Yiming, Sarah, Zhichun, Michelle, Sandy</li>
+<li>Agenda:
+<ul>
+<li>Training and Schedule Update</li>
+<li>Discuss Toddlers are “tiny apes” who share 96 per cent of same gestures, scientists find. (2018, September 11). The Daily Telegraph. Retrieved September 12, 2018, from <a href="https://www.telegraph.co.uk/science/2018/09/11/toddlers-tiny-apeswho-share-96pcof-gestures-scientists-find/" class="uri">https://www.telegraph.co.uk/science/2018/09/11/toddlers-tiny-apeswho-share-96pcof-gestures-scientists-find/</a> Original Article: <a href="https://doi.org/10.1007/s10071-018-1213-z" class="uri">https://doi.org/10.1007/s10071-018-1213-z</a></li>
+</ul></li>
+<li>Next Meeting: Work on R</li>
+</ul>
+</div>
+<div id="friday-350-moore" class="section level3">
+<h3>2018-09-07 Friday (<strong>350 Moore!</strong>)</h3>
+<ul>
+<li>Attending: Rick, Andrea, Yiming, Michelle, Ashton, Sandy, Sarah<br />
+</li>
+<li>Agenda:
+<ul>
+<li>Check-in/update</li>
+<li>Discuss Murray, S. O., Schallmo, M.-P., Kolodny, T., Millin, R., Kale, A., Thomas, P., Rammsayer, T. H., et al. (2018). Sex Differences in Visual Motion Processing. <em>Current Biology: CB</em>. Retrieved from <a href="http://dx.doi.org/10.1016/j.cub.2018.06.014" class="uri">http://dx.doi.org/10.1016/j.cub.2018.06.014</a>. | <a href="lab-mtgs/notes-murray-2018.html">Discussion notes</a> |</li>
+</ul></li>
+<li>Next Meeting:<br />
+</li>
+<li>Read: Toddlers are “tiny apes” who share 96 per cent of same gestures, scientists find. (2018, September 11). The Daily Telegraph. Retrieved September 12, 2018, from <a href="https://www.telegraph.co.uk/science/2018/09/11/toddlers-tiny-apeswho-share-96pcof-gestures-scientists-find/" class="uri">https://www.telegraph.co.uk/science/2018/09/11/toddlers-tiny-apeswho-share-96pcof-gestures-scientists-find/</a></li>
+</ul>
+</div>
+<div id="wednesday" class="section level3">
+<h3>2018-08-29 Wednesday</h3>
+<ul>
+<li>Attending: Rick, Andrea, Yiming, Michelle, Ashton</li>
+<li>Agenda:
+<ul>
+<li>Introductions</li>
+<li>Overview of projects
+<ul>
+<li><a href="http://databrary.org">Databrary</a></li>
+<li><a href="http://datavyu.org">Datavyu</a></li>
+<li>[Play &amp; Learning Across a Year (PLAY)] (<a href="https://nyu.databrary.org/volume/724" class="uri">https://nyu.databrary.org/volume/724</a>)</li>
+<li>Wilkinson</li>
+<li>Optic flow</li>
+<li>PEEP <a href="https://nyu.databrary.org/volume/248">I</a>, <a href="https://nyu.databrary.org/volume/339">II</a></li>
+</ul></li>
+<li>Plan for semester</li>
+</ul></li>
+<li>Next Meeting:
+<ul>
+<li><strong>Wednesday, 9/5, 9a, 444 Moore</strong></li>
+</ul></li>
+</ul>
+</div>
+</div>
 <div id="spring-2018" class="section level2">
 <h2>Spring 2018</h2>
 </div>
-<div id="goals" class="section level2">
+<div id="goals-1" class="section level2">
 <h2>Goals</h2>
 <ul>
 <li>Submit posters to Psi Chi conference on the “size matters” project, infant MOCO, PLAY.</li>
@@ -252,7 +593,7 @@ $(document).ready(function () {
 <li>Rowland, D. C., Roudi, Y., Moser, M.-B., &amp; Moser, E. I. (2016). Ten Years of Grid Cells. <em>Annual Review of Neuroscience</em>, <em>39</em>, 19–40. Retrieved from <a href="http://dx.doi.org/10.1146/annurev-neuro-070815-013824" class="uri">http://dx.doi.org/10.1146/annurev-neuro-070815-013824</a></li>
 </ul>
 </div>
-<div id="schedule" class="section level2">
+<div id="schedule-1" class="section level2">
 <h2>Schedule</h2>
 <div id="breakfast" class="section level3">
 <h3>2018-05-03 Breakfast</h3>
@@ -521,7 +862,7 @@ $(document).ready(function () {
 <div id="fall-2017" class="section level2">
 <h2>Fall 2017</h2>
 </div>
-<div id="section" class="section level2">
+<div id="section-13" class="section level2">
 <h2>2017-11-30</h2>
 <ul>
 <li>Attending
@@ -577,7 +918,7 @@ $(document).ready(function () {
 </ul></li>
 </ul>
 </div>
-<div id="section-1" class="section level2">
+<div id="section-14" class="section level2">
 <h2>2017-11-02</h2>
 <ul>
 <li>Attending
@@ -607,7 +948,7 @@ $(document).ready(function () {
 </ul></li>
 </ul></li>
 </ul>
-<div id="section-2" class="section level3">
+<div id="section-15" class="section level3">
 <h3>2017-10-26</h3>
 <ul>
 <li>Attending
@@ -646,7 +987,7 @@ $(document).ready(function () {
 </ul></li>
 </ul>
 </div>
-<div id="section-3" class="section level3">
+<div id="section-16" class="section level3">
 <h3>2017-10-12</h3>
 <ul>
 <li>Attending</li>
@@ -664,7 +1005,7 @@ $(document).ready(function () {
 </ul></li>
 </ul>
 </div>
-<div id="section-4" class="section level3">
+<div id="section-17" class="section level3">
 <h3>2017-10-05</h3>
 <ul>
 <li>Agenda
@@ -691,7 +1032,7 @@ $(document).ready(function () {
 </ul></li>
 </ul>
 </div>
-<div id="section-5" class="section level3">
+<div id="section-18" class="section level3">
 <h3>2017-09-28</h3>
 <ul>
 <li>Agenda
@@ -709,7 +1050,7 @@ $(document).ready(function () {
 </ul></li>
 </ul>
 </div>
-<div id="section-6" class="section level3">
+<div id="section-19" class="section level3">
 <h3>2017-09-14</h3>
 <ul>
 <li>Agenda
@@ -764,7 +1105,7 @@ $(document).ready(function () {
 </ul></li>
 </ul>
 </div>
-<div id="section-7" class="section level3">
+<div id="section-20" class="section level3">
 <h3>2017-09-05</h3>
 <ul>
 <li>Agenda
@@ -796,7 +1137,7 @@ $(document).ready(function () {
 </ul></li>
 </ul>
 </div>
-<div id="section-8" class="section level3">
+<div id="section-21" class="section level3">
 <h3>2017-08-31</h3>
 <ul>
 <li>Agenda
