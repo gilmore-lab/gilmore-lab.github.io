@@ -83,7 +83,7 @@ To install `databraryapi` from its [GitHub repository](https://github.com/PLAY-b
 devtools::install_github("PLAY-behaviorome/databraryapi")
 ```
             
-```{r}
+```
 # load databraryapi
 library(databraryapi)
 ```
