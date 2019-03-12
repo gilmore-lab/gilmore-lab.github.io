@@ -40,11 +40,11 @@ For the Spring 2019 Semester, we will meet on Tuesdays from 8-9 am in room 350 M
     - Discuss [PsyChi projects](https://github.com/gilmore-lab/psi-chi-2019)  
         - Sarah 
             - project: locomotion crawling/walking type 12 month olds (3 participants) (hand/knees crawling - contralateral vs. unilateral, start with left or right) 
-            - create protocol document [Crawling Mode](https://github.com/gilmore-lab/psi-chi-2019/crawling-mode)
+            - create protocol document [Crawling Mode](https://github.com/gilmore-lab/psi-chi-2019/crawling-mode.Rmd)
         - Ashton/Sandy/Zhichun  
             - project: view videos of stacking cups, solitary play
                 - goal oriented motor movement = stacking/unstacking duration
-            - create protocol document [Object Play](https://github.com/gilmore-lab/psi-chi-2019/object-play)
+            - create protocol document [Object Play](https://github.com/gilmore-lab/psi-chi-2019/object-play.Rmd)
         - Michelle  
             - project: correlation walking/crawling vs. sleep from parent report and metadata
             - create protocol document
