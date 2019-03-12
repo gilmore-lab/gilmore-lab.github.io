@@ -32,6 +32,42 @@ For the Spring 2019 Semester, we will meet on Tuesdays from 8-9 am in room 350 M
 
 ## Schedule
 
+### 2019-03-12 
+
+- Attending: Rick, Andrea, Yiming, Sarah, Ashton, Sandy, Michelle, Zhichun
+- Agenda:
+    - Review how to pull PLAY metadata (or any metadata) directly from the Databrary Spreadsheet and visualize using RStudio
+    - Discuss [PsyChi projects](https://github.com/gilmore-lab/psi-chi-2019)  
+        - Sarah 
+            - project: locomotion crawling/walking type 12 month olds (3 participants) (hand/knees crawling - contralateral vs. unilateral, start with left or right) 
+            - create protocol document [Crawling Mode](https://github.com/gilmore-lab/psi-chi-2019/crawling-mode)
+        - Ashton/Sandy/Zhichun  
+            - project: view videos of stacking cups, solitary play
+                - goal oriented motor movement = stacking/unstacking duration
+            - create protocol document [Object Play](https://github.com/gilmore-lab/psi-chi-2019/object-play)
+        - Michelle  
+            - project: correlation walking/crawling vs. sleep from parent report and metadata
+            - create protocol document
+
+- Next Meeting: 
+    - Bring Draft Abstracts (https://sites.psu.edu/psichi/research-conference-2/)  
+        - Questions on the application include:
+            5.	What is the title of your submission?
+
+            6.	Briefly, what is the problem or major purpose of your research?
+            
+            7.	What procedures did you use?
+            
+            8.	What results did you expect? What did you find?
+            
+            9.	Briefly, what tables/figures do you plan to show?
+            
+            10.	Please list what references you already have (this can be a working list).
+            
+            11.	Please include a brief and thoughtful paragraph or two describing the importance of your research and its contribution to the field of psychology. Any personal interest in the topic may be included here.
+
+    - new due date March 22, 2019
+
 ### 2019-02-26
 
 - Attending: Rick, Andrea, Yiming, Zhichun, Sarah, Ashton
