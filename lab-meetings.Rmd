@@ -44,7 +44,7 @@ For the Spring 2019 Semester, we will meet on Tuesdays from 8-9 am in room 350 M
         - Ashton/Sandy/Zhichun  
             - project: view videos of stacking cups, solitary play
                 - goal oriented motor movement = stacking/unstacking duration
-            - create protocol document [Object Play](https://github.com/gilmore-lab/psi-chi-2019/blob/masterobject-play.Rmd)
+            - create protocol document [Object Play](https://github.com/gilmore-lab/psi-chi-2019/blob/master/object-play.Rmd)
         - Michelle  
             - project: correlation walking/crawling vs. sleep from parent report and metadata
             - create protocol document
