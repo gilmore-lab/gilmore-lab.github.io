@@ -22,6 +22,8 @@ Gilmore, R.O. (2016). From big data to deep insight in developmental science. *W
 
 **Presentations**
 
+Gilmore, R.O. (2019, March 27). The whole elephant. Talk given at the Penn State Center for Neural Engineering (CNE) colloquium series. [slides](https://gilmore-lab.github.io/2019-03-27-cne/).
+
 Gilmore, R.O., Gennetian, L., Kalish, C., Tamis-LeMonda, C.T., & Worthman, C. (2019, March). What SRCD is doing about open science: A conversation hour. Presentation at the 2019 Society for Research in Child Development (SRCD) meeting, Baltimore, MD. [slides](https://gilmore-lab.github.io/2019-03-22-SRCD-conversation/).
 
 Gilmore, R.O. (2019, January). An open science of human health & behavior. Invited talk given to the College of Health & Human Development. [HTML slides](https://gilmore-lab.github.io/2019-01-15-open-science-psu-hhd/).
