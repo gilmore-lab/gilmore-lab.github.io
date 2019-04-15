@@ -59,33 +59,38 @@ Much of our research involves testing infants and young children. To sign-up for
 ### [PSI CHI](http://sites.psu.edu/psichi/) RESEARCH CONFERENCE!
 
 Congratulations to our Undergraduate Research Assistants for presenting their posters during the annual Psi Chi Research Conference!  
-<br>
-<br>
-<center>
+
+</center>
+
+
 #### Psi Chi 2019 Presenters
-<br>
+
+
+<center>
 Sarah Shahriar presented her poster [On the move: A study on gait style and preference in early infancy](https://github.com/gilmore-lab/psi-chi-2019/blob/master/crawling-mode_files/Psi_Chi_Sarah_2019.pdf)
 
 ![Sarah Shahriar](images/2019PsiChiSarahShahriar_250x.jpg)  
-<br>
-<br>
+</center>
+
+<center>
 Zhichun Zhao and Ashton Dluzneski presented the poster they worked on with Sandy Rayes: [Motor Development in Early Childhood](https://github.com/gilmore-lab/psi-chi-2019/blob/master/object-play_files/Psi_Chi_ASZ_2019.pdf).
 
 ![Zhichun Zhao and Ashton Dluzenski](images/2019PsiChiZhichun-Ashton_250x.jpg)
-<br>
-<br>
 </center>
-<center>
+
+
 #### Psi Chi 2018 Presenters
-<br>
-<br>
+
+
+<center>
 Alyssa Pandos presented her poster [Infant brain responses differentiate between optic flow patterns and motion speeds](https://github.com/gilmore-lab/infant-moco-eeg/blob/master/pubs/psi-chi-2018-poster/pandos-gilmore-seisler-psichi-2018.pdf).  
 
 2<sup>nd</sup> Place Empirical Research Category   
 
 ![Alyssa Pandos](images/2018PsiChiAlyssaPandos.jpg)  
-<br>
-<br>
+</center>
+
+<center>
 Charmi Mehta presented her poster [Reanalyzing Shared Data about Brains and Behavior](https://github.com/gilmore-lab/brain-behavior-data/blob/master/pubs/psi-chi-2018/mehta-psi-chi-2018.pdf). 
 
 ![Charmi Mehta](images/2018PsiChiCharmiMehta.jpg) 
