@@ -57,8 +57,19 @@ Much of our research involves testing infants and young children. To sign-up for
 ## News
 
 PSI CHI RESEARCH CONFERENCE!
-Congratulations to our Undergraduate Research Assistants for presenting their posters during the 2018 [Psi Chi](http://sites.psu.edu/psichi/) Poster Conference!  
+Congratulations to our Undergraduate Research Assistants for presenting their posters during the 2019 [Psi Chi](http://sites.psu.edu/psichi/) Poster Conference!  
 
+<center>
+Sarah Shariar presented her poster [On the move: A study on gait style and preference in early infancy](https://github.com/gilmore-lab/psi-chi-2019/blob/master/crawling-mode_files/Psi_Chi_Sarah_2019.pdf)
+
+![C](images/2019PsiChiSarahShahriar_250x.jpg)
+
+Zhichun Zhao and Ashton Dluzneski presented the poster they worked on with Sandy Rayes: [Motor Development in Early Childhood](https://github.com/gilmore-lab/psi-chi-2019/blob/master/object-play_files/Psi_Chi_ASZ_2019.pdf).
+
+![](images/2019PsiChiZhichun-Ashton_250x.jpg)</center>
+
+
+Psi Chi 2018 Presenters
 
 <center>Alyssa Pandos presented her poster [Infant brain responses differentiate between optic flow patterns and motion speeds](https://github.com/gilmore-lab/infant-moco-eeg/blob/master/pubs/psi-chi-2018-poster/pandos-gilmore-seisler-psichi-2018.pdf).  
 
