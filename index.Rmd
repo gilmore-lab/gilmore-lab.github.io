@@ -60,7 +60,7 @@ PSI CHI RESEARCH CONFERENCE!
 Congratulations to our Undergraduate Research Assistants for presenting their posters during the 2019 [Psi Chi](http://sites.psu.edu/psichi/) Poster Conference!  
 
 <center>
-Sarah Shariar presented her poster [On the move: A study on gait style and preference in early infancy](https://github.com/gilmore-lab/psi-chi-2019/blob/master/crawling-mode_files/Psi_Chi_Sarah_2019.pdf)
+Sarah Shahriar presented her poster [On the move: A study on gait style and preference in early infancy](https://github.com/gilmore-lab/psi-chi-2019/blob/master/crawling-mode_files/Psi_Chi_Sarah_2019.pdf)
 
 ![C](images/2019PsiChiSarahShahriar_250x.jpg)
 
