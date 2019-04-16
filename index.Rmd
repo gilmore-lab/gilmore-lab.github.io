@@ -2,19 +2,19 @@
 Title: Home
 ---
 
-![Brain activity](images/fesi-2014.jpg) ![Optic flow](images/optic-flow.jpg)
+<img src="images/fesi-2014.jpg"><img src="images/optic-flow.jpg"> <img src="images/lab-logo.png")
 
 # Rick Gilmore's Lab @ Penn State
 
 The Gilmore Lab in the [Psychology Department](http://psych.la.psu.edu) at [Penn State](http://www.psu.edu) studies the development of perception, action, and memory. Our goal is to understand patterns of brain and behavioral change in infants, children, and young adults. We use behavioral, EEG, MRI, and computational modeling methods in our research. We also advocate for and try to demonstrate open science practices in our work. 
 
-## Active Projects
+<!-- ## Active Projects -->
 
-We have several active projects related to visual perception and open science that are described [here](research.html). You can also get a taste of what we do by visiting the <a href="https://databrary.org">Databrary</a> digital data library, specifically the page devoted to <a href="https://databrary.org/party/6">our research</a>.
+<!-- We have several active projects related to visual perception and open science that are described [here](research.html). You can also get a taste of what we do by visiting the <a href="https://databrary.org">Databrary</a> digital data library, specifically the page devoted to <a href="https://databrary.org/party/6">our research</a>. -->
 
-During the Fall 2017 semester, we are focusing on improving our collective data science chops thanks to the support of online training offered by 
-<img src="https://pbs.twimg.com/profile_images/883047035758313472/UM0JK6WN_400x400.jpg" height=75px width=50px>
-[**DataCamp**](http://www.datacamp.com). Thanks, DataCamp!
+<!-- During the Spring 2019 semester, we are focusing on improving our collective data science chops thanks to the support of online training offered by  -->
+<!-- <img src="https://pbs.twimg.com/profile_images/883047035758313472/UM0JK6WN_400x400.jpg" height=75px width=50px> -->
+<!-- [**DataCamp**](http://www.datacamp.com). Thanks, DataCamp! -->
 
 ## Contact Information
 
@@ -55,6 +55,7 @@ The lab employs an active and engaged group of undergraduate and graduate resear
 Much of our research involves testing infants and young children. To sign-up for a study or learn more about what a visit entails please follow [this link](parents.html). 
 
 ## News
+
 <center>
 ### [PSI CHI](http://sites.psu.edu/psichi/) RESEARCH CONFERENCE!
 
