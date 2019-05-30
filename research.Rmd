@@ -12,7 +12,7 @@ My colleagues and I are developing policies for the ethical and secure sharing o
 
 **Publications**
 
-Ossmy, O., Gilmore, R.O., & Adolph, K.E. (in press). AutoViDev: A computer-vision framework to enhance and accelerate research in human development. Paper to be presented at Computer Vision Conference (CVC) 2019, 25-26 April 2019, Las Vegas, NV.
+Ossmy O., Gilmore R.O., Adolph K.E. (2020) AutoViDev: A Computer-Vision Framework to Enhance and Accelerate Research in Human Development. In: Arai K., Kapoor S. (eds) *Advances in Computer Vision. CVC 2019. Advances in Intelligent Systems and Computing*, vol 944. Springer, Cham. [doi: 10.1007/978-3-030-17798-0_14](https://doi.org/10.1007/978-3-030-17798-0_14) 
 
 Gilmore, R. O., Kennedy, J. L., & Adolph, K. E. (2018). Practical solutions for sharing data and materials From psychological research. *Advances in Methods and Practices in Psychological Science*, SAGE Publications Inc. Retrieved from https://doi.org/10.1177/2515245917746500. [OSF preprint](https://osf.io/rw7f3/).
 
