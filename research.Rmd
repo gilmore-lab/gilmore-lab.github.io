@@ -142,7 +142,9 @@ Simon, D.A., Gordon, A.S., Steiger, L., & Gilmore, R.O. (2015, June). Databrary:
 
 This project is supported by the U.S. National Science Foundation (NSF) Grant No. [BCS-1238599](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1238599), the Eunice Kennedy Shriver National Institute of Child Health and Human Development under Cooperative Agreement [1-U01-HD-076595-01](http://projectreporter.nih.gov/project_info_description.cfm?aid=8531595&amp;icde=15908155&amp;ddparam=&amp;ddvalue=&amp;ddsub=&amp;cr=1&amp;csb=default&amp;cs=ASC), the Society for Research in Child Development, the LEGO Foundation, the Alfred P. Sloan Foundation, and the James S. McDonnell Foundation.
 
-## Play & Learning Across a Year (PLAY)
+<!-- ## Play & Learning Across a Year (PLAY) -->
+
+<img src="https://www.play-project.org/img/PLAY-logo.png" width=480px/>
 
 The Play & Learning Across a Year (PLAY) project serves as a model system for doing development science from a "big" data approach. Natural free play represents the foundation of infant learning, but we know little about how infants play, how play unfolds in real time and across development, and how individual and group differences promote infant learning and development through play. To answer these questions, the PLAY project will collect, code, and share 900 hours of video collected in the homes of children at 12, 18, and 24 months of age drawn from 30 sites across North America.
 
@@ -169,7 +171,7 @@ Adolph, K., Tamis-LeMonda, C. & Gilmore, R.O. (2016). PLAY Project: Webinar disc
 
 **Support**
 
-Support for the planning phase of this project has been provided by the Eunice Kennedy Shriver National Institute of Child Health and Human Development and the LEGO Foundation. A grant is under consideration by the National Institutes of Health.
+PLAY is supported by grants from the Office of the Director, National Institutes of Health, (OD), Eunice Kennedy Shriver National Institute for Child Health and Human Development (NICHD), the National Institute of Mental Health (NIMH), and the National Institute on Drug Abuse (NIDA) under R01HD094830-01, the LEGO Foundation, and the Alfred P. Sloan Foundation.
 
 ## Behavioral Analysis through Video (BehAV.ai)
 
