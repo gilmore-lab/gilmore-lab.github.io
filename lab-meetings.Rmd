@@ -22,6 +22,7 @@ For the Fall 2019 Semester, we will meet on XX from X-X am in room XXX Moore.
     - infant MOCO EEG
     - child MOFO
 - Data science
+    - Learn R on Datacamp
     - Learn more about jupyter notebooks and python
 - Read more primary source papers
 - Launch new projects
@@ -35,6 +36,9 @@ For the Fall 2019 Semester, we will meet on XX from X-X am in room XXX Moore.
 - Egnor, S. E. R., & Branson, K. (2016). Computational Analysis of Behavior. *Annual Review of Neuroscience*, *39*, 217–236. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013845
 - Kaplan, R., Schuck, N. W., & Doeller, C. F. (2017). The Role of Mental Maps in Decision-Making. *Trends in Neurosciences*, *40*(5), 256–259. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.03.002
 - Rowland, D. C., Roudi, Y., Moser, M.-B., & Moser, E. I. (2016). Ten Years of Grid Cells. *Annual Review of Neuroscience*, *39*, 19–40. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013824
+- Chapter on Visual Development
 
 ## Schedule
+
+### First Meeting - 2nd week of class - Day/Time TBD
 
