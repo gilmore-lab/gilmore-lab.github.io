@@ -48,14 +48,13 @@ For the Fall 2019 Semester, we will meet on Thursdays from 8-9 am in room 467 Mo
     - Introductions
     - Summary of active projects
         - Optic Flow
-        - Databrary
+        - [Databrary](https://nyu.databrary.org/)
         - Open Science
-        - Computer Vision
         - behAV
         - [PLAY](play-project.org)
     - Goals
         - Learn R, Python, Datavyu
 - To Do:
-    - Online Training: CITI, Clery,
-    - 
+    - Online Training: CITI, Clery, Reporting Child Abuse
+    - Biography in r markdown format saved as a .txt file including professional interests and 1 personal interest in addition to a picture if you like.
 
