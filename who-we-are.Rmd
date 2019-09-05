@@ -3,13 +3,13 @@ Title: who-we-are
 ---
 ## For Interested Students
 
-The Brain Development Lab, part of the [Psychology Department](http://psych.la.psu.edu) at Penn State, is looking for research assistants to study brain development in infants, children, and adolescents for **Fall 2019**. You can earn research project (PSY 494) credit or work study funds, and learn video, computer, and communication skills. Prior research experience and computer skills are a plus, but aren't required. We are especially interested in students who have morning availability, computer skills, or are interested in developing skills in advertising, marketing, or public relations. You may apply by completing an [application](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform).
+The Brain Development Lab, part of the [Psychology Department](https://psych.la.psu.edu) at Penn State, is looking for research assistants to study brain development in infants, children, and adolescents for **Fall 2019**. You can earn research project (PSY 494) credit or work study funds, and learn video, computer, and communication skills. Prior research experience and computer skills are a plus, but aren't required. We are especially interested in students who have morning availability, computer skills, or are interested in developing skills in advertising, marketing, or public relations. You may apply by completing an [application](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform).
 
 ## Lab Director
 
-Rick O. Gilmore is Professor of Psychology, a Huck Institute of the Life Sciences faculty member, and an Associate of the Institute for Cyberscience. He earned his bachelor's degree *magna cum laude* in Cognitive Science from [Brown University](http://www.brown.edu), and master's and doctoral degrees in Psychology from [Carnegie Mellon University](http://www.cmu.edu) where he participated in the [Center for the Neural Basis of Cognition (CNBC)](http://cnbc.cmu.edu) training program in cognitive neuroscience. Gilmore's research focuses on the development of visual perception and memory. He is particularly interested in the development of brain networks that enable perceivers to extract information about the layout of the environment, the shape of objects, and the speed and direction of self-movement from patterns of visual motion called optic flow. Gilmore is also keenly interested in developing tools and practices that make scientific research more open, transparent, and reproducible. He is co-founder and Co-Director of the [Databrary.org](http://databrary.org) data library.
+Rick O. Gilmore is Professor of Psychology, a Huck Institute of the Life Sciences faculty member, and an Associate of the Institute for Cyberscience. He earned his bachelor's degree *magna cum laude* in Cognitive Science from [Brown University](https://www.brown.edu), and master's and doctoral degrees in Psychology from [Carnegie Mellon University](https://www.cmu.edu) where he participated in the [Center for the Neural Basis of Cognition (CNBC)](https://cnbc.cmu.edu) training program in cognitive neuroscience. Gilmore's research focuses on the development of visual perception and memory. He is particularly interested in the development of brain networks that enable perceivers to extract information about the layout of the environment, the shape of objects, and the speed and direction of self-movement from patterns of visual motion called optic flow. Gilmore is also keenly interested in developing tools and practices that make scientific research more open, transparent, and reproducible. He is co-founder and Co-Director of the [Databrary.org](https://databrary.org) data library, and is co-PI on the Play & Learning Across a Year [(PLAY) Project](https://play-project.org) 
 
-From 2008 to 2014, Gilmore served as the founding Director of Human Imaging at Penn State's Social, Life, and Engineering Sciences Imaging Center [(SLEIC)](http://imaging.psu.edu). He has won the College of the Liberal Arts tenure-line faculty teaching award, leads the Human Developmental Neuroscience Initiative for the Child Study Center, and has had support for his research from the National Institutes of Health and the National Science Foundation. Gilmore has served as president of the [Centre Region Bicycle Coalition](http://centrebike.org), the [Acoustic Brew Concert Series](http://acousticbrew.org), and the [State College Community Theatre](http://scctonline.org).
+From 2008 to 2014, Gilmore served as the founding Director of Human Imaging at Penn State's Social, Life, and Engineering Sciences Imaging Center [(SLEIC)](https://imaging.psu.edu). He has won the College of the Liberal Arts tenure-line faculty teaching award, leads the Human Developmental Neuroscience Initiative for the Child Study Center, and has had support for his research from the National Institutes of Health and the National Science Foundation. Gilmore has served as president of the [Centre Region Bicycle Coalition](https://centrebike.org), the [Acoustic Brew Concert Series](https://acousticbrew.org), and the [State College Community Theatre](https://scctonline.org).
 
 #### Contact Information
 
@@ -22,14 +22,14 @@ University Park, PA 16801<br/>
 
 rogilmore AT-SIGN psu DOT edu<br/>
 
-<a href="http://www.personal.psu.edu/rog1">http://www.personal.psu.edu/rog1</a></br>
+<a href="https://www.personal.psu.edu/rog1">https://www.personal.psu.edu/rog1</a></br>
 
 ## Current Staff
 
 ### [Andrea Seisler](mailto:ars17psu@gmail.com), Lab Manager
-Andrea R. Seisler is the Laboratory Manager of the Brain Development Laboratory directed by Dr. Rick O. Gilmore. She has also been the Authorizations Specialist at [Databrary](http://databrary.org) since November 2016. She received her bachelor's and master's degree in Biomedical Engineering from [The Catholic University of America](http://www.cua.edu/). During her graduate studies, she was a recipient of the [Clare Booth Luce Fellowship](http://www.hluce.org/cblprogram.aspx) award.
+Andrea R. Seisler is the Laboratory Manager of the Brain Development Laboratory directed by Dr. Rick O. Gilmore. She has also been the Authorizations Specialist at [Databrary](https://databrary.org) since November 2016. She received her bachelor's and master's degree in Biomedical Engineering from [The Catholic University of America](https://www.cua.edu/). During her graduate studies, she was a recipient of the [Clare Booth Luce Fellowship](https://www.hluce.org/cblprogram.aspx) award.
 
-She completed MRI based neuroscience and orthopedics research while working at [The National Institutes of Health](http://www.nih.gov/) from 2001-2007. After her move to State College, she served as an IRB Compliance Coordinator for the [Office for Research Protections](http://www.research.psu.edu/orp/humans) at Penn State and then moved on in 2009 to manage the Human Electrophysiology Facility located at the [Social, Life, and Enginineering Sciences Imaging Center](http://www.imaging.psu.edu/) through 2014.
+She completed MRI based neuroscience and orthopedics research while working at [The National Institutes of Health](https://www.nih.gov/) from 2001-2007. After her move to State College, she served as an IRB Compliance Coordinator for the [Office for Research Protections](https://www.research.psu.edu/orp/humans) at Penn State and then moved on in 2009 to manage the Human Electrophysiology Facility located at the [Social, Life, and Enginineering Sciences Imaging Center](https://www.imaging.psu.edu/) through 2014.
 
 #### Contact Information
 
@@ -53,17 +53,17 @@ She plans on furthering her research experience over the next few years, and pla
 
 ### Sandy Rayes, Undergraduate Student 
 
-Sandy is a junior double majoring in Biology and Psychology. She is active on campus as a previous orientation leader, membership director for [Blue and White Society](http://www.bluewhitesociety.com), and [THON](https://thon.org) captain. Additionally, Sandy started a new club, We Are The World, which celebrates the diverse culture at Penn State Altoona. Sandy plans to attend medical school after her graduation in May of 2020.
+Sandy is a junior double majoring in Biology and Psychology. She is active on campus as a previous orientation leader, membership director for [Blue and White Society](https://www.bluewhitesociety.com), and [THON](https://thon.org) captain. Additionally, Sandy started a new club, We Are The World, which celebrates the diverse culture at Penn State Altoona. Sandy plans to attend medical school after her graduation in May of 2020.
 
-### Zhichun Zhao, Undergraduate Student 
+<!-- ### Zhichun Zhao, Undergraduate Student  -->
 
-I am a junior student majoring in Psychology with a concentration in Life Science. I am originally from Penn State Harrisburg where I started a film editing club. I also hold great interest in interactive design and participated in several workshops in Copenhagen over the summer. People who might be interested can check the website [here](http://ciid.dk/education/summer-school/).
-I plan to pursue a graduate’s degree after I graduate. I hope to carry my knowledge of psychology into whatever field I will be working on in the future. 
-
+<!-- I am a junior student majoring in Psychology with a concentration in Life Science. I am originally from Penn State Harrisburg where I started a film editing club. I also hold great interest in interactive design and participated in several workshops in Copenhagen over the summer. People who might be interested can check the website [here](https://ciid.dk/education/summer-school/). -->
+<!-- I plan to pursue a graduate’s degree after I graduate. I hope to carry my knowledge of psychology into whatever field I will be working on in the future.  -->
 
 ## Recent Alumni
 
-- Sarah Shahriar
+- Zhichun Zhao
+- Sarah Shahriar, Research Assistant, Penn State Hershey
 - Ashton Dluzneski
 - Alyssa Pandos  
 - Charmi Mehta  
@@ -74,15 +74,15 @@ I plan to pursue a graduate’s degree after I graduate. I hope to carry my know
 - Shivani Patel
 - Michael O'Neill, Graduate student, PSU
 - Daved Fared
-- Auburn Lattanzio
+- Auburn Lattanzio, Graduate student, Villanova University
 - Michelle Shade
 - Sam Pai
 - Jun Oh, Apprentice Ruby on Rails Developer, Launch Academy, Inc.
-- Amanda Thomas, Postdoctoral researcher, Swarthmore
+- Amanda Thomas, Ph.D.
 - William Adamiak, NIH IRTA
 - Shivam Vedak, Medical student
 - Dan Elbich, Graduate student, Penn State
-- Jeremy Fesi, Ph.D., Postdoctoral Scientist, CUNY
+- Jeremy Fesi, Ph.D., Research Analyst, U.S. Marine Corps
 - Lorena Gonzalez, Graduate student, Penn State
 - Ricky Groner, IT Support Specialist, Huck Institutes of the Life Sciences, Penn State
 - Ken Hwang, Consultant, Anexinet

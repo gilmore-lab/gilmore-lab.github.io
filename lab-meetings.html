@@ -7,7 +7,6 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
-<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -245,6 +244,18 @@ $(document).ready(function () {
 }
 </style>
 
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
 <!-- code folding -->
 
 
@@ -317,7 +328,7 @@ $(document).ready(function () {
 
 <div id="lab-meetings" class="section level1">
 <h1>Lab Meetings</h1>
-<p>For the Fall 2019 Semester, we will meet on Thursdays from 8-9 am in room XXX Moore.</p>
+<p>For the Fall 2019 Semester, we will meet on Thursdays from 8-9 am in room 467 Moore.</p>
 <div id="goals" class="section level2">
 <h2>Goals</h2>
 <ul>
@@ -326,7 +337,7 @@ $(document).ready(function () {
 <li>Present at <a href="https://undergradresearch.psu.edu/resources/opportunities/undergraduate-exhibition">Undergraduate Exhibition</a></li>
 <li>Start preparing for presentations in the Fall
 <ul>
-<li>Train on Poster Template</li>
+<li>Train on poster template</li>
 <li>Train how to use Databrary API</li>
 </ul></li>
 <li>Data simulation to create graphs and analyses for learning</li>
@@ -361,13 +372,25 @@ $(document).ready(function () {
 <li>Egnor, S. E. R., &amp; Branson, K. (2016). Computational Analysis of Behavior. <em>Annual Review of Neuroscience</em>, <em>39</em>, 217–236. Retrieved from <a href="http://dx.doi.org/10.1146/annurev-neuro-070815-013845" class="uri">http://dx.doi.org/10.1146/annurev-neuro-070815-013845</a></li>
 <li>Kaplan, R., Schuck, N. W., &amp; Doeller, C. F. (2017). The Role of Mental Maps in Decision-Making. <em>Trends in Neurosciences</em>, <em>40</em>(5), 256–259. Retrieved from <a href="http://dx.doi.org/10.1016/j.tins.2017.03.002" class="uri">http://dx.doi.org/10.1016/j.tins.2017.03.002</a></li>
 <li>Rowland, D. C., Roudi, Y., Moser, M.-B., &amp; Moser, E. I. (2016). Ten Years of Grid Cells. <em>Annual Review of Neuroscience</em>, <em>39</em>, 19–40. Retrieved from <a href="http://dx.doi.org/10.1146/annurev-neuro-070815-013824" class="uri">http://dx.doi.org/10.1146/annurev-neuro-070815-013824</a></li>
-<li>Chapter on Visual Development</li>
+<li>Atkinson, J., &amp; Braddick, O. (2013). Visual Development. In P. D. Zelazo (Ed.), <em>The Oxford Handbook of Developmental Psychology (Vol. 1, pp. 271–309)</em>. Oxford University Press.</li>
 </ul>
 </div>
 <div id="schedule" class="section level2">
 <h2>Schedule</h2>
-<div id="first-meeting---2nd-week-of-class---daytime-tbd" class="section level3">
-<h3>First Meeting - 2nd week of class - Day/Time TBD</h3>
+<div id="september-5-2019-467-moore" class="section level3">
+<h3>September 5, 2019, 467 Moore</h3>
+<ul>
+<li>Attending
+<ul>
+<li>Rick, Andrea</li>
+</ul></li>
+<li>Agenda
+<ul>
+<li>Introductions</li>
+<li>Summary of active projects</li>
+<li>Goals</li>
+</ul></li>
+</ul>
 </div>
 </div>
 </div>
@@ -389,23 +412,6 @@ $(document).ready(function () {
 
 
 </script>
-
-<!-- tabsets -->
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
-<!-- code folding -->
-
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
