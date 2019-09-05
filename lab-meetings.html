@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -244,18 +245,6 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
@@ -382,13 +371,29 @@ $(document).ready(function () {
 <ul>
 <li>Attending
 <ul>
-<li>Rick, Andrea</li>
+<li>Rick, Andrea, Yiming, Emily, Rachel, Michelle, Luka, Amar,</li>
 </ul></li>
 <li>Agenda
 <ul>
 <li>Introductions</li>
-<li>Summary of active projects</li>
-<li>Goals</li>
+<li>Summary of active projects
+<ul>
+<li>Optic Flow</li>
+<li>Databrary</li>
+<li>Open Science</li>
+<li>Computer Vision</li>
+<li>behAV</li>
+<li><a href="play-project.org">PLAY</a></li>
+</ul></li>
+<li>Goals
+<ul>
+<li>Learn R, Python, Datavyu</li>
+</ul></li>
+</ul></li>
+<li>To Do:
+<ul>
+<li>Online Training: CITI, Clery,</li>
+<li></li>
 </ul></li>
 </ul>
 </div>
@@ -412,6 +417,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
