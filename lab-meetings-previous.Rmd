@@ -5,6 +5,7 @@ Title: lab-meetings
 # Past Lab Meetings
 
 ---
+
 ## Spring 2019  
 
 ### 2019-04-16
@@ -139,7 +140,6 @@ Title: lab-meetings
     - Moco Psychophysics presentation by Yiming  
     
 - To do: Submit a brief summary of Psi Chi project idea to Dr. Gilmore before 2/22.
-
 
 ### 2019-02-05
 

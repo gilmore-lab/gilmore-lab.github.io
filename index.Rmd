@@ -73,7 +73,6 @@ Zhichun Zhao and Ashton Dluzneski presented the poster they worked on with Sandy
 
 <h4>Psi Chi 2018 Presenters</h4>
 
-
 Alyssa Pandos presented her poster [Infant brain responses differentiate between optic flow patterns and motion speeds](https://github.com/gilmore-lab/infant-moco-eeg/blob/master/pubs/psi-chi-2018-poster/pandos-gilmore-seisler-psichi-2018.pdf).  
 
 2<sup>nd</sup> Place Empirical Research Category   

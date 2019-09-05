@@ -4,7 +4,7 @@ Title: lab-meetings
 
 # Lab Meetings
 
-For the Fall 2019 Semester, we will meet on Thursdays from 8-9 am in room XXX Moore.
+For the Fall 2019 Semester, we will meet on Thursdays from 8-9 am in room 467 Moore.
 
 ## Goals
 
@@ -12,7 +12,7 @@ For the Fall 2019 Semester, we will meet on Thursdays from 8-9 am in room XXX Mo
 - Present at [Psi Chi](https://sites.psu.edu/psichi/research-conference-2/) (2nd week in April)
 - Present at [Undergraduate Exhibition](https://undergradresearch.psu.edu/resources/opportunities/undergraduate-exhibition)
 - Start preparing for presentations in the Fall  
-    - Train on Poster Template
+    - Train on poster template
     - Train how to use Databrary API
 - Data simulation to create graphs and analyses for learning
 - Preparation for PLAY
@@ -36,9 +36,15 @@ For the Fall 2019 Semester, we will meet on Thursdays from 8-9 am in room XXX Mo
 - Egnor, S. E. R., & Branson, K. (2016). Computational Analysis of Behavior. *Annual Review of Neuroscience*, *39*, 217–236. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013845
 - Kaplan, R., Schuck, N. W., & Doeller, C. F. (2017). The Role of Mental Maps in Decision-Making. *Trends in Neurosciences*, *40*(5), 256–259. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.03.002
 - Rowland, D. C., Roudi, Y., Moser, M.-B., & Moser, E. I. (2016). Ten Years of Grid Cells. *Annual Review of Neuroscience*, *39*, 19–40. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013824
-- Chapter on Visual Development
+- Atkinson, J., & Braddick, O. (2013). Visual Development. In P. D. Zelazo (Ed.), *The Oxford Handbook of Developmental Psychology (Vol. 1, pp. 271–309)*. Oxford University Press.
 
 ## Schedule
 
-### First Meeting - 2nd week of class - Day/Time TBD
+### September 5, 2019, 467 Moore
 
+- Attending
+    - Rick, Andrea
+- Agenda
+    - Introductions
+    - Summary of active projects
+    - Goals
