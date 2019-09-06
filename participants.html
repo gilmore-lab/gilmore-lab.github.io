@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -244,18 +245,6 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
@@ -328,7 +317,7 @@ $(document).ready(function () {
 
 <div id="research-participant-information" class="section level1">
 <h1>Research Participant Information</h1>
-<p>The Brain Development Laboratory is interested in how the visual system develops over time. To reach this goal, we use behavoral, EEG and MRI techniques to study how the infant, child and adult brain responds to motion and pattern.</p>
+<p>The Brain Development Laboratory is interested in how the visual system develops over time. To reach this goal, we use behavioral, EEG and MRI techniques to study how the infant, child and adult brain responds to motion and pattern.</p>
 <p>If you are interested in participating in a study or having your child participate, please contact us at <a href="mailto:psubrainlab@gmail.com" class="email">psubrainlab@gmail.com</a>.</p>
 <!-- ## EEG Studies -->
 <!-- EEG (Electroencephalogram) is a technique which allows the electrical signals in the brain to be recorded. In these studies we are recording the brain activity while the participants watch images on a computer monitor. The studies at our lab take approximately 1 hour.  -->
@@ -362,6 +351,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
