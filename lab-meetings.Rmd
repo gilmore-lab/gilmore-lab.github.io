@@ -32,6 +32,9 @@ For the Fall 2019 Semester, we will meet on Thursdays from 8-9 am in room 467 Mo
 
 ## Possible readings
 
+- Special Issue “[Replication, Collaboration, and Best Practices in Infancy Research](https://www.sciencedirect.com/journal/infant-behavior-and-development/special-issue/10RZSSM6DGN),” in Infant Behavior and Development.
+
+
 - Finkelstein, A., Las, L., & Ulanovsky, N. (2016). 3-D Maps and Compasses in the Brain. *Annual Review of Neuroscience*, *39*, 171–196. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013831
 - Egnor, S. E. R., & Branson, K. (2016). Computational Analysis of Behavior. *Annual Review of Neuroscience*, *39*, 217–236. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013845
 - Kaplan, R., Schuck, N. W., & Doeller, C. F. (2017). The Role of Mental Maps in Decision-Making. *Trends in Neurosciences*, *40*(5), 256–259. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.03.002

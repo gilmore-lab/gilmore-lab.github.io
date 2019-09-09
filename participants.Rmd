@@ -16,6 +16,11 @@ If you are interested in participating in a study or having your child participa
 
 <!-- ## Behavioral Studies -->
 
+<!-- ### Individual Differences in Motion Perceiption -->
+<!-- In this study, participants will view black and white stripes and have to make a determination about what they see. In addition, participants will also complete some questionnaires. -->
+
+<!-- Recruitment for this study takes place through the [Psychology Subject Pool](http://pennstate.sona-systems.com/) for students for Psych 100 and Psych 105. -->
+
 <!-- ### Symmetry Sorting Study   -->
 <!-- We are studying how the brain perceives symmetry in two-dimensions. Participants view a series of images and group them into similar categories. -->
 
