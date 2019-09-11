@@ -4,7 +4,7 @@ Title: lab-meetings
 
 # Lab Meetings
 
-For the Fall 2019 Semester, we will meet on Thursdays from 8-9 am in room 467 Moore.
+For the Fall 2019 Semester, we will meet on Thursdays from 8-8:50 am in room 467 Moore.
 
 ## Goals
 
@@ -42,6 +42,17 @@ For the Fall 2019 Semester, we will meet on Thursdays from 8-9 am in room 467 Mo
 - Atkinson, J., & Braddick, O. (2013). Visual Development. In P. D. Zelazo (Ed.), *The Oxford Handbook of Developmental Psychology (Vol. 1, pp. 271–309)*. Oxford University Press.
 
 ## Schedule
+
+### September 11, 2019
+
+- Attending
+    - 
+- Agenda
+    -
+
+- To Do:
+    - Online Training: CITI, Clery, Reporting Child Abuse
+    - Biography in r markdown format saved as a .txt file including professional interests and 1 personal interest in addition to a picture if you like.
 
 ### September 5, 2019, 467 Moore
 
