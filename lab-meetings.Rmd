@@ -48,7 +48,7 @@ For the Fall 2019 Semester, we will meet on Thursdays from 8-8:50 am in room 467
 - Attending
     - 
 - Agenda
-    -
+    - [Vision: How it works, how it develops, and why you should care](https://gilmore-lab.github.io/csd-vision-2019-09-05/)
 
 - To Do:
     - Online Training: CITI, Clery, Reporting Child Abuse
