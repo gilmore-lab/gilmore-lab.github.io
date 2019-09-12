@@ -93,5 +93,3 @@ This class is supported by DataCamp, an intuitive learning platform for data sci
 ```{r, echo=FALSE}
 knitr::include_graphics("images/DataCamp-50px.png")
 ```
-
-
