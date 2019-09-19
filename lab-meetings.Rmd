@@ -46,10 +46,17 @@ For the Fall 2019 Semester, we will meet on Thursdays from 8-8:50 am in room 467
 ### September 19, 2019
 
 - Attending
-    - 
+    - Rick, Andrea, Yiming, Luka, Rachel, Emily, Michelle, Amar
 - Agenda
-    -
+    - Status Update
+    - Sex Differences 
+        - lit review
+        - create/update protocol for lit review (ars)
+    - R bootcamp - [Slow R](https://psu-psychology.github.io/r-bootcamp-2019/talks/slow-r.html)
+    - Instructions to log on to VPN for off campus
 - To Do
+    - Read paper for next week 9/26/2019
+        - Abramov, I., Gordon, J., Feldman, O., & Chavarga, A. (2012). Sex & vision I: Spatio-temporal resolution. Biology of sex differences, 3(1), 20. bsd.biomedcentral.com. Retrieved from http://dx.doi.org/10.1186/2042-6410-3-20
     - Finish up assigned items on Asana
     - Start [Datacamp](https://www.datacamp.com) assignments
         - Log in > go to PSYCH 494 Research Studies > Assignments
