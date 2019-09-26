@@ -45,8 +45,12 @@ For the Fall 2019 Semester, we will meet on Thursdays from 8-8:50 am in room 467
 ### September 26, 2019
 
 - Attending
+    - Rick, Andrea, Yiming, Luka, Amar, Rachel, Joseph
+    - Excused: Emily, Michelle, Sandy
 - Agenda
     - Discussion of [Abramov et al. 2012](talk-slides/abramov-etal-2012.html)
+    - 'I' manipulate Independent variables, '*D*ey' manipulate Dependent variables
+    
 
 ### September 19, 2019
 
