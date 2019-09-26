@@ -1,7 +1,7 @@
 ---
 title: "abramov-etal-2017"
 author: "Rick Gilmore & Yiming Qian"
-date: "2019-09-26 07:47:54"
+date: "2019-09-26 08:51:54"
 bibliography: bib/abramov-etal.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -28,7 +28,9 @@ Abramov, I., Gordon, J., Feldman, O., & Chavarga, A. (2012). Sex & vision I: Spa
 ## Who were the participants?
 
 - Adults (faculty, graduate and undergraduate students at Brooklyn College, some high school students)
-  - $n=36$ females (16-38 years; mean = 23.5 years); $n=16$ males (16-37 years; mean 24.3 years)
+- $n=36$ females (16-38 years; mean = 23.5 years); $n=16$ males (16-37 years; mean 24.3 years)
+  
+> "*These numbers of participants are appreciably larger than those in the vast majority of detailed psychophysical studies of vision.*"
 
 ## What tasks did they perform?
 
@@ -36,17 +38,33 @@ Abramov, I., Gordon, J., Feldman, O., & Chavarga, A. (2012). Sex & vision I: Spa
   
 - *Spatio-Temporal Contrast Sensitivity Function (ST-CSF)*
 
+#### Contrast sensitivity function example
+
+<div class="figure" style="text-align: center">
+<img src="https://understandinglowvision.com/wp-content/uploads/2018/10/CSF.jpg" alt="https://understandinglowvision.com/2-0-contrast-sensitivity-function/" width="800px" />
+<p class="caption">https://understandinglowvision.com/2-0-contrast-sensitivity-function/</p>
+</div>
+
 ### Secondary
   
-- *Stereopsis* or binocular depth perception (Titmus Fly Book Test; Randot Stereo Acuity Test; TNO anaglypic random-dot plates)
+- *Stereopsis* or binocular depth perception ([Titmus Fly Book Test](https://www.stereooptical.com/wp-content/uploads/2018/01/LEA-symbols-FLY-2017-User-manual-ONLY-12212017-2.pdf); [Randot Stereo Acuity Test](https://www.stereooptical.com/products/stereotests-color-tests/randot/); [TNO anaglypic random-dot plates](https://en.wikipedia.org/wiki/Random_dot_stereogram))
+- Color perception
+- Acuity
   
 ## What specific variables/measures were of interest?
 
-- *ST-CSF thresholds* at different *spatial frequencies* and *temporal frequencies*
-  
+> *I* manipulate *independent variables* (controlled variables or 'inputs'); '*D*ey' provide information about dependent variables (responses/outcome variables or 'outputs')
+
+- *ST-CSF thresholds* 
+  - at different *spatial frequencies* and *temporal frequencies*
+
 ## How many visits/data collection sessions?
 
 - 15+ laboratory sessions
+
+> "*Furthermore, each of our participants had to complete our entire Battery of tests of vision; this entailed coming to the laboratory for fifteen or more sessions of approximately one hour.*"
+
+## How were the data analyzed?
 
 # What did they find?
 
@@ -73,6 +91,6 @@ Abramov, I., Gordon, J., Feldman, O., & Chavarga, A. (2012). Sex & vision I: Spa
 
 # Why does it matter?
 
-# Constructive comments
+# Questions and constructive comments
 
 # References
