@@ -1,7 +1,7 @@
 ---
 title: "abramov-etal-2017"
 author: "Rick Gilmore & Yiming Qian"
-date: "2019-09-26 08:51:54"
+date: "2019-10-03 08:00:28"
 bibliography: bib/abramov-etal.bib
 csl: bib/apa.csl
 css: css/outline.css
@@ -33,6 +33,10 @@ Abramov, I., Gordon, J., Feldman, O., & Chavarga, A. (2012). Sex & vision I: Spa
 > "*These numbers of participants are appreciably larger than those in the vast majority of detailed psychophysical studies of vision.*"
 
 ## What tasks did they perform?
+
+### Example display
+
+
 
 ### Primary
   
