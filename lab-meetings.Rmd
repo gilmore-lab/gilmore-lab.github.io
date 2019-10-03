@@ -50,9 +50,14 @@ For the Fall 2019 Semester, we will meet on Thursdays from 8-8:50 am in room 467
 ### October 3, 2019
 
 - Attending
-    -
+    - Rick, Yiming, Emily, Michelle, Amar, Andrea
+    - Excused: Sandy, Luka, Rachel
 - Agenda
     - Continue discussion of [Abramov et al. 2012](talk-slides/abramov-etal-2012.html)
+    - Our study 
+        - notate those with color deficiency instead of removing them from study
+        - show mean and actual value graphs side by side
+        
 
 
 ### September 26, 2019
