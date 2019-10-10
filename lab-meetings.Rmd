@@ -42,7 +42,16 @@ For the Fall 2019 Semester, we will meet on Thursdays from 8-8:50 am in room 467
 
 ## Schedule
 
+### October 17, 2019
+- Agenda
+    - Discuss R and any questions you may have
+        - factors
+        - ???
+
 ### October 10, 2019
+- Attending
+    - Rick, Andrea, Yiming, Emily, Joseph, Amar
+    - Excused: Sandy
 - Agenda
     - Yiming will give a practice master's presentation today
 
