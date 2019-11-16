@@ -42,6 +42,27 @@ For the Fall 2019 Semester, we will meet on Thursdays from 8-8:50 am in room 467
 
 ## Schedule
 
+### November 20, 2019 12 - 1:30
+- Lab Ice Skating at Pegula Arena $5 to skate and $5 to rent skates
+
+### November 14, 2019
+
+- Attending
+    - Rick, Andrea, Yiming, Rachel, Michelle, Amar, Luka
+    - Excused: Emily
+- Review of first day of Data collection
+    - Good
+        - Started data collection. Yay. We have begun
+        - found small errors in protocol (e.g. need chair w/o wheels, protocol document)
+        - randomization scheme for visual display works
+    - Improve
+        - Debriefing for after study complete - add to protocol
+    - Other Notes
+        - Keep track of gender and stop requestin in sona once we reacy 150 participants of each gender
+        - look into BoxR Api to pull box data to TLT server
+        - qualtrics post processing needs as QA
+        - worked on QA for abramov replication during meeting
+
 ### November 7, 2019
 - Attending
     - Rick, Andrea, Yiming, Emily, Rachel, Amar, Michelle
