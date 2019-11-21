@@ -57,7 +57,7 @@ Happy Thanksgiving
 ### November 21, 2019
 - Attending
     - Rick, Andrea, Yiming, Rachel, Emily, Michelle
-    - Excused: Amar
+    - Excused: Amar, Joseph
 - Agenda
     - Review post processing procedures and QA
         - Possible Qualtrics Survey Changes (in new year)
