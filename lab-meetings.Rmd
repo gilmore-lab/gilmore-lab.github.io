@@ -42,6 +42,31 @@ For the Fall 2019 Semester, we will meet on Thursdays from 8-8:50 am in room 467
 
 ## Schedule
 
+### December 19, 2019
+
+- 8:00am Breakfast at the Waffle Shop
+
+### December 12, 2019
+
+### December 5, 2019
+
+### November 28, 2019 - No Lab
+
+Happy Thanksgiving
+
+### November 21, 2019
+- Attending
+    - Rick, Andrea, Yiming, Rachel, Emily, Michelle
+    - Excused: Amar, Joseph
+- Agenda
+    - Review post processing procedures and QA
+        - Possible Qualtrics Survey Changes (in new year)
+            - add 'researcher notes' to end of Qualtrics survey to note any issues with filenaming, experimenter error, restarting the task, etc...
+            - start the file name with 9 instead of 2019, keep month, day, hour, minutes, seconds 
+            - do not keep the 2 digit random variable that Qualtrics makes 
+            - change 2 digit random variable to m or c based upon the task run
+    
+
 ### November 20, 2019 12 - 1:30
 - Lab Ice Skating at Pegula Arena $5 to skate and $5 to rent skates
 
