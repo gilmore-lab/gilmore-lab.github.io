@@ -158,6 +158,7 @@ Happy Thanksgiving
 - Agenda
     - Discussion of [Abramov et al. 2012](talk-slides/abramov-etal-2012.html)
     - 'I' manipulate Independent variables, '*D*ey' manipulate Dependent variables
+    - [How to Read an Academic Paper](talk-slides/how-to-read-academic-paper.html) Presentation
     
 
 ### September 19, 2019
