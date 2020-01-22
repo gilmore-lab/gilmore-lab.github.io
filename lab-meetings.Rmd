@@ -4,7 +4,7 @@ Title: lab-meetings
 
 # Lab Meetings
 
-For the Fall 2019 Semester, we will meet on Thursdays from 8-8:50 am in room 467 Moore.
+For the spring 2019 Semester, we will meet on Monday from 8-8:50 am in room 444 Moore.
 
 ## Goals
 
@@ -42,170 +42,19 @@ For the Fall 2019 Semester, we will meet on Thursdays from 8-8:50 am in room 467
 
 ## Schedule
 
-### December 12, 2019
+### January 27, 2020
 
-- 8:00am Breakfast at the Waffle Shop
+- Attending: 
 
-### December 5, 2019
-
-Meeting Cancelled
-    
-
-### November 28, 2019 - No Lab
-
-Happy Thanksgiving
-
-### November 21, 2019
-- Attending
-    - Rick, Andrea, Yiming, Rachel, Emily, Michelle
-    - Excused: Amar, Joseph
-- Agenda
-    - Review post processing procedures and QA
-        - Possible Qualtrics Survey Changes (in new year)
-            - add 'researcher notes' to end of Qualtrics survey to note any issues with filenaming, experimenter error, restarting the task, etc...
-            - start the file name with 9 instead of 2019, keep month, day, hour, minutes, seconds 
-            - do not keep the 2 digit random variable that Qualtrics makes 
-            - change 2 digit random variable to m or c based upon the task run
-    
-
-### November 20, 2019 12 - 1:30
-- Lab Ice Skating at Pegula Arena $5 to skate and $5 to rent skates
-
-### November 14, 2019
-
-- Attending
-    - Rick, Andrea, Yiming, Rachel, Michelle, Amar, Luka
-    - Excused: Emily
-- Review of first day of Data collection
-    - Good
-        - Started data collection. Yay. We have begun
-        - found small errors in protocol (e.g. need chair w/o wheels, protocol document)
-        - randomization scheme for visual display works
-    - Improve
-        - Debriefing for after study complete - add to protocol
-    - Other Notes
-        - Keep track of gender and stop requestin in sona once we reacy 150 participants of each gender
-        - look into BoxR Api to pull box data to TLT server
-        - qualtrics post processing needs as QA
-        - worked on QA for abramov replication during meeting
-
-### November 7, 2019
-- Attending
-    - Rick, Andrea, Yiming, Emily, Rachel, Amar, Michelle
-    - Excused: Luka
-- Agenda
-    - Emily and Rachel presenting paper: Chien, Y.-L., Hsieh, M. H., & Gau, S. S.-F. (2019). P50-N100-P200 sensory gating deficits in adolescents and young adults with autism spectrum disorders. Progress in neuro-psychopharmacology & biological psychiatry, 95, 109683. Retrieved from http://dx.doi.org/10.1016/j.pnpbp.2019.109683
-        - Presentation [here](https://gilmore-lab.github.io/student-testbed/sensorygating.html)
-
-### October 31, 2019
-- Attending
-    - Rick, Andrea, Yiming, Emily, Rachel, Luka, Amar, Joseph
-- Agenda
-    - Update [Sex Differences Data Collection Protocol](https://gilmore-lab.github.io/sex-differences-in-motion-perception/protocol/master-protocol.html) as a group
-- To Do
-    - Read paper for next week
-        - Chien, Y.-L., Hsieh, M. H., & Gau, S. S.-F. (2019). P50-N100-P200 sensory gating deficits in adolescents and young adults with autism spectrum disorders. Progress in neuro-psychopharmacology & biological psychiatry, 95, 109683. Retrieved from http://dx.doi.org/10.1016/j.pnpbp.2019.109683
-    - Students, please review [Sex Differences Data Collection Protocol](https://gilmore-lab.github.io/sex-differences-in-motion-perception/protocol/master-protocol.html) and write message in Discord Channel **study-sex-differences**.
-  
-
-### October 24, 2019
-- Attending
-    - Rick, Andrea, Yiming, Emily, Rachel
-    - Excused: Amar
-- Agenda
-    - Update [Sex Differences Data Collection Protocol](https://gilmore-lab.github.io/sex-differences-in-motion-perception/protocol/master-protocol.html) as a group
-
-### October 17, 2019
-- Attending
-    - Rick, Andrea, Yiming, Rachel, Luka, Michelle, Amar
-    - Excused: Emily
-- Agenda
-    - Discuss R
-        - Sex Differences Study - Protocol and Termiology
-        - factors - category of some type of measure with a label
-- Future Meeting
-    - 11/7/2019 - Emily and Rachel will present: Chien, Y.-L., Hsieh, M. H., & Gau, S. S.-F. (2019). P50-N100-P200 sensory gating deficits in adolescents and young adults with autism spectrum disorders. Progress in neuro-psychopharmacology & biological psychiatry, 95, 109683. Retrieved from http://dx.doi.org/10.1016/j.pnpbp.2019.109683
-    - Amar and Sandy will present:
-- To Do
-    - ARS send literature review protocol to Yiming
-
-### October 10, 2019
-- Attending
-    - Rick, Andrea, Yiming, Emily, Joseph, Amar
-    - Excused: Sandy
-- Agenda
-    - Yiming will give a practice master's presentation today
-
-
-### October 3, 2019
-
-- Attending
-    - Rick, Yiming, Emily, Michelle, Amar, Andrea
-    - Excused: Sandy, Luka, Rachel
-- Agenda
-    - Continue discussion of [Abramov et al. 2012](talk-slides/abramov-etal-2012.html)
-    - Our study 
-        - notate those with color deficiency instead of removing them from study
-        - show mean and actual value graphs side by side
-        
-
-
-### September 26, 2019
-
-- Attending
-    - Rick, Andrea, Yiming, Luka, Amar, Rachel, Joseph
-    - Excused: Emily, Michelle, Sandy
-- Agenda
-    - Discussion of [Abramov et al. 2012](talk-slides/abramov-etal-2012.html)
-    - 'I' manipulate Independent variables, '*D*ey' manipulate Dependent variables
-    - [How to Read an Academic Paper](talk-slides/how-to-read-academic-paper.html) Presentation
-    
-
-### September 19, 2019
-
-- Attending
-    - Rick, Andrea, Yiming, Luka, Rachel, Emily, Michelle, Amar
-- Agenda
-    - Status Update
-    - Sex Differences 
-        - lit review
-        - create/update protocol for lit review (ars)
-    - R bootcamp - [Slow R](https://psu-psychology.github.io/r-bootcamp-2019/talks/slow-r.html)
-    - Instructions to log on to VPN for off campus
-- To Do
-    - Read paper for next week 9/26/2019
-        - Abramov, I., Gordon, J., Feldman, O., & Chavarga, A. (2012). Sex & vision I: Spatio-temporal resolution. Biology of sex differences, 3(1), 20. bsd.biomedcentral.com. Retrieved from http://dx.doi.org/10.1186/2042-6410-3-20
-    - Finish up assigned items on Asana
-    - Start [Datacamp](https://www.datacamp.com) assignments
-        - Log in > go to PSYCH 494 Research Studies > Assignments
-        
-### September 12, 2019
-
-- Attending
-    - Rick, Andrea, Yiming, Luka, Michelle, Emily, Rachel, Amar
-- Agenda
-    - [Vision: How it works, how it develops, and why you should care](https://gilmore-lab.github.io/csd-vision-2019-09-05/)
-
-- To Do:
-    - Online Training: CITI, Clery, Reporting Child Abuse
-    - Biography in r markdown format saved as a .txt file including professional interests and 1 personal interest in addition to a picture if you like.
-    - Use Discord to contact us
-
-### September 5, 2019, 467 Moore
-
-- Attending
-    - Rick, Andrea, Yiming, Emily, Rachel, Michelle, Luka, Amar,
-- Agenda
-    - Introductions
-    - Summary of active projects
-        - Optic Flow
-        - [Databrary](https://nyu.databrary.org/)
-        - Open Science
-        - behAV
-        - [PLAY](play-project.org)
-    - Goals
-        - Learn R, Python, Datavyu
-- To Do:
-    - Online Training: CITI, Clery, Reporting Child Abuse
-    - Biography in r markdown format saved as a .txt file including professional interests and 1 personal interest in addition to a picture if you like.
-
+- Agenda:  
+    - Introductions  
+    - Submit 1-2 projects to the [Psi Chi](http://sites.psu.edu/psichi/) conference
+        - [Application](http://sites.psu.edu/psichi/research-conference-2/) due March 16 by 5:00pm  
+        - Conference on April 9, 2-4:30 pm 
+    - Overview of projects  
+        - [Sex Differences in Motion Perception](https://github.com/gilmore-lab/sex-differences-in-motion-perception)
+            - Train everyone to collect data solo.
+            - Changes to protocol
+    - Plan for semester
+       
+- Next Meeting:
