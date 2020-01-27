@@ -9,8 +9,6 @@ For the spring 2019 Semester, we will meet on Monday from 8-8:50 am in room 444 
 ## Goals
 
 - Lab Name ([Google doc with terms](https://docs.google.com/document/d/1s3UZ7g3vR8vZja5EIu1sFraG5oOKZUQDG54wjqUMNDE/edit?usp=sharing))
-- Present at [Psi Chi](https://sites.psu.edu/psichi/research-conference-2/) (2nd week in April)
-- Present at [Undergraduate Exhibition](https://undergradresearch.psu.edu/resources/opportunities/undergraduate-exhibition)
 - Start preparing for presentations in the Fall  
     - Train on poster template
     - Train how to use Databrary API
@@ -33,18 +31,38 @@ For the spring 2019 Semester, we will meet on Monday from 8-8:50 am in room 444 
 ## Possible readings
 
 - Special Issue “[Replication, Collaboration, and Best Practices in Infancy Research](https://www.sciencedirect.com/journal/infant-behavior-and-development/special-issue/10RZSSM6DGN),” in Infant Behavior and Development.
-
 - Finkelstein, A., Las, L., & Ulanovsky, N. (2016). 3-D Maps and Compasses in the Brain. *Annual Review of Neuroscience*, *39*, 171–196. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013831
 - Egnor, S. E. R., & Branson, K. (2016). Computational Analysis of Behavior. *Annual Review of Neuroscience*, *39*, 217–236. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013845
 - Kaplan, R., Schuck, N. W., & Doeller, C. F. (2017). The Role of Mental Maps in Decision-Making. *Trends in Neurosciences*, *40*(5), 256–259. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.03.002
 - Rowland, D. C., Roudi, Y., Moser, M.-B., & Moser, E. I. (2016). Ten Years of Grid Cells. *Annual Review of Neuroscience*, *39*, 19–40. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013824
 - Atkinson, J., & Braddick, O. (2013). Visual Development. In P. D. Zelazo (Ed.), *The Oxford Handbook of Developmental Psychology (Vol. 1, pp. 271–309)*. Oxford University Press.
 
+## Spring 2020 Poster Presentations
+- [Psi Chi](http://sites.psu.edu/psichi/) Research Conference
+  - [Application](http://sites.psu.edu/psichi/research-conference-2/) due March 16 by 5:00pm  
+  - Conference Date: April 9, 2020, 2-4:30 pm, The Moore Building Atrium
+
+- The [Undergraduate Exhibition](https://undergradresearch.psu.edu/resources/opportunities/undergraduate-exhibition)
+    - [Application](https://psu.infoready4.com/#competitionDetail/1790155) due March 22
+    - Conference Date: April 15, 2020, 4-7pm, Alumni and Heritage Halls  
+    
 ## Schedule
 
+### February 10, 2020
+- Attending:  
+
+- Agenda:   
+  - Presentation: Posterdown Preview - Emily  
+  
+### February 1, 2020
+- Attending:  
+
+- Agenda:  
+   
 ### January 27, 2020
 
-- Attending: 
+- Attending: Rick, Andrea, Michelle, Emily, Chelsea, Sandy, Luka, Rachel
+    - Missing: Yiming, Amar
 
 - Agenda:  
     - Introductions  
@@ -58,3 +76,6 @@ For the spring 2019 Semester, we will meet on Monday from 8-8:50 am in room 444 
     - Plan for semester
        
 - Next Meeting:
+    - Schedule presentation for Sandy/Amar
+    - Emily present posterdown 2/10/2020
+    - Read paper
