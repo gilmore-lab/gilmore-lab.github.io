@@ -4,13 +4,11 @@ Title: lab-meetings
 
 # Lab Meetings
 
-For the Fall 2019 Semester, we will meet on Thursdays from 8-8:50 am in room 467 Moore.
+For the spring 2019 Semester, we will meet on Monday from 8-8:50 am in room 444 Moore.
 
 ## Goals
 
 - Lab Name ([Google doc with terms](https://docs.google.com/document/d/1s3UZ7g3vR8vZja5EIu1sFraG5oOKZUQDG54wjqUMNDE/edit?usp=sharing))
-- Present at [Psi Chi](https://sites.psu.edu/psichi/research-conference-2/) (2nd week in April)
-- Present at [Undergraduate Exhibition](https://undergradresearch.psu.edu/resources/opportunities/undergraduate-exhibition)
 - Start preparing for presentations in the Fall  
     - Train on poster template
     - Train how to use Databrary API
@@ -33,88 +31,51 @@ For the Fall 2019 Semester, we will meet on Thursdays from 8-8:50 am in room 467
 ## Possible readings
 
 - Special Issue “[Replication, Collaboration, and Best Practices in Infancy Research](https://www.sciencedirect.com/journal/infant-behavior-and-development/special-issue/10RZSSM6DGN),” in Infant Behavior and Development.
-
 - Finkelstein, A., Las, L., & Ulanovsky, N. (2016). 3-D Maps and Compasses in the Brain. *Annual Review of Neuroscience*, *39*, 171–196. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013831
 - Egnor, S. E. R., & Branson, K. (2016). Computational Analysis of Behavior. *Annual Review of Neuroscience*, *39*, 217–236. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013845
 - Kaplan, R., Schuck, N. W., & Doeller, C. F. (2017). The Role of Mental Maps in Decision-Making. *Trends in Neurosciences*, *40*(5), 256–259. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.03.002
 - Rowland, D. C., Roudi, Y., Moser, M.-B., & Moser, E. I. (2016). Ten Years of Grid Cells. *Annual Review of Neuroscience*, *39*, 19–40. Retrieved from http://dx.doi.org/10.1146/annurev-neuro-070815-013824
 - Atkinson, J., & Braddick, O. (2013). Visual Development. In P. D. Zelazo (Ed.), *The Oxford Handbook of Developmental Psychology (Vol. 1, pp. 271–309)*. Oxford University Press.
 
+## Spring 2020 Poster Presentations
+- [Psi Chi](http://sites.psu.edu/psichi/) Research Conference
+  - [Application](http://sites.psu.edu/psichi/research-conference-2/) due March 16 by 5:00pm  
+  - Conference Date: April 9, 2020, 2-4:30 pm, The Moore Building Atrium
+
+- The [Undergraduate Exhibition](https://undergradresearch.psu.edu/resources/opportunities/undergraduate-exhibition)
+    - [Application](https://psu.infoready4.com/#competitionDetail/1790155) due March 22
+    - Conference Date: April 15, 2020, 4-7pm, Alumni and Heritage Halls  
+    
 ## Schedule
 
-### October 10, 2019
-- Agenda
-    - Yiming will give a practice master's presentation today
+### February 10, 2020
+- Attending:  
 
+- Agenda:   
+  - Presentation: Posterdown Preview - Emily  
+  
+### February 1, 2020
+- Attending:  
 
-### October 3, 2019
+- Agenda:  
+   
+### January 27, 2020
 
-- Attending
-    - Rick, Yiming, Emily, Michelle, Amar, Andrea
-    - Excused: Sandy, Luka, Rachel
-- Agenda
-    - Continue discussion of [Abramov et al. 2012](talk-slides/abramov-etal-2012.html)
-    - Our study 
-        - notate those with color deficiency instead of removing them from study
-        - show mean and actual value graphs side by side
-        
+- Attending: Rick, Andrea, Michelle, Emily, Chelsea, Sandy, Luka, Rachel
+    - Missing: Yiming, Amar
 
-
-### September 26, 2019
-
-- Attending
-    - Rick, Andrea, Yiming, Luka, Amar, Rachel, Joseph
-    - Excused: Emily, Michelle, Sandy
-- Agenda
-    - Discussion of [Abramov et al. 2012](talk-slides/abramov-etal-2012.html)
-    - 'I' manipulate Independent variables, '*D*ey' manipulate Dependent variables
-    
-
-### September 19, 2019
-
-- Attending
-    - Rick, Andrea, Yiming, Luka, Rachel, Emily, Michelle, Amar
-- Agenda
-    - Status Update
-    - Sex Differences 
-        - lit review
-        - create/update protocol for lit review (ars)
-    - R bootcamp - [Slow R](https://psu-psychology.github.io/r-bootcamp-2019/talks/slow-r.html)
-    - Instructions to log on to VPN for off campus
-- To Do
-    - Read paper for next week 9/26/2019
-        - Abramov, I., Gordon, J., Feldman, O., & Chavarga, A. (2012). Sex & vision I: Spatio-temporal resolution. Biology of sex differences, 3(1), 20. bsd.biomedcentral.com. Retrieved from http://dx.doi.org/10.1186/2042-6410-3-20
-    - Finish up assigned items on Asana
-    - Start [Datacamp](https://www.datacamp.com) assignments
-        - Log in > go to PSYCH 494 Research Studies > Assignments
-        
-### September 12, 2019
-
-- Attending
-    - Rick, Andrea, Yiming, Luka, Michelle, Emily, Rachel, Amar
-- Agenda
-    - [Vision: How it works, how it develops, and why you should care](https://gilmore-lab.github.io/csd-vision-2019-09-05/)
-
-- To Do:
-    - Online Training: CITI, Clery, Reporting Child Abuse
-    - Biography in r markdown format saved as a .txt file including professional interests and 1 personal interest in addition to a picture if you like.
-    - Use Discord to contact us
-
-### September 5, 2019, 467 Moore
-
-- Attending
-    - Rick, Andrea, Yiming, Emily, Rachel, Michelle, Luka, Amar,
-- Agenda
-    - Introductions
-    - Summary of active projects
-        - Optic Flow
-        - [Databrary](https://nyu.databrary.org/)
-        - Open Science
-        - behAV
-        - [PLAY](play-project.org)
-    - Goals
-        - Learn R, Python, Datavyu
-- To Do:
-    - Online Training: CITI, Clery, Reporting Child Abuse
-    - Biography in r markdown format saved as a .txt file including professional interests and 1 personal interest in addition to a picture if you like.
-
+- Agenda:  
+    - Introductions  
+    - Submit 1-2 projects to the [Psi Chi](http://sites.psu.edu/psichi/) conference
+        - [Application](http://sites.psu.edu/psichi/research-conference-2/) due March 16 by 5:00pm  
+        - Conference on April 9, 2-4:30 pm, The Moore Building Atrium
+    - Overview of projects  
+        - [Sex Differences in Motion Perception](https://github.com/gilmore-lab/sex-differences-in-motion-perception)
+            - Train everyone to collect data solo.
+            - Changes to protocol
+    - Plan for semester
+       
+- Next Meeting:
+    - Schedule presentation for Sandy/Amar
+    - Emily present posterdown 2/10/2020
+    - Read paper
