@@ -52,12 +52,18 @@ For the spring 2019 Semester, we will meet on Monday from 8-8:50 am in room 444 
 - Attending:  
 
 - Agenda:   
-  - Presentation: Posterdown Preview - Emily  
+  - Presentation: Posterdown Preview - Emily
   
-### February 1, 2020
+### February 3, 2020
+
 - Attending:  
 
 - Agenda:  
+  - Type I (false positive), Type II (false negative) and statistical power
+      - [Slides](talk-slides/type-I-type-II-errors.html)
+  - Update on Sex Differences Project
+      - Data collection status
+      - Harmonizing data
    
 ### January 27, 2020
 
