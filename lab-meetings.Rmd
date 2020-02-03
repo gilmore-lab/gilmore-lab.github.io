@@ -48,15 +48,21 @@ For the spring 2019 Semester, we will meet on Monday from 8-8:50 am in room 444 
     
 ## Schedule
 
-### February 10, 2020
+### February 17, 2020
 - Attending:  
 
 - Agenda:   
   - Presentation: Posterdown Preview - Emily
   
+### February 10, 2020
+
+NO MEETING :)
+  
 ### February 3, 2020
 
-- Attending:  
+- Attending: Rick, Andrea, Yiming, Michelle, Rachel
+  - Excused: Luka, Sandy, Amar
+  - Missing: Emily, Chelsea
 
 - Agenda:  
   - Type I (false positive), Type II (false negative) and statistical power
