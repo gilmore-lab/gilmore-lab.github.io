@@ -48,11 +48,22 @@ For the spring 2019 Semester, we will meet on Monday from 8-8:50 am in room 444 
     
 ## Schedule
 
+### February 24, 2020
+- Attending:  
+
+- Agenda:   
+  - Paper Presentation: Amar, Luka, Sandy
+    - Ouakinin, S. (2016). Teaching Psychology in Medicine: The Context, Methodologies and Doctor’s Professional Identity. Acta medica portuguesa, 29(12), 867–874. Retrieved from http://dx.doi.org/10.20344/amp.8384
+
 ### February 17, 2020
 - Attending:  
 
 - Agenda:   
   - Presentation: Posterdown Preview - Emily
+  - Discuss [BehAV project](https://github.com/gilmore-lab/BehAV)
+
+- To Do:
+  - Read: Ouakinin, S. (2016). Teaching Psychology in Medicine: The Context, Methodologies and Doctor’s Professional Identity. Acta medica portuguesa, 29(12), 867–874. Retrieved from http://dx.doi.org/10.20344/amp.8384
   
 ### February 10, 2020
 
