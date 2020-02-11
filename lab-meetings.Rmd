@@ -59,7 +59,7 @@ For the spring 2019 Semester, we will meet on Monday from 8-8:50 am in room 444 
 - Attending:  
 
 - Agenda:   
-  - Presentation: Posterdown Preview - Emily
+  - Presentation: [Posterdown Preview](https://github.com/gilmore-lab/student-testbed) - Emily
   - Discuss [BehAV project](https://github.com/gilmore-lab/BehAV)
 
 - To Do:
