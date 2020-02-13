@@ -60,7 +60,8 @@ For the spring 2019 Semester, we will meet on Monday from 8-8:50 am in room 444 
 
 - Agenda:   
   - Presentation: [Posterdown Preview](https://github.com/gilmore-lab/student-testbed) - Emily
-  - Discuss [BehAV project](https://github.com/gilmore-lab/BehAV)
+  - Discuss Sex Differences [Session QA](https://gilmore-lab.github.io/sex-differences-in-motion-perception/analysis/session_qa.html)
+  - Discuss [BehAV project](https://github.com/gilmore-lab/BehAV) and data on [Box](https://psu.box.com/s/ytyd3hnz4614frjhq55oail9mge1l150)
 
 - To Do:
   - Read: Ouakinin, S. (2016). Teaching Psychology in Medicine: The Context, Methodologies and Doctor’s Professional Identity. Acta medica portuguesa, 29(12), 867–874. Retrieved from http://dx.doi.org/10.20344/amp.8384
