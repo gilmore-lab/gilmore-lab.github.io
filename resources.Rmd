@@ -1,5 +1,5 @@
 ---
-Title: resources
+pagetitle: resources
 ---
   
 ## Lab Resources  

@@ -1,5 +1,5 @@
 ---
-Title: participants
+pagetitle: participants
 ---
 
 # Research Participant Information

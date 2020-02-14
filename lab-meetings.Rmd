@@ -1,5 +1,5 @@
 ---
-Title: lab-meetings
+pagetitle: lab-meetings
 ---
 
 # Lab Meetings

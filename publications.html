@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
-<title>Publications</title>
+<title>publications</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -83,7 +83,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -232,6 +231,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -243,18 +243,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -322,7 +310,6 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Publications</h1>
 
 </div>
 
@@ -333,8 +320,9 @@ $(document).ready(function () {
 </div>
 <div id="peer-reviewed-articles" class="section level2">
 <h2>Peer-reviewed Articles</h2>
-<p>Liu, P., Cole, P.M., Gilmore, R.O., Pérez-Edgar, K.E., Vigeant, M.C., Moriarty, P., Scherf, K.S. (2019). Young children’s neural processing of their mother’s voice: An fMRI study, 11-19. <em>Neuropsychologia</em>. <a href="http://doi.org/10.1016/j.neuropsychologia.2018.12.003">doi: 10.1016/j.neuropsychologia.2018.12.003</a>.</p>
+<p>Gilmore, R.O., Cole, P.M., van Aken, M.A.G., Verma S., &amp; Worthman, C.M. (in press). Advancing scientific integrity, transparency, and openness in child development research: Challenges and possible solutions. <em>Child Development Perspectives</em>.</p>
 <p>Ossmy O., Gilmore R.O., Adolph K.E. (2020) AutoViDev: A Computer-Vision Framework to Enhance and Accelerate Research in Human Development. In: Arai K., Kapoor S. (eds) <em>Advances in Computer Vision. CVC 2019. Advances in Intelligent Systems and Computing</em>, vol 944. Springer, Cham. <a href="https://doi.org/10.1007/978-3-030-17798-0_14">doi: 10.1007/978-3-030-17798-0_14</a></p>
+<p>Liu, P., Cole, P.M., Gilmore, R.O., Pérez-Edgar, K.E., Vigeant, M.C., Moriarty, P., Scherf, K.S. (2019). Young children’s neural processing of their mother’s voice: An fMRI study, 11-19. <em>Neuropsychologia</em>. <a href="http://doi.org/10.1016/j.neuropsychologia.2018.12.003">doi: 10.1016/j.neuropsychologia.2018.12.003</a>.</p>
 <p>Gilmore, R. O., Kennedy, J. L., &amp; Adolph, K. E. (2018). Practical Solutions for Sharing Data and Materials From Psychological Research. <em>Advances in Methods and Practices in Psychological Science</em>, SAGE Publications Inc. Retrieved from <a href="https://doi.org/10.1177/2515245917746500" class="uri">https://doi.org/10.1177/2515245917746500</a></p>
 <p>Gilmore, R.O. &amp; Adolph, K.E. (2017). Video can make behavioural science more reproducible. <em>Nature Human Behaviour</em>. <a href="http://doi.org/10.1038/s41562-017-0128">doi:10.1038/s41562-017-0128</a>.</p>
 <p>Gilmore, R.O., Diaz, M.T., Wyble, B.A., &amp; Yarkoni, T. (2017). Progress toward openness, transparency, and reproducibility in cognitive neuroscience. <em>Annals of the New York Academy of Sciences</em>, 1396, 5–18. <a href="http://doi.org/10.1111/nyas.13325">doi: 10.1111/nyas.13325</a>.</p>
@@ -460,6 +448,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

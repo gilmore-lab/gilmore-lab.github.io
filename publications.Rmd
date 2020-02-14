@@ -1,5 +1,5 @@
 ---
-title: Publications
+pagetitle: publications
 ---
 
 ## Books
@@ -8,9 +8,11 @@ Johnson, M.H., Munakata, Y., & Gilmore, R.O. (2002). *Brain development and cogn
 
 ## Peer-reviewed Articles
 
-Liu, P., Cole, P.M., Gilmore, R.O., Pérez-Edgar, K.E., Vigeant, M.C., Moriarty, P., Scherf, K.S. (2019). Young children's neural processing of their mother’s voice: An fMRI study, 11-19. *Neuropsychologia*. [doi: 10.1016/j.neuropsychologia.2018.12.003](http://doi.org/10.1016/j.neuropsychologia.2018.12.003).
+Gilmore, R.O., Cole, P.M., van Aken, M.A.G., Verma S., & Worthman, C.M. (in press). Advancing scientific integrity, transparency, and openness in child development research: Challenges and possible solutions. *Child Development Perspectives*.
 
 Ossmy O., Gilmore R.O., Adolph K.E. (2020) AutoViDev: A Computer-Vision Framework to Enhance and Accelerate Research in Human Development. In: Arai K., Kapoor S. (eds) *Advances in Computer Vision. CVC 2019. Advances in Intelligent Systems and Computing*, vol 944. Springer, Cham. [doi: 10.1007/978-3-030-17798-0_14](https://doi.org/10.1007/978-3-030-17798-0_14) 
+
+Liu, P., Cole, P.M., Gilmore, R.O., Pérez-Edgar, K.E., Vigeant, M.C., Moriarty, P., Scherf, K.S. (2019). Young children's neural processing of their mother’s voice: An fMRI study, 11-19. *Neuropsychologia*. [doi: 10.1016/j.neuropsychologia.2018.12.003](http://doi.org/10.1016/j.neuropsychologia.2018.12.003).
 
 Gilmore, R. O., Kennedy, J. L., & Adolph, K. E. (2018). Practical Solutions for Sharing Data and Materials From Psychological Research. *Advances in Methods and Practices in Psychological Science*, SAGE Publications Inc. Retrieved from https://doi.org/10.1177/2515245917746500
 

@@ -1,5 +1,5 @@
 ---
-Title: research
+pagetitle: research
 ---
   
 # Active Projects
@@ -11,6 +11,8 @@ Open, transparent, and reproducible scientific practices are essential for accel
 My colleagues and I are developing policies for the ethical and secure sharing of personal data and technologies to allow the analysis and sharing of these data for scientific and educational purposes.
 
 **Publications**
+
+Gilmore, R.O., Cole, P.M., van Aken, M.A.G., Verma S., & Worthman, C.M. (in press). Advancing scientific integrity, transparency, and openness in child development research: Challenges and possible solutions. *Child Development Perspectives*.
 
 Ossmy O., Gilmore R.O., Adolph K.E. (2020) AutoViDev: A Computer-Vision Framework to Enhance and Accelerate Research in Human Development. In: Arai K., Kapoor S. (eds) *Advances in Computer Vision. CVC 2019. Advances in Intelligent Systems and Computing*, vol 944. Springer, Cham. [doi: 10.1007/978-3-030-17798-0_14](https://doi.org/10.1007/978-3-030-17798-0_14) 
 

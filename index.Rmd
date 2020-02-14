@@ -1,5 +1,5 @@
 ---
-Title: Home
+pagetitle: home
 ---
 
 <img src="images/fesi-2014.jpg"><img src="images/optic-flow.jpg"> <img src="images/lab-logo.png">
