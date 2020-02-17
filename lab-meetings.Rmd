@@ -56,7 +56,8 @@ For the spring 2019 Semester, we will meet on Monday from 8-8:50 am in room 444 
     - Ouakinin, S. (2016). Teaching Psychology in Medicine: The Context, Methodologies and Doctor’s Professional Identity. Acta medica portuguesa, 29(12), 867–874. Retrieved from http://dx.doi.org/10.20344/amp.8384
 
 ### February 17, 2020
-- Attending:  
+- Attending: Rick, Andrea, Yiming, Emily, Chelsea, Rachel, Amar
+  - Excused - Michelle
 
 - Agenda:   
   - Presentation: [Posterdown Preview](https://github.com/gilmore-lab/student-testbed) - Emily
