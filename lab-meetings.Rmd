@@ -48,12 +48,32 @@ For the spring 2019 Semester, we will meet on Monday from 8-8:50 am in room 444 
     
 ## Schedule
 
+<!-- ### March 16, 2020 -->
+
+<!-- - Attending:   -->
+
+<!-- - Agenda:    -->
+<!--   - Paper Presentation: Amar, Luka, Sandy - postpone to after spring break -->
+<!--     - Ouakinin, S. (2016). Teaching Psychology in Medicine: The Context, Methodologies and Doctor’s Professional Identity. Acta medica portuguesa, 29(12), 867–874. Retrieved from http://dx.doi.org/10.20344/amp.8384 -->
+
+<!-- ### March 9, 2020 -->
+
+<!-- Spring Break - No Meeting -->
+
+<!-- ### March 2, 2020  -->
+
+<!-- To Do: -->
+<!--   - Read: Ouakinin, S. (2016). Teaching Psychology in Medicine: The Context, Methodologies and Doctor’s Professional Identity. Acta medica portuguesa, 29(12), 867–874. Retrieved from http://dx.doi.org/10.20344/amp.8384 -->
+
 ### February 24, 2020
 - Attending:  
 
-- Agenda:   
-  - Paper Presentation: Amar, Luka, Sandy - postpone to after spring break
-    - Ouakinin, S. (2016). Teaching Psychology in Medicine: The Context, Methodologies and Doctor’s Professional Identity. Acta medica portuguesa, 29(12), 867–874. Retrieved from http://dx.doi.org/10.20344/amp.8384
+- Agenda:
+  - Sex Differences 
+    - Review Test Session Protocol ([html](https://gilmore-lab.github.io/sex-differences-in-motion-perception/protocol/test-session-protocol.html)) ([Rmd](https://gilmore-lab.github.i o/sex-differences-in-motion-perception/protocol/test-session-protocol.Rmd))
+    - Look at participant plots for Temporal Threshold and Contrast Sensitivity results
+  - Discuss [BehAV project coding](https://gilmore-lab.github.io/BehAV/facial-recognition.html)
+- To Do: 
 
 ### February 17, 2020
 - Attending: Rick, Andrea, Yiming, Emily, Chelsea, Rachel, Amar
@@ -66,7 +86,6 @@ For the spring 2019 Semester, we will meet on Monday from 8-8:50 am in room 444 
   - Discuss [BehAV project](https://github.com/gilmore-lab/BehAV) and data on [Box](https://psu.box.com/s/ytyd3hnz4614frjhq55oail9mge1l150)
 
 - To Do:
-  - Read: Ouakinin, S. (2016). Teaching Psychology in Medicine: The Context, Methodologies and Doctor’s Professional Identity. Acta medica portuguesa, 29(12), 867–874. Retrieved from http://dx.doi.org/10.20344/amp.8384
   - Come up with ideas for Poster presenation.
   
 ### February 10, 2020
