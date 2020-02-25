@@ -12,7 +12,7 @@ My colleagues and I are developing policies for the ethical and secure sharing o
 
 **Publications**
 
-Gilmore, R.O., Cole, P.M., van Aken, M.A.G., Verma S., & Worthman, C.M. (in press). Advancing scientific integrity, transparency, and openness in child development research: Challenges and possible solutions. *Child Development Perspectives*.
+Gilmore, R.O., Cole, P.M., van Aken, M.A.G., Verma S., & Worthman, C.M. (in press). Advancing scientific integrity, transparency, and openness in child development research: Challenges and possible solutions. *Child Development Perspectives*, *14*(1), 9-14. <http://dx.doi.org/10.1111/cdep.12360>
 
 Ossmy O., Gilmore R.O., Adolph K.E. (2020) AutoViDev: A Computer-Vision Framework to Enhance and Accelerate Research in Human Development. In: Arai K., Kapoor S. (eds) *Advances in Computer Vision. CVC 2019. Advances in Intelligent Systems and Computing*, vol 944. Springer, Cham. [doi: 10.1007/978-3-030-17798-0_14](https://doi.org/10.1007/978-3-030-17798-0_14) 
 
