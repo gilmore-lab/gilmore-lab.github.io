@@ -4,7 +4,7 @@ pagetitle: lab-meetings
 
 # Lab Meetings
 
-For the spring 2019 Semester, we will meet on Monday from 8-8:50 am in room 444 Moore.
+For the spring 2020 Semester, we will meet on Monday from 8-8:50 am in room 444 Moore.
 
 ## Goals
 
@@ -83,7 +83,7 @@ To Do:
     - Look at participant plots for Temporal Threshold and Contrast Sensitivity results
   - Discuss [BehAV project coding](https://gilmore-lab.github.io/BehAV/facial-recognition.html)
 - To Do: 
-  - ARS: Change protocol to copy data every day - Andrea or Yiming will do this - note on discord when it is complete at the end of the day.
+  - ARS: Change protocol to copy data every day - Andrea or Yiming will do this - note on discord when it is complete at the end of the day. **DONE 2020-02-26**
   - Procedure needed for checking what happened eg. 2 files same participant number
   - ARS: Check with Rachel participant 389 - why aren't there 2 files
 
