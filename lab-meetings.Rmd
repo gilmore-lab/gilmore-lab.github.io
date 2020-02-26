@@ -66,7 +66,9 @@ For the spring 2019 Semester, we will meet on Monday from 8-8:50 am in room 444 
 <!--   - Read: Ouakinin, S. (2016). Teaching Psychology in Medicine: The Context, Methodologies and Doctor’s Professional Identity. Acta medica portuguesa, 29(12), 867–874. Retrieved from http://dx.doi.org/10.20344/amp.8384 -->
 
 ### February 24, 2020
-- Attending:  
+- Attending: Rick, Andrea, Emily, Yiming, Amar
+  - Sick: Rachel, Sandy (Work), Luka
+  - Absent: Chelsea, Michelle
 
 - Agenda:
   - Sex Differences 
@@ -74,6 +76,10 @@ For the spring 2019 Semester, we will meet on Monday from 8-8:50 am in room 444 
     - Look at participant plots for Temporal Threshold and Contrast Sensitivity results
   - Discuss [BehAV project coding](https://gilmore-lab.github.io/BehAV/facial-recognition.html)
 - To Do: 
+  - ARS: Change protocol to copy data every day - Andrea or Yiming will do this - note on discord when it is complete at the end of the day.
+  - Procedure needed for checking what happened eg. 2 files same participant number
+  - ARS: Check with Rachel participant 389 - why are there 2 files
+
 
 ### February 17, 2020
 - Attending: Rick, Andrea, Yiming, Emily, Chelsea, Rachel, Amar
