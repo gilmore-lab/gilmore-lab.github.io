@@ -62,15 +62,29 @@ For the spring 2020 Semester, we will meet on Monday from 8-8:50 am in room 444 
 
 ### March 2, 2020
 
-- Attending: 
+- Attending: Rick, Andrea, Yiming, Michelle, Emily, Amar, Luka, Sandy
 
 - Agenda:  
   - Poster Groups: Finalize groups and topics for presentation
+    - Michelle - Play pilot metadata - poster on Overleaf.com
+    - Emily - Pire Project
+    - Amar, Sandy, Luka - BehAV
+      - Compare OpenPose, OpenFace, and human observer using Datavyu
+        - Front, side, oblique, down, up Views
+          - rules for each situation
+          - full head in view = mom head (information to read a facial expression) and baby head, two separate coding columns
   - [DataCamp](https://learn.datacamp.com/)
   - Review Sex Differences QA
 
 To Do:
-  - Read: Ouakinin, S. (2016). Teaching Psychology in Medicine: The Context, Methodologies and Doctor’s Professional Identity. Acta medica portuguesa, 29(12), 867–874. Retrieved from http://dx.doi.org/10.20344/amp.8384
+  - Ouakinin, S. (2016). Teaching Psychology in Medicine: The Context, Methodologies and Doctor’s Professional Identity. Acta medica portuguesa, 29(12), 867–874. Retrieved from http://dx.doi.org/10.20344/amp.8384 - move to week after Psi Chi is due
+  - Record Experimenter Name in Expermineter Note question of Qualtrics Survey - ARS add to protocol
+  - Update stereo acuity to include instructions for when participant has difficulty - Yiming
+  - Investigate motion staircase 383 and 20191204095223578: handedness, %correct
+  - Add Line on both walls to line chair up 
+  - PSU X-ling 4/3/2020 9am 127 Moore - Emily presenting talk - open to everyone - poster session 1-3pm hub
+  
+  
 
 ### February 24, 2020
 - Attending: Rick, Andrea, Emily, Yiming, Amar
