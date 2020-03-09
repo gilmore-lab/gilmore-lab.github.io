@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>lab-meetings</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Gilmore Lab</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="publications.html">Publications</a>
+</li>
+<li>
+  <a href="parents.html">Parents</a>
+</li>
+<li>
+  <a href="participants.html">Participants</a>
+</li>
+<li>
+  <a href="who-we-are.html">Who we are</a>
+</li>
+<li>
+  <a href="lab-meetings.html">Lab mtgs</a>
+</li>
+<li>
+  <a href="resources.html">Resources</a>
+</li>
+<li>
+  <a href="site-info.html">Site info</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<div id="lab-meetings" class="section level1">
+<h1>Lab Meetings</h1>
+<p>For the spring 2019 Semester, we will meet on Monday from 8-8:50 am in room 444 Moore.</p>
+<div id="goals" class="section level2">
+<h2>Goals</h2>
+<ul>
+<li>Lab Name (<a href="https://docs.google.com/document/d/1s3UZ7g3vR8vZja5EIu1sFraG5oOKZUQDG54wjqUMNDE/edit?usp=sharing">Google doc with terms</a>)</li>
+<li>Start preparing for presentations in the Fall
+<ul>
+<li>Train on poster template</li>
+<li>Train how to use Databrary API</li>
+</ul></li>
+<li>Data simulation to create graphs and analyses for learning</li>
+<li>Preparation for PLAY
+<ul>
+<li>Train on locomotion coding on PLAY pilots</li>
+</ul></li>
+<li>Write-ups
+<ul>
+<li>child/adult MOCO psychophysics</li>
+<li>infant MOCO EEG</li>
+<li>child MOFO</li>
+</ul></li>
+<li>Data science
+<ul>
+<li>Learn R on Datacamp</li>
+<li>Learn more about jupyter notebooks and python</li>
+</ul></li>
+<li>Read more primary source papers</li>
+<li>Launch new projects
+<ul>
+<li><a href="https://github.com/gilmore-lab/annotating-databrary">Annotating Databrary</a> project</li>
+<li><a href="https://github.com/gilmore-lab/motion-metaanalysis">Development of Motion Sensitivity Meta-analysis</a></li>
+<li><a href="https://github.com/dev-psych-behavior">Behaviors in developmental psychology research</a> project</li>
+</ul></li>
+</ul>
+</div>
+<div id="possible-readings" class="section level2">
+<h2>Possible readings</h2>
+<ul>
+<li>Special Issue “<a href="https://www.sciencedirect.com/journal/infant-behavior-and-development/special-issue/10RZSSM6DGN">Replication, Collaboration, and Best Practices in Infancy Research</a>,” in Infant Behavior and Development.</li>
+<li>Finkelstein, A., Las, L., &amp; Ulanovsky, N. (2016). 3-D Maps and Compasses in the Brain. <em>Annual Review of Neuroscience</em>, <em>39</em>, 171–196. Retrieved from <a href="http://dx.doi.org/10.1146/annurev-neuro-070815-013831" class="uri">http://dx.doi.org/10.1146/annurev-neuro-070815-013831</a></li>
+<li>Egnor, S. E. R., &amp; Branson, K. (2016). Computational Analysis of Behavior. <em>Annual Review of Neuroscience</em>, <em>39</em>, 217–236. Retrieved from <a href="http://dx.doi.org/10.1146/annurev-neuro-070815-013845" class="uri">http://dx.doi.org/10.1146/annurev-neuro-070815-013845</a></li>
+<li>Kaplan, R., Schuck, N. W., &amp; Doeller, C. F. (2017). The Role of Mental Maps in Decision-Making. <em>Trends in Neurosciences</em>, <em>40</em>(5), 256–259. Retrieved from <a href="http://dx.doi.org/10.1016/j.tins.2017.03.002" class="uri">http://dx.doi.org/10.1016/j.tins.2017.03.002</a></li>
+<li>Rowland, D. C., Roudi, Y., Moser, M.-B., &amp; Moser, E. I. (2016). Ten Years of Grid Cells. <em>Annual Review of Neuroscience</em>, <em>39</em>, 19–40. Retrieved from <a href="http://dx.doi.org/10.1146/annurev-neuro-070815-013824" class="uri">http://dx.doi.org/10.1146/annurev-neuro-070815-013824</a></li>
+<li>Atkinson, J., &amp; Braddick, O. (2013). Visual Development. In P. D. Zelazo (Ed.), <em>The Oxford Handbook of Developmental Psychology (Vol. 1, pp. 271–309)</em>. Oxford University Press.</li>
+</ul>
+</div>
+<div id="spring-2020-poster-presentations" class="section level2">
+<h2>Spring 2020 Poster Presentations</h2>
+<ul>
+<li><a href="http://sites.psu.edu/psichi/">Psi Chi</a> Research Conference
+<ul>
+<li><a href="http://sites.psu.edu/psichi/research-conference-2/">Application</a> due March 16 by 5:00pm<br />
+</li>
+<li>Conference Date: April 9, 2020, 2-4:30 pm, The Moore Building Atrium</li>
+</ul></li>
+<li>The <a href="https://undergradresearch.psu.edu/resources/opportunities/undergraduate-exhibition">Undergraduate Exhibition</a>
+<ul>
+<li><a href="https://psu.infoready4.com/#competitionDetail/1790155">Application</a> due March 22</li>
+<li>Conference Date: April 15, 2020, 4-7pm, Alumni and Heritage Halls</li>
+</ul></li>
+</ul>
+</div>
+<div id="schedule" class="section level2">
+<h2>Schedule</h2>
+<div id="february-24-2020" class="section level3">
+<h3>February 24, 2020</h3>
+<ul>
+<li><p>Attending:</p></li>
+<li>Agenda:
+<ul>
+<li>Paper Presentation: Amar, Luka, Sandy
+<ul>
+<li>Ouakinin, S. (2016). Teaching Psychology in Medicine: The Context, Methodologies and Doctor’s Professional Identity. Acta medica portuguesa, 29(12), 867–874. Retrieved from <a href="http://dx.doi.org/10.20344/amp.8384" class="uri">http://dx.doi.org/10.20344/amp.8384</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="february-17-2020" class="section level3">
+<h3>February 17, 2020</h3>
+<ul>
+<li><p>Attending:</p></li>
+<li>Agenda:
+<ul>
+<li>Presentation: <a href="https://github.com/gilmore-lab/student-testbed">Posterdown Preview</a> - Emily</li>
+<li>Discuss Sex Differences <a href="https://gilmore-lab.github.io/sex-differences-in-motion-perception/analysis/session_qa.html">Session QA</a></li>
+<li>Discuss <a href="https://github.com/gilmore-lab/BehAV">BehAV project</a> and data on <a href="https://psu.box.com/s/ytyd3hnz4614frjhq55oail9mge1l150">Box</a></li>
+</ul></li>
+<li>To Do:
+<ul>
+<li>Read: Ouakinin, S. (2016). Teaching Psychology in Medicine: The Context, Methodologies and Doctor’s Professional Identity. Acta medica portuguesa, 29(12), 867–874. Retrieved from <a href="http://dx.doi.org/10.20344/amp.8384" class="uri">http://dx.doi.org/10.20344/amp.8384</a></li>
+</ul></li>
+</ul>
+</div>
+<div id="february-10-2020" class="section level3">
+<h3>February 10, 2020</h3>
+<p>NO MEETING :)</p>
+</div>
+<div id="february-3-2020" class="section level3">
+<h3>February 3, 2020</h3>
+<ul>
+<li>Attending: Rick, Andrea, Yiming, Michelle, Rachel
+<ul>
+<li>Excused: Luka, Sandy, Amar</li>
+<li>Missing: Emily, Chelsea</li>
+</ul></li>
+<li>Agenda:
+<ul>
+<li>Type I (false positive), Type II (false negative) and statistical power
+<ul>
+<li><a href="talk-slides/type-I-type-II-errors.html">Slides</a></li>
+</ul></li>
+<li>Update on Sex Differences Project
+<ul>
+<li>Data collection status</li>
+<li>Harmonizing data</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="january-27-2020" class="section level3">
+<h3>January 27, 2020</h3>
+<ul>
+<li>Attending: Rick, Andrea, Michelle, Emily, Chelsea, Sandy, Luka, Rachel
+<ul>
+<li>Missing: Yiming, Amar</li>
+</ul></li>
+<li>Agenda:
+<ul>
+<li>Introductions<br />
+</li>
+<li>Submit 1-2 projects to the <a href="http://sites.psu.edu/psichi/">Psi Chi</a> conference
+<ul>
+<li><a href="http://sites.psu.edu/psichi/research-conference-2/">Application</a> due March 16 by 5:00pm<br />
+</li>
+<li>Conference on April 9, 2-4:30 pm, The Moore Building Atrium</li>
+</ul></li>
+<li>Overview of projects
+<ul>
+<li><a href="https://github.com/gilmore-lab/sex-differences-in-motion-perception">Sex Differences in Motion Perception</a>
+<ul>
+<li>Train everyone to collect data solo.</li>
+<li>Changes to protocol</li>
+</ul></li>
+</ul></li>
+<li>Plan for semester</li>
+</ul></li>
+<li>Next Meeting:
+<ul>
+<li>Schedule presentation for Sandy/Amar</li>
+<li>Emily present posterdown 2/10/2020</li>
+<li>Read paper</li>
+</ul></li>
+</ul>
+</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
