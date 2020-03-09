@@ -20,7 +20,7 @@ navbar:
       href: resources.html
     - text: "Site info"
       href: site-info.html
-output_dir: "docs"
+output_dir: "."
 output:
   html_document:
     theme: cosmo
