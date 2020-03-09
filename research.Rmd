@@ -12,7 +12,9 @@ My colleagues and I are developing policies for the ethical and secure sharing o
 
 **Publications**
 
-Gilmore, R.O., Cole, P.M., van Aken, M.A.G., Verma S., & Worthman, C.M. (in press). Advancing scientific integrity, transparency, and openness in child development research: Challenges and possible solutions. *Child Development Perspectives*, *14*(1), 9-14. <http://dx.doi.org/10.1111/cdep.12360>
+<!-- Adolph, K.E., Xu, M., and Gilmore, R.O. (in press). Data sharing, in Panicker, S. & Stanley, B. (eds.), *How to Conduct Research Ethically*, APA Press, Washington, DC.  -->
+
+Gilmore, R.O., Cole, P.M., van Aken, M.A.G., Verma S., & Worthman, C.M. (2020). Advancing scientific integrity, transparency, and openness in child development research: Challenges and possible solutions. *Child Development Perspectives*, *14*(1), 9-14. <http://dx.doi.org/10.1111/cdep.12360>
 
 Ossmy O., Gilmore R.O., Adolph K.E. (2020) AutoViDev: A Computer-Vision Framework to Enhance and Accelerate Research in Human Development. In: Arai K., Kapoor S. (eds) *Advances in Computer Vision. CVC 2019. Advances in Intelligent Systems and Computing*, vol 944. Springer, Cham. [doi: 10.1007/978-3-030-17798-0_14](https://doi.org/10.1007/978-3-030-17798-0_14) 
 
@@ -23,6 +25,10 @@ Gilmore, R.O., Diaz, M.T., Wyble, B.A., & Yarkoni, T. (2017). Progress toward op
 Gilmore, R.O. (2016). From big data to deep insight in developmental science. *Wiley Interdisciplinary Reviews Cognitive Science*. [DOI: 10.1002/wcs.1379](http://doi.org/10.1001/wcs.1379).
 
 **Presentations**
+
+Gilmore, R.O. (2020, May 23). Invited symposium presentation on *Open Science for Different Methodological Approaches in Psychology*, 2020 meeting of the Association for Psychological Science, Chicago, IL.
+
+Gilmore, R.O. (2020, February 21). Research computing in child development research. Invited talk to the Penn State Child Study Center. [slides](https://psu-psychology.github.io/open-data-and-developmental-science-ODDS/2020-02-21-csc.html).
 
 Gilmore, R.O. (2019, June 3). Making cognitive science even better. Talk given at the James S. McDonnell Foundation retreat. [slides](https://gilmore-lab.github.io/2019-06-03-McDonnell-Fdn/).
 
