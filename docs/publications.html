@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>publications</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Gilmore Lab</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="publications.html">Publications</a>
+</li>
+<li>
+  <a href="parents.html">Parents</a>
+</li>
+<li>
+  <a href="participants.html">Participants</a>
+</li>
+<li>
+  <a href="who-we-are.html">Who we are</a>
+</li>
+<li>
+  <a href="lab-meetings.html">Lab mtgs</a>
+</li>
+<li>
+  <a href="resources.html">Resources</a>
+</li>
+<li>
+  <a href="site-info.html">Site info</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<div id="books" class="section level2">
+<h2>Books</h2>
+<p>Johnson, M.H., Munakata, Y., &amp; Gilmore, R.O. (2002). <em>Brain development and cognition: A reader</em>, <em>2nd Ed</em>. Cambridge: Blackwell.</p>
+</div>
+<div id="peer-reviewed-articles" class="section level2">
+<h2>Peer-reviewed Articles</h2>
+<p>Gilmore, R.O., Cole, P.M., van Aken, M.A.G., Verma S., &amp; Worthman, C.M. (in press). Advancing scientific integrity, transparency, and openness in child development research: Challenges and possible solutions. <em>Child Development Perspectives</em>, <em>14</em>(1), 9-14. <a href="http://dx.doi.org/10.1111/cdep.12360" class="uri">http://dx.doi.org/10.1111/cdep.12360</a></p>
+<p>Ossmy O., Gilmore R.O., Adolph K.E. (2020) AutoViDev: A Computer-Vision Framework to Enhance and Accelerate Research in Human Development. In: Arai K., Kapoor S. (eds) <em>Advances in Computer Vision. CVC 2019. Advances in Intelligent Systems and Computing</em>, vol 944. Springer, Cham. <a href="https://doi.org/10.1007/978-3-030-17798-0_14">doi: 10.1007/978-3-030-17798-0_14</a></p>
+<p>Liu, P., Cole, P.M., Gilmore, R.O., Pérez-Edgar, K.E., Vigeant, M.C., Moriarty, P., Scherf, K.S. (2019). Young children’s neural processing of their mother’s voice: An fMRI study, 11-19. <em>Neuropsychologia</em>. <a href="http://doi.org/10.1016/j.neuropsychologia.2018.12.003">doi: 10.1016/j.neuropsychologia.2018.12.003</a>.</p>
+<p>Gilmore, R. O., Kennedy, J. L., &amp; Adolph, K. E. (2018). Practical Solutions for Sharing Data and Materials From Psychological Research. <em>Advances in Methods and Practices in Psychological Science</em>, SAGE Publications Inc. Retrieved from <a href="https://doi.org/10.1177/2515245917746500" class="uri">https://doi.org/10.1177/2515245917746500</a></p>
+<p>Gilmore, R.O. &amp; Adolph, K.E. (2017). Video can make behavioural science more reproducible. <em>Nature Human Behaviour</em>. <a href="http://doi.org/10.1038/s41562-017-0128">doi:10.1038/s41562-017-0128</a>.</p>
+<p>Gilmore, R.O., Diaz, M.T., Wyble, B.A., &amp; Yarkoni, T. (2017). Progress toward openness, transparency, and reproducibility in cognitive neuroscience. <em>Annals of the New York Academy of Sciences</em>, 1396, 5–18. <a href="http://doi.org/10.1111/nyas.13325">doi: 10.1111/nyas.13325</a>.</p>
+<p>Gilmore, R.O., Adolph, K.E., &amp; Millman, D.S. (2016). Curating identifiable data for sharing: The Databrary project. In Proceedings of the 2016 New York Scientific Data Summit. <a href="https://doi.org/10.1109/NYSDS.2016.7747817">doi: 10.1109/NYSDS.2016.7747817</a>.</p>
+<p>Gilmore, R.O., Thomas, A.L., &amp; Fesi, J.D (2016). Children’s brain responses to optic flow vary by pattern type and motion speed. <em>PLoS ONE</em>. <a href="http://doi.org/10.1371/journal.pone.0157911">doi: 10.1371/journal.pone.0157911</a>. Materials on Databrary at <a href="http://doi.org/10.17910/B7QG6W">http://doi.org/10.17910/B7QG6W</a>.</p>
+<p>Gilmore, R.O., Adolph, K.E., Millman, D.S. &amp; Gordon, A. (2016). Transforming education research through open video data sharing. <em>Advances in Engineering Education</em>, <em>5</em>(2). <a href="http://advances.asee.org/publication/transforming-education-research-through-open-video-data-sharing/">HTML</a>.</p>
+<p>Gilmore, R.O. (2016). From big data to deep insight in developmental science. <em>Wiley Interdisciplinary Reviews Cognitive Science, 7</em>(2), 112-126. <a href="http://doi.org/10.1002/wcs.1379">doi: 10.1002/wcs.1379</a>.</p>
+<p>Gordon, A., Millman, D.S., Steiger, L., Adolph, K.E., &amp; Gilmore, R.O. (2015). Researcher-library collaborations: Data repositories as a service for researchers. <em>Journal of Librarianship and Scholarly Communication</em>. <a href="http://dx.doi.org/10.7710/2162-3309.1238">doi:10.7710/2162-3309.1238</a>.</p>
+<p>Gilmore, R.O., Raudies, F., &amp; Jayaraman, S. (2015). What accounts for developmental shifts in optic flow sensitivity? <em>Proceedings of the IEEE International Conference on Development and Learning and Epigenetic Robotics</em>. <a href="http://doi.org/10.1109/DEVLRN.2015.7345450">doi:10.1109/DEVLRN.2015.7345450</a>. Materials on Databrary at <a href="http://dx.doi.org/10.17910/B7988V">doi:10.17910/B7988V</a>.</p>
+<p>Ely, A.L., Weinstein, J.M., Price, J.M., Gillon, J.T., Boltz, M.E., Mowery, S.F., Aminlari, A., Gilmore, R.O., &amp; Cheung, A.Y., (2014). Degradation of swept parameter VEP responses by neutral density filters in amblyopic and normal subjects. <em>Investigative Ophthalmology and Visual Science</em>, <em>55</em>(13), 7248-7255. <a href="http://dx.doi.org/10.1167/iovs.14-15052">doi:10.1167/iovs.14-15052</a>.</p>
+<p>Raudies, F. &amp; Gilmore, R.O. (2014). Visual motion priors differ for infants and mothers. <em>Neural Computation</em>, <em>26</em>(11), 2652-2668. <a href="http://dx.doi.org/10.1162/NECO_a_00645">doi:10.1162/NECO_a_00645</a>.</p>
+<p>Fesi, J.D., Thomas, A.L., &amp; Gilmore, R.O. (2014). Cortical responses to optic flow and motion contrast across patterns and speeds. <em>Vision Research</em>, 100, 56–71. <a href="http://dx.doi.org/10.1016/j.visres.2014.04.004">doi:10.1016/j.visres.2014.04.004</a>. <a href="https://databrary.org/volume/49">Materials on Databrary</a>.</p>
+<p>Beltz, A.M., Gates, K.M., Engels, A.S., Molenaar, P., Pulido, C., Turrisi, R., Berenbaum, S.A., Gilmore, R.O., &amp; Wilson, S.J. (2013). Changes in alcohol-related brain networks across the first year of college: A prospective pilot study using fMRI effective connectivity mapping. <em>Addictive Behaviors</em>, <em>38</em>(4), 2052-2059. <a href="http://dx.doi.org/10.1016/j.addbeh.2012.12.023">doi:10.1016/j.addbeh.2012.12.023</a>.</p>
+<p>Raudies, F., Gilmore, R.O., Kretch, K.S., Franchak, J.M, &amp; Adolph, K.E. (2012). Understanding the development of motion processing by characterizing optic flow experienced by infants and their mothers. <em>Proceedings of the IEEE International Conference on Development and Learning</em>. <a href="http://dx.doi.org/10.1109/DevLrn.2012.6400584">doi:10.1109/DevLrn.2012.6400584</a>.</p>
+<p>Adolph, K.E., Gilmore, R.O., Freeman, C., Sanderson, P., &amp; Millman, D. (2012). Toward open behavioral science, <em>Psychological Inquiry: An International Journal for the Advancement of Psychological Theory</em>, <em>23</em>(3), 244-247. <a href="http://dx.doi.org/10.1080/1047840X.2012.705133">doi:10.1080/1047840X.2012.705133</a>.</p>
+<p>Fesi, J.D., Yannes, M.P., Brinckman, D.D., Norcia, A.M., Ales, J.M., &amp; Gilmore, R.O. (2011). Distinct cortical responses to 2D figures defined by motion contrast. <em>Vision Research</em>, <em>51</em>(19), 2110-2120. <a href="http://dx.doi.org/10.1016/j.visres.2011.07.015">doi:10.1016/j.visres.2011.07.015</a></p>
+<p>Pemberton, C., Bass, A., Moore, G., Murray-Kolb, L., Tan, P., Gilmore, R.O., Buss, K., Cole, P.M, &amp; Teti, L.O. (2011). Let me go: The influence of crawling experience and temperament on the development of anger reactivity and regulation. <em>Infancy</em>, <em>17</em>(5), 558-577. <a href="10.1111/j.1532-7078.2011.00092.x">doi:10.1111/j.1532-7078.2011.00092.x</a></p>
+<p>Weinstein, J.M., Gilmore, R.O., Trescher, W.V., Shaikh, S.M., Tashima, L.M., Boltz, M.E., McAuliffe, M.B., Cheung, A., Fesi, J.D., &amp; Kunselman, A.R. (2011). Defective motion processing in children with cerebral visual impairment due to periventricular white matter damage. <em>Developmental Medicine &amp; Child Neurology</em>, <em>53</em>, <a href="http://dx.doi.org/10.1111/j.1469-8749.2010">doi:10.1111/j.1469-8749.2010.03874.x</a>.</p>
+<p>Hou, C., Gilmore, R.O., Pettet, M.W., &amp; Norcia, A.M. (2009). Spatio-temporal tuning of coherent motion evoked responses in 4-6 month-old infants and adults. <em>Vision Research</em>, <em>49</em>(20), 2509-2517. <a href="http://dx.doi.org/10.1016/j.visres.2009.08.007">doi:10.1016/j.visres.2009.08.007</a>. <a href="https://nyu.databrary.org/volume/32">Materials on Databrary</a>.</p>
+<p>Gilmore, R.O., Hou, C., Pettet, M.W., &amp; Norcia, A.M. (2007). Development of cortical responses to optic flow. <em>Visual Neuroscience</em>, <em>24</em>, 845-856. <a href="http://dx.doi.org/10.1017/S0952523807070769">doi:10.1017/S0952523807070769</a>.</p>
+<p>Kaufman, J., Gilmore, R.O., &amp; Johnson, M.H. (2006). Frames of reference for anticipatory action in 4-month-old infants. <em>Infant Behavior &amp; Development</em>, <em>29</em>(3), 322-333. <a href="http://dx.doi.org/10.1016/j.infbeh.2005.01.003">doi:10.1016/j.infbeh.2005.01.003</a></p>
+<p>Thomas, H., &amp; Gilmore, R.O. (2004). Habituation assessment in infancy: From infant control to investigator control. <em>Psychological Methods</em>, <em>9</em>(1), 70-92. <a href="http://dx.doi.org/10.1037/1082-989X.9.1.70">doi:10.1037/1082-989X.9.1.70</a>.</p>
+<p>Gilmore, R.O., Baker, T.J., &amp; Grobman, K.H. (2004). Stability in infants’ discrimination of optic flow. <em>Developmental Psychology</em>, <em>40</em>(2), 259-270. <a href="http://dx.doi.org/10.1037/0012-1649.40.2.259">doi:10.1037/0012-1649.40.2.259</a>.</p>
+<p>Gilmore, R.O., &amp; Rettke, H.R. (2003). Four-month-olds’ discrimination of optic flow patterns depicting different directions of observer motion. <em>Infancy</em>, <em>4</em>(2), 177-200. <a href="http://dx.doi.org/10.1207/S15327078IN0402_02">doi:10.1207/S15327078IN0402_02</a>. <a href="https://nyu.databrary.org/volume/31">Materials on Databrary</a>.</p>
+<p>Brown, J., Johnson, M.H., Paterson, S., Gilmore, R.O, Gsödl, M, Longhi, E., &amp; Karmiloff-Smith, A. (2003). Spatial representation and attention in toddlers with Williams syndrome and Down syndrome. <em>Neuropsychologia</em>, <em>41</em>(8), 1037-1046. <a href="http://dx.doi.org/10.1016/S0028-3932(02)00299-3">doi:10.1016/S0028-3932(02)00299-3</a></p>
+<p>Gilmore, R.O. &amp; Thomas, H. (2002). Examining individual differences in infants’ habituation patterns using objective quantitative techniques. <em>Infant Behavior and Development</em>, <em>153</em>, 399-412. <a href="http://dx.doi.org/10.1016/S0163-6383(02)00142-X">doi:10.1016/S0163-6383(02)00142-X</a>.</p>
+<p>Rosenbaum, D.A., Carlson, R.A., Gilmore, R.O. (2000). Acquisition of intellectual and perceptual-motor skills. <em>Annual Review of Psychology</em>, <em>52</em>, 453-470. <a href="http://dx.doi.org/10.1146/annurev.psych.52.1.453">doi:10.1146/annurev.psych.52.1.453</a>.</p>
+<p>Johnson, M.H. &amp; Gilmore, R.O. (1998). Object-centered representations in 8-month-old infants. <em>Developmental Science</em>, <em>1</em>, 221-225. <a href="http://dx.doi.org/10.1111/1467-7687.00034">doi:10.1111/1467-7687.00034</a>.</p>
+<p>Gilmore, R.O. &amp; Johnson, M.H. (1997). Body-centered representations for visually-guided action emerge in early infancy. <em>Cognition</em>, <em>65</em>, B1-B9. <a href="http://dx.doi.org/10.1016/S0010-0277(97)00038-3">dx.doi.org/10.1016/S0010-0277(97)00038-3</a>.</p>
+<p>Gilmore, R.O., &amp; Johnson, M.H. (1997). Egocentric action in early infancy: Spatial frames of reference for saccades. <em>Psychological Science</em>, <em>8</em>(3), 224-230. <a href="http://dx.doi.org/10.1111/j.1467-9280.1997.tb00416.x">doi:10.1111/j.1467-9280.1997.tb00416.x</a></p>
+<p>Johnson, M.H., Gilmore, R.O., Tucker, L.A., &amp; Minister, S.L. (1996). Cortical development and saccadic control: Evidence for vector summation in young infants. Proceedings of TENNET VI, Montreal, Canada. <em>Brain &amp; Cognition</em>, <em>32</em>(2), 237-243.</p>
+<p>Gilmore, R.O., &amp; Johnson, M.H. (1995). Working memory in infancy: Six-month-olds’ performance on two versions of the oculomotor delayed response task. <em>Journal of Experimental Child Psychology,</em> <em>59</em>, 397-418. <a href="http://dx.doi.org/10.1006/jecp.1995.1019">doi:10.1006/jecp.1995.1019</a>.</p>
+</div>
+<div id="other-non-peer-reviewed-publications" class="section level2">
+<h2>Other (non-peer-reviewed) publications</h2>
+<p>Adolph, K.E., Gilmore, R.O., &amp; Kennedy, J.L. (2017, October). Video data and documentation will improve psychological science. <em>Psychological Science Agenda</em>. <a href="http://www.apa.org/science/about/psa/2017/10/video-data.aspx" class="uri">http://www.apa.org/science/about/psa/2017/10/video-data.aspx</a>.</p>
+<p>Gilmore, R. O., Kennedy, J. L., &amp; Adolph, K. E. (2017, September 7). Practical solutions for the ethical sharing of identifiable research data. Retrieved from <a href="http://psyarxiv.com/kew8u" class="uri">http://psyarxiv.com/kew8u</a>.</p>
+<p>Seisler, A.R. &amp; Gilmore, R.O. (2017). Developing R Code for the Processing and Analysis of Optic Flow Data. In Kitzes, J., Turek, D., &amp; Deniz, F. (Eds.). <em>The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences</em>, Oakland, CA: University of California Press, [Online Version]. Retrieved from <a href="http://www.practicereproducibleresearch.org" class="uri">http://www.practicereproducibleresearch.org</a>.</p>
+<p>Gilmore, R. O., &amp; Adolph, K. E. (2017, February 6). Video can make science more open, transparent, robust, and reproducible. Retrieved from <a href="http://osf.io/3kvp7" class="uri">http://osf.io/3kvp7</a>.</p>
+<p>Gilmore, R.O., &amp; Adolph, K.E. (in press). Open sharing of research video: Breaking the boundaries of the research team, in <em>Advancing Social and Behavioral Health Research through Cross-disciplinary Team Science: Principles for Success</em>. Hall, K., Croyle, R., &amp; Vogel, A. (Eds.). Springer: Philadelphia.</p>
+<p>Gilmore, R.O, Gummer, E., &amp; Koedinger, K. (2015). Collaborating on tools, infrastructures, and repositories. In Dede, C. (Ed.) <em>Data-intensive research in education: Current work and next steps, Report on two National Science Foundation sponsored computing research education workshops</em>, 63-73. Computing Research Association.</p>
+<p>Gilmore, R.O. &amp; Fesi, J.D. (2009). Infant Perception: Methods of Testing. In B. Goldstein (Ed.), <em>Encyclopedia of Perception</em>, Sage Publishing. <a href="http://dx.doi.org/10.4135/9781412972000">doi:10.4135/9781412972000</a>.</p>
+<p>Gilmore, R.O., Weinstein, J. &amp; Von Der Heide, R. (2008). The Development and Neuropsychology of Visual Impairment. In A.M. Walker, D.M. Kaufman, G.E. Solomon, and C. Pfeffer (Eds.), <em>Child and Adolescent Neurology for Psychiatrists</em>. Baltimore: Lippincott Williams &amp; Wilkins. 323-347.</p>
+<p>Gilmore, R.O. (2003). Where are they going? The perception of information about visual direction in young infants. In B. Hopkins &amp; S.P. Johnson (Eds.), <em>Neurobiology of Infant Vision, Advances in Infancy Research</em>. Westport, CT: Praeger Publishers. 181-210.</p>
+<p>Gilmore, R.O. (2003). Toward a neuropsychology of visual development. In S. J. Segalowitz &amp; I. Rapin (Eds.), <em>Handbook of Neuropsychology (2nd Ed.)</em>, Vol 8., Part II: Child Neuropsychology. Amsterdam: Elsevier Science. 417-437.</p>
+<p>Gilmore, R.O. (2000). The development of representations for perception and action. In J.G. Warhol, N. Fox, &amp; L. Leavitt, (Eds.), <em>The Role of Early Experience in Infant Development: Johnson &amp; Johnson Pediatric Roundtable Series</em>.</p>
+<p>Johnson, M.H., &amp; Gilmore, R.O. (2000). Infancy: Biological processes, in A. Kazdin (Ed.), <em>Encyclopedia of Psychology</em>. Washington, DC: APA Press.</p>
+<p>Gilmore, R.O., &amp; Johnson, M.H. (1998). Learning what is where: Oculomotor constraints on the development of spatial cognition. In G. Butterworth &amp; F. Simion, (Eds.), <em>The Development of Sensory, Motor &amp; Cognitive Capacities in Early Infancy: From Sensation to Cognition</em>. Hillsdale, NJ: Erlbaum.</p>
+<p>Johnson, M.H., Gilmore, R.O., &amp; Csibra, G. (1998). Toward a computational model of the development of saccadic control. In J. Richards, (Ed.), <em>The Cognitive Neuroscience of Attention</em>. Hillsdale, NJ: Erlbaum.</p>
+<p>Johnson, M.H., &amp; Gilmore, R.O. (1996). Developmental cognitive neuroscience: A biological perspective on cognitive change. In R. Gelman &amp; T. Au (Eds.), <em>Handbook of Perception and Cognition</em>, <em>13</em>, Orlando, FL: Academic Press.</p>
+<p>Gilmore, R.O., &amp; Johnson, M.H. (1995). <em>Egocentric action in early infancy: Spatial frames of reference for saccades</em> (Developmental Cognitive Neuroscience Tech. Report 95-4). London: U.K. MRC Cognitive Development Unit.</p>
+<p>Johnson, M.H., Gilmore, R.O., Tucker, L.A., &amp; Minister, S.L. (1995). <em>Cortical development and saccadic control: Vector summation in young infants</em> (Developmental Cognitive Neuroscience Tech. Report 95-3). London: U.K. MRC Cognitive Development Unit.</p>
+</div>
+<div id="invited-talks" class="section level1">
+<h1>Invited Talks</h1>
+<p>Gilmore, R.O. (2018, April 25). Video as data and documentation. Talk in the Department of Communication Arts &amp; Sciences, Penn State. <a href="http://gilmore-lab.github.io/2018-04-25-introducing-databrary/">HTML slides</a>.</p>
+<p>Gilmore, R.O. (2018, February 14). The future of quantitative developmental science. Talk given at the Quantitative Developmental Methodology brown bag series. <a href="http://gilmore-lab.github.io/2018-02-14-quant-dev/">HTML slides</a>.</p>
+<p>Gilmore, R.O. (2018, January 31). Introducing Databrary. Talk given at the Penn State <a href="https://sites.psu.edu/librarynews/2017/12/11/software-in-the-humanities-and-social-sciences-workshops/">Software in the Humanities &amp; Social Sciences</a> workshop. <a href="https://gilmore-lab.github.io/2018-01-31-software-in-humanities/">HTML slides</a>.</p>
+<p>Gilmore, R.O. (2018, January 26). The Video DatAbservatory: A platform for behavioral discovery. Talk at the Pathways to Competence initiative meeting of the Penn State Child Study Center. <a href="https://gilmore-lab.github.io/2018-01-26-p2c/">HTML slides</a>.</p>
+<p>Gilmore, R.O. (2017, September 7). Reproducibility in computationally intensive behavioral research. Talk at the ACI-ICS seminar series, Penn State. <a href="http://gilmore-lab.github.io/aci-ics-2017-09-07/">HTML slides</a>.</p>
+<p>Gilmore, R.O. (2017, July 10). The reproducibility crisis in psychology &amp; neuroscience. Talk given at the Penn State Data Reproducibility Bootcamp. <a href="http://gilmore-lab.github.io/psu-data-repro-bootcamp-2017-07-10">HTML slides</a>.</p>
+<p>Gilmore, R.O. (2017, April). Go with the flow: Babies, brains, behavior, and open science. Talk at the Undergraduate Research in Science &amp; Engineering (URISE) meeting. <a href="http://gilmore-lab.github.io/urise-2017-03-30">HTML slides</a></p>
+<p>Gilmore, R.O. (2017, February). Go with the flow: The development of behavioral sensitivity and brain responses to optic flow. Talk at Temple University. <a href="http://gilmore-lab.github.io/temple-2017-02-27">HTML slides</a>. <a href="https://github.com/gilmore-lab/temple-2017-02-27/blob/master/index.md">Markdown</a>.</p>
+<p>Gilmore, R.O. (2017, January 31). An -ome of our own: Toward a more reproducible, robust, and insightful science of human behavior. Talk given to the Social Data Analytics (SoDA) 501 students. Penn State University. <a href="http://gilmore-lab.github.io/soda-2017-01-31">HTML slides</a></p>
+<p>Gilmore, R.O. (2016, October). The future of big data in developmental science. Talk given at a meeting of the Penn State Child Study Center (CSC) faculty. <a href="http://rawgit.com/gilmore-lab/psu-child-study-ctr-talk-2016-10-28/master/gilmore-csc-talk.html">HTML slides</a>.</p>
+<p>Gilmore, R.O. (2016, September). Donald Rumsfeld and the promise of a ‘big data’ science of human behavior. Talk given at a meeting of the Stochastic Modeling and Computational Statistics (SMACS) group, Department of Statistics. <a href="https://rawgit.com/gilmore-lab/psu-stats-smacs-2016-talk/master/gilmore-smacs-2016-09-02.html">HTML slides</a>.</p>
+<p>Gilmore, R.O., Adolph, K.E., &amp; Millman, D. (2016, May). Video doesn’t lie: Reproducible workflows with Databrary. Talk given at the NYU Data Science Center <a href="https://reproduciblescience.org/nyu/events/reproducibility-symposium-2016/schedule/">Symposium on Reproducibility</a>. <a href="https://rawgit.com/databrary/presentations/master/nyu-data-science-reproducibility-16/be-bold.html#1">HTML slides</a></p>
+<p>Gilmore, R.O. (2015, September). Experience matters: Measuring the microstructure of visual experience to better understand perceptual development. PSU Developmental Area Proseminar. <a href="https://rawgit.com/psu-psychology/developmental/master/prosem/2015-09-16-gilmore/dev-prosem-2015-09-16.html">HTML</a>. <a href="https://github.com/psu-psychology/developmental/blob/master/prosem/2015-09-16-gilmore/dev-prosem-2015-09-16.Rmd">Markdown</a>.</p>
+<p>Gilmore, R.O. (2015, September). Open science practices have made my research better. PSU Cognitive Psychology Area Brown Bag. <a href="https://rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/cog-bbag-2015-09-09.html">HTML</a>. <a href="https://github.com/psu-psychology/cognitive/blob/master/brown-bag/2015-09-09-gilmore/cog-bbag-2015-09-09.Rmd">Markdown</a>.</p>
+<p>Gilmore, R.O. (2015, September). Managing Your Brand. Penn State AXONS graduate student group. <a href="http://cdn.rawgit.com/psu-psychology/scan/master/axons-2015-09-04-gilmore/gilmore.html">HTML</a></p>
+<p>Gilmore, R.O. (2015, June). Workshop on Data-intensive Research in Education, National Science Foundation, Arlington, VA.</p>
+<p>Gilmore, R.O. (2015, April). Workshop on using and sharing video, American Educational Research Association, Chicago, IL.</p>
+<p>Gilmore, R.O. (2015, February). Sharing identifiable research data with Databrary, Penn State Child Study Center.</p>
+<p>Gilmore, R.O. (2014, November). Northwestern University.</p>
+<p>Gilmore, R.O. (2014, October). Data on the Mind Workshop. University of California – Berkeley. <a href="https://nyu.databrary.org/volume/66">Materials on Databrary</a></p>
+<p>Gilmore, R.O. (2014, July). Centre for Brain and Cognitive Development, Birkbeck College, University of London. <a href="https://nyu.databrary.org/volume/25">Materials on Databrary</a></p>
+<p>Gilmore, R.O. (2014, May). NFAIS webinar on video data sharing.</p>
+<p>Gilmore, R.O. (2014, April). Department of Cognitive and Linguistic Sciences, Brown University.</p>
+<p>Gilmore, R.O. (2014, November). NFAIS/CENDI Workshop on Open Data, U.S. Library of Congress, Washington, DC.</p>
+<p>Gilmore, R.O., Simon, D.A., &amp; Millman, D.S. (2013, December). Coalition for Networked Information (CNI Fall 13), Washington, DC.</p>
+<p>Gilmore, R.O. (2013, November). Center for Neural Engineering, Penn State University.</p>
+<p>Gilmore, R.O. (2011, December). Department of Psychology, New York University.</p>
+<p>Gilmore, R.O. (2011, January). Cyberinfrastructure Day, Penn State University.</p>
+<p>Gilmore, R.O. (2009, April). Frontiers in Eye and Vision Research Lecture, Department of Ophthalmology, Penn State Hershey Eye Center.</p>
+<p>Gilmore, R.O. (2008, March). Center for Cognitive Neuroscience, Duke University.</p>
+<p>Gilmore, R.O. (2007, November). McDonnell Foundation Workshop on Near infrared Optical Imaging in Infants, Cambridge, MA.</p>
+<p>Gilmore, R.O. (2007, November). Department of Biomedical Engineering, Boston University.</p>
+<p>Gilmore, R.O. (2007, March). Department of Kinesiology, Penn State University.</p>
+<p>Gilmore, R.O. (2002, October). Department of Cognitive and Linguistic Sciences, Brown University, Providence, RI.</p>
+<p>Gilmore, R.O. (2002, May). James S. McDonnell Foundation Workshop on Infant Research Methods, Chatham, MA.</p>
+<p>Gilmore, R.O. (2002, March). Department of Biology, Edinboro University. Edinboro, PA.</p>
+<p>Gilmore, R.O. (2001, March). Department of Psychology, New York University. New York, NY.</p>
+<p>Gilmore, R.O. (2000, October). Department of Kinesiology, University of Maryland. College Park, MD</p>
+<p>Gilmore, R.O. (2000, September). Department of Kinesiology, Penn State University.</p>
+<p>Gilmore, R.O. (2000, March). Lebanon Valley College, Annville, PA.</p>
+<p>Gilmore, R.O. (2000, March). National Association of State Universities and Land Grant Colleges Leadership Conference, Chevy Chase, MD.</p>
+<p>Gilmore, R.O. (1999, January). Johnson &amp; Johnson Pediatric Roundtable, Palm Beach, FL.</p>
+<p>Gilmore, R.O. (1996, September). Human Frontiers Foundation Infancy Research Group, Cambridge, England.</p>
+<p>Gilmore, R.O. (1994, June). Graduate student research award talk, IXth International Conference on Infant Studies, Paris, France.</p>
+</div>
+<div id="poster-presentations" class="section level1">
+<h1>Poster Presentations</h1>
+<p>Shahriar, S., Gilmore, R.O., Seisler, A.R. (2019, April). On the Move: A study on gait style and preference in early infancy. Penn State Psi Chi Research Conference, University Park, PA. <a href="https://github.com/gilmore-lab/psi-chi-2019/blob/master/crawling-mode_files/Psi_Chi_Sarah_2019.pdf">Poster</a>.</p>
+<p>Dluzneski, A., Rayes, S., Zhao, Z., Gilmore, R.O., Seisler, A.R. (2019, April). Motor Development in Early Childhood. Penn State Psi Chi Research Conference, University Park, PA. <a href="https://github.com/gilmore-lab/psi-chi-2019/blob/master/object-play_files/Psi_Chi_ASZ_2019.pdf">Poster</a>.</p>
+<p>Pandos, A., Gilmore, R.O., Seisler, A.R. (2018, April). Infant brain responses differentiate between optic flow patterns and motion speeds. Penn State Psi Chi Research Conference, University Park, PA. <a href="https://github.com/gilmore-lab/infant-moco-eeg/blob/master/pubs/psi-chi-2018-poster/pandos-gilmore-seisler-psichi-2018.pdf">Poster</a>.</p>
+<p>Mehta, C., Gilmore, R.O. (2018, April). Reanalyzing Shared Data about Brains and Behavior. Penn State Psi Chi Research Conference, University Park, PA. <a href="https://github.com/gilmore-lab/brain-behavior-data/blob/master/pubs/psi-chi-2018/mehta-psi-chi-2018.pdf">Poster</a>.</p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

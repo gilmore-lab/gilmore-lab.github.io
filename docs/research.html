@@ -1,0 +1,590 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>research</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Gilmore Lab</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="publications.html">Publications</a>
+</li>
+<li>
+  <a href="parents.html">Parents</a>
+</li>
+<li>
+  <a href="participants.html">Participants</a>
+</li>
+<li>
+  <a href="who-we-are.html">Who we are</a>
+</li>
+<li>
+  <a href="lab-meetings.html">Lab mtgs</a>
+</li>
+<li>
+  <a href="resources.html">Resources</a>
+</li>
+<li>
+  <a href="site-info.html">Site info</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<div id="active-projects" class="section level1">
+<h1>Active Projects</h1>
+<div id="open-science" class="section level2">
+<h2>Open Science</h2>
+<p>The social, behavioral, and neural sciences face more difficult scientific challenges than any other field has faced before. Open, transparent, and reproducible scientific practices are essential for accelerating discovery in these fields. My colleagues and I are developing policies for the ethical and secure sharing of personal data and technologies to allow the analysis and sharing of these data for scientific and educational purposes.</p>
+<p><strong>Publications</strong></p>
+<!-- Adolph, K.E., Xu, M., and Gilmore, R.O. (in press). Data sharing, in Panicker, S. & Stanley, B. (eds.), *How to Conduct Research Ethically*, APA Press, Washington, DC.  -->
+<p>Gilmore, R.O., Cole, P.M., van Aken, M.A.G., Verma S., &amp; Worthman, C.M. (2020). Advancing scientific integrity, transparency, and openness in child development research: Challenges and possible solutions. <em>Child Development Perspectives</em>, <em>14</em>(1), 9-14. <a href="http://dx.doi.org/10.1111/cdep.12360" class="uri">http://dx.doi.org/10.1111/cdep.12360</a></p>
+<p>Ossmy O., Gilmore R.O., Adolph K.E. (2020) AutoViDev: A Computer-Vision Framework to Enhance and Accelerate Research in Human Development. In: Arai K., Kapoor S. (eds) <em>Advances in Computer Vision. CVC 2019. Advances in Intelligent Systems and Computing</em>, vol 944. Springer, Cham. <a href="https://doi.org/10.1007/978-3-030-17798-0_14">doi: 10.1007/978-3-030-17798-0_14</a></p>
+<p>Gilmore, R. O., Kennedy, J. L., &amp; Adolph, K. E. (2018). Practical solutions for sharing data and materials From psychological research. <em>Advances in Methods and Practices in Psychological Science</em>, SAGE Publications Inc. Retrieved from <a href="https://doi.org/10.1177/2515245917746500" class="uri">https://doi.org/10.1177/2515245917746500</a>. <a href="https://osf.io/rw7f3/">OSF preprint</a>.</p>
+<p>Gilmore, R.O., Diaz, M.T., Wyble, B.A., &amp; Yarkoni, T. (2017). Progress toward openness, transparency, and reproducibility in cognitive neuroscience. <em>Annals of the New York Academy of Sciences</em>, 1396, 5–18. <a href="http://doi.org/10.1111/nyas.13325">doi: 10.1111/nyas.13325</a>.</p>
+<p>Gilmore, R.O. (2016). From big data to deep insight in developmental science. <em>Wiley Interdisciplinary Reviews Cognitive Science</em>. <a href="http://doi.org/10.1001/wcs.1379">DOI: 10.1002/wcs.1379</a>.</p>
+<p><strong>Presentations</strong></p>
+<p>Gilmore, R.O. (2020, May 23). Invited symposium presentation on <em>Open Science for Different Methodological Approaches in Psychology</em>, 2020 meeting of the Association for Psychological Science, Chicago, IL.</p>
+<p>Gilmore, R.O. (2020, February 21). Research computing in child development research. Invited talk to the Penn State Child Study Center. <a href="https://psu-psychology.github.io/open-data-and-developmental-science-ODDS/2020-02-21-csc.html">slides</a>.</p>
+<p>Gilmore, R.O. (2019, June 3). Making cognitive science even better. Talk given at the James S. McDonnell Foundation retreat. <a href="https://gilmore-lab.github.io/2019-06-03-McDonnell-Fdn/">slides</a>.</p>
+<p>Gilmore, R.O. (2019, March 28). The whole elephant. Talk given at the Penn State Center for Neural Engineering (CNE) colloquium series. <a href="https://gilmore-lab.github.io/2019-03-28-cne/">slides</a>.</p>
+<p>Gilmore, R.O., Gennetian, L., Kalish, C., Tamis-LeMonda, C.T., &amp; Worthman, C. (2019, March). What SRCD is doing about open science: A conversation hour. Presentation at the 2019 Society for Research in Child Development (SRCD) meeting, Baltimore, MD. <a href="https://gilmore-lab.github.io/2019-03-22-SRCD-conversation/">slides</a>.</p>
+<p>Gilmore, R.O. (2019, January). An open science of human health &amp; behavior. Invited talk given to the College of Health &amp; Human Development. <a href="https://gilmore-lab.github.io/2019-01-15-open-science-psu-hhd/">HTML slides</a>.</p>
+<p>Gilmore, R.O. (2018, October). The Open Data and Developmental Science (ODDS) Initiative. Invited talk at the Penn State Child Study Center <a href="http://csc.la.psu.edu/">(CSC)</a>. <a href="https://gilmore-lab.github.io/2018-10-12-ODDS/">HTML slides</a>.</p>
+<p>Gilmore, R.O. (2018, October). The promise of open developmental science. Invited talk at the <a href="https://convention2.allacademic.com/one/srcd/devsec18/index.php?cmd=Prepare+Online+Program&amp;program_focus=main&amp;PHPSESSID=ghs9iuu3994o7nv5bd03p5d1g3">SRCD Conference on the Use of Secondary and Open Source Data in Developmental Science</a>. Phoenix, AZ. <a href="http://gilmore-lab.github.io/DEVSEC-2018/promise-of-open-dev-sci/">HTML slides</a></p>
+<p>Gilmore, R.O. (2018, September). Big data behavioral science: From micro- to macro-scale. Annual Conference of the Federal Statistical Research Data Centers. University Park, PA. <a href="http://gilmore-lab.github.io/2018-09-07-fsrdc">HTML slides</a></p>
+<p>Gilmore, R.O. (2018, May). Open, says me: Practical solutions for sharing data and materials. Invited talk at the Association for Psychological Science 2018 meeting. San Francisco, CA. <a href="http://gilmore-lab.github.io/2018-05-26-aps-opensaysme">HTML slides</a></p>
+<p>Gilmore, R.O. (2017, September 29). Data sharing, research ethics, &amp; scientific reproducibility. Talk at the Scholarship and Research Integrity (SARI) workshop series, Penn State. <a href="http://gilmore-lab.github.io/psu-sari-2017-09-28/">HTML slides</a>.</p>
+<p>Gilmore, R.O. (2017, September 7). Reproducibility in computationally intensive behavioral research. Talk at the ACI-ICS seminar series, Penn State. <a href="http://gilmore-lab.github.io/aci-ics-2017-09-07/">HTML slides</a>.</p>
+<p><strong>Software</strong></p>
+<p><em>databraryapi</em>, an R package for Databrary. <a href="https://github.com/PLAY-behaviorome/databraryapi" class="uri">https://github.com/PLAY-behaviorome/databraryapi</a></p>
+<p><em>databrarypy</em>, a Python package for Databrary. <a href="https://github.com/PLAY-behaviorome/databrarypy" class="uri">https://github.com/PLAY-behaviorome/databrarypy</a></p>
+<p><strong>Collaborators</strong></p>
+<ul>
+<li>Karen Adolph, New York University, Co-Principal Investigator and Project Director.</li>
+<li>Ori Ossmy, New York University</li>
+<li>Jeff Spies, 221b.io</li>
+</ul>
+<p><img src="http://databrary.org/theme/img/logo/databrary.png"></p>
+<p>The <a href="http://databrary.org">Databrary Project</a> aims to increase scientific transparency and accelerate discovery in developmental science by building infrastructure for researchers to share video data and related meta-data. The project has five specific aims:</p>
+<ul>
+<li>Create a web-based <a href="http://databrary.org">data library</a> for sharing and preserving video data and associated meta-data.</li>
+<li>Create participant and contributor/user standards that enable open sharing of video data while limiting access to authorized users to ensure participant confidentiality.</li>
+<li>Expand the free, open source video coding software, <a href="http://datavyu.org">Datavyu</a> to enable coding, exploring, and analyzing video data.</li>
+<li>Build a data management system to support data sharing within labs, among collaborators, and in the Databrary repository.</li>
+<li>Transform the culture of developmental science by building a community of researchers committed to open video data sharing.</li>
+</ul>
+<p>Databrary is an <a href="http://github.com/databrary">open-source</a> software project. Penn State is one of the major “nodes”, with a large number of authorized users.</p>
+<p><strong>Publications</strong></p>
+<p>Gilmore, R. O., Kennedy, J. L., &amp; Adolph, K. E. (2018). Practical solutions for sharing data and materials From psychological research. <em>Advances in Methods and Practices in Psychological Science</em>, SAGE Publications Inc. Retrieved from <a href="https://doi.org/10.1177/2515245917746500" class="uri">https://doi.org/10.1177/2515245917746500</a>. <a href="https://osf.io/rw7f3/">OSF preprint</a>.</p>
+<p>Adolph, K.E., Gilmore, R.O., &amp; Kennedy, J.L. (2017, October). Video data and documentation will improve psychological science. <em>Psychological Science Agenda</em>. <a href="http://www.apa.org/science/about/psa/2017/10/video-data.aspx" class="uri">http://www.apa.org/science/about/psa/2017/10/video-data.aspx</a></p>
+<p>Gilmore, R. O., Kennedy, J. L., &amp; Adolph, K. E. (2017, September 7). Practical solutions for the ethical sharing of identifiable research data. Retrieved from <a href="http://psyarxiv.com/kew8u" class="uri">http://psyarxiv.com/kew8u</a>.</p>
+<p>Gilmore, R.O. &amp; Adolph, K.E. (2017). Video can make behavioural science more reproducible. <em>Nature Human Behaviour</em>. <a href="http://doi.org/10.1038/s41562-017-0128">doi:10.1038/s41562-017-0128</a>.</p>
+<p>Gilmore, R.O., &amp; Adolph, K.E. (2017, February 6). Video can make science more open, transparent, robust, and reproducible. Retrieved from <a href="http://osf.io/3kvp7" class="uri">http://osf.io/3kvp7</a>.</p>
+<p>Gilmore, R.O., &amp; Adolph, K.E. (in press). Open sharing of research video: Breaking the boundaries of the research team, in <em>Advancing Social and Behavioral Health Research through Cross-disciplinary Team Science: Principles for Success</em>. Hall, Kara, Croyle, R., &amp; Vogel, A. (Eds.). Springer.</p>
+<p>Gilmore, R.O., Adolph, K.E., Millman, D.S. (2016). Curating identifiable data for sharing: The Databrary project. In Proceedings of the 2016 New York Scientific Data Summit. <a href="https://github.com/databrary/presentations/blob/master/nysds-2016/gilmore-adolph-millman-nysds-2016.pdf">PDF of paper</a>.</p>
+<p>Gilmore, R.O., Adolph, K.E., Millman, D.S., &amp; Gordon, A. (2016). Transforming education research through open video data sharing. <em>Advances in Engineering Education</em>, <em>5</em>(2). <a href="http://advances.asee.org/publication/transforming-education-research-through-open-video-data-sharing/">HTML</a>.</p>
+<p>Gordon, A., Millman, D.S., Steiger, L., Adolph, K.E., &amp; Gilmore, R.O. (2015). Researcher-library collaborations: Data repositories as a service for researchers. <em>Journal of Librarianship and Scholarly Communication</em>. <a href="http://dx.doi.org/10.7710/2162-3309.1238">doi:10.7710/2162-3309.1238</a>.</p>
+<p>Adolph, K.E., Gilmore, R.O., Freeman, C., Sanderson, P., &amp; Millman, D. (2012). Toward Open Behavioral Science, <em>Psychological Inquiry: An International Journal for the Advancement of Psychological Theory</em>, <em>23</em>(3), 244-247. <a href="http://dx.doi.org/10.1080/1047840X.2012.705133">doi:10.1080/1047840X.2012.705133</a>.</p>
+<p><strong>Presentations</strong></p>
+<p>Gilmore, R.O. (2019, June 6). Video as data and documentation. Workshop at a Symposium Honoring Brian MacWhinney, Carnegie Mellon University, Pittsburgh, PA. <a href="https://gilmore-lab.github.io/2019-06-MacWhinney-Symposium/databrary-workshop/">slides</a>.</p>
+<p>Gilmore, R.O. (2018, October). Sharing video data. Data blitz talk at the <a href="https://convention2.allacademic.com/one/srcd/devsec18/index.php?cmd=Prepare+Online+Program&amp;program_focus=main&amp;PHPSESSID=ghs9iuu3994o7nv5bd03p5d1g3">SRCD Conference on the Use of Secondary and Open Source Data in Developmental Science</a>. Phoenix, AZ. <a href="https://gilmore-lab.github.io/DEVSEC-2018/data_blitz/">HTML slides</a></p>
+<p>Gilmore, R.O., Adolph, K.E., &amp; Seisler, A.S. (2018, October). Sharing nicely with others: Moving developmental scientists toward open data sharing. Poster presented at the <a href="https://convention2.allacademic.com/one/srcd/devsec18/index.php?cmd=Prepare+Online+Program&amp;program_focus=main&amp;PHPSESSID=ghs9iuu3994o7nv5bd03p5d1g3">SRCD Conference on the Use of Secondary and Open Source Data in Developmental Science</a>. Phoenix, AZ. <a href="https://github.com/gilmore-lab/DEVSEC-2018/blob/master/poster/gilmore-adolph-seisler-devsec-2018-poster.pdf">PDF</a>.</p>
+<p>Gilmore, R.O. (2018, April 25). Video as data and documentation. Talk in the Department of Communication Arts &amp; Sciences, Penn State. <a href="http://gilmore-lab.github.io/2018-04-25-introducing-databrary/">HTML slides</a></p>
+<p>Gilmore, R.O. (2018, February 14). The future of quantitative developmental science. Talk given at the Quantitative Developmental Methodology brown bag series. <a href="http://gilmore-lab.github.io/2018-02-14-quant-dev/">HTML slides</a>.</p>
+<p>Gilmore, R.O. (2018, January 31). Introducing Databrary. Talk given at the Penn State <a href="https://sites.psu.edu/librarynews/2017/12/11/software-in-the-humanities-and-social-sciences-workshops/">Software in the Humanities &amp; Social Sciences</a> workshop. <a href="https://gilmore-lab.github.io/2018-01-31-software-in-humanities/">HTML slides</a>.</p>
+<p>Gilmore, R.O. (2018, January 26). The Video DatAbservatory: A platform for behavioral discovery. Talk at the Pathways to Competence initiative meeting of the Penn State Child Study Center. <a href="https://gilmore-lab.github.io/2018-01-26-p2c/">HTML slides</a>.</p>
+<p>Gilmore, R.O. (2017, August 1). Video can improve the reproducibility of psychological science. Lightning talk at the Society for Improving Psychological Science meeting, Charlottesville, VA. <a href="https://gilmore-lab.github.io/sips-2017-video-reproducibility">HTML slides</a></p>
+<p>Gilmore, R.O. (2017, July 31). Beyond physics envy: Toward a databservatory for human behavior. Lightning talk at the Society for Improving Psychological Science meeting, Charlottesville, VA. <a href="http://gilmore-lab.github.io/sips-2017-databservatory">HTML slides</a>.</p>
+<p>Gilmore, R.O. &amp; Nilsonne, G. (2017, July 30). IRBs and the ethical sharing of research data. Talk given at the Society for Improving Psychological Science meeting, Charlottesville, VA. <a href="http://gilmore-lab.github.io/sips-2017-07-30/">HTML slides</a>. <a href="http://osf.io/9d5hr">OSF project</a>.</p>
+<p>Gilmore, R.O. (2017, July 26). Yes, we can. Invited panelist at the AERA Workshop on Data Sharing and Research Transparency at the Article Publishing Stage. <a href="http://gilmore-lab.github.io/aera-workshop-2017-07-26/">HTML slides</a>.</p>
+<p>Gilmore, R.O. (2017, July 10). The reproducibility crisis in psychology &amp; neuroscience. Talk given at the Penn State Data Reproducibility Bootcamp. <a href="http://gilmore-lab.github.io/psu-data-repro-bootcamp-2017-07-10/">HTML slides</a>.</p>
+<p>Adolph, K.E., Binion, G. Gilmore, R.O., Oakes, L., &amp; Vazire, S. (2017, April 6). Openness, replication, &amp; data reuse in developmental science – unique challenges, existing resources, &amp; what is still needed. Invited roundtable at the Society for Research in Child Development meeting, Austin, TX.</p>
+<p>Gilmore, R.O. (2017, February 22). A Databservatory for human behavior. Talk given at the Cognitive Area Brown Bag. <a href="https://gilmore-lab.github.io/cog-bbag-talk-2017-02-22">HTML slides</a>.</p>
+<p>Gilmore, R.O. (2017, January 31). An -ome of our own: Toward a more reproducible, robust, and insightful science of human behavior. Talk given to the Social Data Analytics (SoDA) 501 students. Penn State University. <a href="http://gilmore-lab.github.io/soda-2017-01-31">HTML slides</a></p>
+<p>Gilmore, R.O. (2016, October). The future of big data in developmental science. Talk given at a meeting of the Penn State Child Study Center (CSC) faculty. <a href="http://rawgit.com/gilmore-lab/psu-child-study-ctr-talk-2016-10-28/master/gilmore-csc-talk.html">HTML slides</a>.</p>
+<p>Gilmore, R.O. (2016, September). Donald Rumsfeld and the promise of a ‘big data’ science of human behavior. Talk given at a meeting of the Stochastic Modeling and Computational Statistics (SMACS) group, Department of Statistics. <a href="https://rawgit.com/gilmore-lab/psu-stats-smacs-2016-talk/master/gilmore-smacs-2016-09-02.html">HTML slides</a>.</p>
+<p>Gilmore, R.O., Adolph, K.E., &amp; Millman, D.S. (2016, August). Curating identifiable data for sharing: The Databrary project. In Proceedings of the 2016 New York Scientific Data Summit. <a href="https://rawgit.com/databrary/presentations/master/nysds-2016/gilmore-nysds-2016.html">HTML slides</a>. <a href="https://github.com/databrary/presentations/blob/master/nysds-2016/gilmore-adolph-millman-nysds-2016.pdf">PDF of paper</a>.</p>
+<p>Gilmore, R.O., Adolph, K.E., &amp; Millman, D. (2016, May). Video doesn’t lie: Reproducible workflows with Databrary. Talk given at the NYU Data Science Center <a href="https://reproduciblescience.org/nyu/events/reproducibility-symposium-2016/schedule/">Symposium on Reproducibility</a>. <a href="https://rawgit.com/databrary/presentations/master/nyu-data-science-reproducibility-16/be-bold.html#1">HTML slides</a></p>
+<p>Gilmore, R.O., Adolph, K.E., Millman, D.S., Steiger, L., &amp; Simon, D.A. (2015, May). Sharing displays and data from vision science research with Databrary. Poster presented at the Vision Sciences Society meeting, St. Pete Beach, FL. <a href="../pdfs/gilmore-etal-vss-2015.pdf">PDF</a>.</p>
+<p>Simon, D.A., Gordon, A.S., Steiger, L., &amp; Gilmore, R.O. (2015, June). Databrary: Enabling sharing and reuse of research video. Proceedings of the 15th ACM/IEEE-CS Joint Conference on Digital Libraries, Knoxville, TN. <a href="https://doi.org/10.1145/2756406.2756951">doi:10.1145/2756406.2756951</a></p>
+<p><strong>Collaborators</strong></p>
+<ul>
+<li>Karen Adolph, New York University, Co-Principal Investigator and Project Director.</li>
+<li>David Millman, New York University, Co-Investigator.</li>
+<li>Jeff Spies, Consulting Chief Technology Officer, Databrary</li>
+</ul>
+<p><strong>Support</strong></p>
+<p>This project is supported by the U.S. National Science Foundation (NSF) Grant No. <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1238599">BCS-1238599</a>, the Eunice Kennedy Shriver National Institute of Child Health and Human Development under Cooperative Agreement <a href="http://projectreporter.nih.gov/project_info_description.cfm?aid=8531595&amp;icde=15908155&amp;ddparam=&amp;ddvalue=&amp;ddsub=&amp;cr=1&amp;csb=default&amp;cs=ASC">1-U01-HD-076595-01</a>, the Society for Research in Child Development, the LEGO Foundation, the Alfred P. Sloan Foundation, and the James S. McDonnell Foundation.</p>
+<!-- ## Play & Learning Across a Year (PLAY) -->
+<p><img src="https://www.play-project.org/img/PLAY-logo.png" width=480px/></p>
+<p>The Play &amp; Learning Across a Year (PLAY) project serves as a model system for doing development science from a “big” data approach. Natural free play represents the foundation of infant learning, but we know little about how infants play, how play unfolds in real time and across development, and how individual and group differences promote infant learning and development through play. To answer these questions, the PLAY project will collect, code, and share 900 hours of video collected in the homes of children at 12, 18, and 24 months of age drawn from 30 sites across North America.</p>
+<p>The aim of the project is to develop a new approach to developmental science that enables (1) “big” data science for researchers who would not otherwise have access; (2) a communal, low-cost means of collecting and coding data that retains the autonomy of individual labs; and (3) a plan for leveraging diverse expertise to address a common goal.</p>
+<p><strong>Presentations</strong></p>
+<p>Adolph, K.E., Tamis-LeMonda, C., &amp; Gilmore, R.O. (2016, December 16). Video-based communal data collection &amp; coding: Advancing the science of infant learning &amp; development. A workshop held at the Eunice Kennedy Shriver National Institute of Child Health and Human Development. <a href="https://videocast.nih.gov/summary.asp?Live=20371&amp;bhcp=1">Video Cast</a>. <a href="https://nyu.databrary.org/volume/254">Materials &amp; data</a>.</p>
+<p><strong>Materials</strong></p>
+<p>Gilmore, R.O. (2017). PLAY-behaviorome. Github code repository. Retrieved December 19, 2017 from <a href="https://github.com/PLAY-behaviorome/" class="uri">https://github.com/PLAY-behaviorome/</a>.</p>
+<p>Adolph, K., Tamis-LeMonda, C. &amp; Gilmore, R.O. (2017). PLAY Pilot Data Collections. Databrary. Retrieved December 19, 2017 from <a href="https://nyu.databrary.org/volume/444" class="uri">https://nyu.databrary.org/volume/444</a>.</p>
+<p>Adolph, K., Tamis-LeMonda, C. &amp; Gilmore, R.O. (2016). PLAY Project: Materials. Databrary. Retrieved December 19, 2017 from <a href="https://nyu.databrary.org/volume/254" class="uri">https://nyu.databrary.org/volume/254</a>.</p>
+<p>Adolph, K., Tamis-LeMonda, C. &amp; Gilmore, R.O. (2016). PLAY Project: Webinar discussions on protocol and coding. Databrary. Retrieved December 19, 2017 from <a href="https://nyu.databrary.org/volume/232" class="uri">https://nyu.databrary.org/volume/232</a>.</p>
+<p><strong>Collaborators</strong></p>
+<ul>
+<li>Karen Adolph, New York University, Co-Principal Investigator</li>
+<li>Catherine Tamis-LeMonda, New York University, Co-Principal Investigator</li>
+</ul>
+<p><strong>Support</strong></p>
+<p>PLAY is supported by grants from the Office of the Director, National Institutes of Health, (OD), Eunice Kennedy Shriver National Institute for Child Health and Human Development (NICHD), the National Institute of Mental Health (NIMH), and the National Institute on Drug Abuse (NIDA) under R01HD094830-01, the LEGO Foundation, and the Alfred P. Sloan Foundation.</p>
+</div>
+<div id="behavioral-analysis-through-video-behav.ai" class="section level2">
+<h2>Behavioral Analysis through Video (BehAV.ai)</h2>
+<p>AI and computer vision tools are increasingly useful in basic and applied behavioral science. This project aims to provide a set of tools based on open source algorithms and models that empowers non-specialists to exploit advances in these areas.</p>
+<p><strong>Materials</strong></p>
+<ul>
+<li><a href="https://github.com/behAV/">GitHub project</a></li>
+</ul>
+<p><strong>Collaborators</strong></p>
+<ul>
+<li>Dan Albohn, Penn State Department of Psychology</li>
+<li>Kory Blose, Penn State Applied Research Lab</li>
+<li>Stephen Fast, Penn State Applied Research Lab</li>
+<li>Ori Ossmy, New York University</li>
+<li>Drew Polasky, Penn State Institute for Cyberscience</li>
+</ul>
+</div>
+<div id="developmental-dynamics-of-optic-flow-processing" class="section level2">
+<h2>Developmental Dynamics of Optic Flow Processing</h2>
+<p><img src="images/fesi-2014.jpg" alt="Brain activity" /> <img src="images/optic-flow.jpg" alt="Optic flow" /></p>
+<p>Visual motion provides humans and animals with information about their own movement through 3D space and about the structure of the environment – the objects, surfaces, and other animals that it may contain. How the human brain processes complex motion information poses an as-yet unanswered question. This project focuses on characterizing how sensitivity to visual motion emerges in the developing human brain: how brain (EEG) responses to patterns of ego- and object motion emerge, how they develop from infancy through childhood into adulthood, how specific changes in cortical circuitry might account for the observed patterns, and how behavioral sensitivity to motion corresponds to neural activation. The studies compare brain responses and behavioral discrimination patterns in infants, children, and adults to the same types of ego- and object motion. The studies also involve an effort to measure or simulate the statistics of optic flow experienced by infant, child, and adult observers in complex, natural environments using computer vision methods.</p>
+<p><strong>Publications</strong></p>
+<p>Gilmore, R.O., Thomas, A.L., &amp; Fesi, J.D (2016). Children’s brain responses to optic flow vary by pattern type and motion speed. <em>PLoS ONE</em>. <a href="http://doi.org/10.1371/journal.pone.0157911">doi: 10.1371/journal.pone.0157911</a>. Materials on Databrary at <a href="http://doi.org/10.17910/B7QG6W">http://doi.org/10.17910/B7QG6W</a>.</p>
+<p>Gilmore, R.O., Raudies, F., &amp; Jayaraman, S. (2015). What Accounts for Developmental Shifts in Optic Flow Sensitivity? <em>Proceedings of the IEEE International Conference on Development and Learning and Epigenetic Robotics</em>. <a href="http:/doi.org/10.1109/DEVLRN.2015.7345450">doi:10.1109/DEVLRN.2015.7345450</a>. Materials on Databrary at <a href="http://dx.doi.org/10.17910/B7988V">doi:10.17910/B7988V</a>.</p>
+<p>Fesi, J.F., Thomas, A.L., &amp; Gilmore, R.O. (2014). Cortical responses to optic flow and motion contrast across patterns and speeds. <em>Vision Research</em>, 100, 56–71. <a href="http://dx.doi.org/10.1016/j.visres.2014.04.004">doi:10.1016/j.visres.2014.04.004</a>. <a href="https://databrary.org/volume/49">Materials on Databrary</a>.</p>
+<p>Raudies, F. &amp; Gilmore, R.O. (2014). Visual motion priors differ for infants and mothers. <em>Neural Computation</em>, <em>26</em>(11), 2652-2668. <a href="http://dx.doi.org/10.1162/NECO_a_00645">doi:10.1162/NECO_a_00645</a>.</p>
+<p>Raudies, F., Gilmore, R.O., Kretch, K.S., Franchak, J.M, &amp; Adolph, K.E. (2012). Understanding the development of motion processing by characterizing optic flow experienced by infants and their mothers. <em>Proceedings of the IEEE International Conference on Development and Learning</em>. <a href="http://dx.doi.org/10.1109/DevLrn.2012.6400584">doi:10.1109/DevLrn.2012.6400584</a>.</p>
+<p><strong>Presentations</strong></p>
+<p>Gilmore, R.O. (2018, February 24). The development of perception for action. Data blitz talk at the Developmental Area graduate recruiting weekend. <a href="http://gilmore-lab-github.io/2018-02-24-devel-recruit">HTML slides</a>.</p>
+<p>Gilmore, R.O., Seisler, A., Shade, M., O’Neill, M. (2017, April). School-age children perceive fast radial optic flow in noise more accurately than slow linear flow. Poster presentation at the Society for Research in Child Development, Austin, TX. <a href="https://github.com/gilmore-lab/child-motion-psychophysics/blob/master/pubs/srcd-17-poster/gilmore-seisler-shade-oneill-srcd-2017.pdf">PDF</a>. <a href="http://nyu.databrary.org/volume/218">Databrary</a>. <a href="https://github.com/gilmore-lab/moco-3-pattern-psychophysics/tree/master/child-motion-psychophysics">GitHub</a>.</p>
+<p>Gilmore, R.O. (2017, February). Go with the flow: The development of behavioral sensitivity and brain responses to optic flow. Talk at Temple University. <a href="http://gilmore-lab.github.io/temple-2017-02-27">HTML slides</a>. <a href="https://github.com/gilmore-lab/temple-2017-02-27/blob/master/index.md">Markdown</a>.</p>
+<p>Gilmore, R.O., Fared, D.A., Dexheimer, M.G., &amp; Seisler, A.R. (2016, November). The appearance and disappearance of visual forms defined by differential motion evokes distinctive EEG responses in school-age children. Presentation at the Society for Neuroscience meeting in San Diego, CA. <a href="https://github.com/gilmore-lab/child-motion-form/blob/master/pubs/sfn-16-poster/poster_landscape.pdf">PDF</a>.</p>
+<p>Gilmore, R.O. (2016, October). Go with the flow: The development of behavioral sensitivity and brain responses to optic flow. Talk at the Penn State Action club meeting. <a href="http://rawgit.com/gilmore-lab/psu-action-club-2016-10-28/master/gilmore-action-club.html">HTML slides</a>.</p>
+<p>Jayaraman, S., Gilmore, R.O., &amp; Raudies, F. (2016, May). Changes in early optic flow experiences across development and culture. Talk at the International Congress on Infant Studies (ICIS) in New Orleans, LA. <a href="https://rawgit.com/gilmore-lab/ICIS-2016-New-Orleans/master/jayaraman-gilmore-raudies-ICIS-2016.html">HTML slides</a>.</p>
+<p>Gilmore, R.O. (2016, September). Open science practices have made my work better. Talk at the Penn State Psychology Cognitive Area brown bag. <a href="https://cdn.rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/cog-bbag-2015-09-09.html">HTML slides</a>.</p>
+<p>Adamiak, W., Thomas, A.L., Patel, S.M., &amp; Gilmore. R.O. (2015, May). Adult observers’ sensitivity to optic flow varies by pattern and speed. Poster presented at the Vision Sciences Society meeting, St. Pete’s Beach, FL. <a href="doi:10.1167/15.12.1008" class="uri">doi:10.1167/15.12.1008</a>. <a href="../pdfs/adamiak-etal-vss-2015.pdf">PDF</a>. <a href="http://databrary.org/volume/73">Materials on Databrary</a>.</p>
+<p>Raudies, F. &amp; Gilmore, R.O. (2014, May). An analysis of optic flow experienced by infants during natural activities. Poster presented at the Vision Sciences Society meeting, St. Pete Beach, FL. Journal of Vision, 14(10). 226. <a href="doi:10.1167/14.10.226" class="uri">doi:10.1167/14.10.226</a>. <a href="../pdf/raudies-etal-vss-2014.pdf">PDF</a></p>
+<p>Thomas, A.L., Fesi, J.D. &amp; Gilmore, R.O. (2014, May). Temporal and speed tuning in brain responses to local and global motion patterns. Poster presented at the Vision Sciences Society meeting, St. Pete Beach, FL. Journal of Vision, 14(10). 482. <a href="doi:10.1167/14.10.482" class="uri">doi:10.1167/14.10.482</a>.</p>
+<p>Fesi, J.D., Thomas, A.L., &amp; Gilmore, R.O. (2012, October). Distinct space-time sampling thresholds of VEP responses to optic flow. Poster presented at the Society for Neuroscience meeting, New Orleans, LA. <a href="../pdf/fesi-etal-sfn-2012.pdf">PDF</a></p>
+<p>Gilmore, R.O., Raudies, F., Kretch, K.S., Franchak, J.M., &amp; Adolph, K.E. (2012, June). Do you see what I see? Comparing optic flow experienced by infants and their mothers. Poster presented at the International Conference on Infant Studies, Minneapolis, MN. <a href="../pdf/gilmore-etal-icis-2012.pdf">PDF</a>.</p>
+<p>Fesi, J.D., Stiffler, J.R., &amp; Gilmore, R.O. (2012, May). Speed tuning of cortical responses to 2D figures defined by motion contrast is non-uniform across contrast types. Poster presented at the Vision Sciences Society meeting, Naples, FL.</p>
+<p>Thomas, A.L., Mancino, A.C., Elnathan, H.C., Fesi, J.D., Hwang, K.R., &amp; Gilmore, R.O. (2012, May). Children’s cortical responses to optic flow patterns show differential tuning by pattern type, speed, scalp location, and age group. Poster presented at the Vision Sciences Society meeting, Naples, FL. <a href="../pdf/thomas-etal-vss-2012.pdf">PDF</a>.</p>
+<p>Gilmore, R.O., Raudies, F., Kretch, K.S., Franchak, J.M., &amp; Adolph, K.E. (2012, May). Patterns of optic flow experienced by infants and their mothers during locomotion. Poster presented at the Vision Sciences Society meeting, Naples, FL. <a href="../pdf/gilmore-etal-vss-2012.pdf">PDF</a>.</p>
+<p>Raudies, F., Kretch, K.S., Franchak, J.M., Mingolla, E., Gilmore, R.O., &amp; Adolph, K.E. (2012, May). Where do mothers point their head when they walk and where do babies point their head when they are carried? Poster presented at the Vision Sciences Society meeting, Naples, FL. <a href="../pdf/raudies-etal-vss-2012.pdf">PDF</a>.</p>
+<p><strong>Materials</strong></p>
+<ul>
+<li><a href="http://databrary.org/volume/73" class="uri">http://databrary.org/volume/73</a></li>
+<li><a href="http://dx.doi.org/10.17910/B7988V" class="uri">http://dx.doi.org/10.17910/B7988V</a></li>
+</ul>
+<p><strong>Collaborators</strong></p>
+<ul>
+<li>Florian Raudies, Hewlett-Packard Research</li>
+<li>Swapnaa Jayaraman, Indiana University</li>
+<li>Amanda Thomas, Swarthmore College</li>
+<li>Jeremy Fesi, U.S. Marine Research</li>
+</ul>
+<p><strong>Support</strong></p>
+<p>This project was supported by the National Science Foundation under grant <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1147440">BCS-1147440</a>.</p>
+</div>
+<div id="the-proximal-emotional-environment-project-peep" class="section level2">
+<h2>The Proximal Emotional Environment Project (PEEP)</h2>
+<p><img src="https://nyu.databrary.org/slot/15068/0/asset/63850/download?inline=true" width=250px/></p>
+<p>A 5-year-old overhears her parents arguing loudly in the next room. She may not understand why they are arguing, but she realizes something is wrong because she perceives anger in their voices. Exposure to interpersonal conflict is consistently associated with less skillful emotion regulation in children although the mechanisms remain to be explained. Because inter-personal conflict is a heterogeneous phenomenon, investigation of the specific features of conflict that contribute to developmental pathways to emotional dysfunction and symptoms requires a process-oriented approach. In this project, we focus on brain responses to angry prosody in natural speech. We are studying young children’s neural processing of angry prosody, spoken by mothers and strangers, as a first step toward a future longitudinal study investigating how the neurocognitive processing of angry prosody mediates relations between conflict exposure in children and the development of anxiety- and anger-related symptoms.</p>
+<p><strong>Publications</strong></p>
+<p>Liu, P., Cole, P.M., Gilmore, R.O., Pérez-Edgar, K.E., Vigeant, M.C., Moriarty, P., Scherf, K.S. (in press). Young children’s neural processing of their mother’s voice: An fMRI study. <em>Neuropsychologia</em>. <a href="http://doi.org/10.1016/j.neuropsychologia.2018.12.003">doi: 10.1016/j.neuropsychologia.2018.12.003</a>.</p>
+<p>Moriarty, P. M., Vigeant, M. C., Liu, P., Gilmore, R., Wolf, R., &amp; Cole, P. M. (2016). Low frequency analysis of acoustical parameters of emotional speech for use with functional magnetic resonance imaging. <em>The Journal of the Acoustical Society of America</em>, <em>140</em>(4), 3237–3238. Acoustical Society of America. Retrieved from <a href="https://doi.org/10.1121/1.4970240" class="uri">https://doi.org/10.1121/1.4970240</a></p>
+<p>Maggi, M., Cole, P., Elbich, D., Gilmore, R.O., Pérez–Edgar, K., Scherf, K.S. (in prep). Hearing emotions: School-aged children’s neural processing of the human voice and affective prosody.</p>
+<p><strong>Presentations</strong></p>
+<p>Stoop, T.B., Moriarty, P., Vigeant, M., Gilmore, R.O., Liu, P., &amp; Cole, P.M. (submitted). Children’s ratings of vocal emotion intensity depend on the emotion spoken and speaker familiarity but not acoustic parameters.</p>
+<p>Moriarty, P., Vigeant, M., Liu, P. Gilmore, R.O, &amp; Cole, P.M. (submitted) Comparing theory, consensus, and perception to the acoustics of emotional speech.</p>
+<p>Moriarty, P.M., Vigeant, M., Wolf, R., Gilmore, R., &amp; Cole, P. (2018). Creation and characterization of an emotional speech database. <em>The Journal of the Acoustical Society of America</em>, <em>143</em>(3), 1869–1869. ASA. Retrieved from <a href="https://asa.scitation.org/doi/abs/10.1121/1.5036133" class="uri">https://asa.scitation.org/doi/abs/10.1121/1.5036133</a></p>
+<p><strong>Collaborators</strong></p>
+<ul>
+<li>Pamela Cole, Penn State</li>
+<li>Koraly Perez-Edgar, Penn State</li>
+<li>Suzy Scherf, Penn State</li>
+<li>Michelle Vigeant, Penn State</li>
+<li>Pan Liu</li>
+<li>Mirella Maggi</li>
+<li>Peter Moriarty, Penn State</li>
+<li>Tawni O’Dell, Penn State</li>
+</ul>
+<p><strong>Materials</strong></p>
+<ul>
+<li><a href="https://github.com/gilmore-lab/peep-II">PEEP II repo on GitHub</a>.</li>
+<li><a href="https://github.com/gilmore-lab/PEEP-I">PEEP I repo on GitHub</a>.</li>
+<li><a href="https://nyu.databrary.org/volume/248">PEEP I stimuli on Databrary</a></li>
+</ul>
+<p><strong>Support</strong></p>
+<p>This project has received support from the Penn State <a href="http://ssri.psu.edu">Social Sciences Research Institute</a> and the National Institute of Mental Health under <a href="http://projectreporter.nih.gov/project_info_description.cfm?aid=8891792&amp;icde=26075719&amp;ddparam=&amp;ddvalue=&amp;ddsub=&amp;cr=2&amp;csb=default&amp;cs=ASC">R21-MH-104547</a>.</p>
+</div>
+<div id="eye-tracking-technologies-to-characterize-and-optimize-visual-attending-in-down-syndrome" class="section level2">
+<h2>Eye Tracking Technologies to Characterize and Optimize Visual Attending in Down Syndrome</h2>
+<p>Down Syndrome (DS) is the most common known genetic origin of intellectual disability and has an estimated incidence of 1 in every 1000 live births. Such children face unique challenges as they enter into the school years, because the speech that was previously adequate for communication with familiar partners in supportive settings is often not sufficient for academic communication with unfamiliar partners. Indeed, 95% of parents surveyed reported that their children with DS had difficulty being understood by persons outside their immediate social circle (Kumin, 1994). This has significant implications for academic, social, and vocational success; children with limited language skills are at risk of falling behind nondisabled peers academically and experiencing social isolation. Secondary issues often arise when children experience frustration in communication, commonly in the form of challenging behaviors. All aspects of development are further compromised when these behaviors involve aggression toward others, have significant health implications when they are self-injurious, and exacerbate service costs when they necessitate extensive behavior management plans. Children with DS are in desperate need of communication interventions that provide them with the tools to succeed throughout the school years. One form of intervention is called aided augmentative and alternative communication (AAC). In typical clinical applications, aided AAC systems employ picture books, tablet-style computers that present the user with graphic symbols, and sometimes text or synthesized voice output. Because AAC relies on vision rather than sound/speech for access to the communication messages, it is critical to map out how children with DS examine and extract information from visual AAC displays. Otherwise there is the risk of implementing systems that are poorly matched to children’s skills and needs, a practice that in turn results in limited use or abandonment of the system. Few current AAC designs consider the fit between the system and the visual processing skills of users, and most are uninformed by empirical knowledge about human visual information processing. Moreover, little is known about visual processing in persons with significant communication limitations associated with DS. This research aims to improve the design of AAC displays through characterization of visual attention patterns to different AAC displays and their effects on functional use. Eye tracking - rarely used in DS - will reveal attention patterns/processes that typically go unrecorded in behavioral research. Our three-phase program will begin with eye tracking studies of visual attention under largely non-social laboratory conditions. In the next phase, we will introduce social interactions and record gaze path using mobile eye tracking technology. In the final phase, we will translate the knowledge gained in the laboratory studies to optimize functional communication in individuals with DS in performing tasks that represent typical daily life activities.</p>
+<p><strong>Collaborators</strong></p>
+<ul>
+<li>Krista Wilkinson, Penn State, Principal Investigator</li>
+</ul>
+<p><strong>Materials</strong></p>
+<p>Gilmore, R.O. (2017). Wilkinson-lab. Code repository on GitHub. Retrieved December 19, 2017 from <a href="https://github.com/gilmore-lab/wilkinson-lab" class="uri">https://github.com/gilmore-lab/wilkinson-lab</a>.</p>
+<p>Gilmore, R.O. (2017). Eye-tracking-DS. Code repository on GitHub. Retrieved December 19, 2017 from <a href="https://github.com/gilmore-lab/eye-tracking-DS" class="uri">https://github.com/gilmore-lab/eye-tracking-DS</a>.</p>
+<p><strong>Support</strong></p>
+<p>The project is supported by NICHD under <a href="https://projectreporter.nih.gov/project_info_description.cfm?aid=9194421&amp;icde=0">R01HD083381-02</a>.</p>
+</div>
+</div>
+<div id="finished-projects" class="section level1">
+<h1>Finished projects</h1>
+<div id="computational-symmetry" class="section level2">
+<h2>Computational Symmetry</h2>
+<p><img src="images/symmetry-sample-1.png" alt="Symmetric image" /> <img src="images/symmetry-sample-2.png" alt="Symmetric image" /></p>
+<p>The ability to sense regular or near-regular patterns serves critical biological needs and is equally important for computer vision and machine intelligence. Despite wide variation in the types of regularity present in natural images, research on human and computer processing of pattern regularity has focused primarily on detecting bilateral reflection symmetry, using largely atheoretical approaches. The goals of this interdisciplinary research are to i) use principles of group theory to develop a conceptual framework for understanding regularity perception and brain activation in humans, and ii) to design general computer-based symmetry detection algorithms that can operate at a level of practical usability.</p>
+<p><strong>Presentations</strong></p>
+<p>Vedak, S.C., Gilmore, R.O., Kohler, P.J., Liu, Y., &amp; Norcia, A.M. (2015, May). The salience of low-order visual features in highly self-similar wallpaper groups. Poster presented at the Vision Sciences Society meeting, St. Pete Beach, FL. <a href="../pdfs/vedak-etal-vss-2015.pdf">PDF</a>. <a href="http://databrary.org/volume/77">Materials on Databrary</a>.</p>
+<p>Thomas, A.L., Gilmore, R.O., Norcia, A.M., Liu, Y., Fesi, J.D., Hwang, K.D., Stitt, J., &amp; Liu, J. (2012, October). Visual patterns with rotational symmetry activate distinct cortical regions. Poster presented at the Society for Neuroscience meeting, New Orleans, LA.</p>
+<p><strong>Collaborators</strong></p>
+<ul>
+<li>Yanxi Liu, Penn State Computer Science &amp; Engineering</li>
+<li>Anthony Norcia, Stanford University, Department of Psychology</li>
+</ul>
+<p><strong>Support</strong></p>
+<p>This project was supported by the National Science Foundation under grant <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1248076">IIS-1248076</a>.</p>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

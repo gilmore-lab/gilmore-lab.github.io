@@ -1,0 +1,133 @@
+---
+title: "munafo-etal-2017"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+---
+
+# "A manifesto for reproducible science"
+
+## Discussion of
+
+Munafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Sert, N. P. du, … Ioannidis, J. P. A. (2017). A manifesto for reproducible science. Nature Human Behaviour, 1, 0021. <https://doi.org/10.1038/s41562-016-0021>.
+
+# Weaknesses in the scientific method
+
+## Steps in scientific method
+
+- Generate and specify hypothesis
+- Design study
+- Conduct study and collect data
+- Analyze data and test hypothesis
+- Interpret results
+- Publish and/or conduct next study
+
+---
+
+<div class="centered">
+<a href="http://www.nature.com/articles/s41562-016-0021/figures/1">
+<img src="http://www.nature.com/article-assets/npg/nathumbehav/2017/s41562-016-0021/images_hires/w926/s41562-016-0021-f1.jpg" height=500px>
+</a>
+</div>
+
+## Failure to control for bias
+
+- [*Apophenia*](https://en.wikipedia.org/wiki/Apophenia)
+- Confirmation bias
+- Hindsight bias
+
+## Low statistical power
+
+- [Statistical Power](https://effectsizefaq.com/2010/05/31/what-is-statistical-power/): probability that study will detect an effect, when one actually exists.
+    - How big is effect?
+    - How big and how variable is sample?
+    
+## Is psychological science underpowered?
+
+- Button, K. S., Ioannidis, J. P. A., Mokrysz, C., Nosek, B. A., Flint, J., Robinson, E. S. J., & Munafò, M. R. (2013). Power failure: why small sample size undermines the reliability of neuroscience. Nature Reviews Neuroscience, 14(5), 365–376. <https://doi.org/10.1038/nrn3475>
+- Ioannidis, J. P. A. (2005). Why Most Published Research Findings Are False. PLOS Medicine, 2(8), e124. <https://doi.org/10.1371/journal.pmed.0020124>
+
+## Is psychological science underpowered?
+
+- Szucs, D., & Ioannidis, J. P. (2016). Empirical assessment of published effect sizes and power in the recent cognitive neuroscience and psychology literature. bioRxiv, 071530. <https://doi.org/10.1101/071530>
+- "We have empirically assessed the distribution of published effect sizes and estimated power by extracting more than 100,000 statistical records from about 10,000 cognitive neuroscience and psychology papers published during the past 5 years."
+
+## [Szucs & Ioannides 2016](https://doi.org/10.1101/071530)
+
+- "Median power to detect small, medium and large effects was 0.12, 0.44 and 0.73."
+- "False report probability is likely to exceed 50% for the whole literature."
+
+## Poor quality control
+
+- Goodman, S. N., Fanelli, D., & Ioannidis, J. P. A. (2016). What does research reproducibility mean? Science Translational Medicine, 8(341), 341ps12–341ps12. <https://doi.org/10.1126/scitranslmed.aaf5027>
+- *Methods* reproducibility
+    - *"…the ability to implement, as exactly as possible, the experimental and computational procedures, with the same data and tools, to obtain the same results."*
+
+## P-Hacking
+
+- Simonsohn, U., Nelson, L. D., & Simmons, J. P. (2014). P-curve: A key to the file-drawer. Journal of Experimental Psychology: General, 143(2), 534–547. <https://doi.org/10.1037/a0033242>
+- <http://www.p-curve.com/>
+- [p-curve app](http://www.p-curve.com/app4/)
+- If an effect is *true*, the distribution of reported *p* values should be right-skewed (long right tail)
+
+## HARKing: hypothesizing after the results are known
+
+- Kerr, N. L. (1998). HARKing: Hypothesizing After the Results are Known. Personality and Social Psychology Review, 2(3), 196–217. <https://doi.org/10.1207/s15327957pspr0203_4>
+- Find an effect in data analysis
+- Present effect as if it had been hypothesized
+
+## Publication bias
+
+- Results vs. null findings
+- Novel results vs. replications
+- Counter-intuitive findings
+- [File drawer effect](http://www.psychfiledrawer.org/TheFiledrawerProblem.php)
+    - How many unpublished failures to replicate sit in file drawers?
+    
+# Overcoming these weaknesses
+
+## Performing research
+
+- Protecting against cognitive biases
+- Improving methodological training
+- Implementing independent methological support
+- Encouraging collaboration and team science
+
+## Reporting on research
+
+- Promoting study pre-registration
+    - Registered reports ([Munafo et al. 2017](https://doi.org/10.1038/s41562-016-0021), Box 3)
+- Improving the quality of reporting
+    - [The Transparency and Openness Promotion (TOP) guidelines](https://osf.io/ud578/) and [signatories](https://cos.io/top/#list)
+
+## Reporting on research
+
+- Franco, A., Malhotra, N., & Simonovits, G. (2016). Underreporting in Psychology Experiments: Evidence From a Study Registry. Social Psychological and Personality Science, 7(1), 8–12. https://doi.org/10.1177/1948550615598377 
+- "*We find that about 40% of studies fail to fully report all experimental conditions and about 70% of studies do not report all outcome variables included in the questionnaire. Reported effect sizes are about twice as large as unreported effect sizes and are about 3 times more likely to be statistically significant.*"
+
+## Verifying research
+
+- Promoting transparency and open science
+
+## Evaluating research
+
+- Diversifying peer review
+
+## Changing Incentives
+
+Higginson, A. D., & Munafò, M. R. (2016). Current Incentives for Scientists Lead to Underpowered Studies with Erroneous Conclusions. PLOS Biology, 14(11), e2000995. https://doi.org/10.1371/journal.pbio.2000995
+
+- Badge system
+
+## Status report/recommendations by stakeholder group
+
+<iframe src="http://www.nature.com/articles/s41562-016-0021/tables/1">
+</iframe>
+Source: <http://www.nature.com/articles/s41562-016-0021/tables/1>
+
+# Your thoughts?

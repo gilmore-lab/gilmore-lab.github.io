@@ -1,0 +1,2509 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>lab-meetings-previous</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Gilmore Lab</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="publications.html">Publications</a>
+</li>
+<li>
+  <a href="parents.html">Parents</a>
+</li>
+<li>
+  <a href="participants.html">Participants</a>
+</li>
+<li>
+  <a href="who-we-are.html">Who we are</a>
+</li>
+<li>
+  <a href="lab-meetings.html">Lab mtgs</a>
+</li>
+<li>
+  <a href="resources.html">Resources</a>
+</li>
+<li>
+  <a href="site-info.html">Site info</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<div id="past-lab-meetings" class="section level1">
+<h1>Past Lab Meetings</h1>
+<hr />
+<div id="fall-2019" class="section level2">
+<h2>Fall 2019</h2>
+<div id="december-12-2019" class="section level3">
+<h3>December 12, 2019</h3>
+<ul>
+<li>8:00am Breakfast at the Waffle Shop</li>
+</ul>
+</div>
+<div id="december-5-2019" class="section level3">
+<h3>December 5, 2019</h3>
+<p>Meeting Cancelled</p>
+</div>
+<div id="november-28-2019---no-lab" class="section level3">
+<h3>November 28, 2019 - No Lab</h3>
+<p>Happy Thanksgiving</p>
+</div>
+<div id="november-21-2019" class="section level3">
+<h3>November 21, 2019</h3>
+<ul>
+<li>Attending
+<ul>
+<li>Rick, Andrea, Yiming, Rachel, Emily, Michelle</li>
+<li>Excused: Amar, Joseph</li>
+</ul></li>
+<li>Agenda
+<ul>
+<li>Review post processing procedures and QA
+<ul>
+<li>Possible Qualtrics Survey Changes (in new year)
+<ul>
+<li>add ‘researcher notes’ to end of Qualtrics survey to note any issues with filenaming, experimenter error, restarting the task, etc…</li>
+<li>start the file name with 9 instead of 2019, keep month, day, hour, minutes, seconds</li>
+<li>do not keep the 2 digit random variable that Qualtrics makes</li>
+<li>change 2 digit random variable to m or c based upon the task run</li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="november-20-2019-12---130" class="section level3">
+<h3>November 20, 2019 12 - 1:30</h3>
+<ul>
+<li>Lab Ice Skating at Pegula Arena $5 to skate and $5 to rent skates</li>
+</ul>
+</div>
+<div id="november-14-2019" class="section level3">
+<h3>November 14, 2019</h3>
+<ul>
+<li>Attending
+<ul>
+<li>Rick, Andrea, Yiming, Rachel, Michelle, Amar, Luka</li>
+<li>Excused: Emily</li>
+</ul></li>
+<li>Review of first day of Data collection
+<ul>
+<li>Good
+<ul>
+<li>Started data collection. Yay. We have begun</li>
+<li>found small errors in protocol (e.g. need chair w/o wheels, protocol document)</li>
+<li>randomization scheme for visual display works</li>
+</ul></li>
+<li>Improve
+<ul>
+<li>Debriefing for after study complete - add to protocol</li>
+</ul></li>
+<li>Other Notes
+<ul>
+<li>Keep track of gender and stop requestin in sona once we reacy 150 participants of each gender</li>
+<li>look into BoxR Api to pull box data to TLT server</li>
+<li>qualtrics post processing needs as QA</li>
+<li>worked on QA for abramov replication during meeting</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="november-7-2019" class="section level3">
+<h3>November 7, 2019</h3>
+<ul>
+<li>Attending
+<ul>
+<li>Rick, Andrea, Yiming, Emily, Rachel, Amar, Michelle</li>
+<li>Excused: Luka</li>
+</ul></li>
+<li>Agenda
+<ul>
+<li>Emily and Rachel presenting paper: Chien, Y.-L., Hsieh, M. H., &amp; Gau, S. S.-F. (2019). P50-N100-P200 sensory gating deficits in adolescents and young adults with autism spectrum disorders. Progress in neuro-psychopharmacology &amp; biological psychiatry, 95, 109683. Retrieved from <a href="http://dx.doi.org/10.1016/j.pnpbp.2019.109683" class="uri">http://dx.doi.org/10.1016/j.pnpbp.2019.109683</a>
+<ul>
+<li>Presentation <a href="https://gilmore-lab.github.io/student-testbed/sensorygating.html">here</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="october-31-2019" class="section level3">
+<h3>October 31, 2019</h3>
+<ul>
+<li>Attending
+<ul>
+<li>Rick, Andrea, Yiming, Emily, Rachel, Luka, Amar, Joseph</li>
+</ul></li>
+<li>Agenda
+<ul>
+<li>Update <a href="https://gilmore-lab.github.io/sex-differences-in-motion-perception/protocol/master-protocol.html">Sex Differences Data Collection Protocol</a> as a group</li>
+</ul></li>
+<li>To Do
+<ul>
+<li>Read paper for next week
+<ul>
+<li>Chien, Y.-L., Hsieh, M. H., &amp; Gau, S. S.-F. (2019). P50-N100-P200 sensory gating deficits in adolescents and young adults with autism spectrum disorders. Progress in neuro-psychopharmacology &amp; biological psychiatry, 95, 109683. Retrieved from <a href="http://dx.doi.org/10.1016/j.pnpbp.2019.109683" class="uri">http://dx.doi.org/10.1016/j.pnpbp.2019.109683</a></li>
+</ul></li>
+<li>Students, please review <a href="https://gilmore-lab.github.io/sex-differences-in-motion-perception/protocol/master-protocol.html">Sex Differences Data Collection Protocol</a> and write message in Discord Channel <strong>study-sex-differences</strong>.</li>
+</ul></li>
+</ul>
+</div>
+<div id="october-24-2019" class="section level3">
+<h3>October 24, 2019</h3>
+<ul>
+<li>Attending
+<ul>
+<li>Rick, Andrea, Yiming, Emily, Rachel</li>
+<li>Excused: Amar</li>
+</ul></li>
+<li>Agenda
+<ul>
+<li>Update <a href="https://gilmore-lab.github.io/sex-differences-in-motion-perception/protocol/master-protocol.html">Sex Differences Data Collection Protocol</a> as a group</li>
+</ul></li>
+</ul>
+</div>
+<div id="october-17-2019" class="section level3">
+<h3>October 17, 2019</h3>
+<ul>
+<li>Attending
+<ul>
+<li>Rick, Andrea, Yiming, Rachel, Luka, Michelle, Amar</li>
+<li>Excused: Emily</li>
+</ul></li>
+<li>Agenda
+<ul>
+<li>Discuss R
+<ul>
+<li>Sex Differences Study - Protocol and Termiology</li>
+<li>factors - category of some type of measure with a label</li>
+</ul></li>
+</ul></li>
+<li>Future Meeting
+<ul>
+<li>11/7/2019 - Emily and Rachel will present: Chien, Y.-L., Hsieh, M. H., &amp; Gau, S. S.-F. (2019). P50-N100-P200 sensory gating deficits in adolescents and young adults with autism spectrum disorders. Progress in neuro-psychopharmacology &amp; biological psychiatry, 95, 109683. Retrieved from <a href="http://dx.doi.org/10.1016/j.pnpbp.2019.109683" class="uri">http://dx.doi.org/10.1016/j.pnpbp.2019.109683</a></li>
+<li>Amar and Sandy will present:</li>
+</ul></li>
+<li>To Do
+<ul>
+<li>ARS send literature review protocol to Yiming</li>
+</ul></li>
+</ul>
+</div>
+<div id="october-10-2019" class="section level3">
+<h3>October 10, 2019</h3>
+<ul>
+<li>Attending
+<ul>
+<li>Rick, Andrea, Yiming, Emily, Joseph, Amar</li>
+<li>Excused: Sandy</li>
+</ul></li>
+<li>Agenda
+<ul>
+<li>Yiming will give a practice master’s presentation today</li>
+</ul></li>
+</ul>
+</div>
+<div id="october-3-2019" class="section level3">
+<h3>October 3, 2019</h3>
+<ul>
+<li>Attending
+<ul>
+<li>Rick, Yiming, Emily, Michelle, Amar, Andrea</li>
+<li>Excused: Sandy, Luka, Rachel</li>
+</ul></li>
+<li>Agenda
+<ul>
+<li>Continue discussion of <a href="talk-slides/abramov-etal-2012.html">Abramov et al. 2012</a></li>
+<li>Our study
+<ul>
+<li>notate those with color deficiency instead of removing them from study</li>
+<li>show mean and actual value graphs side by side</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="september-26-2019" class="section level3">
+<h3>September 26, 2019</h3>
+<ul>
+<li>Attending
+<ul>
+<li>Rick, Andrea, Yiming, Luka, Amar, Rachel, Joseph</li>
+<li>Excused: Emily, Michelle, Sandy</li>
+</ul></li>
+<li>Agenda
+<ul>
+<li>Discussion of <a href="talk-slides/abramov-etal-2012.html">Abramov et al. 2012</a></li>
+<li>‘I’ manipulate Independent variables, ‘<em>D</em>ey’ manipulate Dependent variables</li>
+<li><a href="talk-slides/how-to-read-academic-paper.html">How to Read an Academic Paper</a> Presentation</li>
+</ul></li>
+</ul>
+</div>
+<div id="september-19-2019" class="section level3">
+<h3>September 19, 2019</h3>
+<ul>
+<li>Attending
+<ul>
+<li>Rick, Andrea, Yiming, Luka, Rachel, Emily, Michelle, Amar</li>
+</ul></li>
+<li>Agenda
+<ul>
+<li>Status Update</li>
+<li>Sex Differences
+<ul>
+<li>lit review</li>
+<li>create/update protocol for lit review (ars)</li>
+</ul></li>
+<li>R bootcamp - <a href="https://psu-psychology.github.io/r-bootcamp-2019/talks/slow-r.html">Slow R</a></li>
+<li>Instructions to log on to VPN for off campus</li>
+</ul></li>
+<li>To Do
+<ul>
+<li>Read paper for next week 9/26/2019
+<ul>
+<li>Abramov, I., Gordon, J., Feldman, O., &amp; Chavarga, A. (2012). Sex &amp; vision I: Spatio-temporal resolution. Biology of sex differences, 3(1), 20. bsd.biomedcentral.com. Retrieved from <a href="http://dx.doi.org/10.1186/2042-6410-3-20" class="uri">http://dx.doi.org/10.1186/2042-6410-3-20</a></li>
+</ul></li>
+<li>Finish up assigned items on Asana</li>
+<li>Start <a href="https://www.datacamp.com">Datacamp</a> assignments
+<ul>
+<li>Log in &gt; go to PSYCH 494 Research Studies &gt; Assignments</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="september-12-2019" class="section level3">
+<h3>September 12, 2019</h3>
+<ul>
+<li>Attending
+<ul>
+<li>Rick, Andrea, Yiming, Luka, Michelle, Emily, Rachel, Amar</li>
+</ul></li>
+<li>Agenda
+<ul>
+<li><a href="https://gilmore-lab.github.io/csd-vision-2019-09-05/">Vision: How it works, how it develops, and why you should care</a></li>
+</ul></li>
+<li>To Do:
+<ul>
+<li>Online Training: CITI, Clery, Reporting Child Abuse</li>
+<li>Biography in r markdown format saved as a .txt file including professional interests and 1 personal interest in addition to a picture if you like.</li>
+<li>Use Discord to contact us</li>
+</ul></li>
+</ul>
+</div>
+<div id="september-5-2019-467-moore" class="section level3">
+<h3>September 5, 2019, 467 Moore</h3>
+<ul>
+<li>Attending
+<ul>
+<li>Rick, Andrea, Yiming, Emily, Rachel, Michelle, Luka, Amar,</li>
+</ul></li>
+<li>Agenda
+<ul>
+<li>Introductions</li>
+<li>Summary of active projects
+<ul>
+<li>Optic Flow</li>
+<li><a href="https://nyu.databrary.org/">Databrary</a></li>
+<li>Open Science</li>
+<li>behAV</li>
+<li><a href="play-project.org">PLAY</a></li>
+</ul></li>
+<li>Goals
+<ul>
+<li>Learn R, Python, Datavyu</li>
+</ul></li>
+</ul></li>
+<li>To Do:
+<ul>
+<li>Online Training: CITI, Clery, Reporting Child Abuse</li>
+<li>Biography in r markdown format saved as a .txt file including professional interests and 1 personal interest in addition to a picture if you like.</li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div id="spring-2019" class="section level2">
+<h2>Spring 2019</h2>
+<div id="section" class="section level3">
+<h3>2019-04-16</h3>
+<ul>
+<li>Attending: Yiming, Andrea, Sarah, Michelle, Rick, Ashton</li>
+<li>Agenda:
+<ul>
+<li>Lab Name (<a href="https://docs.google.com/document/d/1s3UZ7g3vR8vZja5EIu1sFraG5oOKZUQDG54wjqUMNDE/edit?usp=sharing">Google doc with terms</a>)</li>
+<li>How did the Psi Chi (<span class="math inline">\(\Psi\chi\)</span>) presentations go?</li>
+<li>Poster Presentation - Michelle</li>
+</ul></li>
+<li>Next Meeting: 4/30/2019 at Waffle Shop!</li>
+<li>Upcoming Events:
+<ul>
+<li>4/17/2019 - Lab Ice Skating, Pegula Ice Arena Community Rink, 12-1:30, $5 to skate, $5 rental</li>
+<li>4/30/2019 - Lab Breakfast Meeing 8:00am Waffle Shop</li>
+</ul></li>
+</ul>
+</div>
+<div id="section-1" class="section level3">
+<h3>2019-04-09</h3>
+<ul>
+<li>Attending: Rick, Andrea, Yiming, Ashton, Michelle, Zhichun</li>
+<li>Agenda:
+<ul>
+<li>Psi Chi project presentations
+<ul>
+<li><a href="https://github.com/gilmore-lab/psi-chi-2019/blob/master/object-play_files/Psi_Chi_ASZ_2019.pdf">Dluzneski, Rayes, Zhao, Gilmore, &amp; Seisler, 2019</a></li>
+<li><a href="https://github.com/gilmore-lab/psi-chi-2019/blob/master/crawling-mode_files/Psi_Chi_Sarah_2019.pdf">Shahriar, Gilmore, &amp; Seisler, 2019</a></li>
+</ul></li>
+</ul></li>
+<li>Next Week:
+<ul>
+<li>Michelle Presenting</li>
+</ul></li>
+<li>Upcoming Events:
+<ul>
+<li>4/11/2019 - Penn State Psi Chi Research Conference, 2-4:30 pm, in the Moore Building Lobby</li>
+<li>4/17/2019 - Lab Ice Skating, Pegula Ice Arena Community Rink, 12-1:30, $5 to skate, $5 rental</li>
+<li>End of Semester Lab Breakfast Tuesday 4/30</li>
+</ul></li>
+</ul>
+</div>
+<div id="section-2" class="section level3">
+<h3>2019-04-02</h3>
+<ul>
+<li>Attending: Andrea, Yiming, Ashton, Michelle, Sarah</li>
+<li>Agenda:
+<ul>
+<li>Psi Chi project status review</li>
+<li>Yiming continue to talk about ASD biological motion paper.</li>
+</ul></li>
+</ul>
+</div>
+<div id="section-3" class="section level3">
+<h3>2019-03-26</h3>
+<ul>
+<li>Attending: Rick, Andrea, Yiming, Zhichun, Ashton, Michelle</li>
+<li>Agenda:
+<ul>
+<li>Yiming present paper about biological motion and ASD: Freitag, C. M., Konrad, C., Häberlen, M., Kleser, C., von Gontard, A., Reith, W., Troje, N. F., et al. (2008). Perception of biological motion in autism spectrum disorders. Neuropsychologia, 46(5), 1480–1494. Elsevier. Retrieved from <a href="http://dx.doi.org/10.1016/j.neuropsychologia.2007.12.025" class="uri">http://dx.doi.org/10.1016/j.neuropsychologia.2007.12.025</a></li>
+</ul></li>
+<li>Notes:
+<ul>
+<li>PsiChi Conference is April 11.</li>
+<li>Any accepted posters must be sent for printing by April 8.</li>
+</ul></li>
+<li>To Do:
+<ul>
+<li>Read the paper that was presented today for next week</li>
+</ul></li>
+</ul>
+</div>
+<div id="section-4" class="section level3">
+<h3>2019-03-19</h3>
+<ul>
+<li>Attending: Rick, Andrea, Yiming, Sarah, Sandy, Michelle</li>
+<li>Agenda:
+<ul>
+<li>Review Psi Chi abstracts
+<ul>
+<li>Object Play
+<ul>
+<li>look at hand grasp (R,L,both)/let go, stack/unstack</li>
+<li>focus on fine movements related to grasping and manipulating, particularly interested in unimanual vs. bimanual, what kinds of actions (manual exploration, looking inside, stacking, drinking)</li>
+</ul></li>
+<li>Gait Style
+<ul>
+<li>crawling bout = start until change of posture or stop then start again?</li>
+<li>code hand at onset</li>
+<li>static image of contralteral crawling</li>
+<li>table of how much time was spent crawling</li>
+<li>timeseries graph</li>
+</ul></li>
+<li>Play Pilot Questionnaire
+<ul>
+<li>amount of time of sleep vs time from crawling to walking and color coded by type of childcare</li>
+</ul></li>
+</ul></li>
+<li>To Do:
+<ul>
+<li>Complete <a href="https://sites.psu.edu/psichi/research-conference-2/">Empirical Research Application</a> for submission.</li>
+<li>Email a copy to Andrea and Yiming for review on or before Wednesday morning at 8am.</li>
+<li>file name: psychi_NAME_2019-03-21-v01</li>
+<li>submissions due Friday March 22, 2019 before 6:00 pm</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="section-5" class="section level3">
+<h3>2019-03-12</h3>
+<ul>
+<li>Attending: Rick, Andrea, Yiming, Sarah, Ashton, Sandy, Michelle, Zhichun</li>
+<li>Agenda:
+<ul>
+<li>Review how to pull PLAY metadata (or any metadata) directly from the Databrary Spreadsheet and visualize using RStudio</li>
+<li>Discuss <a href="https://github.com/gilmore-lab/psi-chi-2019">Psi Chi projects</a>
+<ul>
+<li>Sarah
+<ul>
+<li>project: locomotion crawling/walking type 12 month olds (3 participants) (hand/knees crawling - contralateral vs. unilateral, start with left or right)</li>
+<li>create protocol document <a href="https://github.com/gilmore-lab/psi-chi-2019/blob/master/crawling-mode.Rmd">Crawling Mode</a></li>
+</ul></li>
+<li>Ashton/Sandy/Zhichun
+<ul>
+<li>project: view videos of stacking cups, solitary play
+<ul>
+<li>goal oriented motor movement = stacking/unstacking duration</li>
+</ul></li>
+<li>create protocol document <a href="https://github.com/gilmore-lab/psi-chi-2019/blob/master/object-play.Rmd">Object Play</a></li>
+</ul></li>
+<li>Michelle
+<ul>
+<li>project: correlation walking/crawling vs. sleep from parent report and metadata</li>
+<li>create protocol document</li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li>Next Meeting:
+<ul>
+<li>Bring Draft Abstracts (<a href="https://sites.psu.edu/psichi/research-conference-2/" class="uri">https://sites.psu.edu/psichi/research-conference-2/</a>)
+<ul>
+<li>Questions on the application include:
+<ol start="5" style="list-style-type: decimal">
+<li><p>What is the title of your submission?</p></li>
+<li><p>Briefly, what is the problem or major purpose of your research?</p></li>
+<li><p>What procedures did you use?</p></li>
+<li><p>What results did you expect? What did you find?</p></li>
+<li><p>Briefly, what tables/figures do you plan to show?</p></li>
+<li><p>Please list what references you already have (this can be a working list).</p></li>
+<li><p>Please include a brief and thoughtful paragraph or two describing the importance of your research and its contribution to the field of psychology. Any personal interest in the topic may be included here.</p></li>
+</ol></li>
+</ul></li>
+<li>new due date March 22, 2019</li>
+</ul></li>
+</ul>
+</div>
+<div id="section-6" class="section level3">
+<h3>2019-02-26</h3>
+<ul>
+<li>Attending: Rick, Andrea, Yiming, Zhichun, Sarah, Ashton</li>
+<li>Agenda:
+<ul>
+<li>Discuss Psi Chi projects
+<ul>
+<li>Sarah:
+<ul>
+<li>Project: Play 1 hr videos, observing crawling types and see if it is related to handedness
+<ul>
+<li>Can we use Biopoints for videos?</li>
+</ul></li>
+<li>Next Steps:
+<ul>
+<li>Have a coding scheme, do they need to be used in one coding column or separate columns or a combination.</li>
+</ul></li>
+</ul></li>
+<li>Ashton, Sandy, Zhichun: Fine Motor Development
+<ul>
+<li>Videos: Stacking Cups
+<ul>
+<li>Staking vs. Unstacking</li>
+<li>Transcripts (look at word bank for babies)</li>
+</ul></li>
+<li>Next Steps<br />
+</li>
+</ul></li>
+<li>Michelle: Questionnaire Data
+<ul>
+<li>Statistics based upon age groups (12, 18, 24 months)</li>
+<li>Next Steps:
+<ul>
+<li>Find actual questionnaire. (ARS to do)</li>
+<li>determine which statistics to look at.</li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="section-7" class="section level3">
+<h3>2019-02-19</h3>
+<ul>
+<li>Attending: Rick, Andrea, Sarah, Yiming, Ashton, Zhichun<br />
+</li>
+<li>Agenda:
+<ul>
+<li>Moco Psychophysics presentation by Yiming</li>
+</ul></li>
+<li>To do: Submit a brief summary of Psi Chi project idea to Dr. Gilmore before 2/22.</li>
+</ul>
+</div>
+<div id="section-8" class="section level3">
+<h3>2019-02-05</h3>
+<ul>
+<li>Attending: Rick, Sarah, Yiming, Ashton, Zhichun, Michelle</li>
+<li>Agenda:
+<ul>
+<li>Motion psychophysics project (Yiming &amp; Rick) postpone?</li>
+<li>Psi Chi projects
+<ul>
+<li>PLAY pilot data (resources)
+<ul>
+<li>Adolph, K., Tamis-LeMonda, C. &amp; Gilmore, R.O. (2017). PLAY Project: Pilot Data Collections. Databrary. Retrieved February 5, 2019 from <a href="https://nyu.databrary.org/volume/444" class="uri">https://nyu.databrary.org/volume/444</a>.</li>
+<li>Adolph, K., Tamis-LeMonda, C., Gilmore, R.O. &amp; Soska, K. (2016). PLAY Project: NICHD Workshop (2016-12-16). Databrary. Retrieved February 5, 2019 from <a href="http://doi.org/10.17910/B7.254" class="uri">http://doi.org/10.17910/B7.254</a>.</li>
+<li>PLAY wiki: <a href="https://dev1.ed-projects.nyu.edu/wikis/docuwiki/doku.php" class="uri">https://dev1.ed-projects.nyu.edu/wikis/docuwiki/doku.php</a></li>
+<li>Sample report using <code>databraryapi</code>: <a href="https://gilmore-lab.github.io/2018-10-15-nyu/PLAY-LEGO-report.html" class="uri">https://gilmore-lab.github.io/2018-10-15-nyu/PLAY-LEGO-report.html</a></li>
+<li>WordBank at Stanford: <a href="http://wordbank.stanford.edu" class="uri">http://wordbank.stanford.edu</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+<div id="using-databraryapi-with-play-pilot-data" class="section level4">
+<h4>Using <code>databraryapi</code> with PLAY pilot data</h4>
+<p>To install <code>databraryapi</code> from its <a href="https://github.com/PLAY-behaviorome/databraryapi">GitHub repository</a> into your RStudio project:</p>
+<pre><code>devtools::install_github(&quot;PLAY-behaviorome/databraryapi&quot;)</code></pre>
+<pre><code># load databraryapi
+library(databraryapi)</code></pre>
+</div>
+</div>
+<div id="section-9" class="section level3">
+<h3>2019-01-29</h3>
+<ul>
+<li>Attending: Rick, Andrea, Yiming, Sandy, Michelle, Sarah</li>
+<li>Agenda:
+<ul>
+<li>Psi Chi projects
+<ul>
+<li>Datavyu coding (Michelle?)</li>
+<li>Motion mega-analysis (Zhichun?)</li>
+</ul></li>
+<li>Next week:
+<ul>
+<li>Yiming &amp; Rick present on motion psychophysics</li>
+</ul></li>
+<li>Discuss:
+<ul>
+<li>Hadad, B., Maurer, D., &amp; Lewis, T. L. (2011). Long trajectory for the development of sensitivity to global and biological motion. <em>Developmental Science</em>, <em>14</em>(6), 1330–1339. Wiley Online Library. Retrieved April 17, 2012, from <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1467-7687.2011.01078.x/abstract" class="uri">http://onlinelibrary.wiley.com/doi/10.1111/j.1467-7687.2011.01078.x/abstract</a></li>
+<li>Biological motion demo: <a href="https://www.biomotionlab.ca/bml-scrambled/" class="uri">https://www.biomotionlab.ca/bml-scrambled/</a></li>
+<li><a href="https://app.mindmup.com/map/_free/2019/01/dffb0ba023e711e9b80465b42db9671f">Mind Map</a> of Hadad et al. 2011</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="section-10" class="section level3">
+<h3>2019-01-15</h3>
+<ul>
+<li>Attending: Rick, Andrea, Ashton, Sarah, Yiming, Zichun, Michelle
+<ul>
+<li>Sandy (sick)<br />
+</li>
+</ul></li>
+<li>Agenda:
+<ul>
+<li>Introductions<br />
+</li>
+<li>Submit 1-2 projects to the <a href="http://sites.psu.edu/psichi/">Psi Chi</a> conference
+<ul>
+<li><a href="http://sites.psu.edu/psichi/research-conference-2/">Application</a> due March 23 by 4:00pm<br />
+</li>
+<li>Conference on April 11, 2-4:30 pm</li>
+</ul></li>
+<li>Overview of projects
+<ul>
+<li><a href="https://github.com/gilmore-lab/motion-metaanalysis">Development of Motion Sensitivity Meta-analysis</a><br />
+</li>
+<li><a href="https://github.com/dev-psych-behavior">Behaviors in developmental psychology research</a> project</li>
+<li><a href="http://databrary.org">Databrary</a>
+<ul>
+<li>apply computer vision to stored videos<br />
+</li>
+<li><a href="https://www.youtube.com/watch?v=pW6nZXeWlGM">Open Pose Example</a></li>
+</ul></li>
+<li><a href="http://datavyu.org">Datavyu</a></li>
+<li><a href="https://nyu.databrary.org/volume/724">Play &amp; Learning Across a Year (PLAY)</a>
+<ul>
+<li>teach coding this semester<br />
+</li>
+</ul></li>
+<li>Wilkinson</li>
+<li>Optic flow
+<ul>
+<li><a href="https://github.com/gilmore-lab/moco-psychophysics-child-adult">Paper in Progress</a></li>
+</ul></li>
+<li>PEEP <a href="https://nyu.databrary.org/volume/248">I</a>, <a href="https://nyu.databrary.org/volume/339">II</a><br />
+</li>
+<li>R package for Databrary API-translate to python
+<ul>
+<li>document<br />
+</li>
+<li>sample uses<br />
+</li>
+</ul></li>
+<li><a href="https://github.com/gilmore-lab/annotating-databrary">Annotating Databrary</a> project</li>
+</ul></li>
+<li>Causes of Motion on Retina - diagram
+<ul>
+<li>use this type of diagram to unpack methods/results in a research paper<br />
+</li>
+</ul></li>
+<li>Plan for semester
+<ul>
+<li>Future Meeting - Discuss Adolph/Gilmore paper using Open Pose</li>
+</ul></li>
+</ul></li>
+<li>Next Meeting:
+<ul>
+<li>Read: Hadad, B., Maurer, D., &amp; Lewis, T. L. (2011). Long trajectory for the development of sensitivity to global and biological motion. <em>Developmental Science</em>, <em>14</em>(6), 1330–1339. Wiley Online Library. Retrieved April 17, 2012, from <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1467-7687.2011.01078.x/abstract" class="uri">http://onlinelibrary.wiley.com/doi/10.1111/j.1467-7687.2011.01078.x/abstract</a> ## Fall 2018</li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div id="goals" class="section level2">
+<h2>Goals</h2>
+<ul>
+<li>Write-ups
+<ul>
+<li>child/adult MOCO psychophysics</li>
+<li>infant MOCO EEG</li>
+<li>child MOFO</li>
+</ul></li>
+<li>Preparation for PLAY
+<ul>
+<li>Train on locomotion coding on PLAY pilots</li>
+</ul></li>
+<li>Data science
+<ul>
+<li>Learn more about jupyter notebooks and python</li>
+</ul></li>
+<li>Read more primary source papers</li>
+<li>Launch new projects
+<ul>
+<li><a href="https://github.com/gilmore-lab/annotating-databrary">Annotating Databrary</a> project</li>
+<li><a href="https://github.com/gilmore-lab/motion-metaanalysis">Development of Motion Sensitivity Meta-analysis</a></li>
+<li><a href="https://github.com/dev-psych-behavior">Behaviors in developmental psychology research</a> project</li>
+</ul></li>
+</ul>
+</div>
+<div id="possible-readings" class="section level2">
+<h2>Possible readings</h2>
+<ul>
+<li>Finkelstein, A., Las, L., &amp; Ulanovsky, N. (2016). 3-D Maps and Compasses in the Brain. <em>Annual Review of Neuroscience</em>, <em>39</em>, 171–196. Retrieved from <a href="http://dx.doi.org/10.1146/annurev-neuro-070815-013831" class="uri">http://dx.doi.org/10.1146/annurev-neuro-070815-013831</a></li>
+<li>Egnor, S. E. R., &amp; Branson, K. (2016). Computational Analysis of Behavior. <em>Annual Review of Neuroscience</em>, <em>39</em>, 217–236. Retrieved from <a href="http://dx.doi.org/10.1146/annurev-neuro-070815-013845" class="uri">http://dx.doi.org/10.1146/annurev-neuro-070815-013845</a></li>
+<li>Kaplan, R., Schuck, N. W., &amp; Doeller, C. F. (2017). The Role of Mental Maps in Decision-Making. <em>Trends in Neurosciences</em>, <em>40</em>(5), 256–259. Retrieved from <a href="http://dx.doi.org/10.1016/j.tins.2017.03.002" class="uri">http://dx.doi.org/10.1016/j.tins.2017.03.002</a></li>
+<li>Rowland, D. C., Roudi, Y., Moser, M.-B., &amp; Moser, E. I. (2016). Ten Years of Grid Cells. <em>Annual Review of Neuroscience</em>, <em>39</em>, 19–40. Retrieved from <a href="http://dx.doi.org/10.1146/annurev-neuro-070815-013824" class="uri">http://dx.doi.org/10.1146/annurev-neuro-070815-013824</a></li>
+</ul>
+</div>
+<div id="schedule" class="section level2">
+<h2>Schedule</h2>
+<div id="section-11" class="section level3">
+<h3>2018-12-07</h3>
+<p>9:00am - Breakfast at the Waffle Shop Downtown</p>
+</div>
+<div id="section-12" class="section level3">
+<h3>2018-11-30</h3>
+<ul>
+<li>Attending: Andrea, Yiming, Sandy, Rick, Michelle, Ashton<br />
+</li>
+<li>Agenda:
+<ul>
+<li>Discuss: Land, M., Mennie, N., &amp; Rusted, J. (1999). The roles of vision and eye movements in the control of activities of daily living. Perception, 28(11), 1311–1328. Retrieved from <a href="http://dx.doi.org/10.1068/p2935" class="uri">http://dx.doi.org/10.1068/p2935</a> (Ashton &amp; Sandy lead). <a href="student-testbed/LandM_etal_1999_paper_presentation.md">Github</a><br />
+</li>
+</ul></li>
+<li>Next Meeting:
+<ul>
+<li>Breakfast at the Waffle Shop Downtown, 9am</li>
+</ul></li>
+</ul>
+</div>
+<div id="section-13" class="section level3">
+<h3>2018-11-23</h3>
+<p>THANKSGIVING BREAK - No Meeting</p>
+</div>
+<div id="section-14" class="section level3">
+<h3>2018-11-16</h3>
+<p>SNOW DAY! - No Meeting</p>
+</div>
+<div id="section-15" class="section level3">
+<h3>2018-11-09</h3>
+<ul>
+<li>Attending: Andrea, Yiming, Rick, Michelle, Zhichun<br />
+</li>
+<li>Agenda:
+<ul>
+<li>Work on <a href="https://github.com/gilmore-lab/motion-metaanalysis">Development of Motion Sensitivity Meta-analysis</a> specifically grating-motion<br />
+</li>
+<li>Work on <a href="https://github.com/gilmore-lab/annotating-databrary">Annotating Databrary</a> project</li>
+</ul></li>
+<li>Next Meeting:
+<ul>
+<li>Read: Land, M., Mennie, N., &amp; Rusted, J. (1999). The roles of vision and eye movements in the control of activities of daily living. Perception, 28(11), 1311–1328. Retrieved from <a href="http://dx.doi.org/10.1068/p2935" class="uri">http://dx.doi.org/10.1068/p2935</a> (Ashton &amp; Sandy lead). <a href="student-testbed/LandM_etal_1999_paper_presentation.md">Github</a></li>
+</ul></li>
+</ul>
+</div>
+<div id="section-16" class="section level3">
+<h3>2018-11-02</h3>
+<ul>
+<li>Attending: Andrea, Yiming, Sandy, Rick, Michelle, Ashton, Zhichun</li>
+<li>Agenda:
+<ul>
+<li>Choose readings for next few weeks</li>
+<li>Work on <a href="https://github.com/gilmore-lab/motion-metaanalysis">Development of Motion Sensitivity Meta-analysis</a><br />
+</li>
+<li><del>Work on <a href="https://github.com/gilmore-lab/annotating-databrary">Annotating Databrary</a> project</del></li>
+<li><del>(if time) Work on <a href="https://github.com/dev-psych-behavior">Behaviors in developmental psychology research</a> project</del></li>
+</ul></li>
+<li>Next week:
+<ul>
+<li>Read: Land, M., Mennie, N., &amp; Rusted, J. (1999). The roles of vision and eye movements in the control of activities of daily living. Perception, 28(11), 1311–1328. Retrieved from <a href="http://dx.doi.org/10.1068/p2935" class="uri">http://dx.doi.org/10.1068/p2935</a> (Ashton &amp; Sandy lead).
+<ul>
+<li>What did they do? What did they find? Why does it matter? (ideally in R Markdown document).</li>
+</ul></li>
+<li>Project status reports</li>
+</ul></li>
+</ul>
+</div>
+<div id="section-17" class="section level3">
+<h3>2018-10-26</h3>
+<ul>
+<li>Attending: Rick, Andrea, Yiming<br />
+</li>
+<li>Agenda: Start two new projects
+<ul>
+<li><a href="https://github.com/gilmore-lab/annotating-databrary">Annotating Databrary</a></li>
+<li><a href="https://github.com/gilmore-lab/motion-metaanalysis">Development of Motion Sensitivity Meta-analysis</a></li>
+</ul></li>
+<li>Next week:</li>
+</ul>
+</div>
+<div id="section-18" class="section level3">
+<h3>2018-10-19</h3>
+<ul>
+<li>Attending: Rick, Andrea, Yiming, Michelle, Sarah, Ashton<br />
+</li>
+<li>Agenda:
+<ul>
+<li>Yiming present the MOCO project<br />
+</li>
+<li>Next project meta analysis neural and behavioral literature<br />
+</li>
+</ul></li>
+<li>Next week:
+<ul>
+<li>Meta analysis of motion<br />
+</li>
+<li>Developmental research methods</li>
+</ul></li>
+</ul>
+</div>
+<div id="section-19" class="section level3">
+<h3>2018-10-12</h3>
+<p>NO MEETING TODAY</p>
+</div>
+<div id="section-20" class="section level3">
+<h3>2018-10-05</h3>
+<p>NO MEETING TODAY</p>
+</div>
+<div id="section-21" class="section level3">
+<h3>2018-09-28</h3>
+<ul>
+<li>Attending: Rick, Ashton, Sandy, Zhichun, Michelle<br />
+</li>
+<li>Agenda:
+<ul>
+<li>Lab Activities: (mainly R) - Who has done it, how’s it going, do we like it<br />
+</li>
+<li>Dr. Gilmore won’t be here next week - going to a conference
+<ul>
+<li>discussed <a href="https://www.srcd.org/meetings/special-topic-meetings/devsec18">Devsec</a> (the conference he’s going to)<br />
+</li>
+</ul></li>
+<li>Secondary data - our knowledge of it; pros and cons</li>
+<li>Poster that was made for databrary and datavyu (PLAY Project)<br />
+</li>
+<li>Databrary play coding (this is what he will be discussing during the conference)<br />
+</li>
+</ul></li>
+<li>Next Meeting:
+<ul>
+<li>No meeting on 10/5 - Dr. Gilmore will be at the conference</li>
+</ul></li>
+</ul>
+</div>
+<div id="section-22" class="section level3">
+<h3>2018-09-21</h3>
+<ul>
+<li>Attending: Rick, Andrea, Yiming, Michelle, Sandy, Ashton</li>
+<li>Agenda: Discuss R
+<ul>
+<li><a href="https://psu-psychology.github.io/r-bootcamp-2018/talks/slow-r.html">Slow R talk</a></li>
+<li>R Studio Server: <a href="http://lat.tlt.psu.edu/home/remoteaccess/oss-web-apps/" class="uri">http://lat.tlt.psu.edu/home/remoteaccess/oss-web-apps/</a></li>
+</ul></li>
+<li>Next Meeting:
+<ul>
+<li>Try the steps in the Slow R Talk on the R Studio server</li>
+<li>Datacamp class: PSYCH 494 Fall 2018</li>
+<li>A link to reading will be sent out soon</li>
+</ul></li>
+</ul>
+</div>
+<div id="section-23" class="section level3">
+<h3>2018-09-14</h3>
+<ul>
+<li>Attending: Rick, Andrea, Yiming, Sarah, Zhichun, Michelle, Sandy</li>
+<li>Agenda:
+<ul>
+<li>Training and Schedule Update</li>
+<li>Discuss Toddlers are “tiny apes” who share 96 per cent of same gestures, scientists find. (2018, September 11). The Daily Telegraph. Retrieved September 12, 2018, from <a href="https://www.telegraph.co.uk/science/2018/09/11/toddlers-tiny-apeswho-share-96pcof-gestures-scientists-find/" class="uri">https://www.telegraph.co.uk/science/2018/09/11/toddlers-tiny-apeswho-share-96pcof-gestures-scientists-find/</a> Original Article: <a href="https://doi.org/10.1007/s10071-018-1213-z" class="uri">https://doi.org/10.1007/s10071-018-1213-z</a></li>
+</ul></li>
+<li>Next Meeting: Work on R</li>
+</ul>
+</div>
+<div id="friday-350-moore" class="section level3">
+<h3>2018-09-07 Friday (<strong>350 Moore!</strong>)</h3>
+<ul>
+<li>Attending: Rick, Andrea, Yiming, Michelle, Ashton, Sandy, Sarah<br />
+</li>
+<li>Agenda:
+<ul>
+<li>Check-in/update</li>
+<li>Discuss Murray, S. O., Schallmo, M.-P., Kolodny, T., Millin, R., Kale, A., Thomas, P., Rammsayer, T. H., et al. (2018). Sex Differences in Visual Motion Processing. <em>Current Biology: CB</em>. Retrieved from <a href="http://dx.doi.org/10.1016/j.cub.2018.06.014" class="uri">http://dx.doi.org/10.1016/j.cub.2018.06.014</a>. | <a href="lab-mtgs/notes-murray-2018.html">Discussion notes</a> |</li>
+</ul></li>
+<li>Next Meeting:
+<ul>
+<li>Read: Toddlers are “tiny apes” who share 96 per cent of same gestures, scientists find. (2018, September 11). The Daily Telegraph. Retrieved September 12, 2018, from <a href="https://www.telegraph.co.uk/science/2018/09/11/toddlers-tiny-apeswho-share-96pcof-gestures-scientists-find/" class="uri">https://www.telegraph.co.uk/science/2018/09/11/toddlers-tiny-apeswho-share-96pcof-gestures-scientists-find/</a></li>
+</ul></li>
+</ul>
+</div>
+<div id="wednesday" class="section level3">
+<h3>2018-08-29 Wednesday</h3>
+<ul>
+<li>Attending: Rick, Andrea, Yiming, Michelle, Ashton</li>
+<li>Agenda:
+<ul>
+<li>Introductions</li>
+<li>Overview of projects
+<ul>
+<li><a href="http://databrary.org">Databrary</a></li>
+<li><a href="http://datavyu.org">Datavyu</a></li>
+<li>[Play &amp; Learning Across a Year (PLAY)] (<a href="https://nyu.databrary.org/volume/724" class="uri">https://nyu.databrary.org/volume/724</a>)</li>
+<li>Wilkinson</li>
+<li>Optic flow</li>
+<li>PEEP <a href="https://nyu.databrary.org/volume/248">I</a>, <a href="https://nyu.databrary.org/volume/339">II</a></li>
+</ul></li>
+<li>Plan for semester</li>
+</ul></li>
+<li>Next Meeting:
+<ul>
+<li><strong>Wednesday, 9/5, 9a, 444 Moore</strong></li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div id="spring-2018" class="section level2">
+<h2>Spring 2018</h2>
+</div>
+<div id="goals-1" class="section level2">
+<h2>Goals</h2>
+<ul>
+<li>Submit posters to Psi Chi conference on the “size matters” project, infant MOCO, PLAY.</li>
+<li>Submit papers from infant MOCO, child/adult MOCO psychophysics</li>
+<li>Analyze the child MOFO</li>
+<li>Train on locomotion coding on PLAY pilots</li>
+<li>Learn more about jupyter notebooks and python</li>
+<li>Read more primary source papers</li>
+<li>Turn data from “size matters” into a Shiny app</li>
+<li>Write/edit LaTex posters in RMarkdown</li>
+<li>Discuss new federal regulations, Common Rule</li>
+</ul>
+</div>
+<div id="lets-read" class="section level2">
+<h2>Let’s read</h2>
+<ul>
+<li>Finkelstein, A., Las, L., &amp; Ulanovsky, N. (2016). 3-D Maps and Compasses in the Brain. <em>Annual Review of Neuroscience</em>, <em>39</em>, 171–196. Retrieved from <a href="http://dx.doi.org/10.1146/annurev-neuro-070815-013831" class="uri">http://dx.doi.org/10.1146/annurev-neuro-070815-013831</a></li>
+<li>Egnor, S. E. R., &amp; Branson, K. (2016). Computational Analysis of Behavior. <em>Annual Review of Neuroscience</em>, <em>39</em>, 217–236. Retrieved from <a href="http://dx.doi.org/10.1146/annurev-neuro-070815-013845" class="uri">http://dx.doi.org/10.1146/annurev-neuro-070815-013845</a></li>
+<li>Kaplan, R., Schuck, N. W., &amp; Doeller, C. F. (2017). The Role of Mental Maps in Decision-Making. <em>Trends in Neurosciences</em>, <em>40</em>(5), 256–259. Retrieved from <a href="http://dx.doi.org/10.1016/j.tins.2017.03.002" class="uri">http://dx.doi.org/10.1016/j.tins.2017.03.002</a></li>
+<li>Rowland, D. C., Roudi, Y., Moser, M.-B., &amp; Moser, E. I. (2016). Ten Years of Grid Cells. <em>Annual Review of Neuroscience</em>, <em>39</em>, 19–40. Retrieved from <a href="http://dx.doi.org/10.1146/annurev-neuro-070815-013824" class="uri">http://dx.doi.org/10.1146/annurev-neuro-070815-013824</a></li>
+</ul>
+</div>
+<div id="schedule-1" class="section level2">
+<h2>Schedule</h2>
+<div id="breakfast" class="section level3">
+<h3>2018-05-03 Breakfast</h3>
+<ul>
+<li>Lab breakfast 8:30am at E. College Waffle Shop</li>
+</ul>
+</div>
+<div id="no-meeting" class="section level3">
+<h3>2018-04-26 <strong>No Meeting</strong></h3>
+</div>
+<div id="thursday" class="section level3">
+<h3>2018-04-19 Thursday</h3>
+<ul>
+<li>Attending:</li>
+<li>Agenda
+<ul>
+<li>Create reproducible workflow for using <a href="https://www.sharelatex.com/">ShareLaTeX</a>
+<ul>
+<li>Learn how to <a href="https://www.sharelatex.com/blog/2015/02/10/shareLaTeX-github-sync.html">sync GitHub and ShareLaTeX</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="thursday-1" class="section level3">
+<h3>2018-04-12 Thursday</h3>
+<ul>
+<li>Attending: Rick, Andrea, Sarah, Charmi, Alyssa</li>
+<li>Agenda
+<ul>
+<li>Practice Poster Presentations
+<ul>
+<li>Infant brain responses differentiate between optic flow patterns and motion speeds - Alyssa</li>
+<li>Reanalyzing Shared Data about Brains and Behavior - Charmi</li>
+</ul></li>
+<li>Review Databrary API - Package to interact with Databrary using R
+<ul>
+<li>devtools::load_all() - use to load tool
+<ul>
+<li>summarize_demog(volume = VOLNUMBER)</li>
+<li>download videos</li>
+<li>BUG: list_assets_by_type (type = “text”)</li>
+<li>list_people: only show authorized people</li>
+<li>instructions: github PLAY-behaviorome</li>
+<li>can 2 different accounts be logged in at the same time?</li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="thursday-2" class="section level3">
+<h3>2018-03-22 Thursday</h3>
+<ul>
+<li>Attending: Rick, Andrea, Sarah, Charmi, Alyssa</li>
+<li>Agenda
+<ul>
+<li>Posters for upcoming undergraduate conferences
+<ul>
+<li>Charmi and Alyssa will submit Friday</li>
+</ul></li>
+<li>Diagnose issue with PLAY pilot crawling and walking onsets (ROG)
+<ul>
+<li>Review videos for issues with locomotion.csv to confirm survey answers</li>
+</ul></li>
+<li>Give Rick feedback about <a href="https://github.com/PLAY-behaviorome/ibad-lets-PLAY">IBAD paper</a> plots.</li>
+<li>Discuss: Ballard, D. H., Hayhoe, M. M., &amp; Pelz, J. B. (1995). Memory representations in natural tasks. Journal of cognitive neuroscience, 7(1), 66–80. Retrieved from <a href="http://dx.doi.org/10.1162/jocn.1995.7.1.66" class="uri">http://dx.doi.org/10.1162/jocn.1995.7.1.66</a></li>
+</ul></li>
+</ul>
+</div>
+<div id="thursday-3" class="section level3">
+<h3>2018-03-15 Thursday</h3>
+<ul>
+<li>Attending: Rick, Andrea, Sarah, Charmi, Amber, Alyssa</li>
+<li>Agenda
+<ul>
+<li>Discuss:
+<ul>
+<li>Databrary User Growth Plot
+<ul>
+<li>How to create plot using R<br />
+</li>
+<li>Aesthetic feedback provided<br />
+</li>
+</ul></li>
+<li><a href="https://www.youtube.com/watch?v=5_-NKRVn7IQ">Galaxy S9</a> - New Camera Phone with Iris</li>
+<li>Fortenbaugh, F. C., Hicks, J. C., Hao, L., &amp; Turano, K. A. (2006). High-speed navigators: Using more than what meets the eye. Journal of vision, 6(5), 565–579. Retrieved from <a href="http://dx.doi.org/10.1167/6.5.3" class="uri">http://dx.doi.org/10.1167/6.5.3</a><br />
+</li>
+<li><a href="https://rawgit.com/gilmore-lab/databrary-r-api/master/vignettes.html">databrary-r-api overview</a> - Shared data in one or more repositories that can be easily accessed, visualized, and analyzed because the data are in a common format. A new way interact with data on Databrary</li>
+<li><a href="https://github.com/gilmore-lab/databrary-r-api">R commands to access Databrary</a></li>
+</ul></li>
+</ul></li>
+<li>Next Meeting:
+<ul>
+<li>Read: Ballard, D. H., Hayhoe, M. M., &amp; Pelz, J. B. (1995). Memory representations in natural tasks. Journal of cognitive neuroscience, 7(1), 66–80. Retrieved from <a href="http://dx.doi.org/10.1162/jocn.1995.7.1.66" class="uri">http://dx.doi.org/10.1162/jocn.1995.7.1.66</a></li>
+</ul></li>
+</ul>
+</div>
+<div id="thursday-4" class="section level3">
+<h3>2018-03-01 Thursday</h3>
+<ul>
+<li>Attending: Rick, Andrea, Sarah, Charmi, Alyssa</li>
+<li>Agenda
+<ul>
+<li>Discuss:
+<ul>
+<li>Talk about RIDIR NSF submission - for research infrastructure</li>
+<li>Project Updates
+<ul>
+<li>Infant MOCO
+<ul>
+<li>outline paper<br />
+</li>
+<li>switch from R server to RStudio local<br />
+</li>
+</ul></li>
+<li>Map of PLAY project locations
+<ul>
+<li>ggmap using census data<br />
+</li>
+<li>Create Shiny App - In progress</li>
+</ul></li>
+<li>PLAY pilot data survey results and workflow analysis to aid in future data collection<br />
+</li>
+</ul></li>
+<li><a href="pdfs/gibson-1979-ch-2.pdf">Chapter 2</a> - Gibson, J. J. (2014). The Ecological Approach to Visual Perception: Classic Edition. Psychology Press.<br />
+</li>
+<li><a href="https://www.youtube.com/watch?v=5_-NKRVn7IQ">Galaxy S9</a> - New Camera Phone with Iris</li>
+</ul></li>
+</ul></li>
+<li>Next Meeting: 3/15/2018
+<ul>
+<li>Pick K. Adolph paper and find related videos on Databrary - crawling vs. walking</li>
+</ul></li>
+</ul>
+</div>
+<div id="thursday-5" class="section level3">
+<h3>2018-02-22 Thursday</h3>
+<ul>
+<li>Attending: Rick, Andrea, Sarah, Charmi, Amber, Quendresa, Alyssa<br />
+</li>
+<li>Agenda
+<ul>
+<li>Discuss
+<ul>
+<li>Watch ‘Torpedo Gannet Diving!’ Video</li>
+<li>Lee, D. N., &amp; Reddish, P. E. (1981). Plummeting gannets: a paradigm of ecological optics. Nature, 293, 293. Nature Publishing Group. Retrieved from <a href="http://dx.doi.org/10.1038/293293a0" class="uri">http://dx.doi.org/10.1038/293293a0</a></li>
+<li><a href="https://youtu.be/1Cp1n_vPvYY" class="uri">https://youtu.be/1Cp1n_vPvYY</a></li>
+</ul></li>
+</ul></li>
+<li>Next Meeting<br />
+- Time to contact issues in different sports - Difference between aiming and steering, balance, object manipulation - Vision testing tools - Teller Acuity Cards</li>
+<li>Next Meeting
+<ul>
+<li>Read <a href="pdfs/gibson-1979-ch-2.pdf">Chapter 2</a>: Gibson, J. J. (2014). The Ecological Approach to Visual Perception: Classic Edition. Psychology Press. Retrieved from <a href="https://market.android.com/details?id=book-8BSLBQAAQBAJ" class="uri">https://market.android.com/details?id=book-8BSLBQAAQBAJ</a></li>
+</ul></li>
+</ul>
+</div>
+<div id="thursday-6" class="section level3">
+<h3>2018-02-15 Thursday</h3>
+<ul>
+<li>Attending: Rick, Andrea, Alyssa, Sarah, Amber, Charmi</li>
+<li>Agenda
+<ul>
+<li>Discuss
+<ul>
+<li>Visual Acuity Paper: Nityananda, V., Tarawneh, G., Henriksen, S., Umeton, D., Simmons, A., &amp; Read, J. C. A. (2018). A Novel Form of Stereo Vision in the Praying Mantis. Current biology: CB. Retrieved from <a href="http://dx.doi.org/10.1016/j.cub.2018.01.012" class="uri">http://dx.doi.org/10.1016/j.cub.2018.01.012</a></li>
+<li>Vestibular motion</li>
+<li><a href="http://sites.psu.edu/psichi/research-conference-2/">Psi Chi Conference</a> - Application due March 23rd at 4:00 pm - <a href="https://docs.google.com/document/d/1CBm5eAsiAbZv1Iol2dasNsdMb1KHkp4srFkl2pgE2vY/edit?usp=sharing">Pertinent Information</a> - Draft after spring break</li>
+</ul></li>
+</ul></li>
+<li>Next Meeting
+<ul>
+<li>read: Lee, D. N., &amp; Reddish, P. E. (1981). Plummeting gannets: a paradigm of ecological optics. Nature, 293, 293. Nature Publishing Group. Retrieved from <a href="http://dx.doi.org/10.1038/293293a0" class="uri">http://dx.doi.org/10.1038/293293a0</a></li>
+<li>Discuss Teller Acuity Cards and Stereo Vision Tests</li>
+</ul></li>
+</ul>
+</div>
+<div id="thursday-7" class="section level3">
+<h3>2018-02-08 Thursday</h3>
+<ul>
+<li>Attending: Rick, Andrea, Charmi, Amber, Alyssa, Sarah</li>
+<li>Agenda
+<ul>
+<li>Discuss
+<ul>
+<li>Excerpt from Palmer chapter on <a href="pdfs/20180202145140744.pdf">Fourier analysis</a>.</li>
+<li>Watch <a href="https://youtu.be/spUNpyF58BY">video</a></li>
+<li>Rick’s <a href="https://psu-psychology.github.io/psy-525-vision-spring-2017/slides/2018-01-29-retinal-image.html#34">lecture notes</a> on Fourier analysis</li>
+</ul></li>
+</ul></li>
+<li>Next Meeting
+<ul>
+<li>Read paper on Visual Acuity</li>
+</ul></li>
+</ul>
+</div>
+<div id="thursday-8" class="section level3">
+<h3>2018-02-01 Thursday</h3>
+<ul>
+<li>Attending:</li>
+<li>Agenda
+<ul>
+<li>Reports
+<ul>
+<li>Lab Dinner graduate recruit - Monday 2/12 @ 5:45 pm @ The Field</li>
+</ul></li>
+<li>Discuss
+<ul>
+<li>Jackson, A.F., &amp; Bolger, D. J. (2014) The neurophysiological bases of EEG and EEG measurement: a review for the rest of us. <em>Psychophysiology</em>. 2014 Nov;51(11):1061-71. Retrieved from <a href="http://dx.doi.org/10.1111/psyp.12283" class="uri">http://dx.doi.org/10.1111/psyp.12283</a>. Epub 2014 Jul 17.</li>
+</ul></li>
+</ul></li>
+<li>Next Meeting</li>
+</ul>
+</div>
+<div id="thursday-9" class="section level3">
+<h3>2018-01-25 Thursday</h3>
+<ul>
+<li>Agenda
+<ul>
+<li>Reports
+<ul>
+<li>Psi Chi dates
+<ul>
+<li>Deadlines: Application due <strong><em>March 23rd at 4:00 pm</em></strong></li>
+<li>Conceptual or Empirical research application: Submit as an email attachment (MS Word document) to <a href="mailto:psichi.honorsociety.psu@gmail.com" class="email">psichi.honorsociety.psu@gmail.com</a> by March 23, 2018 by 6 PM.</li>
+<li>Need to figure out what questions were more important in the domain in order to extract data from.</li>
+<li>Psi Chi Conference Date: <strong>April 12th 2-4:30pm</strong></li>
+</ul></li>
+<li><a href="https://undergradresearch.psu.edu/exhibition/">Undergrad conference dates</a>
+<ul>
+<li>Poster Presentation—traditional research poster</li>
+<li>Performance—Limited to 5 minutes</li>
+<li>Oral Presentation (1 slide/visual, 5 minutes)—students will present their research/creative work in 5 minutes using 1</li>
+<li>PowerPoint slide or 1 visual display (i.e. an original piece of visual art)</li>
+<li>Entries will be accepted <strong><em>February 12-March 28, 2018</em></strong></li>
+<li>Poster Presentation Date: <strong>April 18th, 5-8pm</strong></li>
+</ul></li>
+<li>Discuss: Cohen, M. X. (2017). Where Does EEG Come From and What Does It Mean? <em>Trends in Neurosciences</em>, <em>40</em>(4), 208–218. Retrieved from <a href="http://dx.doi.org/10.1016/j.tins.2017.02.004" class="uri">http://dx.doi.org/10.1016/j.tins.2017.02.004</a>. | <a href="lab-mtgs/notes-cohen-2017.html">Notes</a> |</li>
+</ul></li>
+</ul></li>
+<li>Next Meeting
+<ul>
+<li>Jackson, A.F., &amp; Bolger, D. J. (2014) The neurophysiological bases of EEG and EEG measurement: a review for the rest of us. <em>Psychophysiology</em>. 2014 Nov;51(11):1061-71. Retrieved from <a href="http://dx.doi.org/10.1111/psyp.12283" class="uri">http://dx.doi.org/10.1111/psyp.12283</a>. Epub 2014 Jul 17.</li>
+<li>Talk about the grant that Dr. Gilmore is writing about testing different brain measuring equipment</li>
+</ul></li>
+</ul>
+</div>
+<div id="thursday-10" class="section level3">
+<h3>2018-01-18 Thursday</h3>
+<ul>
+<li>Agenda
+<ul>
+<li>Goal-setting</li>
+<li>Assign Psi Chi submission info and report (Sarah)</li>
+<li>Info about undergrad research conference (Charmi)</li>
+<li>Discuss <a href="http://jupyter.org">jupyter notebooks</a> and Rick’s preliminary work on <a href="https://github.com/tyarkoni/pliers"><code>pliers</code></a>, a tool to apply computer vision/machine learning tools to images, video, and audio.</li>
+</ul></li>
+<li>Next meeting
+<ul>
+<li>Cohen, M. X. (2017). Where Does EEG Come From and What Does It Mean? <em>Trends in Neurosciences</em>, 40(4), 208–218. Retrieved from <a href="http://dx.doi.org/10.1016/j.tins.2017.02.004" class="uri">http://dx.doi.org/10.1016/j.tins.2017.02.004</a></li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div id="fall-2017" class="section level2">
+<h2>Fall 2017</h2>
+</div>
+<div id="section-24" class="section level2">
+<h2>2017-11-30</h2>
+<ul>
+<li>Attending
+<ul>
+<li>Rick, Andrea, Charmi, Sarah, Alyssa</li>
+</ul></li>
+<li>Agenda
+<ul>
+<li>Announcements
+<ul>
+<li>Lab breakfast next Thursday, 2017-12-7 at E. College Waffle Shop</li>
+</ul></li>
+<li>Old business
+<ul>
+<li>Stand up reports
+<ul>
+<li>Andrea</li>
+<li>Alyssa
+<ul>
+<li>Infant MOCO EEG poster for ICIS 2018. <a href="https://github.com/gilmore-lab/infant-moco-eeg/blob/master/pubs/icis-2018-poster/icis-2018-abstract-2017-12-01.Rmd">Poster draft</a>. <a href="https://github.com/gilmore-lab/infant-moco-eeg/tree/master/analysis">Analysis</a>.</li>
+</ul></li>
+<li>Sarah</li>
+<li>Minnie
+<ul>
+<li>Submitted optic flow paper to computer vision/agriculture journal.</li>
+</ul></li>
+<li>Charmi
+<ul>
+<li><a href="https://github.com/gilmore-lab/brain-behavior-data">Brain-Behavior data repo</a>.</li>
+</ul></li>
+</ul></li>
+<li>Read and discuss: MacLean, Evan L., et al (2014). The evolution of self-control. <em>Proceedings of the National Academy of Sciences</em>, <em>111</em>(20), E2140-E2148. Retrieved from <a href="http://dx.doi.org/10.1073/pnas.1323533111" class="uri">http://dx.doi.org/10.1073/pnas.1323533111</a>. <a href="https://figshare.com/articles/MacLean_et_al_PNAS_2014_Self-Control_Data/5579335">Data on FigShare</a>. ## 2017-11-09</li>
+</ul></li>
+</ul></li>
+<li>Attending
+<ul>
+<li>Rick, Minnie, Andrea, Charmi, Alyssa</li>
+</ul></li>
+<li>Agenda
+<ul>
+<li>Announcements
+<ul>
+<li><strong>No lab meeting Thursday, 2017-11-16</strong></li>
+<li>Next lab meeting Thursday, 2017-11-30.</li>
+</ul></li>
+<li>Old business
+<ul>
+<li>Stand-up reports</li>
+<li>Finish background discussion on optic flow projects. <a href="http://gilmore-lab.github.io/2017-10-18-the-whole-elephant">Rick’s developmental area talk</a>.</li>
+</ul></li>
+<li>New business
+<ul>
+<li>Read and discuss: MacLean, Evan L., et al (2014). The evolution of self-control. <em>Proceedings of the National Academy of Sciences</em>, <em>111</em>(20), E2140-E2148. Retrieved from <a href="http://dx.doi.org/10.1073/pnas.1323533111" class="uri">http://dx.doi.org/10.1073/pnas.1323533111</a>. <a href="https://figshare.com/articles/MacLean_et_al_PNAS_2014_Self-Control_Data/5579335">Data on FigShare</a>.</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="section-25" class="section level2">
+<h2>2017-11-02</h2>
+<ul>
+<li>Attending
+<ul>
+<li>Rick, Charmi, Bin, Alyssa</li>
+</ul></li>
+<li>Agenda
+<ul>
+<li>Announcements
+<ul>
+<li><strong>No lab meeting Thursday, 2017-11-16</strong></li>
+</ul></li>
+<li>Old business
+<ul>
+<li><a href="https://github.com/gilmore-lab/brain-behavior-data">Size matters project</a> (Charmi lead)
+<ul>
+<li>Rick, Charmi schedule meeting time</li>
+</ul></li>
+<li><a href="https://github.com/gilmore-lab/moco">Infant MOCO project</a> (Alyssa lead)</li>
+<li><a href="https://github.com/gilmore-lab/child-motion-form">Child MOFO project</a> (Michael lead)</li>
+<li>Databrary (Andrea lead)</li>
+<li>PLAY (Rick lead)</li>
+</ul></li>
+<li>New business
+<ul>
+<li>Background on optic flow projects. <a href="http://gilmore-lab.github.io/2017-10-18-the-whole-elephant">Rick’s developmental area talk</a>.</li>
+</ul></li>
+</ul></li>
+</ul>
+<div id="section-26" class="section level3">
+<h3>2017-10-26</h3>
+<ul>
+<li>Attending
+<ul>
+<li>Rick, Charmi, Sara, Bin, Alyssa</li>
+</ul></li>
+<li>Agenda
+<ul>
+<li>Old business
+<ul>
+<li><a href="https://github.com/gilmore-lab/brain-behavior-data">Size matters project</a> (Charmi lead)
+<ul>
+<li>Rick, Charmi schedule meeting time</li>
+</ul></li>
+<li><a href="https://github.com/gilmore-lab/moco">Infant MOCO project</a> (Alyssa lead)</li>
+<li><a href="https://github.com/gilmore-lab/child-motion-form">Child MOFO project</a> (Michael lead)</li>
+</ul></li>
+<li>New business
+<ul>
+<li><a href="https://usegalaxy.org/">Galaxy project</a></li>
+<li>PLAY project. | <a href="https://nyu.databrary.org/volume/254">Pilot data on Databrary</a> | <a href="https://nyu.databrary.org/volume/444">Additional data</a> | <a href="https://github.com/PLAY-behaviorome">GitHub repo</a> |
+<ul>
+<li>Brainstorm about how to represent, visualize data</li>
+</ul></li>
+<li>Developing expertise in <a href="https://github.com/gilmore-lab/xaringen">Xaringen</a> package for making presentations.</li>
+<li>Developing expertise in <a href="http://dplyr.tidyverse.org/">dplyr</a>.
+<ul>
+<li>Specific goal: extract participant demographics from infant MOCO &amp; infant MOFO datasets.</li>
+</ul></li>
+<li>Developing expertise in <a href="https://github.com/crsh/papaja">papaja</a>
+<ul>
+<li>Specific goal: convert working manuscripts into this format</li>
+</ul></li>
+<li>Develop workflow for ‘re-analyzing’ data stored on OSF. <a href="https://github.com/chartgerink/osfr">This</a> may be helpful.</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="section-27" class="section level3">
+<h3>2017-10-12</h3>
+<ul>
+<li>Attending</li>
+<li>Agenda
+<ul>
+<li>Old business
+<ul>
+<li><a href="https://github.com/gilmore-lab/brain-behavior-data">Size matters project</a> (Charmi lead)</li>
+<li><a href="https://github.com/gilmore-lab/moco">Infant MOCO project</a> (Alyssa lead)</li>
+</ul></li>
+<li>New business
+<ul>
+<li>Discuss <a href="lab-mtgs/leonard-lee-schultz-2017.html">Leonard, Lee, &amp; Schultz 2017</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="section-28" class="section level3">
+<h3>2017-10-05</h3>
+<ul>
+<li>Agenda
+<ul>
+<li>Attending
+<ul>
+<li>Rick</li>
+</ul></li>
+<li>Old business
+<ul>
+<li><a href="https://github.com/gilmore-lab/brain-behavior-data">Size matters project</a> (Charmi lead)
+<ul>
+<li>ROG add Charmi to GitHub repo</li>
+</ul></li>
+<li><a href="https://github.com/gilmore-lab/moco">Infant MOCO project</a> (Alyssa lead)
+<ul>
+<li>ROG check on local pull/push; resolve conflict with Andrea’s latest</li>
+</ul></li>
+</ul></li>
+<li>New business
+<ul>
+<li>Read and discuss next week: Leonard, J. A., Lee, Y., &amp; Schulz, L. E. (2017). Infants make more attempts to achieve a goal when they see adults persist. <em>Science</em>, <em>357</em>(6357), 1290–1294. Retrieved from <a href="http://dx.doi.org/10.1126/science.aan2317" class="uri">http://dx.doi.org/10.1126/science.aan2317</a>. <a href="http://science.sciencemag.org/highwire/filestream/699641/field_highwire_adjunct_files/1/aan2317s1.mp4">video sample</a>. <a href="https://osf.io/xjz8e/">Data &amp; code</a>.</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="section-29" class="section level3">
+<h3>2017-09-28</h3>
+<ul>
+<li>Agenda
+<ul>
+<li>Attending
+<ul>
+<li>Charmi, Sarah, Alyssa, Bin, Andrea, Rick</li>
+</ul></li>
+<li>New business
+<ul>
+<li><a href="https://github.com/gilmore-lab/brain-behavior-data">Size matters project</a> (Charmi lead)</li>
+<li><a href="https://github.com/gilmore-lab/moco">Infant MOCO project</a> (Alyssa lead)</li>
+<li><a href="https://nyu.databrary.org/volume/254#panel-data">PLAY Project Pilot</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="section-30" class="section level3">
+<h3>2017-09-14</h3>
+<ul>
+<li>Agenda
+<ul>
+<li>Attending
+<ul>
+<li>Rick, Andrea, Alyssa, Charmi, Bin</li>
+</ul></li>
+<li>Old business
+<ul>
+<li>ACI-ICS account creation
+<ul>
+<li>Lab rstudio projects are in <code>/storage/home/rog1/rstudio/</code></li>
+<li>Log in to <code>http://rstudio.aci.ics.psu.edu</code></li>
+<li>From RStudio, open “Tools/Shell…”</li>
+<li>At command line, enter “pwd” and hit ENTER</li>
+<li>Then enter “cd /storage/home/rog1/rstudio”</li>
+</ul></li>
+<li>DataCamp</li>
+<li>Databrary</li>
+</ul></li>
+<li>New business
+<ul>
+<li>Assign staff to teams
+<ul>
+<li>Size matters project, see
+<ul>
+<li>Herculano-Houzel, S., Catania, K., Manger, P. R., &amp; Kaas, J. H. (2015). Mammalian Brains Are Made of These: A Dataset of the Numbers and Densities of Neuronal and Nonneuronal Cells in the Brain of Glires, Primates, Scandentia, Eulipotyphlans, Afrotherians and Artiodactyls, and Their Relationship with Body Mass. Brain, behavior and evolution, 86(3-4), 145–163. Retrieved from <a href="http://dx.doi.org/10.1159/000437413" class="uri">http://dx.doi.org/10.1159/000437413</a>.</li>
+<li><a href="https://www.ted.com/talks/suzana_herculano_houzel_what_is_so_special_about_the_human_brain#t-788756" class="uri">https://www.ted.com/talks/suzana_herculano_houzel_what_is_so_special_about_the_human_brain#t-788756</a></li>
+<li>Charmi (lead)</li>
+</ul></li>
+<li>Infant motion coherence (MOCO) EEG project. | <a href="https://nyu.databrary.org/volume/146">Databrary</a> | - Alyssa (lead)</li>
+<li>Child MOCO psychophysics | <a href="https://nyu.databrary.org/volume/218">Databrary</a> |</li>
+<li>Child MOFO EEG project | <a href="https://nyu.databrary.org/volume/144">Databrary</a> |
+<ul>
+<li>Add SfN poster to Databrary</li>
+</ul></li>
+</ul></li>
+<li>Lab how-tos
+<ul>
+<li>On-boarding: CITI, Child Abuse, Databrary, ACI-ICS</li>
+<li>Slack, Asana, DataCamp, PaperPile</li>
+</ul></li>
+</ul></li>
+<li>Next week
+<ul>
+<li>Rick’s talk about optic flow, probably based on <a href="http://gilmore-lab.github.io/temple-2017-02-27">this</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="section-31" class="section level3">
+<h3>2017-09-05</h3>
+<ul>
+<li>Agenda
+<ul>
+<li>Apply for <a href="https://ics.psu.edu/advanced-cyberinfrastructure/accounts/">ACI-ICS accounts</a>. Rick (rog1) is principal investigator (PI).</li>
+<li><a href="http://databrary.org/register">Register</a> for affiliate access to Databrary. Andrea will provide further details.</li>
+<li>Plan work topics for semester
+<ul>
+<li>Learn R Markdown</li>
+<li>R Markdown for lab/project management
+<ul>
+<li>Lab page(s)</li>
+<li>Project sites or pages</li>
+</ul></li>
+<li>Active projects
+<ul>
+<li><a href="http://databrary.org">Databrary</a> and <a href="http://datavyu.org">Datavyu</a></li>
+<li>Infant MOCO EEG</li>
+<li>Child motion form <a href="https://github.com/gilmore-lab/child-motion-form">child-motion-form</a></li>
+<li><a href="https://github.com/gilmore-lab/child-motion-psychophysics">Child motion psychophysics</a></li>
+<li><a href="https://nyu.databrary.org/volume/254">PLAY</a> and <a href="https://nyu.databrary.org/volume/444">pilot data</a></li>
+</ul></li>
+<li>Read primary source literature papers</li>
+</ul></li>
+</ul></li>
+<li>Attending
+<ul>
+<li>Rick, Andrea, Andrew, Charmi, Alyssa, Bin LIAO</li>
+</ul></li>
+</ul>
+</div>
+<div id="section-32" class="section level3">
+<h3>2017-08-31</h3>
+<ul>
+<li>Agenda
+<ul>
+<li>Meeting time
+<ul>
+<li>Move to 8:15 am on Tuesdays, starting 9/5.</li>
+</ul></li>
+<li>Goals for the semester
+<ul>
+<li>Read and understand primary literature</li>
+</ul></li>
+<li>Announcements
+<ul>
+<li>Rick giving <a href="http://gilmore-lab.github.io/aci-ics-2017-09-07/">ACI-ICS talk</a> on Thursday, September 7, 1:30-3:00 pm in 223A HUB.</li>
+<li>Moved to 503 Moore</li>
+<li>Fun illustration of <a href="http://i.imgur.com/MbuGlD2.gifv">kestrel head stabilization</a>.</li>
+</ul></li>
+</ul></li>
+<li>Attending
+<ul>
+<li>Rick, Andrea, Alyssa (2nd year in lab), Lena, Bin, Andrew</li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div id="next-meeting-march-14-2017" class="section level2">
+<h2>Next Meeting: March 14, 2017</h2>
+<ul>
+<li>Katie’s report on Paperpile</li>
+<li>Read and discuss (Rick, Daved, Michael leads)
+<ul>
+<li>Warren, W. H. (2009). How do animals get about by vision? Visually controlled locomotion and orientation after 50 years. British Journal of Psychology, 100(S1), 277–281. <a href="https://doi.org/10.1348/000712609X414150" class="uri">https://doi.org/10.1348/000712609X414150</a></li>
+</ul></li>
+<li>No meeting 2017-03-21</li>
+</ul>
+</div>
+<div id="spring-2017-lab-meeting-minutes" class="section level2">
+<h2>Spring 2017 Lab Meeting Minutes</h2>
+<ul>
+<li>2017-02-28
+<ul>
+<li>Reports on GitHub/Databrary dataset quality check for
+<ul>
+<li>Child Motion Form (MOFO)</li>
+<li>Child/Adult MOCO Behavior</li>
+</ul></li>
+<li>Read and discuss <a href="https://aeon.co/essays/how-cognitive-maps-help-animals-navigate-the-world" class="uri">https://aeon.co/essays/how-cognitive-maps-help-animals-navigate-the-world</a></li>
+</ul></li>
+<li>2017-02-21
+<ul>
+<li>Updates about PLAY project demographics</li>
+<li>Discuss GitHub/Databrary dataset quality check for
+<ul>
+<li>Infant MOCO</li>
+<li>Child Motion Form (MOFO)</li>
+<li>Child/Adult MOCO Behavior</li>
+</ul></li>
+<li>Discuss <a href="http://wordbank.stanford.edu">WordBank</a></li>
+</ul></li>
+<li>2017-02-07
+<ul>
+<li>Katie’s report on <a href="http://paperpile.com">Paperpile</a>
+<ul>
+<li>Katie will demo its use on the RIDIR grant next week.</li>
+</ul></li>
+<li>Plan for using <a href="http://alias.libraries.psu.edu/ERESOURCES/PSU01568" class="uri">http://alias.libraries.psu.edu/ERESOURCES/PSU01568</a> to collect and visualize some data for the PLAY project</li>
+</ul></li>
+<li>2017-01-31
+<ul>
+<li>Watch &amp; discuss this video: <a href="https://youtu.be/NGFO0kdbZmk" class="uri">https://youtu.be/NGFO0kdbZmk</a></li>
+<li>Discuss preregistration + Read: Chambers, C., Munafò, M., &amp; signatories, more than 80. (2013, June 5). Trust in science would be improved by study pre-registration. The Guardian. Retrieved from <a href="https://www.theguardian.com/science/blog/2013/jun/05/trust-in-science-study-pre-registration" class="uri">https://www.theguardian.com/science/blog/2013/jun/05/trust-in-science-study-pre-registration</a> + Read: Frank, M. (2016, July 22). Preregister everything. <a href="http://babieslearninglanguage.blogspot.com/2016/07/preregister-everything.html" class="uri">http://babieslearninglanguage.blogspot.com/2016/07/preregister-everything.html</a>.</li>
+</ul></li>
+<li>2017-01-24
+<ul>
+<li>Check-in on DataCamp</li>
+<li>Side-by-side evaluation of <a href="http://www.zotero.org">Zotero</a> vs. <a href="https://paperpile.com/">PaperPile</a></li>
+<li>Project-by-project workflow review
+<ul>
+<li><a href="https://github.com/gilmore-lab/symmetry-sorting">Symmetry sorting</a></li>
+<li><a href="https://github.com/gilmore-lab/moco">Infant moco</a></li>
+<li><a href="https://github.com/gilmore-lab/moco-3-pattern-psychophysics">Child moco behavior</a></li>
+<li><a href="https://github.com/gilmore-lab/child-motion-form">Child motion form (MOFO)</a> vs. <a href="https://github.com/gilmore-lab/mofo">This</a></li>
+</ul></li>
+<li>Compare to <a href="http://psu-psychology.github.io/psy-511-reproducible-research-spring-2017/in-class-activities/2017-01-23.html#22" class="uri">http://psu-psychology.github.io/psy-511-reproducible-research-spring-2017/in-class-activities/2017-01-23.html#22</a></li>
+<li>And to PLAY Project <a href="https://dev1.ed-projects.nyu.edu/wikis/docuwiki/doku.php/collection">wiki</a></li>
+</ul></li>
+<li>2017-01-17
+<ul>
+<li>Read and discuss: Munafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Sert, N. P. du, … Ioannidis, J. P. A. (2017). A manifesto for reproducible science. Nature Human Behaviour, 1, 0021. <a href="https://doi.org/10.1038/s41562-016-0021" class="uri">https://doi.org/10.1038/s41562-016-0021</a>.
+<ul>
+<li>Slides. <a href="talk-slides/munafo-etal-2017.html">HTML</a>. <a href="talk-slides/munafo-etal-2017.Rmd">Rmd</a></li>
+</ul></li>
+<li>Discuss plan for learning R and R Markdown using <a href="http://www.datacamp.com">DataCamp</a> courses.
+<ul>
+<li>Sign-up link: <a href="https://www.datacamp.com/groups/1b7b16b432bbc53dc4edfe34923406705194b3e7/invite" class="uri">https://www.datacamp.com/groups/1b7b16b432bbc53dc4edfe34923406705194b3e7/invite</a></li>
+</ul></li>
+</ul></li>
+<li>2017-01-10
+<ul>
+<li>Attending</li>
+<li>Agenda
+<ul>
+<li>Complete Forms for Credit</li>
+<li>Ensure all training is complete</li>
+<li>This semester we will focus on learning R Markdown
+<ul>
+<li>Training Videos</li>
+<li>Mini projects</li>
+<li>Ultimate goal: Convert current lab website to R Markdown<br />
+</li>
+</ul></li>
+</ul></li>
+<li>Remember to check the Slack channel: <a href="http://gilmore-lab.slack.com" class="uri">http://gilmore-lab.slack.com</a></li>
+</ul></li>
+</ul>
+</div>
+<div id="fall-2016" class="section level2">
+<h2>Fall 2016</h2>
+<ul>
+<li>2016-10-25
+<ul>
+<li>Attending - Rick, Andrea, Amber, Alyssa, Sam, Michael O., Shivani, Michelle</li>
+<li>Agenda
+<ul>
+<li>Discuss figures for moco behavioral child and adult data</li>
+<li>Discuss Child Study Center talk</li>
+</ul></li>
+</ul></li>
+<li>2016-10-11
+<ul>
+<li>Attending - Rick, Andrea, Amber, Daved, Michael O., Katie, Hifzah, Alyssa, Michelle<br />
+</li>
+<li>Agenda
+<ul>
+<li>Discuss: Fesi, J.F., Thomas, A.L., &amp; Gilmore, R.O. (2014). Cortical responses to optic flow and motion contrast across patterns and speeds. Vision Research, 100, 56–71. <a href="http://doi.org/10.1016/j.visres.2014.04.004">doi:10.1016/j.visres.2014.04.004</a>.</li>
+<li>Review draft <a href="https://github.com/gilmore-lab/child-motion-form/blob/master/pubs/sfn-16-poster/poster_landscape.pdf">poster for SfN 16</a>.</li>
+</ul></li>
+<li>Action Items
+<ul>
+<li>Write Biography in Markdown Format for <a href="http://gilmore-lab.github.io/pages/students.html">lab website</a> - <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Cheatsheet</a>
+<ul>
+<li>Incorporate at least <strong>one link</strong> and send to lab gmail account<br />
+</li>
+<li>Michael D., Daved, Alyssa</li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li>2016-09-27
+<ul>
+<li>Attending - Rick, Andrea, Amber, Alyssa, Michael O., Hifzah, Sam</li>
+<li>Agenda
+<ul>
+<li>Discuss 2nd Chapter ‘An Introduction to Vision Science’: <a href="https://psu.app.box.com/files/0/f/11123835210/Palmer-1999">gilmore-lab/references/Palmer-1999/palmer-1999-chap-2.pdf</a></li>
+</ul></li>
+<li>Action Items
+<ul>
+<li>Everyone Read Fesi 2011 ‘Distinct cortical responses to 2D figures defined by motion contrast’ found
+<ul>
+<li>On Box: <a href="https://psu.app.box.com/files/0/f/11458072981/1/f_96049144629">gilmore-lab/references/LabReading/Fesi2011.pdf</a><br />
+</li>
+<li>On PubMed: <a href="https://www-ncbi-nlm-nih-gov.ezaccess.libraries.psu.edu/pubmed/21820002">Distinct cortical responses to 2D figures defined by motion contrast</a><br />
+</li>
+</ul></li>
+<li>Write Biography in Markdown Format - <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Cheatsheet</a> and send to lab gmail account
+<ul>
+<li>Michael D., Daved, Alyssa</li>
+</ul></li>
+<li>Required Training: Complete by 9/15/2016<br />
+Send all Certificates of Completion to the lab gmail account
+<ul>
+<li><a href="http://lrn.psu.edu/">Clery Act Training</a>
+<ul>
+<li>Daved, Michael D., Michelle</li>
+</ul></li>
+<li><a href="http://lrn.psu.edu/">Building a Safe Penn State: Reporting Child Abuse</a>
+<ul>
+<li>Daved, Michael D., Hifzah</li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li>2016-09-13
+<ul>
+<li>Attending - Rick, Andrea, Michael O., Michael D., Amber, Katie, Hifzah, Daved, Michelle, Alyssa, Shivani</li>
+<li>Agenda
+<ul>
+<li>Discuss 1st chapter ‘An Introduction to Vision Science’: <a href="https://psu.app.box.com/files/0/f/11123835210/Palmer-1999">gilmore-lab/references/Palmer-1999/palmer-1999-chap-1.pdf</a></li>
+</ul></li>
+<li>Action Items
+<ul>
+<li>Read 2nd Chapter ‘An Introduction to Vision Science’: <a href="https://psu.app.box.com/files/0/f/11123835210/Palmer-1999">gilmore-lab/references/Palmer-1999/palmer-1999-chap-2.pdf</a></li>
+<li>Write Biography in <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Format</a> and send to lab gmail account<br />
+</li>
+<li>Required Training: Complete by 9/15/2016<br />
+Send all Certificates of Completion to the lab gmail account
+<ul>
+<li><a href="http://lrn.psu.edu/">Clery Act Training</a>
+<ul>
+<li>Daved, Michael D., Michelle, Hifzah<br />
+</li>
+</ul></li>
+<li><a href="http://lrn.psu.edu/">Building a Safe Penn State: Reporting Child Abuse</a>
+<ul>
+<li>Daved, Michael D., Hifzah<br />
+</li>
+</ul></li>
+<li><a href="http://citi.psu.edu/">IRB CITI Training</a>
+<ul>
+<li>Complete both Modules: Biomedical and Social Science<br />
+</li>
+<li>Hifzah<br />
+</li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li>2016-08-30
+<ul>
+<li>Attending - Rick, Andrea, Daved, Michael O., Sam, Shivani, Michelle, Katie, Auburn, Alyssa, Hifzah</li>
+<li>Agenda
+<ul>
+<li>Overview of lab meetings and projects for the semester.</li>
+<li>Required Training: Complete by 9/15/2016<br />
+Send all Certificates of Completion to the lab gmail account
+<ul>
+<li><a href="http://lrn.psu.edu/">Clery Act Training</a>
+<ul>
+<li>Daved, Sam, Shivani, Michael D., Michelle, Alyssa, Hifzah<br />
+</li>
+</ul></li>
+<li><a href="http://lrn.psu.edu/">Building a Safe Penn State: Reporting Child Abuse</a>
+<ul>
+<li>Daved, Sam, Shivani, Michael D., Alyssa, Hifzah<br />
+</li>
+</ul></li>
+<li><a href="http://citi.psu.edu/">IRB CITI Training</a>
+<ul>
+<li>Complete both Modules: Biomedical and Social Science<br />
+</li>
+<li>Sam, Alyssa, Hifzah<br />
+</li>
+</ul></li>
+<li>Watch Epilepsy Video
+<ul>
+<li>Michael D. - Need to Schedule</li>
+<li>Katie, Auburn, Hifzah - Today 10:30am Room 449</li>
+<li>Alyssa - Today after lab meeting Room 449</li>
+</ul></li>
+<li>Background Check Completion Date</li>
+</ul></li>
+</ul></li>
+<li>Action Items
+<ul>
+<li>Send .pdf of completion certificates to the lab gmail account</li>
+<li>Write Biography in <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Format</a> and send to lab gmail account</li>
+<li>Read 1st chapter ‘An Introduction to Vision Science’ - posted on box <a href="https://psu.app.box.com/files/0/f/11123835210/Palmer-1999">gilmore-lab/references/Palmer-1999/palmer-1999-chap-1.pdf</a></li>
+</ul></li>
+</ul></li>
+<li>2016-08-23
+<ul>
+<li>Attending - Daved, Michael O., Sam, Shivani, Michelle, Katie, Auburn, Alyssa, Hifzah</li>
+<li>Agenda
+<ul>
+<li>Introductions
+<ul>
+<li>Andrea Seisler, Lab Manager</li>
+<li>Returning Lab Members
+<ul>
+<li>Daved, Michael O., Sam, Shivani, Raya, Michael D. Michelle, Karina, Katie, Auburn<br />
+</li>
+</ul></li>
+<li>New Lab Members: Alyssa and Hifzah</li>
+</ul></li>
+<li>Highlights of active projects
+<ul>
+<li>Optic Flow
+<ul>
+<li><a href="https://nyu.databrary.org/volume/146">Infant motion coherence (MOCO) EEG</a> - 7 more participants<br />
+</li>
+<li><a href="https://nyu.databrary.org/volume/144">Child motion form (MOFO) EEG</a> - Analysis/Writing<br />
+</li>
+<li><a href="https://nyu.databrary.org/volume/218">Child motion form (MOCO) behavior</a> - 1 more participant<br />
+</li>
+<li>Infant motion statistics</li>
+</ul></li>
+<li>Symmetry
+<ul>
+<li>Adults’ sorting behavior - Analysis/Writing<br />
+</li>
+</ul></li>
+<li><a href="http://nyu.databrary.org/">Databrary</a></li>
+</ul></li>
+<li><p>Did everyone get their background clearances completed? These are required to participate in data collection. If not, please see Elaine Prestia (140 Moore) to see what you still need.</p></li>
+<li>Required Training: Complete by 9/15/2016 Send all Certificates of Completion to the lab gmail account
+<ul>
+<li><a href="http://lrn.psu.edu/">Clery Act Training</a>
+<ul>
+<li>Daved, Sam, Shivani, Michael D., Michelle, Alyssa, Hifzah<br />
+</li>
+</ul></li>
+<li><a href="http://lrn.psu.edu/">Building a Safe Penn State: Reporting Child Abuse</a>
+<ul>
+<li>Daved, Sam, Shivani, Michael D., Alyssa, Hifzah<br />
+</li>
+</ul></li>
+<li><a href="http://citi.psu.edu/">IRB CITI Training</a>
+<ul>
+<li>Complete both Modules: Biomedical and Social Science<br />
+</li>
+<li>Sam, Alyssa, Hifzah<br />
+</li>
+</ul></li>
+<li>Watch Epilepsy Video
+<ul>
+<li>Michael D., Karina - Need to Schedule</li>
+<li>Katie, Auburn, Hifzah - 8/30 10:30am Room 449</li>
+<li>Alyssa - 8/30 after lab meeting Room 449</li>
+</ul></li>
+</ul></li>
+<li><p>If you have trouble logging in for the Clery Act or Reporting Child Abuse Training, please email <a href="mailto:learning@psu.edu" class="email">learning@psu.edu</a> to have your account reset.</p></li>
+<li><p>Gather Contact information: PSU ID, PSU email, email for calendar invitations, phone</p></li>
+<li>Lab participation
+<ul>
+<li>Volunteer or Credit?
+<ul>
+<li>If participating in lab for Credit, the psych 494 form must be signed by Dr. Gilmore and returned to the Psychology Advising Office (125 Moore) by Friday 8/26/2016 or you will be charged a late fee.<br />
+</li>
+</ul></li>
+<li>How many hours per week?
+<ul>
+<li>2 credits = 6 hours<br />
+</li>
+<li>3 credits = 9 hours</li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li>Action Items
+<ul>
+<li>First students for paper assignments - Sam, Shivani, Alyssa, Hifzah<br />
+</li>
+<li>Interested in learning
+<ul>
+<li>coding (e.g. R, SPSS)</li>
+<li>MRI data collection/analysis</li>
+<li>post ideas for papers to discuss</li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+<div id="spring-2016" class="section level3">
+<h3>Spring 2016</h3>
+<ul>
+<li>2016-03-29
+<ul>
+<li>Next meeting on 2016-04-12</li>
+</ul></li>
+<li>2016-03-22
+<ul>
+<li>Agenda
+<ul>
+<li>Participants for AAC/DS project, email Emily Neumann, <a href="mailto:eeneumann3@gmail.com" class="email">eeneumann3@gmail.com</a></li>
+<li>Video coding project update
+<ul>
+<li>8 to code; 5 complete. On moving/stationary pass.</li>
+<li>Reliability coding on every 5th episode/segment.</li>
+<li>Next step is pass on moving segments by locomotion type.</li>
+</ul></li>
+<li>Next optic flow behavior pilot is on Friday.</li>
+<li>Infant MOCO status
+<ul>
+<li>One last night. almost 8 mos. Another Friday.</li>
+</ul></li>
+<li>Paper for next week? Michael and Jun will decide and post link to reference DOI.</li>
+<li>Tools of the trade: git and GitHub, Markdown, Databrary, R/RStudio, Datavyu, Asana, Zotero, Box.</li>
+</ul></li>
+</ul></li>
+<li>2016-03-15
+<ul>
+<li>Debrief about optic flow behavior pilot.
+<ul>
+<li>4 year-old. Tried new lighting bar. Camera light a distraction. Need to mask. Andrea, Katie, Corinna, Daved, Raya.</li>
+<li>Button pressing difficult. Need to try pointing. Revise explanatory language and review (ARS). Change battery halfway through. Rick would like to see video of protocol.
+<ul>
+<li>Explanatory language for instructions<a href="https://github.com/gilmore-lab/moco-3-pattern-psychophysics/blob/master/notes/moco-3pat-psychophysics-participant-instructions.md">moco-3pat-psychophysics-participant-instructions</a> updated on 2016-03-15 (ars)</li>
+</ul></li>
+</ul></li>
+<li>Update about child MOFO analysis, and infant MOCO
+<ul>
+<li>Fesi et al 2011 and 2014 papers for image descriptions.</li>
+<li>Rick and Andrea to meet at HEF to review.</li>
+</ul></li>
+<li>Recruiting update.
+<ul>
+<li>Making calls MTWR.</li>
+<li>Are recruiters saving spreadsheet properly? Need to revise protocol and procedure for downloading and uploading spreadsheet. Will review protocol next week.
+<ul>
+<li>Excel is set up to Autosave every 5 minutes</li>
+<li>Updated protocol [Phone_Call_Scheduling_Procedure] (<a href="https://github.com/gilmore-lab/protocols/blob/master/Phone_Call_Scheduling_Procedure.md" class="uri">https://github.com/gilmore-lab/protocols/blob/master/Phone_Call_Scheduling_Procedure.md</a>) on 2016-03-16 (ars)</li>
+</ul></li>
+</ul></li>
+<li>Continued discussion of <a href="https://github.com/gilmore-lab/symmetry-sorting">symmetry sorting project</a>.</li>
+<li>Discuss next week.
+<ul>
+<li>Update about <strong>video coding project</strong>.</li>
+<li>Assign paper for week following.</li>
+</ul></li>
+</ul></li>
+<li>2016-02-23
+<ul>
+<li>Discussion of Lee, D., &amp; Seo, H. (2016). Neural Basis of Strategic Decision Making. Trends in Neurosciences, 39(1), 40–48. <a href="http://doi.org/10.1016/j.tins.2015.11.002" class="uri">http://doi.org/10.1016/j.tins.2015.11.002</a>. Daved, Michelle, and Michael O.</li>
+<li>Next week: finish symmetry sorting project update and MOFO data analysis update.</li>
+</ul></li>
+<li>2016-02-16
+<ul>
+<li>Rick discussed recent progress on symmetry sorting experiment.</li>
+</ul></li>
+<li>2016-02-09
+<ul>
+<li>Discussed
+<ul>
+<li>Plot.ly</li>
+<li>ReadCube</li>
+<li>ResearchGate.net</li>
+</ul></li>
+<li>For 2016-02-23
+<ul>
+<li>Read and discuss: Lee, D., &amp; Seo, H. (2016). Neural Basis of Strategic Decision Making. Trends in Neurosciences, 39(1), 40–48. <a href="http://doi.org/10.1016/j.tins.2015.11.002" class="uri">http://doi.org/10.1016/j.tins.2015.11.002</a>. Daved, Michelle, and Michael O.</li>
+</ul></li>
+<li>Future readings could be
+<ul>
+<li>Raichle, M. E. (2009). A brief history of human brain mapping. Trends in Neurosciences, 32(2), 118–126. <a href="http://doi.org/10.1016/j.tins.2008.11.001" class="uri">http://doi.org/10.1016/j.tins.2008.11.001</a></li>
+<li>Yang, J., Kanazawa, S., Yamaguchi, M. K., &amp; Motoyoshi, I. (2015). Pre-constancy Vision in Infants. Current Biology, 25(24), 3209–3212. <a href="http://doi.org/10.1016/j.cub.2015.10.053" class="uri">http://doi.org/10.1016/j.cub.2015.10.053</a></li>
+</ul></li>
+</ul></li>
+<li>2016-02-02
+<ul>
+<li>Agenda
+<ul>
+<li><a href="https://innoscholcomm.typeform.com/to/JEx5CP?source=6s2a9G">Innovations in Scholarly Communications Survey</a> - Assignment: Take survey; pick two tools you aren’t familiar with and write a short paragraph about each of them.</li>
+<li>Recruiting team assessment</li>
+</ul></li>
+</ul></li>
+<li>2016-01-26
+<ul>
+<li>Attending</li>
+<li>Agenda
+<ul>
+<li>MOCO/MOFO EEG
+<ul>
+<li>Weekly Monday 11:30-1; add to schedule</li>
+</ul></li>
+<li>MOCO psychophysics child
+<ul>
+<li>Add project meeting to calendar (Andrea)</li>
+</ul></li>
+<li>Symmetry sorting (Michelle)</li>
+<li>Video data coding
+<ul>
+<li>Do reliability coding</li>
+<li>Coders should review this site: <a href="http://dx.doi.org/10.17910/B7988V" class="uri">http://dx.doi.org/10.17910/B7988V</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li>2016-01-19
+<ul>
+<li>Agenda
+<ul>
+<li>Need .md bios from some lab members</li>
+</ul></li>
+<li>Small Group Meeting Schedule
+<ul>
+<li>Child (MOCO) behavior - meetings 12:45-1:45 Thursdays</li>
+<li>Video Coding - Meetings 10-11am Fridays or 11:15-12:15 Fridays</li>
+<li>Infant motion coherence (MOCO) EEG - Everyone will participate in data collection sessions.</li>
+</ul></li>
+<li>Journals with articles potentially relevant to lab interests
+<ul>
+<li><a href="http://www.nature.com/neuro/index.html">Nature</a>
+<ul>
+<li><a href="http://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.4214.html" class="uri">http://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.4214.html</a></li>
+<li><a href="http://www.nature.com/neuro/journal/v19/n1/full/nn.4179.html" class="uri">http://www.nature.com/neuro/journal/v19/n1/full/nn.4179.html</a>
+<ul>
+<li><a href="http://www.nature.com/nrn/index.html" class="uri">http://www.nature.com/nrn/index.html</a></li>
+</ul></li>
+</ul></li>
+<li><a href="http://www.nature.com/nrn/journal/vaop/ncurrent/abs/nrn.2015.19.html">Nature Reviews Neuroscience</a>
+<ul>
+<li><a href="http://www.nature.com/nrn/journal/v17/n1/abs/nrn.2015.2.html" class="uri">http://www.nature.com/nrn/journal/v17/n1/abs/nrn.2015.2.html</a></li>
+</ul></li>
+<li><a href="http://www.jneurosci.org">Journal of Neuroscience</a>
+<ul>
+<li><a href="http://www.jneurosci.org/content/36/2.toc.pdf" class="uri">http://www.jneurosci.org/content/36/2.toc.pdf</a>, p. 268, p. 432</li>
+</ul></li>
+<li><a href="http://www.cell.com/neuron/home">Neuron</a>
+<ul>
+<li><a href="http://www.cell.com/neuron/abstract/S0896-6273(15)01120-4" class="uri">http://www.cell.com/neuron/abstract/S0896-6273(15)01120-4</a> <a href="http://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(15)00274-0" class="uri">http://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(15)00274-0</a></li>
+</ul></li>
+<li><a href="http://www.cell.com/trends/neurosciences/home">Trends in Neurosciences</a>
+<ul>
+<li><a href="http://www.cell.com/trends/neurosciences/abstract/S0166-2236(15)00281-7" class="uri">http://www.cell.com/trends/neurosciences/abstract/S0166-2236(15)00281-7</a></li>
+<li><a href="http://www.cell.com/trends/neurosciences/abstract/S0166-2236(15)00248-9" class="uri">http://www.cell.com/trends/neurosciences/abstract/S0166-2236(15)00248-9</a></li>
+<li><a href="http://www.cell.com/trends/neurosciences/abstract/S0166-2236(08)00265-8" class="uri">http://www.cell.com/trends/neurosciences/abstract/S0166-2236(08)00265-8</a></li>
+</ul></li>
+<li><a href="http://jov.arvojournals.org/issues.aspx#issueid=934263">Journal of Vision</a>
+<ul>
+<li><a href="http://jov.arvojournals.org/article.aspx?articleid=2411821" class="uri">http://jov.arvojournals.org/article.aspx?articleid=2411821</a></li>
+<li><a href="http://jov.arvojournals.org/article.aspx?articleid=2436830" class="uri">http://jov.arvojournals.org/article.aspx?articleid=2436830</a></li>
+</ul></li>
+<li><a href="http://www.journals.elsevier.com/vision-research/">Vision Research</a>
+<ul>
+<li><a href="http://www.sciencedirect.com/science/article/pii/S0042698915003430" class="uri">http://www.sciencedirect.com/science/article/pii/S0042698915003430</a></li>
+<li><a href="http://www.sciencedirect.com/science/article/pii/S004269891500334X" class="uri">http://www.sciencedirect.com/science/article/pii/S004269891500334X</a></li>
+</ul></li>
+<li><a href="http://www.cell.com/trends/cognitive-sciences/home">Trends in Cognitive Science</a></li>
+<li><a href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-7687">Developmental Science</a></li>
+<li><a href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1532-7078">Infancy</a></li>
+<li><a href="http://www.journals.elsevier.com/developmental-cognitive-neuroscience/">Developmental Cognitive Neuroscience</a></li>
+<li><a href="http://psycnet.apa.org/index.cfm?fa=browsePA.volumes&amp;jcode=dev">Developmental Psychology</a></li>
+<li><a href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-8624">Child Development</a><br />
+</li>
+</ul></li>
+</ul></li>
+<li>2016-01-12
+<ul>
+<li>Attending
+<ul>
+<li>Daved, Michelle, Michael O., Michael D., Jun, Sam, Shivani, Andrea</li>
+</ul></li>
+<li>Agenda
+<ul>
+<li>Create Schedules for project meetings</li>
+<li>Psych 494 forms gathered - have Rick sign and return forms</li>
+<li>Set up initial small group meetings</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="fall-2015" class="section level3">
+<h3>Fall 2015</h3>
+<ul>
+<li>2015-11-17
+<ul>
+<li>Agenda
+<ul>
+<li>Discuss Wattam-Bell, J., Birtles, D., Nyström, P., von Hofsten, C., Rosander, K., Anker, S., … Braddick, O. (2010). Reorganization of Global Form and Motion Processing during Human Visual Development. <em>Current Biology</em>, 20(5), 411–415. <a href="http://doi.org/10.1016/j.cub.2009.12.020" class="uri">http://doi.org/10.1016/j.cub.2009.12.020</a></li>
+<li>Discuss Braddick, O., Atkinson, J., &amp; Wattam-Bell, J. (2011). Chapter 6 - VERP and brain imaging for identifying levels of visual dorsal and ventral stream function in typical and preterm infants. In J. A. and G. M. I. Oliver Braddick (Ed.), <em>Progress in Brain Research</em> (Vol. 189, pp. 95–111). Elsevier. <a href="http://dx.doi.org/10.1016/B978-0-444-53884-0.00020-8" class="uri">http://dx.doi.org/10.1016/B978-0-444-53884-0.00020-8</a></li>
+</ul></li>
+</ul></li>
+<li>2015-11-10
+<ul>
+<li>Agenda
+<ul>
+<li>Shivani leading discussion of Bourke, P., &amp; Shaw, H. (2014). Spontaneous lucid dreaming frequency and waking insight. <em>Dreaming</em>, 24(2), 152–159. <a href="http://doi.org/10.1037/a0036908" class="uri">http://doi.org/10.1037/a0036908</a>.</li>
+</ul></li>
+<li>Attending
+<ul>
+<li>Rick, Raya, Andrea, Jun, Shivani, Michelle, Michael, Daved</li>
+</ul></li>
+</ul></li>
+<li>2015-10-20
+<ul>
+<li>Agenda
+<ul>
+<li>Sam leads discussion of De Araujo, T. B., Silveira, F. R., Souza, D. L. S., Strey, Y. T. M., Flores, C. D., &amp; Webster, R. S. (n.d.). Impact of video game genre on surgical skills development: a feasibility study. <em>Journal of Surgical Research</em>. <a href="http://doi.org/10.1016/j.jss.2015.07.035" class="uri">http://doi.org/10.1016/j.jss.2015.07.035</a>.</li>
+</ul></li>
+</ul></li>
+<li>2015-10-13
+<ul>
+<li>Agenda
+<ul>
+<li>Rick discussing <a href="https://github.com/gilmore-lab/gilmore-thomas-fesi-2015">Gilmore-Thomas-Fesi-2015 results</a>, <a href="https://databrary.org/volume/75">Stimuli on Databrary</a>.</li>
+</ul></li>
+<li>Attending
+<ul>
+<li>Michelle, Raya, Jun, Michael, Shivani</li>
+</ul></li>
+</ul></li>
+<li>2015-10-06
+<ul>
+<li>Agenda
+<ul>
+<li>Jun leading discussion of Czerniak, S. M., Sikoglu, E. M., Navarro, A. A. L., McCafferty, J., Eisenstock, J., Stevenson, J. H., … &amp; Moore, C. M. (2014). A resting state functional magnetic resonance imaging study of concussion in collegiate athletes. <em>Brain imaging and behavior</em>, <em>9</em>(2), 323-332. <a href="http://dx.doi.org/10.1007/s11682-014-9312-1" class="uri">http://dx.doi.org/10.1007/s11682-014-9312-1</a></li>
+</ul></li>
+<li>Attending
+<ul>
+<li>Daved, Michelle, Rick, Jun, Shivani, Michael, Sam</li>
+</ul></li>
+</ul></li>
+<li>2015-09-29
+<ul>
+<li>Attending
+<ul>
+<li>Michelle, Daved, Raya, Andrea, Jun</li>
+</ul></li>
+<li>Agenda
+<ul>
+<li>Rick <a href="https://rawgit.com/psu-psychology/developmental/master/prosem/2015-09-16-gilmore/dev-prosem-2015-09-16.html">presenting</a></li>
+</ul></li>
+</ul></li>
+<li>September 22, 2015
+<ul>
+<li>Attending
+<ul>
+<li>Michelle, Raya, Rick, Daved, Sam, Andrea, Jun, Shivani</li>
+</ul></li>
+<li>Agenda
+<ul>
+<li>Michelle’s presentation</li>
+<li>Training status</li>
+<li>Discuss paper next week, Wattam-Bell et al. (2010). <a href="http://dx.doi.org/10.1016/j.cub.2009.12.020" class="uri">http://dx.doi.org/10.1016/j.cub.2009.12.020</a></li>
+</ul></li>
+</ul></li>
+<li>September 8, 2015
+<ul>
+<li>New meeting location in 444 Moore
+<ul>
+<li>Must leave by 8:50a.</li>
+</ul></li>
+<li>Attending
+<ul>
+<li>Daved, Raya, Michelle, Rick, Michael, Sam, Shivani, Andrea</li>
+</ul></li>
+<li>Agenda
+<ul>
+<li>Schedules</li>
+<li>Training</li>
+<li>Lab mtg presentations</li>
+</ul></li>
+<li>Action items
+<ul>
+<li>Bios by next meeting, email to Andrea. Andrea has tutorial.</li>
+<li><strong>No lab meeting next week, Tuesday 9/15</strong></li>
+<li>Michelle will present on 9/22. Jun on 10/6. Shivani 11/10. Sam 10/20.</li>
+</ul></li>
+</ul></li>
+<li>September 1, 2015
+<ul>
+<li>Andrea will investigate (ask Elaine) moving meeting to 444 Moore.</li>
+<li>Introductions
+<ul>
+<li>Andrea Seisler, Lab Manager</li>
+<li>Sam Pai, 3 credits 494</li>
+<li>Daved Fouad</li>
+<li>Raya Willoughby, 2 credits 494</li>
+<li>Shivani Patel</li>
+<li>Jun Oh</li>
+<li>Michael O’Neill</li>
+</ul></li>
+<li>Highlights of active projects
+<ul>
+<li>Optic Flow
+<ul>
+<li>Infant motion coherence (MOCO) EEG</li>
+<li>Child motion form (MOFO) EEG</li>
+<li>Child motion form (MOCO) behavior</li>
+<li>Infant motion statistics</li>
+</ul></li>
+<li>Symmetry
+<ul>
+<li>Adults’ sorting behavior</li>
+</ul></li>
+<li>Databrary</li>
+</ul></li>
+<li>Action items
+<ul>
+<li>Clery Act training (Andrea will send link).</li>
+<li>Get added to psubrainlab Google calendar (send Andrea your email).</li>
+<li>Register for PSYCH 494 credit.</li>
+<li>Watch epilepsy video in lab.</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="spring-2015" class="section level3">
+<h3>Spring 2015</h3>
+<ul>
+<li><a href="https://github.com/gilmore-lab/mtg-minutes/blob/master/2015-01-22.md">January 22, 2015</a><br />
+</li>
+<li>January 29, 2015
+<ul>
+<li>Jun, William, Michael, Sam and Rick attended.</li>
+<li>Jun will lead a discussion of the following paper: Irimia, A., Goh, S.-Y. M., Torgerson, C. M., Stein, N. R., Chambers, M. C., Vespa, P. M., &amp; Van Horn, J. D. (2013). Electroencephalographic inverse localization of brain activity in acute traumatic brain injury as a guide to surgery, monitoring and treatment. Clinical Neurology and Neurosurgery, 115(10). <a href="http://dx.doi.org/10.1016/j.clineuro.2013.08.003">http://dx.doi.org/10.1016/j.clineuro.2013.08.003</a></li>
+<li>Discussed using Markdown for student bios. <a href="https://help.github.com/articles/markdown-basics/">Markdown Help</a>.</li>
+<li>Discussed <a href="https://app.asana.com/0/24984362312919/24984362312933">logo contest</a>.</li>
+</ul></li>
+<li>February 5, 2015
+<ul>
+<li>Jun, Michael, Shivani, Andrea, Rick</li>
+<li>Discussed bios on GitHub, child abuse reporting training, lab photo scheduling, epilepsy video.</li>
+</ul></li>
+<li>February 12, 2015
+<ul>
+<li>Sam, Jun, Michael, William, Shivani, Andrea, Rick</li>
+<li>Sam will present the following paper: Dawson, N., Morris, B. J., &amp; Pratt, J. A. (2015). Functional brain connectivity phenotypes for schizophrenia drug discovery. Journal of Psychopharmacology, 29(2), 169–177. <a href="http://jop.sagepub.com/content/29/2/169.full">doi:10.1177/0269881114563635</a></li>
+<li><strong>Rick will be out next week</strong></li>
+</ul></li>
+<li>February 19, 2015 - No Meeting this Week</li>
+<li>February 26, 2015</li>
+<li>March 5, 2015 - No Meeting this Week</li>
+<li>March 19, 2015<br />
+</li>
+<li>March 26, 2015<br />
+</li>
+<li>April 2, 2015<br />
+</li>
+<li>April 9, 2015<br />
+</li>
+<li>April 16, 2015<br />
+</li>
+<li>April 23, 2015 - End of semester celebration at The Waffle Shop</li>
+<li>April 30, 2015 - No Meeting!</li>
+</ul>
+</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
