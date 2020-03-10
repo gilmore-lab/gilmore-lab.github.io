@@ -82,7 +82,7 @@ Emily Herman is currently a sophomore studying Psychology (Neuroscience), Spanis
 
 Luka is a senior majoring in Psychology with a concentration in Neuroscience. He is from Chantilly, Virginia, although he recently moved to Pittsburgh, PA. He has had a passion for psychology and neuroscience since early high school. He is especially interested in cognition, perception, and consciousness. Luka plans to complete his bachelors degree here at Penn State, then go on to earn a PhD in Neuroscience from an esteemed institution. Luka hopes to one day work in the Neurotechnology field. 
 
-Over the summer, Luka worked for [ProjectTeam](http://www.projectteam.com/), construction software company based out of Chantilly, Virginia, where he learned valuable skills in quality assurance and customer satisfaction.
+Over the summer, Luka worked for [ProjectTeam](https://www.projectteam.com/), construction software company based out of Chantilly, Virginia, where he learned valuable skills in quality assurance and customer satisfaction.
 
 ### Michelle Mendez, Undergraduate Student 
 
@@ -95,8 +95,6 @@ Sandy Rayes is a senior majoring in Biology with a minor in Psychology. She prev
 Sandy plans to attend medical school after graduation in May 2020 or complete Biomedical Sciences Masters Program. She currently works as a medical scribe at the Emergency Department at Mount Nittany Hospital to further her medical knowledge. 
 
 ### Joseph Sallomi, Undergraduate Student
-
-
 
 ## Recent Alumni
 

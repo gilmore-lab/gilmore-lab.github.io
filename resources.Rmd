@@ -8,7 +8,7 @@ pagetitle: resources
 We use [Paperpile](https://paperpile.com/) for reference management. Please use the [Paperpile Instructions](https://github.com/gilmore-lab/protocols/blob/master/paperpile_instructions.md) to utilize this web based reference management system.  
 
 #### Using R  
-  - [R for Data Science](http://r4ds.had.co.nz/)  
+  - [R for Data Science](https://r4ds.had.co.nz/)  
   
 ## Active Projects
 

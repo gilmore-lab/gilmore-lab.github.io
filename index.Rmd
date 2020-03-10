@@ -6,7 +6,7 @@ pagetitle: home
 
 # Rick Gilmore's Lab @ Penn State
 
-The Gilmore Lab in the [Psychology Department](http://psych.la.psu.edu) at [Penn State](http://www.psu.edu) studies the development of perception, action, and memory. Our goal is to understand patterns of brain and behavioral change in infants, children, and young adults. We use behavioral, EEG, MRI, and computational modeling methods in our research. We also advocate for and try to demonstrate open science practices in our work. 
+The Gilmore Lab in the [Psychology Department](https://psych.la.psu.edu) at [Penn State](https://www.psu.edu) studies the development of perception, action, and memory. Our goal is to understand patterns of brain and behavioral change in infants, children, and young adults. We use behavioral, EEG, MRI, and computational modeling methods in our research. We also advocate for and try to demonstrate open science practices in our work. 
 
 <!-- ## Active Projects -->
 
@@ -14,7 +14,7 @@ The Gilmore Lab in the [Psychology Department](http://psych.la.psu.edu) at [Penn
 
 <!-- During the Spring 2019 semester, we are focusing on improving our collective data science chops thanks to the support of online training offered by  -->
 <!-- <img src="https://pbs.twimg.com/profile_images/883047035758313472/UM0JK6WN_400x400.jpg" height=75px width=50px> -->
-<!-- [**DataCamp**](http://www.datacamp.com). Thanks, DataCamp! -->
+<!-- [**DataCamp**](https://www.datacamp.com). Thanks, DataCamp! -->
 
 ## Contact Information
 
@@ -40,7 +40,7 @@ Dr. [Rick Gilmore](https://psych.la.psu.edu/directory/rog1), Professor of Psycho
 <!-- ### 120 Chandlee -->
 
 <!-- <p>Human Electrophysiology Facility</br> -->
-<!-- [Social, Life, & Engineering Sciences Imaging Center (SLEIC)](http://imaging.psu.edu)</br> -->
+<!-- [Social, Life, & Engineering Sciences Imaging Center (SLEIC)](https://imaging.psu.edu)</br> -->
 <!-- University Park, PA 16802</br> -->
 <!-- </p> -->
 
@@ -57,7 +57,7 @@ Much of our research involves testing infants and young children. To sign-up for
 ## News
 
 <center>
-<h3>[PSI CHI](http://sites.psu.edu/psichi/) RESEARCH CONFERENCE!</h3>
+<h3>[PSI CHI](https://sites.psu.edu/psichi/) RESEARCH CONFERENCE!</h3>
 
 Congratulations to our Undergraduate Research Assistants for presenting their posters during the annual Psi Chi Research Conference!  
 
