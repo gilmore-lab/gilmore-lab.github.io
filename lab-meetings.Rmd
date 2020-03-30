@@ -60,6 +60,20 @@ For the spring 2020 Semester, we will meet on Monday from 8-8:50 am in room 444 
 
 <!-- Spring Break - No Meeting -->
 
+### March 30, 2020
+
+- Attending: Rick, Andrea, Yiming, Michelle, Emily, Luka
+
+- Agenda:
+
+  - What is working well and what is not:
+    - Needs to be more organized...some classes putting tons of work on line others, nothing
+    - Hard to remember when things are due when professors don't put it on Canvas. Sylabus has changed, but Canvas wasn't updated.
+    - Transition worked pretty well, communication and logistics could be better
+    - Some classes don't meet by zoom at all or maybe once a week, but watching lots of videos of power point slides with professor narrating over it.
+  - R code  
+    - Census data
+
 ### March 2, 2020
 
 - Attending: Rick, Andrea, Yiming, Michelle, Emily, Amar, Luka, Sandy
