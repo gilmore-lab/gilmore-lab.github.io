@@ -26,7 +26,9 @@ Gilmore, R.O. (2016). From big data to deep insight in developmental science. *W
 
 **Presentations**
 
-Gilmore, R.O. (2020, May 23). Invited symposium presentation on *Open Science for Different Methodological Approaches in Psychology*, 2020 meeting of the Association for Psychological Science, Chicago, IL.
+Gilmore, R.O. (2020, May 23). Invited symposium presentation on *Open Science for Different Methodological Approaches in Psychology*, 2020 meeting of the Association for Psychological Science, Chicago, IL. Cancelled.
+
+Gilmore, R.O. (2020, April 15). The open science revolution: A report from the front lines. Talk given in the Penn State Data Studies Group. [slides](https://gilmore-lab.github.io/2020-04-15-data-studies-group/).
 
 Gilmore, R.O. (2020, February 21). Research computing in child development research. Invited talk to the Penn State Child Study Center. [slides](https://psu-psychology.github.io/open-data-and-developmental-science-ODDS/2020-02-21-csc.html).
 
