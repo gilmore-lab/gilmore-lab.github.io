@@ -87,6 +87,8 @@ Gilmore, R.O., & Johnson, M.H. (1995). Working memory in infancy: Six-month-olds
 
 ## Other (non-peer-reviewed) publications
 
+Gilmore, R. O. & Adolph, K. E. (2019). Open sharing of research video: Breaking down the boundaries of the research team. In , K. L. Hall, A. L. Vogel, & R. T. Croyle (Eds.), *Strategies for team science success: Handbook of evidence-based principles for cross-disciplinary science and practical lessons learned from health researchers*. Cham: Springer, pp. 575-583.
+
 Adolph, K.E., Gilmore, R.O., & Kennedy, J.L. (2017, October). Video data and documentation will improve psychological science. *Psychological Science Agenda*. <https://www.apa.org/science/about/psa/2017/10/video-data.aspx>.
 
 Gilmore, R. O., Kennedy, J. L., & Adolph, K. E. (2017, September 7). Practical solutions for the ethical sharing of identifiable research data. Retrieved from <https://psyarxiv.com/kew8u>.
