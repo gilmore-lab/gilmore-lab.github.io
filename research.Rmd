@@ -12,7 +12,7 @@ My colleagues and I are developing policies for the ethical and secure sharing o
 
 **Publications**
 
-<!-- Adolph, K.E., Xu, M., and Gilmore, R.O. (in press). Data sharing, in Panicker, S. & Stanley, B. (eds.), *How to Conduct Research Ethically*, APA Press, Washington, DC.  -->
+Adolph, K.E., Xu, M., and Gilmore, R.O. (in press). Data sharing, in Panicker, S. & Stanley, B. (eds.), *How to Conduct Research Ethically*, APA Press, Washington, DC.
 
 Gilmore, R.O., Cole, P.M., van Aken, M.A.G., Verma S., & Worthman, C.M. (2020). Advancing scientific integrity, transparency, and openness in child development research: Challenges and possible solutions. *Child Development Perspectives*, *14*(1), 9-14. <http://dx.doi.org/10.1111/cdep.12360>
 
@@ -173,7 +173,7 @@ The aim of the project is to develop a new approach to developmental science tha
 
 **Presentations**
 
-<!-- Gilmore, R.O., Jayaraman, S., Hassan, S., & Lingeman, J. (in press). Tools for reproducible developmental science. Poster to be presented at the 2020 International Congress on Infant Studies, Glasgow, Scotland. -->
+Gilmore, R.O., Jayaraman, S., Hassan, S., & Lingeman, J. (2020, July). Tools for reproducible developmental science. Poster to be presented at the 2020 International Congress on Infant Studies, Glasgow, Scotland.
 
 Adolph, K.E., Tamis-LeMonda, C., & Gilmore, R.O. (2016, December 16). Video-based communal data collection & coding: Advancing the science of infant learning & development. A workshop held at the Eunice Kennedy Shriver National Institute of Child Health and Human Development. [Video Cast](https://videocast.nih.gov/summary.asp?Live=20371&bhcp=1). [Materials & data](https://nyu.databrary.org/volume/254).
 
@@ -328,7 +328,9 @@ Maggi, M., Cole, P., Elbich, D., Gilmore, R.O., Pérez–Edgar, K., Scherf, K.S.
 
 **Presentations**
 
-Stoop, T.B., Moriarty, P., Vigeant, M., Gilmore, R.O., Liu, P., & Cole, P.M. (submitted). Children’s ratings of vocal emotion intensity depend on the emotion spoken and speaker familiarity but not acoustic parameters.
+Stoop, T.B., Moriarty, P.M., Wolf, R., Gilmore, R.O.,  Perez-Edgar, K., Scherf, S, Vigeant, M.C., & Cole, P.M. (in press). I know that voice! Mothers' voices influence children's perceptions of emotional intensity. *Journal of Experimental Child Psychology*.
+
+Liu, P., Cole, P.M., Gilmore, R.O., Pérez-Edgar, K.E., Vigeant, M.C., Moriarty, P., Scherf, K.S. (2019). Young children's neural processing of their mother’s voice: An fMRI study. Neuropsychologia, 122, 11-19. doi: 10.1016/j.neuropsychologia.2018.12.003.
 
 Moriarty, P., Vigeant, M., Liu, P. Gilmore, R.O, & Cole, P.M. (submitted) Comparing theory, consensus, and perception to the acoustics of emotional speech.
 
