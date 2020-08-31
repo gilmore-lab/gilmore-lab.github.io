@@ -3,9 +3,9 @@ pagetitle: resources
 ---
   
 ## Lab Resources  
-[New Lab Member Instructions](https://github.com/gilmore-lab/protocols/blob/master/onboarding.md)  
+[New Lab Member Instructions](http://gilmore-lab.github.io/protocols/onboarding.html)  
 
-We use [Paperpile](https://paperpile.com/) for reference management. Please use the [Paperpile Instructions](https://github.com/gilmore-lab/protocols/blob/master/paperpile_instructions.md) to utilize this web based reference management system.  
+We use [Paperpile](https://paperpile.com/) for reference management. Please use the [Paperpile Instructions](http://gilmore-lab.github.io/protocols/paperpile_instructions.html) to utilize this web based reference management system.  
 
 #### Using R  
   - [R for Data Science](https://r4ds.had.co.nz/)  
