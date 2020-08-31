@@ -12,7 +12,7 @@ For the Fall 2020 Semester, we will meet on Tuesday from 8-8:50 am on Zoom.
     - Train on poster template
     - Train how to use Databrary API
 - Data science
-    - Learn R on Datacamp
+    - Learn R on [Datacamp](https://www.datacamp.com/)
     - Learn more about jupyter notebooks and Python
 - Launch new projects
     - [Development of Motion Sensitivity Meta-analysis](https://github.com/gilmore-lab/motion-metaanalysis)
@@ -36,3 +36,6 @@ For the Fall 2020 Semester, we will meet on Tuesday from 8-8:50 am on Zoom.
     - Python, [PsychoPy](https://www.psychopy.org/)
     - Paperpile
     - [Hypothes.is](https://web.hypothes.is/)
+  - Communication Tools
+    - [Asana](https://asana.com/)
+    - [Discord](https://discord.com/)
