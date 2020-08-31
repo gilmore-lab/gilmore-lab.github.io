@@ -5,6 +5,127 @@ pagetitle: lab-meetings-previous
 # Past Lab Meetings
 
 ---
+
+## Spring 2020
+
+### April 6, 2020
+
+- Attending: Rick, Andrea, Yiming, Michelle, Chelsea
+
+- Agenda:  
+  - What is everybody up to?
+
+### March 30, 2020
+
+- Attending: Rick, Andrea, Yiming, Michelle, Emily, Luka
+
+- Agenda:
+
+  - What is working well and what is not:
+    - Needs to be more organized...some classes putting tons of work on line others, nothing
+    - Hard to remember when things are due when professors don't put it on Canvas. Sylabus has changed, but Canvas wasn't updated.
+    - Transition worked pretty well, communication and logistics could be better
+    - Some classes don't meet by zoom at all or maybe once a week, but watching lots of videos of power point slides with professor narrating over it.
+  - R code  
+    - Census data
+
+### March 9, 2020
+
+Spring Break - No Meeting
+
+### March 2, 2020
+
+- Attending: Rick, Andrea, Yiming, Michelle, Emily, Amar, Luka, Sandy
+
+- Agenda:  
+  - Poster Groups: Finalize groups and topics for presentation
+    - Michelle - Play pilot metadata - poster on Overleaf.com
+    - Emily - Pire Project
+    - Amar, Sandy, Luka - BehAV
+      - Compare OpenPose, OpenFace, and human observer using Datavyu
+        - Front, side, oblique, down, up Views
+          - rules for each situation
+          - full head in view = mom head (information to read a facial expression) and baby head, two separate coding columns
+  - [DataCamp](https://learn.datacamp.com/)
+  - Review Sex Differences QA
+
+To Do:
+  - Ouakinin, S. (2016). Teaching Psychology in Medicine: The Context, Methodologies and Doctor’s Professional Identity. Acta medica portuguesa, 29(12), 867–874. Retrieved from http://dx.doi.org/10.20344/amp.8384 - move to week after Psi Chi is due
+  - Record Experimenter Name in Expermineter Note question of Qualtrics Survey - ARS add to protocol
+  - Update stereo acuity to include instructions for when participant has difficulty - Yiming
+  - Investigate motion staircase 383 and 20191204095223578: handedness, %correct
+  - Add Line on both walls to line chair up 
+  - PSU X-ling 4/3/2020 9am 127 Moore - Emily presenting talk - open to everyone - poster session 1-3pm hub
+  
+### February 24, 2020
+- Attending: Rick, Andrea, Emily, Yiming, Amar
+  - Sick: Rachel, Sandy (Work), Luka
+  - Absent: Chelsea, Michelle
+
+- Agenda:
+  - Sex Differences 
+    - Review Test Session Protocol ([html](https://gilmore-lab.github.io/sex-differences-in-motion-perception/protocol/test-session-protocol.html)) ([Rmd](https://gilmore-lab.github.i o/sex-differences-in-motion-perception/protocol/test-session-protocol.Rmd))
+    - Look at participant plots for Temporal Threshold and Contrast Sensitivity results
+  - Discuss [BehAV project coding](https://gilmore-lab.github.io/BehAV/facial-recognition.html)
+- To Do: 
+  - ARS: Change protocol to copy data every day - Andrea or Yiming will do this - note on discord when it is complete at the end of the day. **DONE 2020-02-26**
+  - Procedure needed for checking what happened eg. 2 files same participant number
+  - ARS: Check with Rachel participant 389 - why aren't there 2 files
+
+
+### February 17, 2020
+- Attending: Rick, Andrea, Yiming, Emily, Chelsea, Rachel, Amar
+  - Excused - Michelle
+  - Absent - Sandy, Luka
+
+- Agenda:   
+  - Presentation: [Posterdown Preview](https://github.com/gilmore-lab/student-testbed) - Emily
+  - Discuss Sex Differences [Session QA](https://gilmore-lab.github.io/sex-differences-in-motion-perception/analysis/session_qa.html)
+  - Discuss [BehAV project](https://github.com/gilmore-lab/BehAV) and data on [Box](https://psu.box.com/s/ytyd3hnz4614frjhq55oail9mge1l150)
+
+- To Do:
+  - Come up with ideas for Poster presenation.
+  
+### February 10, 2020
+
+NO MEETING :)
+  
+### February 3, 2020
+
+- Attending: Rick, Andrea, Yiming, Michelle, Rachel
+  - Excused: Luka, Sandy, Amar
+  - Missing: Emily, Chelsea
+
+- Agenda:  
+  - Type I (false positive), Type II (false negative) and statistical power
+      - [Slides](talk-slides/type-I-type-II-errors.html)
+  - Update on Sex Differences Project
+      - Data collection status
+      - Harmonizing data
+   
+### January 27, 2020
+
+- Attending: Rick, Andrea, Michelle, Emily, Chelsea, Sandy, Luka, Rachel
+    - Missing: Yiming, Amar
+
+- Agenda:  
+    - Introductions  
+    - Submit 1-2 projects to the [Psi Chi](http://sites.psu.edu/psichi/) conference
+        - [Application](http://sites.psu.edu/psichi/research-conference-2/) due March 16 by 5:00pm  
+        - Conference on April 9, 2-4:30 pm, The Moore Building Atrium
+    - Overview of projects  
+        - [Sex Differences in Motion Perception](https://github.com/gilmore-lab/sex-differences-in-motion-perception)
+            - Train everyone to collect data solo.
+            - Changes to protocol
+    - Plan for semester
+       
+- Next Meeting:
+    - Schedule presentation for Sandy/Amar
+    - Emily present posterdown 2/10/2020
+    - Read paper
+
+---
+
 ## Fall 2019
 
 ### December 12, 2019
@@ -14,8 +135,7 @@ pagetitle: lab-meetings-previous
 ### December 5, 2019
 
 Meeting Cancelled
-    
-
+  
 ### November 28, 2019 - No Lab
 
 Happy Thanksgiving
