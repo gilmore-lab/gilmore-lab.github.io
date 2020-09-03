@@ -21,8 +21,8 @@ For the Fall 2020 Semester, we will meet on Tuesday from 8-8:50 am on Zoom.
 ## Fall 2020 Meeting schedule 
 
 ### 1 September 2020 (Zoom)
-- Attending
-  - Andrea, Rick, Yiming, Kayla, Maggie, Anjali, Shahir, Anna, Sara, Rachel, Emily
+- Attending: Rick, Andrea, Yiming, Kayla, Maureen, Anjali, Shahir, Anna, Sara, Rachel, Emily
+  - Excused: Michelle, Chelsea  
 - Agenda
   - Introductions
   - Orientation to lab projects/themes
@@ -40,3 +40,17 @@ For the Fall 2020 Semester, we will meet on Tuesday from 8-8:50 am on Zoom.
   - Communication Tools
     - [Asana](https://asana.com/)
     - [Discord](https://discord.com/)
+    
+### 8 September 2020 (Zoom)
+- Attending:
+- Agenda
+  - Status of Joining Userful Tools
+    - Discord
+    - Asana
+    - Hypothesis
+  - [Webpage Biography](http://gilmore-lab.github.io/who-we-are.html)  
+    - Include at least one link 
+      - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- To Do
+  - Write Biography and send to the [Lab Email](mailto:psubrainlab@gmail.com) - Due Date 9/15/2020
+  - Training requirements (CITI, Clery Act, Reporting Child Abuse) will be sent via Asana
