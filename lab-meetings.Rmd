@@ -44,7 +44,7 @@ For the Fall 2020 Semester, we will meet on Tuesday from 8-8:50 am on Zoom.
 ### 8 September 2020 (Zoom)
 - Attending:
 - Agenda
-  - Status of Joining Userful Tools
+  - Status of Joining Useful Tools
     - Discord
     - Asana
     - Hypothesis
