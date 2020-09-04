@@ -45,9 +45,9 @@ For the Fall 2020 Semester, we will meet on Tuesday from 8-8:50 am on Zoom.
 - Attending:
 - Agenda
   - Status of Joining Useful Tools
-    - Discord
-    - Asana
-    - Hypothesis
+    - Discord - 1 missing
+    - Asana - everyone joined
+    - Hypothes.is - 7 missing from group space
   - [Webpage Biography](http://gilmore-lab.github.io/who-we-are.html)  
     - Include at least one link 
       - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
