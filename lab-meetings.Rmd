@@ -42,7 +42,8 @@ For the Fall 2020 Semester, we will meet on Tuesday from 8-8:50 am on Zoom.
     - [Discord](https://discord.com/)
     
 ### 8 September 2020 (Zoom)
-- Attending:
+- Attending: Rick, Andrea, Anjali, Emily, Kayla, Anna, Shahir, Maureen, Yiming, Chelsea, Rachel, Sara
+  - Excused: Michelle
 - Agenda
   - Status of Joining Useful Tools
     - Discord - 1 missing
@@ -51,6 +52,13 @@ For the Fall 2020 Semester, we will meet on Tuesday from 8-8:50 am on Zoom.
   - [Webpage Biography](http://gilmore-lab.github.io/who-we-are.html)  
     - Include at least one link 
       - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  - Rick gave practice presentation [here](https://gilmore-lab.github.io/2020-09-09-flux)    
 - To Do
   - Write Biography and send to the [Lab Email](mailto:psubrainlab@gmail.com) - Due Date 9/15/2020
-  - Training requirements (CITI, Clery Act, Reporting Child Abuse) will be sent via Asana
+  - Training requirements (CITI, Clery Act, Reporting Child Abuse) will be sent via Asana - Due Date 9/22/2020  
+  
+### 15 September 2020 (Zoom)
+
+- Attending  
+- Agenda  
+- To Do  
