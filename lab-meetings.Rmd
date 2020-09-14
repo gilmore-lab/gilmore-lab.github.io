@@ -20,6 +20,35 @@ For the Fall 2020 Semester, we will meet on Tuesday from 8-8:50 am on Zoom.
 
 ## Fall 2020 Meeting schedule 
 
+### 15 September 2020 (Zoom)
+
+- Attending  
+- Agenda 
+  - Discuss Biographies
+  - Training Status Update
+      - CITI - Maureen, Sara, Kayla, Shahir
+      - Clery Act - Yiming, Sara, Emily, Kayla, Shahir
+      - Reporting Child Abuse - Yiming, Sara, Emily, Anjali, Michelle, Kayla, Shahir
+      - Two more trainings, Title IX and Annual Compliance Training will be assigned
+      - Did everyone join the gilmore-lab hypothes.is group?
+- To Do  
+
+### 8 September 2020 (Zoom)
+- Attending: Rick, Andrea, Anjali, Emily, Kayla, Anna, Shahir, Maureen, Yiming, Chelsea, Rachel, Sara
+  - Excused: Michelle
+- Agenda
+  - Status of Joining Useful Tools
+    - Discord - 1 missing
+    - Asana - everyone joined
+    - Hypothes.is - 7 missing from group space
+  - [Webpage Biography](http://gilmore-lab.github.io/who-we-are.html)  
+    - Include at least one link 
+      - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  - Rick gave practice presentation [here](https://gilmore-lab.github.io/2020-09-09-flux)    
+- To Do
+  - Write Biography and send to the [Lab Email](mailto:psubrainlab@gmail.com) - Due Date 9/15/2020
+  - Training requirements (CITI, Clery Act, Reporting Child Abuse) will be sent via Asana - Due Date 9/22/2020 
+
 ### 1 September 2020 (Zoom)
 - Attending: Rick, Andrea, Yiming, Kayla, Maureen, Anjali, Shahir, Anna, Sara, Rachel, Emily
   - Excused: Michelle, Chelsea  
@@ -40,25 +69,3 @@ For the Fall 2020 Semester, we will meet on Tuesday from 8-8:50 am on Zoom.
   - Communication Tools
     - [Asana](https://asana.com/)
     - [Discord](https://discord.com/)
-    
-### 8 September 2020 (Zoom)
-- Attending: Rick, Andrea, Anjali, Emily, Kayla, Anna, Shahir, Maureen, Yiming, Chelsea, Rachel, Sara
-  - Excused: Michelle
-- Agenda
-  - Status of Joining Useful Tools
-    - Discord - 1 missing
-    - Asana - everyone joined
-    - Hypothes.is - 7 missing from group space
-  - [Webpage Biography](http://gilmore-lab.github.io/who-we-are.html)  
-    - Include at least one link 
-      - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-  - Rick gave practice presentation [here](https://gilmore-lab.github.io/2020-09-09-flux)    
-- To Do
-  - Write Biography and send to the [Lab Email](mailto:psubrainlab@gmail.com) - Due Date 9/15/2020
-  - Training requirements (CITI, Clery Act, Reporting Child Abuse) will be sent via Asana - Due Date 9/22/2020  
-  
-### 15 September 2020 (Zoom)
-
-- Attending  
-- Agenda  
-- To Do  
