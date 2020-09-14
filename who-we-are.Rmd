@@ -64,9 +64,12 @@ Besides research activities, Yiming enjoys reading, cooking, gardening, hiking a
 
 ### Anna Capria, Undergraduate Student
 
+```{r, out.height="225px", echo=FALSE}
+knitr::include_graphics("images/AnnaCapria-headshot.jpeg")
+```
+
 Anna is a biobehavioral health major.  Her research interests include neuroscience, child, and adolescent development.  She is also fascinated by how language affects the brain.  In addition to her work in this lab, she also works in the Context and Development lab studying neighborhood, family, and school influence on development.  After graduation, Anna plans to pursue law school.  Outside of academia, she enjoys running, hiking, and cooking. 
 [LinkedIn](https://www.linkedin.com/in/anna-capria-038a781a1/) 
-![image](https://docs.google.com/document/d/1PwLeIapnM6jeUuTn4MHnrhZcQWoaJdqUkKGFmQv2fOw/edit?usp=sharing) 
 
 ### Yu-Tzu (Rachel Chang), Undergraduate Student
 I am from Taiwan, and I am majoring in Psychology and minoring in Biology. In addition I am working on the business certificate in Smeal college of business. I am pretty interested in early childhood since it is a critical timing to develop a healthy mind and body. Moreover, I find it interesting how the brain has such a large capacity but how little we know about the brain. Besides academic interest, I love dancing. I have danced ballet since kindergarten and switched to hip hop when I was in high school. I am currently the  president of [Bounce Dance Organization](https://www.instagram.com/bounce_psu/?hl=zh-tw).
