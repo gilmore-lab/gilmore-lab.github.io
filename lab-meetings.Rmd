@@ -25,10 +25,9 @@ For the Fall 2020 Semester, we will meet on Tuesday from 8-8:50 am on Zoom.
 - Attending:
 - Agenda
   - Discuss 
-      - Mounoud, P., Viviani, P., Hauert, C. A., & Guyon, J. (1985). Development of visuomanual tracking in 5- to 9-year-old boys. Journal of Experimental Child Psychology, 40(1), 115–132. https://doi.org/10.1016/0022-0965(85)90068-2
+      - Mounoud, P., Viviani, P., Hauert, C. A., & Guyon, J. (1985). Development of visuomanual tracking in 5- to 9-year-old boys. Journal of Experimental Child Psychology, 40(1), 115–132. https://doi.org/10.1016/0022-0965(85)90068-2. [Annotatable PDF](pdfs/mounoud-etal-1985.pdf).
       - Review DataCamp courses, send email to Andrea about where you want to start (in R) and one other course
       - Review lab web site, and make at least one annotation or comment
-      
       
 ### 15 September 2020 (Zoom)
 
@@ -45,7 +44,7 @@ For the Fall 2020 Semester, we will meet on Tuesday from 8-8:50 am on Zoom.
       - Reporting Child Abuse - Yiming, Sara, Emily, Anjali, Michelle, Kayla, Shahir
       - Two more trainings, Title IX and Annual Compliance Training will be assigned
   - To Do
-      - Visuomanual tracking lit review, read and discuss next week: Mounoud, P., Viviani, P., Hauert, C. A., & Guyon, J. (1985). Development of visuomanual tracking in 5- to 9-year-old boys. Journal of Experimental Child Psychology, 40(1), 115–132. https://doi.org/10.1016/0022-0965(85)90068-2. [PDF](pdfs/mounoud-etal-1985.pdf).
+      - Visuomanual tracking lit review, read and discuss next week: Mounoud, P., Viviani, P., Hauert, C. A., & Guyon, J. (1985). Development of visuomanual tracking in 5- to 9-year-old boys. Journal of Experimental Child Psychology, 40(1), 115–132. https://doi.org/10.1016/0022-0965(85)90068-2. 
           - *Who* (were the participants), *what* (did they do), *what* (was measured), *what* (was found), *why* (should we care), *what* (does it mean)
       - Review DataCamp courses, send email to Andrea about where you want to start (in R) and one other course
       - Review lab web site, and make at least one annotation or comment
