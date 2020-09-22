@@ -18,9 +18,9 @@ He earned his bachelor's degree *magna cum laude* in Cognitive Science from [Bro
 Gilmore's research focuses on the development of visual perception and memory. 
 He is particularly interested in the development of brain networks that enable perceivers to extract information about the layout of the environment, the shape of objects, and the speed and direction of self-movement from patterns of visual motion called optic flow. 
 Gilmore is also keenly interested in developing tools and practices that make scientific research more open, transparent, and reproducible.
-He is co-founder and Co-Director of the [Databrary.org](https://databrary.org) data library, and is co-PI on the Play & Learning Across a Year [(PLAY) Project](https://play-project.org) 
+He is co-founder and Co-Director of the [Databrary.org](https://databrary.org) data library, and is co-PI on the Play & Learning Across a Year [(PLAY) Project](https://play-project.org). 
 From 2008 to 2014, Gilmore served as the founding Director of Human Imaging at Penn State's Social, Life, and Engineering Sciences Imaging Center [(SLEIC)](https://imaging.psu.edu). 
-He has won the College of the Liberal Arts tenure-line faculty teaching award, leads the Open Data in Developmental Science (ODDS) initiative for the Child Study Center, and has had support for his research from the National Institutes of Health and the National Science Foundation. 
+He has won the College of the Liberal Arts tenure-line faculty teaching award, leads the Open Data in Developmental Science (ODDS) initiative for the Penn State Child Study Center, and has had support for his research from the National Institutes of Health and the National Science Foundation. 
 
 Gilmore has served as president of the [Centre Region Bicycle Coalition](https://centrebike.org), the [Acoustic Brew Concert Series](https://acousticbrew.org), and the [State College Community Theatre](https://scctonline.org).
 An active radio amateur or ham (callsign K3ROG), he is member of the Board of Directors of the [Nittany Amateur Radio Club](https://www.nittany-arc.net/) and is the faculty adviser and K3CR license trustee for the Penn State Amateur Radio Club.
