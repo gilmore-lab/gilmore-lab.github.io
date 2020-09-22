@@ -22,16 +22,21 @@ For the Fall 2020 Semester, we will meet on Tuesday from 8-8:50 am on Zoom.
 
 ### 22 September 2020 (Zoom)
 
-- Attending: Rick, Andrea, Yiming, Chelsea, Kayla, Sara, Maggie, Rachel, Anna, Anjali
+- Attending: Rick, Andrea, Yiming, Chelsea, Kayla, Sara, Maggie, Rachel, Anna, Anjali, Shahir
+  - Excused: Emily
+  - Post Meeting: Michelle
 - Agenda
   - Discuss 
       - Mounoud, P., Viviani, P., Hauert, C. A., & Guyon, J. (1985). Development of visuomanual tracking in 5- to 9-year-old boys. Journal of Experimental Child Psychology, 40(1), 115–132. https://doi.org/10.1016/0022-0965(85)90068-2. [Annotatable PDF](pdfs/mounoud-etal-1985.pdf).
       - Review DataCamp courses, send email to Andrea about where you want to start (in R) and one other course
       - Review lab web site, and make at least one annotation or comment
+- To Do
+  - Work on your R Assignment on DataCamp.
       
 ### 15 September 2020 (Zoom)
 
-- Attending: Rick, Andrea, Yiming, ... 
+- Attending: Rick, Andrea, Yiming, Maggie, Anna, Chelsea, Sara, Anjali, Kayla, Shahir
+  - Post Meeting: Michelle, Emily Rachel
 - Agenda 
   - Discuss Biographies
   - Communication Tools
