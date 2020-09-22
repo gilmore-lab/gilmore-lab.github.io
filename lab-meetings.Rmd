@@ -20,6 +20,14 @@ For the Fall 2020 Semester, we will meet on Tuesday from 8-8:50 am on Zoom.
 
 ## Fall 2020 Meeting schedule 
 
+### 29 September 2020 (Zoom)
+
+- Attending:
+- Agenda
+  - Introduction to R Resources
+    - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+    - [DataCamp](https://learn.datacamp.com/)
+
 ### 22 September 2020 (Zoom)
 
 - Attending: Rick, Andrea, Yiming, Chelsea, Kayla, Sara, Maggie, Rachel, Anna, Anjali, Shahir
