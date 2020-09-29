@@ -22,11 +22,17 @@ For the Fall 2020 Semester, we will meet on Tuesday from 8-8:50 am on Zoom.
 
 ### 29 September 2020 (Zoom)
 
-- Attending:
+- Attending: Rick, Andrea, Chelsea, Kayla, Sara, Maggie, Rachel, Anna, Anjali, Shahir
+  - Post Meeting: Michelle
 - Agenda
   - Introduction to R Resources
     - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
     - [DataCamp](https://learn.datacamp.com/) - log in using PSU email address
+    
+- To Do
+    - Create GitHub account if you don't already have one, share name with ARS
+    - Keep working on R
+    - Bring to class: something that is cool that you learned OR something you are struggling with. We will screen share.
 
 ### 22 September 2020 (Zoom)
 
