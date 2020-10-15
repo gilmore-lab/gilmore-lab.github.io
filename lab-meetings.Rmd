@@ -20,11 +20,28 @@ For the Fall 2020 Semester, we will meet on Tuesday from 8-8:50 am on Zoom.
 
 ## Fall 2020 Meeting schedule 
 
+### 20 October 2020 (Zoom)
+
+- Attending:
+- Agenda
+    - Discuss: Bassett, D. S., Cullen, K. E., Eickhoff, S. B., Farah, M. J., Goda, Y., Haggard, P., Hu, H., Hurd, Y. L., Josselyn, S. A., Khakh, B. S., Knoblich, J. A., Poirazi, P., Poldrack, R. A., Prinz, M., Roelfsema, P. R., Spires-Jones, T. L., Sur, M., & Ueda, H. R. (2020). Reflections on the past two decades of neuroscience. Nature Reviews. Neuroscience, 21(10), 524–534. https://doi.org/10.1038/s41583-020-0363-6
+    
+    
+
+### 13 October 2020 CANCELLED
+
 ### 6 October 2020 (Zoom)
 
-- Attending
+- Attending: Rick, Andrea, Sara, Emily, Rachel, Yiming, Kayla, Anjali, Anna, Shahir
+  - Excused/Sick: Chelsea, Maggie
 - Agenda
     - Discuss R Awesomeness and Woes
+      - Emily's code
+      - lapply, strsplit
+      - Yiming - Weibull_MLM code
+      - .Rmd - allows you to combine R code, figures, text into one file
+      
+    
 
 ### 29 September 2020 (Zoom)
 
