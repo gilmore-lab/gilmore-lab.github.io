@@ -21,10 +21,53 @@ For the Spring 2021 Semester, we will meet on Fridays from 11-11:50 am on Zoom.
     - Sex Differences: Visual Data vs. survey/Hobbies data
     - Datavyu Coding of infant locomotion
     
+### February 12, 2021 (Zoom)
+
+- Attending: Rick, Andrea, Yiming, Kym, Sara, Shahir, Anna, Maureen, Michelle, Rachel, Kayla
+- Agenda
+  - Discuss
+    - Protocols (why do we document?, video protocol, IRB)
+    - Hobbies Data
+    
+- To Do:
+  - Read Lippa, R., & Connelly, S. (1990). Gender diagnosticity: A new Bayesian approach to gender-related individual differences. Journal of Personality and Social Psychology, 59(5), 1051–1065. https://doi.org/10.1037/0022-3514.59.5.1051 [PDF](docs/pdfs/psp_59_5_1051.pdf)
+
+- Next Meeting:
+  - Review the Sex Differences IRB protocol
+    
 ### January 29, 2021 (Zoom)
 
-- Attending:
+- Attending: Rick, Andrea, Yiming, Kym, Sara, Shahir, Anna, Maureen, Michelle, Rachel, Kayla
 - Agenda
+  - Sex Differences in Motion Perception 
+    - Data Types Collected
+      - Motion Duation Threshold: Staircase Task
+      - Contrast Sensitivity: Staircase Task  
+      - Survey Data (Mental Rotation, Hobbies, Vocabulary)
+    - Data that we looked at today
+      - (Exclude Outliers)[https://gilmore-lab.github.io/sex-differences-in-motion-perception/analysis/code_analysis_exoutliers.html]
+      - (Contrast RT by Condition)[https://gilmore-lab.github.io/sex-differences-in-motion-perception/analysis/contrast-rt-by-cond-plots.html]
+      - (Contrast RT by Trial)[https://gilmore-lab.github.io/sex-differences-in-motion-perception/analysis/contrast-rt-trials-plots.html]
+      - Survey Data: (Hobbies)[https://gilmore-lab.github.io/sex-differences-in-motion-perception/analysis/hobbies.html] 
+  - Project Options
+    - Reaction Time (RT) Data (motion rt, contrast rt)
+       - do males and females show RT tradoff (RT vs. motion duration)
+       - are there sex differences in RT
+    - Hobbies Data
+      - Do survey data relate to one another and the visual tasks, what does it mean
+    - Motion Meta Analysis
+      - Review papers and categorize them. Yiming will discuss next week.
+ - To do:
+  - Think about data and which projects are interesting to you
+  - Read Paper
+
+  
+      
+
+  - Submit 1-2 projects to the Spring 2021 [Psi Chi](http://sites.psu.edu/psichi/) conference
+        - [Application](http://sites.psu.edu/psichi/research-conference-2/) due March 15, 2021 by 5:00pm  
+        - Conference will be held April 15, 2021
+        - Do we have any submissions that were sent last year, but not presented?
 - To Do
 
 ### January 22, 2021 (Zoom)
