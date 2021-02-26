@@ -21,6 +21,18 @@ For the Spring 2021 Semester, we will meet on Fridays from 11-11:50 am on Zoom.
     - Sex Differences: Visual Data vs. survey/Hobbies data
     - Datavyu Coding of infant locomotion
     
+### February 26, 2021 (Zoom)
+
+- Attending: Rick, Andrea, Yiming, Kym, Sara, Shahir, Anjali, Maureen, Michelle, Rachel, Kayla, Anna
+- Agenda:
+  - Updates 
+    - Shahir - PDFs updated on paperpile and create protocol
+    - Anjali - Update hobbies csv - M/F, major - ARS uploaded upated CSV
+  - Discuss Paper coding - Yiming
+    - Each person needs to be assigned a paper.
+    - Use the [coding google form](insert link here) (This link needs to be added) to complete the coding
+    - Instructions for getting into paperpile are on Discord
+    
 ### February 12, 2021 (Zoom)
 
 - Attending: Rick, Andrea, Yiming, Kym, Sara, Shahir, Anna, Maureen, Michelle, Rachel, Kayla
