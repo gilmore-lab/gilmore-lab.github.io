@@ -6,6 +6,13 @@ pagetitle: lab-meetings
 
 For the Spring 2021 Semester, we will meet on Fridays from 11-11:50 am on Zoom.
 
+## Helpful Computer Information
+
+- Global Protect Instructions for [Mac](https://ithelp.ssri.psu.edu/penn-state-vpn-mac) and [Windows ](https://ithelp.ssri.psu.edu/penn-state-vpn)
+- Click to login to our [R Studio Server space](https://rstudio.tlt.psu.edu/s/e40b8122db8f5ab27456f/)
+- Click to login to [Datacamp](https://www.datacamp.com/)
+- How to take screen shots for [Mac](https://support.apple.com/en-us/HT201361) and [Windows](https://www.howtogeek.com/226280/how-to-take-screenshots-in-windows-10/)
+
 ## Goals
 
 - Start preparing for presentations in the Fall  
@@ -20,12 +27,12 @@ For the Spring 2021 Semester, we will meet on Fridays from 11-11:50 am on Zoom.
 - Data Processing/Analysis projects
     - Sex Differences: Visual Data vs. survey/Hobbies data
     - Datavyu Coding of infant locomotion
-    
+
 ### March 19, 2021 (Zoom)
 
 - Attending: Rick, Andrea, Yiming, Anjali, Anna, Kayla, Kym, Maureen, Rachel, Sara, Shahir  
 - Agenda  
-  - Administrative - Anna and Anjali still cannot get Global Protect to work on their personal computer
+  - Administrative - Anna still cannot get Global Protect to work on her personal computer
   - Datacamp - people still working in initial R - ARS needs to assign Data Visualization
   - Motion Metaanalysis updates
     - most duplicate coding of papers match each other.     
@@ -74,7 +81,7 @@ Enjoy a day off!
     - Anjali - Update hobbies csv - M/F, major - ARS uploaded upated CSV
   - Discuss Paper coding - Yiming
     - Each person needs to be assigned a paper.
-    - Use the [coding google form](insert link here) (This link needs to be added) to complete the coding
+    - Use the [coding google form](https://forms.gle/Qd9H49tpDVjCRnob9) to complete the coding
     - Instructions for getting into paperpile are on Discord
 
 
