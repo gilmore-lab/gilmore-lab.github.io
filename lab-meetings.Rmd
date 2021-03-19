@@ -21,6 +21,35 @@ For the Spring 2021 Semester, we will meet on Fridays from 11-11:50 am on Zoom.
     - Sex Differences: Visual Data vs. survey/Hobbies data
     - Datavyu Coding of infant locomotion
     
+### March 19, 2021 (Zoom)
+
+- Attending: Rick, Andrea, Yiming, Anjali, Anna, Kayla, Kym, Maureen, Rachel, Sara, Shahir  
+- Agenda  
+  - Administrative - Anna and Anjali still cannot get Global Protect to work on their personal computer
+  - Datacamp - people still working in initial R - ARS needs to assign Data Visualization
+  - Motion Metaanalysis updates
+    - most duplicate coding of papers match each other.     
+    - current coding form: https://forms.gle/Qd9H49tpDVjCRnob9
+    - update to protocol is needed - hand mark up document, scan then email to Yiming  
+    - protocol creation gold standard (e.g. https://www.play-project.org/)
+      - add instructions and/or screen shots for each field.
+    - the current protocol (https://github.com/gilmore-lab/motion-metaanalysis/blob/master/protocol.Rmd) needs to be updated or rewritten
+  - How to take screen shots
+    - [Mac](https://support.apple.com/en-us/HT201361) (click for detailed instructions)
+      - portion of screen - Press and hold **Shift + Command + 4**
+      - whole screen - Press and hold **Shift + Command + 3** 
+    - [Windows](https://www.howtogeek.com/226280/how-to-take-screenshots-in-windows-10/) (click for detailed instructions)
+      - portion of screen - Press and hold **Windows + Shift + S**
+      - only one window - Click on the title bar of the window that you want to capture. Press **Alt + PrtScn** or **Alt + Fn + PrtScn**
+      - whole screen - Press **Windows logo key + PrtScn**
+    - Screen shots are typically saved in 
+  - Review a paper together
+  - Shahir has updates to Rmd document for hobbies - discuss next wee at worksessions or weekly meeting.
+  
+### March 12, 2021
+
+Enjoy a day off!
+
 ### March 4, 2021 (Zoom)
 
 - Attending: Rick, Andrea, Yiming, Anjali, Kym, Sara, Shahir, Anna, Maureen, Kayla
