@@ -27,6 +27,21 @@ For the Spring 2021 Semester, we will meet on Fridays from 11-11:50 am on Zoom.
 - Data Processing/Analysis projects
     - Sex Differences: Visual Data vs. survey/Hobbies data
     - Datavyu Coding of infant locomotion
+    
+### March 26, 2021 (Zoom)
+
+- Attending: Rick, Andrea, Yiming, Anjali, Anna, Kayla, Kym, Maureen, Rachel, Sara, Shahir  
+- Agenda:
+  - Review - Hobbies Visualization completed by Shahir
+  - Yiming reviewed 2 papers that had conflicting responses in the paper meta-analysis
+    - continue to dig through jargon
+  - Options to access R
+    - Install locally
+    - Liberal Arts Site for accessing R? (Could not find reference to this-ARS)
+    - Access from Computer lab on Campus
+  
+- To Do:
+  - Everyone complete some type of hobbies visualization to begin utilizing R. These will be reviewed net week.
 
 ### March 19, 2021 (Zoom)
 
