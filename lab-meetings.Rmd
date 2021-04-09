@@ -28,6 +28,26 @@ For the Spring 2021 Semester, we will meet on Fridays from 11-11:50 am on Zoom.
     - Sex Differences: Visual Data vs. survey/Hobbies data
     - Datavyu Coding of infant locomotion
     
+### April 9, 2021 (Zoom)
+- Attending: Andrea, Yiming, Anjali, Anna, Kayla, Kym, Rachel, Sara
+  - Excused: Shahir
+  - Absent: Maureen, Michelle
+- Agenda:
+  - Work Session - Independent paper reviews assigned by Yiming.
+- To Do: 
+  - Review Data Repositories
+    - Shahir & Anjali : https://scholarsphere.psu.edu/
+    - Rachel & Kim: https://www.icpsr.umich.edu/web/pages/
+    - Maggie & Sara: https://dataverse.org/
+  - Answer these questions:
+    - Who is the audience? 
+    - What kind of data and materials are stored there? 
+    - Why is it important (or to whom)? 
+    - Are there data here that you could imagine wanting to use for a project? Why or why not? 
+    - Does the repository have features that seem really important for repositories in general?
+  - Read this paper and be prepared to discuss on Friday April 16, 2021 
+    - Hadad, B., Schwartz, S., Maurer, D., & Lewis, T. L. (2015). Motion perception: a review of developmental changes and the role of early visual experience. Frontiers in Integrative Neuroscience, 9, 49. https://doi.org/10.3389/fnint.2015.00049
+    
 ### March 26, 2021 (Zoom)
 
 - Attending: Rick, Andrea, Yiming, Anjali, Anna, Kayla, Kym, Maureen, Rachel, Sara, Shahir  
