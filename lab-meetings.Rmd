@@ -28,6 +28,20 @@ For the Spring 2021 Semester, we will meet on Fridays from 11-11:50 am on Zoom.
     - Sex Differences: Visual Data vs. survey/Hobbies data
     - Datavyu Coding of infant locomotion
     
+    
+### April 13, 2021 - Tuesday Work Session
+- Attending: Rick, Andrea, Shahir, Sara, Yiming, Anna, Sydney, Rachel
+- Agenda:
+  - Teams Discuss [Scholarsphere](https://scholarsphere.psu.edu/) (Anna, Shahir), [Dataverse](https://dataverse.org/) (Maggie, Sara), [ICPSR](https://www.icpsr.umich.edu/web/pages/) (Rachel)
+  - Paper review - Yiming assigned papers
+- To Do:
+  - For Each Data repository give a tour and answer the following questions for Friday
+    - Who is the audience? 
+    - What kind of data and materials are stored there? 
+    - Why is it important (or to whom)? 
+    - Are there data here that you could imagine wanting to use for a project? Why or why not? 
+    - Does the repository have features that seem really important for repositories in general?
+    
 ### April 9, 2021 (Zoom)
 - Attending: Andrea, Yiming, Anjali, Anna, Kayla, Kym, Rachel, Sara
   - Excused: Shahir
