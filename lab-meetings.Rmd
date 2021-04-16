@@ -4,7 +4,7 @@ pagetitle: lab-meetings
 
 # Lab Meetings
 
-For the Spring 2021 Semester, we will meet on Fridays from 11-11:50 am on Zoom.
+For the Spring 2021 Semester, we will meet on Fridays from 11:10am - 12pm on Zoom.
 
 ## Helpful Computer Information
 
@@ -28,7 +28,38 @@ For the Spring 2021 Semester, we will meet on Fridays from 11-11:50 am on Zoom.
     - Sex Differences: Visual Data vs. survey/Hobbies data
     - Datavyu Coding of infant locomotion
     
-    
+### April 16, 2021 (Zoom)
+- Attending: Rick, Andrea, Yiming, Anjali, Anna, Kayla, Kym, Rachel, Shahir
+  - Absent: Sara
+  - Excused: Maggie
+- Agenda:
+  - Teams Discuss 
+    - [Scholarsphere](https://scholarsphere.psu.edu/) (Anna, Shahir, Anjali discussed)
+      - anyone can use it 
+      - search bar is on the homepage 
+      - way to manage and keep research works for the future
+      - each thing has a #of views graph - like this
+      - many types of works (articles, book, poster, papers, datasets, thesis, etc.)
+      - click to view .pdf
+      - work history available for each work (versioning)
+      - How are Featured Works selected?
+      - Some works are open access and some are PSU only (I assume would need to log in to access)
+      - What Difference between Library website and Scholarsphere site?
+      - nice clean interface
+    - [Dataverse](https://dataverse.org/) (Maggie, Sara) 
+    - [ICPSR](https://www.icpsr.umich.edu/web/pages/) (Kym and Rachel discussed)
+      - Health and nutrition
+      - Excercise sets for use in classrooms - really like this!
+      - Users - Universities, Non profits, research institutions
+      - Improve - not sure how to get the data, is membership needed?
+      - pay annual subscription fee (PSU is a subscriber)
+      - video introduction - likes this!
+        - how to search for data
+        - what is ICPSR?
+        - Need - how to gain access
+      - not student friendly - how to do use the site
+  - Discuss paper and view different types of displays.
+
 ### April 13, 2021 - Tuesday Work Session
 - Attending: Rick, Andrea, Shahir, Sara, Yiming, Anna, Sydney, Rachel
 - Agenda:
