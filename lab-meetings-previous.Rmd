@@ -5,6 +5,127 @@ pagetitle: lab-meetings-previous
 # Past Lab Meetings
 
 ---
+## Fall 2020 Meeting schedule 
+
+### 27 October 2020 (Zoom)
+
+- Attending:
+- Agenda
+    - Discuss:
+    
+    
+
+### 20 October 2020 (Zoom)
+
+- Attending: Rick, Andrea, Maggie, Emily, YIming, Rachel, Kayla, Anna, Shahir, Sara, Anjali, Chelsea
+- Agenda
+    - Discuss: Bassett, D. S., Cullen, K. E., Eickhoff, S. B., Farah, M. J., Goda, Y., Haggard, P., Hu, H., Hurd, Y. L., Josselyn, S. A., Khakh, B. S., Knoblich, J. A., Poirazi, P., Poldrack, R. A., Prinz, M., Roelfsema, P. R., Spires-Jones, T. L., Sur, M., & Ueda, H. R. (2020). Reflections on the past two decades of neuroscience. Nature Reviews. Neuroscience, 21(10), 524–534. https://doi.org/10.1038/s41583-020-0363-6
+- To Do: Read new paper for next week
+    
+
+### 13 October 2020 CANCELLED
+
+### 6 October 2020 (Zoom)
+
+- Attending: Rick, Andrea, Sara, Emily, Rachel, Yiming, Kayla, Anjali, Anna, Shahir
+  - Excused/Sick: Chelsea, Maggie
+- Agenda
+    - Discuss R Awesomeness and Woes
+      - Emily's code
+      - lapply, strsplit
+      - Yiming - Weibull_MLM code
+      - .Rmd - allows you to combine R code, figures, text into one file
+      
+    
+
+### 29 September 2020 (Zoom)
+
+- Attending: Rick, Andrea, Chelsea, Kayla, Sara, Maggie, Rachel, Anna, Anjali, Shahir
+  - Post Meeting: Michelle
+- Agenda
+  - Introduction to R Resources
+    - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+    - [DataCamp](https://learn.datacamp.com/) - log in using PSU email address
+    
+- To Do
+    - Create GitHub account if you don't already have one, share name with ARS
+    - Keep working on R
+    - Bring to class: something that is cool that you learned OR something you are struggling with. We will screen share.
+
+### 22 September 2020 (Zoom)
+
+- Attending: Rick, Andrea, Yiming, Chelsea, Kayla, Sara, Maggie, Rachel, Anna, Anjali, Shahir
+  - Excused: Emily
+  - Post Meeting: Michelle
+- Agenda
+  - Discuss 
+      - Mounoud, P., Viviani, P., Hauert, C. A., & Guyon, J. (1985). Development of visuomanual tracking in 5- to 9-year-old boys. Journal of Experimental Child Psychology, 40(1), 115–132. https://doi.org/10.1016/0022-0965(85)90068-2. [Annotatable PDF](pdfs/mounoud-etal-1985.pdf).
+      - Review DataCamp courses, send email to Andrea about where you want to start (in R) and one other course
+      - Review lab web site, and make at least one annotation or comment
+- To Do
+  - Work on your R Assignment on DataCamp.
+      
+### 15 September 2020 (Zoom)
+
+- Attending: Rick, Andrea, Yiming, Maggie, Anna, Chelsea, Sara, Anjali, Kayla, Shahir
+  - Post Meeting: Michelle, Emily Rachel
+- Agenda 
+  - Discuss Biographies
+  - Communication Tools
+      - Asana, Discord - Everyone Joined
+      - Datacamp - join Psych 494 Research Studies Fall 2020 group space - Emily
+      - Hypothes.is - join new gilmore-lab space. Link posted in Discord
+  - Training Status Update
+      - CITI - Maureen, Sara, Kayla, Shahir
+      - Clery Act - Yiming, Sara, Emily, Kayla, Shahir
+      - Reporting Child Abuse - Yiming, Sara, Emily, Anjali, Michelle, Kayla, Shahir
+      - Two more trainings, Title IX and Annual Compliance Training will be assigned
+  - To Do
+      - Visuomanual tracking lit review, read and discuss next week: Mounoud, P., Viviani, P., Hauert, C. A., & Guyon, J. (1985). Development of visuomanual tracking in 5- to 9-year-old boys. Journal of Experimental Child Psychology, 40(1), 115–132. https://doi.org/10.1016/0022-0965(85)90068-2. 
+          - *Who* (were the participants), *what* (did they do), *what* (was measured), *what* (was found), *why* (should we care), *what* (does it mean)
+      - Review DataCamp courses, send email to Andrea about where you want to start (in R) and one other course
+      - Review lab web site, and make at least one annotation or comment
+
+### 8 September 2020 (Zoom)
+
+- Attending: Rick, Andrea, Anjali, Emily, Kayla, Anna, Shahir, Maureen, Yiming, Chelsea, Rachel, Sara
+  - Excused: Michelle
+- Agenda
+  - Status of Joining Useful Tools
+    - Discord - 1 missing
+    - Asana - everyone joined
+    - Hypothes.is - 7 missing from group space
+  - [Webpage Biography](http://gilmore-lab.github.io/who-we-are.html)  
+    - Include at least one link 
+      - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  - Rick gave practice presentation [here](https://gilmore-lab.github.io/2020-09-09-flux)    
+- To Do
+  - Write Biography and send to the [Lab Email](mailto:psubrainlab@gmail.com) - Due Date 9/15/2020
+  - Training requirements (CITI, Clery Act, Reporting Child Abuse) will be sent via Asana - Due Date 9/22/2020 
+
+### 1 September 2020 (Zoom)
+
+- Attending: Rick, Andrea, Yiming, Kayla, Maureen, Anjali, Shahir, Anna, Sara, Rachel, Emily
+  - Excused: Michelle, Chelsea  
+- Agenda
+  - Introductions
+  - Orientation to lab projects/themes
+    - [Databrary](https://databrary.org)
+    - [Datavyu](https://datavyu.org)
+    - Open science
+    - [Play & Learning Across a Year (PLAY)](https://play-project.org)
+    - Development of motion perception
+  - Some tools we use
+    - R, RStudio
+    - [Github](https://github.com/gilmore-lab)
+    - Python, [PsychoPy](https://www.psychopy.org/)
+    - Paperpile
+    - [Hypothes.is](https://web.hypothes.is/)
+  - Communication Tools
+    - [Asana](https://asana.com/)
+    - [Discord](https://discord.com/)
+
+
 
 ## Spring 2020
 
