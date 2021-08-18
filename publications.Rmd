@@ -8,6 +8,16 @@ Johnson, M.H., Munakata, Y., & Gilmore, R.O. (2002). *Brain development and cogn
 
 ## Peer-reviewed Articles
 
+Soska, K.C., Xu, M., Gonzalez, S.L., Herzberg, O., Tamis-LeMonda, C.S., Gilmore, R.O., & Adolph, K.E. (2021). (Hyper)active data curation: A video case study from behavioral science. Journal of eScience Librarianship, 10(3), e1208. https://doi.org/10.7191/jeslib.2021.1208.
+
+Gilmore, R.O., & Qian, Y. (2021). An open developmental science will be more rigorous, robust, and impactful. Infant and Child Development. https://doi.org/10.1002/icd.2254.
+
+Qian, Y., Seisler, A.R., & Gilmore, R.O. (in press). Children’s sensitivity to optic flow-like visual motion differs from adults. Developmental Psychology.
+
+Liao, B., Hu, J, & Gilmore, R.O. (2021). Optical flow estimation combining with illumination adjustment and edge refinement in livestock UAV videos. Computers in Electronics and Agriculture, 180, January 2021, 105910. https://doi.org/10.1016/j.compag.2020.105910.
+
+Cuadra, C., Gilmore, R.O., & Latash, M. (2020). Finger force matching and verbal reports: Testing predictions of the Iso-Perceptual Manifold (IPM) concept, Journal of Motor Behavior, 1-13. https://doi.org/10.1080/00222895.2020.1813681.
+
 Stoop, T.B., Moriarty, P.M., Wolf, R., Gilmore, R.O.,  Perez-Edgar, K., Scherf, S, Vigeant, M.C., & Cole, P.M. (in press). I know that voice! Mothers' voices influence children's perceptions of emotional intensity. *Journal of Experimental Child Psychology*.
 
 Gilmore, R.O., Cole, P.M., van Aken, M.A.G., Verma S., & Worthman, C.M. (2020). Advancing scientific integrity, transparency, and openness in child development research: Challenges and possible solutions. *Child Development Perspectives*, *14*(1), 9-14. <https://dx.doi.org/10.1111/cdep.12360>

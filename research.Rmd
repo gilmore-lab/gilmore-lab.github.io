@@ -12,7 +12,11 @@ My colleagues and I are developing policies for the ethical and secure sharing o
 
 **Publications**
 
-Adolph, K.E., Xu, M., and Gilmore, R.O. (in press). Data sharing, in Panicker, S. & Stanley, B. (eds.), *How to Conduct Research Ethically*, APA Press, Washington, DC.
+Soska, K.C., Xu, M., Gonzalez, S.L., Herzberg, O., Tamis-LeMonda, C.S., Gilmore, R.O., & Adolph, K.E. (2021). (Hyper)active data curation: A video case study from behavioral science. *Journal of eScience Librarianship*, *10*(3), e1208. <https://doi.org/10.7191/jeslib.2021.1208>.
+
+Gilmore, R.O., & Qian, Y. (2021). An open developmental science will be more rigorous, robust, and impactful. *Infant and Child Development*. <https://doi.org/10.1002/icd.2254>.
+
+Adolph, K.E., Xu, M., and Gilmore, R.O. (2021). Data sharing, in Panicker, S. & Stanley, B. (eds.), *How to Conduct Research Ethically*, APA Press, Washington, DC.
 
 Gilmore, R.O., Cole, P.M., van Aken, M.A.G., Verma S., & Worthman, C.M. (2020). Advancing scientific integrity, transparency, and openness in child development research: Challenges and possible solutions. *Child Development Perspectives*, *14*(1), 9-14. <http://dx.doi.org/10.1111/cdep.12360>
 
@@ -25,6 +29,12 @@ Gilmore, R.O., Diaz, M.T., Wyble, B.A., & Yarkoni, T. (2017). Progress toward op
 Gilmore, R.O. (2016). From big data to deep insight in developmental science. *Wiley Interdisciplinary Reviews Cognitive Science*. [DOI: 10.1002/wcs.1379](http://doi.org/10.1001/wcs.1379).
 
 **Presentations**
+
+Gilmore, R.O. (2021, April). Invited panel presentation to “Changing the Culture of Data Management and Sharing: A Workshop”, National Academies of Science, Engineering, and Medicine.
+
+Gilmore, R.O. (2021, January). “The Human Behaviorome Project”, Invited presentation to the Networking and Information Technology Research and Development (NITRD) workshop on the Future of Federally Supported Data Repositories.
+
+Gilmore, R.O. (2020, September). Invited presentation at FLUX Preconference Workshop on Infant Neuroimaging.
 
 Gilmore, R.O. (2020, May 23). Invited symposium presentation on *Open Science for Different Methodological Approaches in Psychology*, 2020 meeting of the Association for Psychological Science, Chicago, IL. Cancelled.
 
@@ -58,7 +68,7 @@ Gilmore, R.O. (2017, September 7). Reproducibility in computationally intensive 
 
 *databrarypy*, a Python package for Databrary. <https://github.com/PLAY-behaviorome/databrarypy>.
 
-**Role**
+**Roles**
 
 - Chaired Society for Research in Child Development (SRCD) Task Force on Scientific Integrity and Openness (2018-2019) that drafted a [Policy on Scientific Integrity, Transparency, and Openness](https://www.srcd.org/policy-scientific-integrity-transparency-and-openness) and [author guidelines](https://www.srcd.org/research/journals/child-development/author-guidelines-scientific-integrity-and-openness-child-development).
 - Lead the [Open Data & Developmental Science (ODDS) initiative](https://github.com/psu-psychology/open-data-and-developmental-science-ODDS) for the Penn State [Child Study Center](https://csc.la.psu.edu/).
@@ -171,6 +181,10 @@ The Play & Learning Across a Year (PLAY) project serves as a model system for do
 
 The aim of the project is to develop a new approach to developmental science that enables (1) “big” data science for researchers who would not otherwise have access; (2) a communal, low-cost means of collecting and coding data that retains the autonomy of individual labs; and (3) a plan for leveraging diverse expertise to address a common goal.
 
+**Publications**
+
+Soska, K.C., Xu, M., Gonzalez, S.L., Herzberg, O., Tamis-LeMonda, C.S., Gilmore, R.O., & Adolph, K.E. (2021). (Hyper)active data curation: A video case study from behavioral science. *Journal of eScience Librarianship*, *10*(3), e1208. <https://doi.org/10.7191/jeslib.2021.1208>.
+
 **Presentations**
 
 Gilmore, R.O., Jayaraman, S., Hassan, S., & Lingeman, J. (2020, July). Tools for reproducible developmental science. Poster to be presented at the 2020 International Congress on Infant Studies, Glasgow, Scotland.
@@ -193,8 +207,9 @@ Adolph, K., Tamis-LeMonda, C. & Gilmore, R.O. (2016). PLAY Project: Webinar disc
 
 **Collaborators**
 
-- Karen Adolph, New York University, Co-Principal Investigator
-- Catherine Tamis-LeMonda, New York University, Co-Principal Investigator
+- Karen Adolph, New York University, Co-Principal Investigator.
+- Catherine Tamis-LeMonda, New York University, Co-Principal Investigator.
+- Kasey Soska, New York University, Scientific Director.
 
 **Support**
 
@@ -246,6 +261,8 @@ We are exploring the extent to which low-level visual dimensions of visual proce
 Visual motion provides humans and animals with information about their own movement through 3D space and about the structure of the environment -- the objects, surfaces, and other animals that it may contain. How the human brain processes complex motion information poses an as-yet unanswered question. This project focuses on characterizing how sensitivity to visual motion emerges in the developing human brain: how brain (EEG) responses to patterns of ego- and object motion emerge, how they develop from infancy through childhood into adulthood, how specific changes in cortical circuitry might account for the observed patterns, and how behavioral sensitivity to motion corresponds to neural activation. The studies compare brain responses and behavioral discrimination patterns in infants, children, and adults to the same types of ego- and object motion. The studies also involve an effort to measure or simulate the statistics of optic flow experienced by infant, child, and adult observers in complex, natural environments using computer vision methods.
 
 **Publications**
+
+Qian, Y., Seisler, A.R., & Gilmore, R.O. (in press). Children’s sensitivity to optic flow-like visual motion differs from adults. *Developmental Psychology*. GitHub repository at [https://github.com/gilmore-lab/sex-differences-in-motion-perception](https://github.com/gilmore-lab/sex-differences-in-motion-perception)
 
 Gilmore, R.O., Thomas, A.L., & Fesi, J.D (2016). Children's brain responses to optic flow vary by pattern type and motion speed. *PLoS ONE*. [doi: 10.1371/journal.pone.0157911](http://doi.org/10.1371/journal.pone.0157911). Materials on Databrary at [http://doi.org/10.17910/B7QG6W](http://doi.org/10.17910/B7QG6W).
 
@@ -383,13 +400,15 @@ Gilmore, R.O. (2017). Eye-tracking-DS. Code repository on GitHub. Retrieved Dece
 
 The project is supported by NICHD under [R01HD083381-02](https://projectreporter.nih.gov/project_info_description.cfm?aid=9194421&icde=0).
 
-# Finished projects
-
 ## Computational Symmetry
 
 ![Symmetric image](images/symmetry-sample-1.png) ![Symmetric image](images/symmetry-sample-2.png)
 
 The ability to sense regular or near-regular patterns serves critical biological needs and is equally important for computer vision and machine intelligence. Despite wide variation in the types of regularity present in natural images, research on human and computer processing of pattern regularity has focused primarily on detecting bilateral reflection symmetry, using largely atheoretical approaches. The goals of this interdisciplinary research are to i) use principles of group theory to develop a conceptual framework for understanding regularity perception and brain activation in humans, and ii) to design general computer-based symmetry detection algorithms that can operate at a level of practical usability.
+
+**Publication**
+
+Kohler, P.J., Vedak, S., Y& Gilmore, R.O. (in prep). Perceptual similarities among wallpaper group exemplars. GitHub repo: [https://github.com/gilmore-lab/symmetry-sorting](https://github.com/gilmore-lab/symmetry-sorting).
 
 **Presentations**
 
@@ -405,6 +424,7 @@ Thomas, A.L., Gilmore, R.O., Norcia, A.M., Liu, Y., Fesi, J.D., Hwang, K.D., Sti
 
 - Yanxi Liu, Penn State Computer Science & Engineering
 - Anthony Norcia, Stanford University, Department of Psychology
+- Peter Kohler, York University
 
 **Support**
 

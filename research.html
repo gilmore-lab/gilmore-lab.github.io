@@ -13,23 +13,36 @@
 
 <title>research</title>
 
-<script src="site_libs/header-attrs-2.3/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.9/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -42,32 +55,7 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
 
 
 
@@ -77,10 +65,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -97,40 +81,13 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 51px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -158,7 +115,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -170,7 +127,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -181,10 +138,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -196,7 +166,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -307,7 +276,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -321,13 +290,18 @@ $(document).ready(function () {
 <h2>Open Science</h2>
 <p>The social, behavioral, and neural sciences face more difficult scientific challenges than any other field has faced before. Open, transparent, and reproducible scientific practices are essential for accelerating discovery in these fields. My colleagues and I are developing policies for the ethical and secure sharing of personal data and technologies to allow the analysis and sharing of these data for scientific and educational purposes.</p>
 <p><strong>Publications</strong></p>
-<p>Adolph, K.E., Xu, M., and Gilmore, R.O. (in press). Data sharing, in Panicker, S. &amp; Stanley, B. (eds.), <em>How to Conduct Research Ethically</em>, APA Press, Washington, DC.</p>
+<p>Soska, K.C., Xu, M., Gonzalez, S.L., Herzberg, O., Tamis-LeMonda, C.S., Gilmore, R.O., &amp; Adolph, K.E. (2021). (Hyper)active data curation: A video case study from behavioral science. <em>Journal of eScience Librarianship</em>, <em>10</em>(3), e1208. <a href="https://doi.org/10.7191/jeslib.2021.1208" class="uri">https://doi.org/10.7191/jeslib.2021.1208</a>.</p>
+<p>Gilmore, R.O., &amp; Qian, Y. (2021). An open developmental science will be more rigorous, robust, and impactful. <em>Infant and Child Development</em>. <a href="https://doi.org/10.1002/icd.2254" class="uri">https://doi.org/10.1002/icd.2254</a>.</p>
+<p>Adolph, K.E., Xu, M., and Gilmore, R.O. (2021). Data sharing, in Panicker, S. &amp; Stanley, B. (eds.), <em>How to Conduct Research Ethically</em>, APA Press, Washington, DC.</p>
 <p>Gilmore, R.O., Cole, P.M., van Aken, M.A.G., Verma S., &amp; Worthman, C.M. (2020). Advancing scientific integrity, transparency, and openness in child development research: Challenges and possible solutions. <em>Child Development Perspectives</em>, <em>14</em>(1), 9-14. <a href="http://dx.doi.org/10.1111/cdep.12360" class="uri">http://dx.doi.org/10.1111/cdep.12360</a></p>
 <p>Ossmy O., Gilmore R.O., Adolph K.E. (2020) AutoViDev: A Computer-Vision Framework to Enhance and Accelerate Research in Human Development. In: Arai K., Kapoor S. (eds) <em>Advances in Computer Vision. CVC 2019. Advances in Intelligent Systems and Computing</em>, vol 944. Springer, Cham. <a href="https://doi.org/10.1007/978-3-030-17798-0_14">doi: 10.1007/978-3-030-17798-0_14</a></p>
 <p>Gilmore, R. O., Kennedy, J. L., &amp; Adolph, K. E. (2018). Practical solutions for sharing data and materials From psychological research. <em>Advances in Methods and Practices in Psychological Science</em>, SAGE Publications Inc. Retrieved from <a href="https://doi.org/10.1177/2515245917746500" class="uri">https://doi.org/10.1177/2515245917746500</a>. <a href="https://osf.io/rw7f3/">OSF preprint</a>.</p>
 <p>Gilmore, R.O., Diaz, M.T., Wyble, B.A., &amp; Yarkoni, T. (2017). Progress toward openness, transparency, and reproducibility in cognitive neuroscience. <em>Annals of the New York Academy of Sciences</em>, 1396, 5–18. <a href="http://doi.org/10.1111/nyas.13325">doi: 10.1111/nyas.13325</a>.</p>
 <p>Gilmore, R.O. (2016). From big data to deep insight in developmental science. <em>Wiley Interdisciplinary Reviews Cognitive Science</em>. <a href="http://doi.org/10.1001/wcs.1379">DOI: 10.1002/wcs.1379</a>.</p>
 <p><strong>Presentations</strong></p>
+<p>Gilmore, R.O. (2021, April). Invited panel presentation to “Changing the Culture of Data Management and Sharing: A Workshop”, National Academies of Science, Engineering, and Medicine.</p>
+<p>Gilmore, R.O. (2021, January). “The Human Behaviorome Project”, Invited presentation to the Networking and Information Technology Research and Development (NITRD) workshop on the Future of Federally Supported Data Repositories.</p>
+<p>Gilmore, R.O. (2020, September). Invited presentation at FLUX Preconference Workshop on Infant Neuroimaging.</p>
 <p>Gilmore, R.O. (2020, May 23). Invited symposium presentation on <em>Open Science for Different Methodological Approaches in Psychology</em>, 2020 meeting of the Association for Psychological Science, Chicago, IL. Cancelled.</p>
 <p>Gilmore, R.O. (2020, April 15). The open science revolution: A report from the front lines. Talk given in the Penn State Data Studies Group. <a href="https://gilmore-lab.github.io/2020-04-15-data-studies-group/">slides</a>.</p>
 <p>Gilmore, R.O. (2020, February 21). Research computing in child development research. Invited talk to the Penn State Child Study Center. <a href="https://psu-psychology.github.io/open-data-and-developmental-science-ODDS/2020-02-21-csc.html">slides</a>.</p>
@@ -344,7 +318,7 @@ $(document).ready(function () {
 <p><strong>Software</strong></p>
 <p><em>databraryapi</em>, an R package for Databrary. <a href="https://github.com/PLAY-behaviorome/databraryapi" class="uri">https://github.com/PLAY-behaviorome/databraryapi</a>.</p>
 <p><em>databrarypy</em>, a Python package for Databrary. <a href="https://github.com/PLAY-behaviorome/databrarypy" class="uri">https://github.com/PLAY-behaviorome/databrarypy</a>.</p>
-<p><strong>Role</strong></p>
+<p><strong>Roles</strong></p>
 <ul>
 <li>Chaired Society for Research in Child Development (SRCD) Task Force on Scientific Integrity and Openness (2018-2019) that drafted a <a href="https://www.srcd.org/policy-scientific-integrity-transparency-and-openness">Policy on Scientific Integrity, Transparency, and Openness</a> and <a href="https://www.srcd.org/research/journals/child-development/author-guidelines-scientific-integrity-and-openness-child-development">author guidelines</a>.</li>
 <li>Lead the <a href="https://github.com/psu-psychology/open-data-and-developmental-science-ODDS">Open Data &amp; Developmental Science (ODDS) initiative</a> for the Penn State <a href="https://csc.la.psu.edu/">Child Study Center</a>.</li>
@@ -416,6 +390,8 @@ $(document).ready(function () {
 <p><img src="https://www.play-project.org/img/PLAY-logo.png" width=480px/></p>
 <p>The Play &amp; Learning Across a Year (PLAY) project serves as a model system for doing development science from a “big” data approach. Natural free play represents the foundation of infant learning, but we know little about how infants play, how play unfolds in real time and across development, and how individual and group differences promote infant learning and development through play. To answer these questions, the PLAY project will collect, code, and share 900 hours of video collected in the homes of children at 12, 18, and 24 months of age drawn from 30 sites across North America.</p>
 <p>The aim of the project is to develop a new approach to developmental science that enables (1) “big” data science for researchers who would not otherwise have access; (2) a communal, low-cost means of collecting and coding data that retains the autonomy of individual labs; and (3) a plan for leveraging diverse expertise to address a common goal.</p>
+<p><strong>Publications</strong></p>
+<p>Soska, K.C., Xu, M., Gonzalez, S.L., Herzberg, O., Tamis-LeMonda, C.S., Gilmore, R.O., &amp; Adolph, K.E. (2021). (Hyper)active data curation: A video case study from behavioral science. <em>Journal of eScience Librarianship</em>, <em>10</em>(3), e1208. <a href="https://doi.org/10.7191/jeslib.2021.1208" class="uri">https://doi.org/10.7191/jeslib.2021.1208</a>.</p>
 <p><strong>Presentations</strong></p>
 <p>Gilmore, R.O., Jayaraman, S., Hassan, S., &amp; Lingeman, J. (2020, July). Tools for reproducible developmental science. Poster to be presented at the 2020 International Congress on Infant Studies, Glasgow, Scotland.</p>
 <p>Adolph, K.E., Tamis-LeMonda, C., &amp; Gilmore, R.O. (2016, December 16). Video-based communal data collection &amp; coding: Advancing the science of infant learning &amp; development. A workshop held at the Eunice Kennedy Shriver National Institute of Child Health and Human Development. <a href="https://videocast.nih.gov/summary.asp?Live=20371&amp;bhcp=1">Video Cast</a>. <a href="https://nyu.databrary.org/volume/254">Materials &amp; data</a>.</p>
@@ -430,8 +406,9 @@ $(document).ready(function () {
 </ul>
 <p><strong>Collaborators</strong></p>
 <ul>
-<li>Karen Adolph, New York University, Co-Principal Investigator</li>
-<li>Catherine Tamis-LeMonda, New York University, Co-Principal Investigator</li>
+<li>Karen Adolph, New York University, Co-Principal Investigator.</li>
+<li>Catherine Tamis-LeMonda, New York University, Co-Principal Investigator.</li>
+<li>Kasey Soska, New York University, Scientific Director.</li>
 </ul>
 <p><strong>Support</strong></p>
 <p>PLAY is supported by grants from the Office of the Director, National Institutes of Health, (OD), Eunice Kennedy Shriver National Institute for Child Health and Human Development (NICHD), the National Institute of Mental Health (NIMH), and the National Institute on Drug Abuse (NIDA) under R01HD094830-01, the LEGO Foundation, and the Alfred P. Sloan Foundation.</p>
@@ -478,6 +455,7 @@ $(document).ready(function () {
 <p><img src="images/fesi-2014.jpg" alt="Brain activity" /> <img src="images/optic-flow.jpg" alt="Optic flow" /></p>
 <p>Visual motion provides humans and animals with information about their own movement through 3D space and about the structure of the environment – the objects, surfaces, and other animals that it may contain. How the human brain processes complex motion information poses an as-yet unanswered question. This project focuses on characterizing how sensitivity to visual motion emerges in the developing human brain: how brain (EEG) responses to patterns of ego- and object motion emerge, how they develop from infancy through childhood into adulthood, how specific changes in cortical circuitry might account for the observed patterns, and how behavioral sensitivity to motion corresponds to neural activation. The studies compare brain responses and behavioral discrimination patterns in infants, children, and adults to the same types of ego- and object motion. The studies also involve an effort to measure or simulate the statistics of optic flow experienced by infant, child, and adult observers in complex, natural environments using computer vision methods.</p>
 <p><strong>Publications</strong></p>
+<p>Qian, Y., Seisler, A.R., &amp; Gilmore, R.O. (in press). Children’s sensitivity to optic flow-like visual motion differs from adults. <em>Developmental Psychology</em>. GitHub repository at <a href="https://github.com/gilmore-lab/sex-differences-in-motion-perception">https://github.com/gilmore-lab/sex-differences-in-motion-perception</a></p>
 <p>Gilmore, R.O., Thomas, A.L., &amp; Fesi, J.D (2016). Children’s brain responses to optic flow vary by pattern type and motion speed. <em>PLoS ONE</em>. <a href="http://doi.org/10.1371/journal.pone.0157911">doi: 10.1371/journal.pone.0157911</a>. Materials on Databrary at <a href="http://doi.org/10.17910/B7QG6W">http://doi.org/10.17910/B7QG6W</a>.</p>
 <p>Gilmore, R.O., Raudies, F., &amp; Jayaraman, S. (2015). What Accounts for Developmental Shifts in Optic Flow Sensitivity? <em>Proceedings of the IEEE International Conference on Development and Learning and Epigenetic Robotics</em>. <a href="http:/doi.org/10.1109/DEVLRN.2015.7345450">doi:10.1109/DEVLRN.2015.7345450</a>. Materials on Databrary at <a href="http://dx.doi.org/10.17910/B7988V">doi:10.17910/B7988V</a>.</p>
 <p>Fesi, J.F., Thomas, A.L., &amp; Gilmore, R.O. (2014). Cortical responses to optic flow and motion contrast across patterns and speeds. <em>Vision Research</em>, 100, 56–71. <a href="http://dx.doi.org/10.1016/j.visres.2014.04.004">doi:10.1016/j.visres.2014.04.004</a>. <a href="https://databrary.org/volume/49">Materials on Databrary</a>.</p>
@@ -573,13 +551,12 @@ $(document).ready(function () {
 <p><strong>Support</strong></p>
 <p>The project is supported by NICHD under <a href="https://projectreporter.nih.gov/project_info_description.cfm?aid=9194421&amp;icde=0">R01HD083381-02</a>.</p>
 </div>
-</div>
-<div id="finished-projects" class="section level1">
-<h1>Finished projects</h1>
 <div id="computational-symmetry" class="section level2">
 <h2>Computational Symmetry</h2>
 <p><img src="images/symmetry-sample-1.png" alt="Symmetric image" /> <img src="images/symmetry-sample-2.png" alt="Symmetric image" /></p>
 <p>The ability to sense regular or near-regular patterns serves critical biological needs and is equally important for computer vision and machine intelligence. Despite wide variation in the types of regularity present in natural images, research on human and computer processing of pattern regularity has focused primarily on detecting bilateral reflection symmetry, using largely atheoretical approaches. The goals of this interdisciplinary research are to i) use principles of group theory to develop a conceptual framework for understanding regularity perception and brain activation in humans, and ii) to design general computer-based symmetry detection algorithms that can operate at a level of practical usability.</p>
+<p><strong>Publication</strong></p>
+<p>Kohler, P.J., Vedak, S., Y&amp; Gilmore, R.O. (in prep). Perceptual similarities among wallpaper group exemplars. GitHub repo: <a href="https://github.com/gilmore-lab/symmetry-sorting">https://github.com/gilmore-lab/symmetry-sorting</a>.</p>
 <p><strong>Presentations</strong></p>
 <p>Vedak, S.C., Gilmore, R.O., Kohler, P.J., Liu, Y., &amp; Norcia, A.M. (2015, May). The salience of low-order visual features in highly self-similar wallpaper groups. Poster presented at the Vision Sciences Society meeting, St. Pete Beach, FL. <a href="../pdfs/vedak-etal-vss-2015.pdf">PDF</a>. <a href="http://databrary.org/volume/77">Materials on Databrary</a>.</p>
 <p>Thomas, A.L., Gilmore, R.O., Norcia, A.M., Liu, Y., Fesi, J.D., Hwang, K.D., Stitt, J., &amp; Liu, J. (2012, October). Visual patterns with rotational symmetry activate distinct cortical regions. Poster presented at the Society for Neuroscience meeting, New Orleans, LA.</p>
@@ -591,6 +568,7 @@ $(document).ready(function () {
 <ul>
 <li>Yanxi Liu, Penn State Computer Science &amp; Engineering</li>
 <li>Anthony Norcia, Stanford University, Department of Psychology</li>
+<li>Peter Kohler, York University</li>
 </ul>
 <p><strong>Support</strong></p>
 <p>This project was supported by the National Science Foundation under grant <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1248076">IIS-1248076</a>.</p>
@@ -606,7 +584,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -624,7 +602,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>
