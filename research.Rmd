@@ -16,7 +16,7 @@ Soska, K.C., Xu, M., Gonzalez, S.L., Herzberg, O., Tamis-LeMonda, C.S., Gilmore,
 
 Gilmore, R.O., & Qian, Y. (2021). An open developmental science will be more rigorous, robust, and impactful. *Infant and Child Development*. <https://doi.org/10.1002/icd.2254>.
 
-Adolph, K.E., Xu, M., and Gilmore, R.O. (2021). Data sharing, in Panicker, S. & Stanley, B. (eds.), *How to Conduct Research Ethically*, APA Press, Washington, DC.
+Gilmore, R.O., Xu, M., & Adolph, K.E. (2021). Data sharing. In Panecker, S. & Stanley, B. (Eds.), *Handbook of Research Ethics in Psychological Science*, APA Press, Washington, DC.
 
 Gilmore, R.O., Cole, P.M., van Aken, M.A.G., Verma S., & Worthman, C.M. (2020). Advancing scientific integrity, transparency, and openness in child development research: Challenges and possible solutions. *Child Development Perspectives*, *14*(1), 9-14. <http://dx.doi.org/10.1111/cdep.12360>
 
@@ -79,7 +79,6 @@ Gilmore, R.O. (2017, September 7). Reproducibility in computationally intensive 
 - Karen Adolph, New York University, Co-Principal Investigator and Project Director.
 - Ori Ossmy, New York University
 - Jeff Spies, 221b.io
-- Michael Hallquest, Penn State
 
 <img src="http://databrary.org/theme/img/logo/databrary.png">
 
@@ -94,6 +93,8 @@ The [Databrary Project ](http://databrary.org) aims to increase scientific trans
 Databrary is an [open-source](http://github.com/databrary) software project. Penn State is one of the major "nodes", with a large number of authorized users.
 
 **Publications**
+
+Gilmore, R.O., Xu, M., & Adolph, K.E. (2021). Data sharing. In Panecker, S. & Stanley, B. (Eds.), *Handbook of Research Ethics in Psychological Science*, APA Press, Washington, DC.
 
 Gilmore, R. O. & Adolph, K. E. (2019). Open sharing of research video: Breaking down the boundaries of the research team. In , K. L. Hall, A. L. Vogel, & R. T. Croyle (Eds.), *Strategies for team science success: Handbook of evidence-based principles for cross-disciplinary science and practical lessons learned from health researchers*. Cham: Springer, pp. 575-583.
 
@@ -215,6 +216,30 @@ Adolph, K., Tamis-LeMonda, C. & Gilmore, R.O. (2016). PLAY Project: Webinar disc
 
 PLAY is supported by grants from the Office of the Director, National Institutes of Health, (OD), Eunice Kennedy Shriver National Institute for Child Health and Human Development (NICHD), the National Institute of Mental Health (NIMH), and the National Institute on Drug Abuse (NIDA) under R01HD094830-01, the LEGO Foundation, and the Alfred P. Sloan Foundation.
 
+## Sex Differences in Visual Perception
+
+Previous research has shown that males and females differ on a number of psychological dimensions, including some basic aspects of visual processing.
+We are exploring the extent to which low-level visual dimensions of visual processing correlate with one another and with higher order characteristics like spatial cognition and hobby choices.
+
+**Role**
+
+- Co-Investigator
+
+**Materials**
+
+- [GitHub project](https://github.com/gilmore-lab/sex-differences-in-motion-perception)
+
+**Collaborators**
+
+- Sheri Berenbaum, Penn State
+- Yiming Qian, Penn State
+
+**Publications**
+
+Berenbaum, S.A., Qian, Y., & Gilmore, R.O. (in prep). Vision contributes to sex differences in spatial cognition and activity interests.
+
+**Presentations**
+
 ## Behavioral Analysis through Video (BehAV.ai)
 
 AI and computer vision tools are increasingly useful in basic and applied behavioral science.
@@ -235,24 +260,6 @@ This project aims to provide a set of tools based on open source algorithms and 
 - Stephen Fast, Penn State Applied Research Lab
 - Ori Ossmy, New York University
 - Drew Polasky, Penn State Institute for Cyberscience
-
-## Sex Differences in Visual Perception
-
-Previous research has shown that males and females differ on a number of psychological dimensions, including some basic aspects of visual processing.
-We are exploring the extent to which low-level visual dimensions of visual processing correlate with one another and with higher order characteristics like spatial cognition and hobby choices.
-
-**Role**
-
-- Co-Investigator
-
-**Materials**
-
-- [GitHub project](https://github.com/gilmore-lab/sex-differences-in-motion-perception)
-
-**Collaborators**
-
-- Sheri Berenbaum, Penn State
-- Yiming Qian, Penn State
 
 ## Developmental Dynamics of Optic Flow Processing
 
@@ -328,6 +335,32 @@ Raudies, F., Kretch, K.S., Franchak, J.M., Mingolla, E., Gilmore, R.O., & Adolph
 **Support**
 
 This project was supported by the National Science Foundation under grant [BCS-1147440](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1147440).
+
+## Eye Tracking Technologies to Characterize and Optimize Visual Attending in Down Syndrome
+
+Down Syndrome (DS) is the most common known genetic origin of intellectual disability and has an estimated incidence of 1 in every 1000 live births. Such children face unique challenges as they enter into the school years, because the speech that was previously adequate for communication with familiar partners in supportive settings is often not sufficient for academic communication with unfamiliar partners. Indeed, 95% of parents surveyed reported that their children with DS had difficulty being understood by persons outside their immediate social circle (Kumin, 1994). This has significant implications for academic, social, and vocational success; children with limited language skills are at risk of falling behind nondisabled peers academically and experiencing social isolation. Secondary issues often arise when children experience frustration in communication, commonly in the form of challenging behaviors. All aspects of development are further compromised when these behaviors involve aggression toward others, have significant health implications when they are self-injurious, and exacerbate service costs when they necessitate extensive behavior management plans. Children with DS are in desperate need of communication interventions that provide them with the tools to succeed throughout the school years. One form of intervention is called aided augmentative and alternative communication (AAC). In typical clinical applications, aided AAC systems employ picture books, tablet-style computers that present the user with graphic symbols, and sometimes text or synthesized voice output. Because AAC relies on vision rather than sound/speech for access to the communication messages, it is critical to map out how children with DS examine and extract information from visual AAC displays. Otherwise there is the risk of implementing systems that are poorly matched to children's skills and needs, a practice that in turn results in limited use or abandonment of the system. Few current AAC designs consider the fit between the system and the visual processing skills of users, and most are uninformed by empirical knowledge about human visual information processing. Moreover, little is known about visual processing in persons with significant communication limitations associated with DS. This research aims to improve the design of AAC displays through characterization of visual attention patterns to different AAC displays and their effects on functional use. Eye tracking - rarely used in DS - will reveal attention patterns/processes that typically go unrecorded in behavioral research. Our three-phase program will begin with eye tracking studies of visual attention under largely non-social laboratory conditions. In the next phase, we will introduce social interactions and record gaze path using mobile eye tracking technology. In the final phase, we will translate the knowledge gained in the laboratory studies to optimize functional communication in individuals with DS in performing tasks that represent typical daily life activities.
+
+**Role**
+
+- Co-Investigator
+
+**Collaborators**
+
+- Krista Wilkinson, Penn State, Principal Investigator
+
+**Materials**
+
+Gilmore, R.O. (2017). Wilkinson-lab. Code repository on GitHub. Retrieved December 19, 2017 from <https://github.com/gilmore-lab/wilkinson-lab>.
+
+Gilmore, R.O. (2017). Eye-tracking-DS. Code repository on GitHub. Retrieved December 19, 2017 from <https://github.com/gilmore-lab/eye-tracking-DS>.
+
+**Support**
+
+The project is supported by NICHD under [R01HD083381-02](https://projectreporter.nih.gov/project_info_description.cfm?aid=9194421&icde=0).
+
+**Publications**
+
+Wilkinson, K.M., Gilmore, R.O., & Qian, Y. (submitted). Judicious arrangement of symbols on a simulated AAC display optimizes visual attention by individuals with and without Down syndrome. *Journal of Speech, Language, and Hearing Research*.
 
 ## The Proximal Emotional Environment Project (PEEP)
 
