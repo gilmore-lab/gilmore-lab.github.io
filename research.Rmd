@@ -16,7 +16,7 @@ Soska, K.C., Xu, M., Gonzalez, S.L., Herzberg, O., Tamis-LeMonda, C.S., Gilmore,
 
 Gilmore, R.O., & Qian, Y. (2021). An open developmental science will be more rigorous, robust, and impactful. *Infant and Child Development*. <https://doi.org/10.1002/icd.2254>.
 
-Gilmore, R.O., Xu, M., & Adolph, K.E. (2021). Data sharing. In Panecker, S. & Stanley, B. (Eds.), *Handbook of Research Ethics in Psychological Science*, APA Press, Washington, DC.
+Gilmore, R.O., Xu, M., & Adolph, K.E. (2021). Data sharing. In Panecker, S. & Stanley, B. (Eds.), *Handbook of Research Ethics in Psychological Science*, APA Press, Washington, DC. [PDF](pdfs/gilmore-xu-adolph-2021.pdf).
 
 Gilmore, R.O., Cole, P.M., van Aken, M.A.G., Verma S., & Worthman, C.M. (2020). Advancing scientific integrity, transparency, and openness in child development research: Challenges and possible solutions. *Child Development Perspectives*, *14*(1), 9-14. <http://dx.doi.org/10.1111/cdep.12360>
 
