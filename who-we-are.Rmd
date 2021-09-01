@@ -9,7 +9,7 @@ We are especially interested in students who have morning availability, computer
 
 ## Lab Director
 
-```{r, out.height="250px", echo=FALSE}
+```{r, echo=FALSE}
 knitr::include_graphics("images/rog-headshot.png")
 ```
 

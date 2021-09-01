@@ -4,19 +4,21 @@ pagetitle: publications
 
 ## Books
 
+Gilmore, R.O., & Lockman, J. (eds.) (in press). *New Approaches to Studying Child Development. Advances in Child Development and Behavior (vol. 62)*. Elsevier Press.
+
 Johnson, M.H., Munakata, Y., & Gilmore, R.O. (2002). *Brain development and cognition: A reader*, *2nd Ed*. Cambridge: Blackwell.
 
 ## Peer-reviewed Articles
 
-Soska, K.C., Xu, M., Gonzalez, S.L., Herzberg, O., Tamis-LeMonda, C.S., Gilmore, R.O., & Adolph, K.E. (2021). (Hyper)active data curation: A video case study from behavioral science. Journal of eScience Librarianship, 10(3), e1208. https://doi.org/10.7191/jeslib.2021.1208.
+Soska, K.C., Xu, M., Gonzalez, S.L., Herzberg, O., Tamis-LeMonda, C.S., Gilmore, R.O., & Adolph, K.E. (2021). (Hyper)active data curation: A video case study from behavioral science. *Journal of eScience Librarianship*, *10*(3), e1208. https://doi.org/10.7191/jeslib.2021.1208.
 
-Gilmore, R.O., & Qian, Y. (2021). An open developmental science will be more rigorous, robust, and impactful. Infant and Child Development. https://doi.org/10.1002/icd.2254.
+Gilmore, R.O., & Qian, Y. (2021). An open developmental science will be more rigorous, robust, and impactful. *Infant and Child Development*. https://doi.org/10.1002/icd.2254.
 
-Qian, Y., Seisler, A.R., & Gilmore, R.O. (in press). Children’s sensitivity to optic flow-like visual motion differs from adults. Developmental Psychology.
+Qian, Y., Seisler, A.R., & Gilmore, R.O. (in press). Children’s sensitivity to optic flow-like visual motion differs from adults. *Developmental Psychology*.
 
-Liao, B., Hu, J, & Gilmore, R.O. (2021). Optical flow estimation combining with illumination adjustment and edge refinement in livestock UAV videos. Computers in Electronics and Agriculture, 180, January 2021, 105910. https://doi.org/10.1016/j.compag.2020.105910.
+Liao, B., Hu, J, & Gilmore, R.O. (2021). Optical flow estimation combining with illumination adjustment and edge refinement in livestock UAV videos. *Computers in Electronics and Agriculture*, *180*, January 2021, 105910. https://doi.org/10.1016/j.compag.2020.105910.
 
-Cuadra, C., Gilmore, R.O., & Latash, M. (2020). Finger force matching and verbal reports: Testing predictions of the Iso-Perceptual Manifold (IPM) concept, Journal of Motor Behavior, 1-13. https://doi.org/10.1080/00222895.2020.1813681.
+Cuadra, C., Gilmore, R.O., & Latash, M. (2020). Finger force matching and verbal reports: Testing predictions of the Iso-Perceptual Manifold (IPM) concept, *Journal of Motor Behavior*, 1-13. https://doi.org/10.1080/00222895.2020.1813681.
 
 Stoop, T.B., Moriarty, P.M., Wolf, R., Gilmore, R.O.,  Perez-Edgar, K., Scherf, S, Vigeant, M.C., & Cole, P.M. (in press). I know that voice! Mothers' voices influence children's perceptions of emotional intensity. *Journal of Experimental Child Psychology*.
 
@@ -98,6 +100,8 @@ Cortical development and saccadic control: Evidence for vector summation in youn
 Gilmore, R.O., & Johnson, M.H. (1995). Working memory in infancy: Six-month-olds' performance on two versions of the oculomotor delayed response task. *Journal of Experimental Child Psychology,* *59*, 397-418. [doi:10.1006/jecp.1995.1019](https://dx.doi.org/10.1006/jecp.1995.1019).
 
 ## Other (non-peer-reviewed) publications
+
+Gilmore, R.O., Xu, M., & Adolph, K.E. (2021). Data sharing. In Panecker, S. & Stanley, B. (Eds.), *Handbook of Research Ethics in Psychological Science*, APA Press, Washington, DC.
 
 Gilmore, R. O. & Adolph, K. E. (2019). Open sharing of research video: Breaking down the boundaries of the research team. In , K. L. Hall, A. L. Vogel, & R. T. Croyle (Eds.), *Strategies for team science success: Handbook of evidence-based principles for cross-disciplinary science and practical lessons learned from health researchers*. Cham: Springer, pp. 575-583.
 
