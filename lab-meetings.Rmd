@@ -27,6 +27,12 @@ For the Fall 2021 Semester, we will meet on Wednesdays 8:00-8:50am on Zoom.
 - Data Processing/Analysis projects
     - Sex Differences: Visual Data vs. survey/Hobbies data
     - Datavyu Coding of infant locomotion
+
+### September 8, 2021 (Zoom)
+
+- Agenda:
+  - Discuss: Gilmore, R.O., & Qian, Y. (2021). An open developmental science will be more rigorous, robust, and impactful. Infant and Child Development. https://doi.org/10.1002/icd.2254. 
+  - Review Biographies 
     
 ### September 1, 2021 (Zoom)
 
@@ -40,6 +46,8 @@ For the Fall 2021 Semester, we will meet on Wednesdays 8:00-8:50am on Zoom.
 - To Do for next meeting:
   - Read: Gilmore, R.O., & Qian, Y. (2021). An open developmental science will be more rigorous, robust, and impactful. Infant and Child Development. https://doi.org/10.1002/icd.2254. 
   - Write: Create or update your biography for the [lab website](https://gilmore-lab.github.io/who-we-are.html). Instructions sent via Asana
+
+
 
 
 
