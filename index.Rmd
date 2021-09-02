@@ -59,19 +59,13 @@ Congratulations to our Undergraduate Research Assistants for presenting their po
 
 <h4>Psi Chi 2019 Presenters</h4>
 
-|   |   |
-|:-|:-|
-|![](images/2019PsiChiSarahShahriar_122x.jpg) | Sarah Shahriar presented her poster [On the move: A study on gait style and preference in early infancy](https://github.com/gilmore-lab/psi-chi-2019/blob/master/crawling-mode_files/Psi_Chi_Sarah_2019.pdf) |
-|![](images/2019PsiChiZhichun-Ashton_122x.jpg) | Zhichun Zhao and Ashton Dluzneski presented the poster they worked on with Sandy Rayes: [Motor Development in Early Childhood](https://github.com/gilmore-lab/psi-chi-2019/blob/master/object-play_files/Psi_Chi_ASZ_2019.pdf). |
-</br>
+Sarah Shahriar presented her poster [On the move: A study on gait style and preference in early infancy](https://github.com/gilmore-lab/psi-chi-2019/blob/master/crawling-mode_files/Psi_Chi_Sarah_2019.pdf)
 
-<!-- Sarah Shahriar presented her poster [On the move: A study on gait style and preference in early infancy](https://github.com/gilmore-lab/psi-chi-2019/blob/master/crawling-mode_files/Psi_Chi_Sarah_2019.pdf) -->
+<img src="images/2019PsiChiSarahShahriar_122x.jpg" width="122">
 
-<!-- <img src="images/2019PsiChiSarahShahriar_250x.jpg"> -->
+Zhichun Zhao and Ashton Dluzneski presented the poster they worked on with Sandy Rayes: [Motor Development in Early Childhood](https://github.com/gilmore-lab/psi-chi-2019/blob/master/object-play_files/Psi_Chi_ASZ_2019.pdf).
 
-<!-- Zhichun Zhao and Ashton Dluzneski presented the poster they worked on with Sandy Rayes: [Motor Development in Early Childhood](https://github.com/gilmore-lab/psi-chi-2019/blob/master/object-play_files/Psi_Chi_ASZ_2019.pdf). -->
-
-<!-- <img src="images/2019PsiChiZhichun-Ashton_250x.jpg"> -->
+<img src="images/2019PsiChiZhichun-Ashton_122x.jpg" width="122">
 
 <h4>Psi Chi 2018 Presenters</h4>
 
@@ -79,11 +73,11 @@ Alyssa Pandos presented her poster [Infant brain responses differentiate between
 
 2<sup>nd</sup> Place Empirical Research Category   
 
-<img src="images/2018PsiChiAlyssaPandos_122x.jpg"> 
+<img src="images/2018PsiChiAlyssaPandos_122x.jpg" width="122"> 
 
 Charmi Mehta presented her poster [Reanalyzing Shared Data about Brains and Behavior](https://github.com/gilmore-lab/brain-behavior-data/blob/master/pubs/psi-chi-2018/mehta-psi-chi-2018.pdf). 
 
-<img src="images/2018PsiChiCharmiMehta_122x.jpg">"
+<img src="images/2018PsiChiCharmiMehta_122x.jpg" width="122">
 </center>
 
 ## DataCamp
