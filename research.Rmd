@@ -30,6 +30,8 @@ Gilmore, R.O. (2016). From big data to deep insight in developmental science. *W
 
 **Presentations**
 
+Gilmore, R.O., Wham, B., & Zinoble, R. (2021, October). Getting ahead of the curve: Responding to emerging data management plan requirements. Presentation as part of the Open Data & Developmental Science (ODDS) Initiative. [slides](https://psu-psychology.github.io/2021-10-01-odds-data-mgmt/).
+
 Gilmore, R.O. (2021, April). Invited panel presentation to “Changing the Culture of Data Management and Sharing: A Workshop”, National Academies of Science, Engineering, and Medicine.
 
 Gilmore, R.O. (2021, January). “The Human Behaviorome Project”, Invited presentation to the Networking and Information Technology Research and Development (NITRD) workshop on the Future of Federally Supported Data Repositories.
