@@ -28,6 +28,35 @@ For the Fall 2021 Semester, we will meet on Wednesdays 8:00-8:50am on Zoom.
     - Sex Differences: Visual Data vs. survey/Hobbies data
     - Datavyu Coding of infant locomotion
     
+### October 20, 2021 (Zoom)
+
+- Attending: Rick, Andrea, Yiming, Sara, Iris, Anjali, Kavya, Kayla, Kym, Maggie, Shahir, Belle  
+
+- Agenda:
+  - Detailed Dicsussion of project looking at Databrary Volumes and the information provided.
+      - Github repo: https://github.com/gilmore-lab/databrary-volume-survey
+  - All training up to date for: Belle, Shahir, Kavya, Andrea
+- To Do:    
+  - All lab members    
+    - Log into Asana. Complete ALL training by 10/27/2021. 
+    - Complete volume coding for 10 volumes before next week.
+  - ARS -  work out issues with Kayla Clery Act training. When they retake the training, the new training certificate and date do not appear.  
+  
+### October 13, 2021 (Zoom)
+
+- Attending: Rick, Andrea, Yiming, Anjali, Kayla, Kym, Kavya, Iris, Shahir, Belle  
+
+- Agenda:
+  - Begin discussing a project to review Databrary volume page details
+  - Github repo: https://github.com/gilmore-lab/databrary-volume-survey
+  
+- To Do:    
+  - All lab members    
+    - Create Databrary Accounts and request Authorization from Rick O. Gilmore    
+    - Log into Asana. Make sure assigned training gets completed.  
+  - ARS -  work out issues with Kayla Clery Act training. When they retake the training, the new training certificate and date do not appear.  
+  
+    
 ### October 6, 2021 (Zoom)
 
 - Attending: Rick, Andrea, Yiming, Anjali, Kayla, Kym, Maggie, Shahir, Belle  
