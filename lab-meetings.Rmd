@@ -30,11 +30,19 @@ For the Fall 2021 Semester, we will meet on Wednesdays 8:00-8:50am on Zoom.
 
 ### November 3, 2021 (Zoom)
 
-- Attending:  
+- Attending: Rick, Andrea, Yiming, Iris, Anjali, Kavya, Kayla, Maggie, Shahir, Belle, Kym  
+  - Missing: Sara
 
 - Agenda:  
+  - What kind of volume analysis:
+    - #files vs. sharing level
+    - title quality vs. sharing level
+  - Grant proposal - what do research participants understand about where their data is going to go, what do they want to happen to their data
 
 - To Do:
+  - add your name/initials to git hub repository if it isn't already there
+  - finish phase I of Databrary volume survey
+  - think about contexts in which you provide data
   - Training: All instructions are on Asana
     - Yiming: Clery Act, Reporting Child Abuse, Compliance Training, Title IX
     - Maggie: Clery Act, Reporting Child Abuse, Compliance Training, Title IX
@@ -43,6 +51,10 @@ For the Fall 2021 Semester, we will meet on Wednesdays 8:00-8:50am on Zoom.
     - Anjali: Compliance Training, Title IX
     - Kayla: Clery Act, Reporting Child Abuse
     - Kym: CITI Training, Compliance Training, Title IX
+    
+- Next Week:
+  - look at Databrary volume survey dataset
+  - discuss papers
 
 ### October 27, 2021 (Zoom)
 
