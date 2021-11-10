@@ -30,17 +30,21 @@ For the Fall 2021 Semester, we will meet on Wednesdays 8:00-8:50am on Zoom.
 
 ### November 10, 2021 (Zoom)
 
-- Attending:
+- Attending: Andrea, Rick, Anjali, Belle, Bowen, Kavya, Kayla, Maggie, Sara, Shahir, Yiming
+  - Excused: Kym
 
 - Agenda:
-  - look at Databrary volume survey dataset
-  - discuss papers
+  - import databrary-volume-survey and begin R coding report
+    - create table coder vs # files
+    - need - number of volumes
+  - second pass
+    - all of the investigators_1 = volume_owner - create a row for each investigator for private volumes only - ARS
 
 - To Do:
   - Training: All instructions are on Asana
     - Yiming: Clery Act, Reporting Child Abuse, Compliance Training, Title IX
     - Sara: Clery Act, Reporting Child Abuse
-    - Iris: Compliance Training
+    - Bowen: Compliance Training
     - Anjali: Compliance Training, Title IX
     - Kym: CITI Training, Compliance Training, Title IX
     
