@@ -28,195 +28,46 @@ For the Fall 2021 Semester, we will meet on Wednesdays 8:00-8:50am on Zoom.
     - Sex Differences: Visual Data vs. survey/Hobbies data
     - Datavyu Coding of infant locomotion
     
-### November 24, 2021
+## Spring 2022
 
-HAPPY THANKSGIVING!
+### 1/26/2022
 
-- To Do:
-  - Training: All instructions are on Asana
-    - Sara: Clery Act, Reporting Child Abuse
-    - Bowen: Compliance Training
-    - Anjali: Compliance Training, Title IX
-    
-### November 17, 2021 (Zoom)
 
-- Attending: Andrea, Rick, Anjali, Belle, Bowen, Kavya, Kayla, Sara, Shahir, Yiming, Kym
-  - Absent: Maggie
-
-- Agenda: 
-  - Discuss: Zwaan, R. A., Etz, A., Lucas, R. E., & Donnellan, M. B. (2017). Making replication mainstream. The Behavioral and Brain Sciences, 41, e120. https://doi.org/10.1017/S0140525X17001972
-  
-- To Do:
-  - Training: All instructions are on Asana
-    - Sara: Clery Act, Reporting Child Abuse
-    - Bowen: Compliance Training
-    - Anjali: Compliance Training, Title IX
-    
-
-### November 10, 2021 (Zoom)
-
-- Attending: Andrea, Rick, Anjali, Belle, Bowen, Kavya, Kayla, Maggie, Sara, Shahir, Yiming
-  - Excused: Kym
-
-- Agenda:
-  - import databrary-volume-survey and begin R coding report
-    - create table coder vs # files
-    - need - number of volumes
-  - second pass
-    - all of the investigators_1 = volume_owner - create a row for each investigator for private volumes only - ARS
-
-- To Do:
-  - Training: All instructions are on Asana
-    - Yiming: Clery Act, Reporting Child Abuse, Compliance Training, Title IX
-    - Sara: Clery Act, Reporting Child Abuse
-    - Bowen: Compliance Training
-    - Anjali: Compliance Training, Title IX
-    - Kym: CITI Training, Compliance Training, Title IX
-    
-### November 3, 2021 (Zoom)
-
-- Attending: Rick, Andrea, Yiming, Iris, Anjali, Kavya, Kayla, Maggie, Shahir, Belle, Kym  
+- Attending: Rick, Andrea, Yiming, Molly, Maggie, Bowen, Kavya, Anjali, Kayla, Belle, Shahir, Lakshmi, Kym
   - Missing: Sara
-
-- Agenda:  
-  - What kind of volume analysis:
-    - #files vs. sharing level
-    - title quality vs. sharing level
-  - Grant proposal - what do research participants understand about where their data is going to go, what do they want to happen to their data
-
-- To Do:
-  - add your name/initials to git hub repository if it isn't already there
-  - finish phase I of Databrary volume survey
-  - think about contexts in which you provide data
-  - Training: All instructions are on Asana
-    - Yiming: Clery Act, Reporting Child Abuse, Compliance Training, Title IX
-    - Maggie: Clery Act, Reporting Child Abuse, Compliance Training, Title IX
-    - Sara: Clery Act, Reporting Child Abuse
-    - Iris: Compliance Training
-    - Anjali: Compliance Training, Title IX
-    - Kayla: Clery Act, Reporting Child Abuse
-    - Kym: CITI Training, Compliance Training, Title IX
+  
+- Agenda:
+  - Discuss: Soska, K. C., Xu, M., Gonzalez, S. L., Herzberg, O., Tamis-LeMonda, C. S., Gilmore, R. O., & Adolph, K. E. (2021). (Hyper)active data curation: A video case study from behavioral science. Journal of Escience Librarianship, 10(3). https://doi.org/10.7191/jeslib.2021.1208
+    - PLAY about transparently publishing the process 
+    - consistent naming schemes 
+    - KoBoToolbox - moves files around and gathers files from video, survey, and decibel
     
-- Next Week:
-  - look at Databrary volume survey dataset
-  - discuss papers
-
-### October 27, 2021 (Zoom)
-
-- Attending: Rick, Andrea, Yiming, Sara, Iris, Anjali, Kavya, Kayla, Maggie, Shahir, Belle  
-
-- Agenda:
-  - Detailed Discussion of project looking at Databrary Volume
-    - why is this important
-    - create a protocol for any project
-    - update protocol in R 
-    - initial R skeleton for generating tables/graphs of data
-      - Github repo: https://github.com/gilmore-lab/databrary-volume-survey
-  - All training up to date for: Belle, Shahir, Kavya, Andrea
-- To Do:    
-  - All lab members    
-    - Log into Asana. Complete ALL training by 11/3/2021. 
-    - Complete volume coding for up to Volume 1000 by next week.
-
-### October 20, 2021 (Zoom)
-
-- Attending: Rick, Andrea, Yiming, Sara, Iris, Anjali, Kavya, Kayla, Kym, Maggie, Shahir, Belle  
-
-- Agenda:
-  - Detailed Discussion of project looking at Databrary Volumes and the information provided.
-      - Github repo: https://github.com/gilmore-lab/databrary-volume-survey
-  - All training up to date for: Belle, Shahir, Kavya, Andrea
-- To Do:    
-  - All lab members    
-    - Log into Asana. Complete ALL training by 10/27/2021. 
-    - Complete volume coding for 10 volumes before next week.
-  - ARS -  work out issues with Kayla Clery Act training. When they retake the training, the new training certificate and date do not appear.  
-  
-### October 13, 2021 (Zoom)
-
-- Attending: Rick, Andrea, Yiming, Anjali, Kayla, Kym, Kavya, Iris, Shahir, Belle  
-
-- Agenda:
-  - Begin discussing a project to review Databrary volume page details
-  - Github repo: https://github.com/gilmore-lab/databrary-volume-survey
-  
-- To Do:    
-  - All lab members    
-    - Create Databrary Accounts and request Authorization from Rick O. Gilmore    
-    - Log into Asana. Make sure assigned training gets completed.  
-  - ARS -  work out issues with Kayla Clery Act training. When they retake the training, the new training certificate and date do not appear.  
-  
-    
-### October 6, 2021 (Zoom)
-
-- Attending: Rick, Andrea, Yiming, Anjali, Kayla, Kym, Maggie, Shahir, Belle  
-
-- Agenda:
-  - Talk by Yiming Qian: Sex Differences in Motion Perception
-  
-- Next Week:  
-  - Discuss project looking at Databrary Volumes and the information provided.
-  
-- To Do:    
-  - All lab members    
-    - Create Databrary Accounts and request Authorization from Rick O. Gilmore    
-    - Log into Asana. Make sure assigned training gets completed.  
-  - ARS -  work out issues with Kayla and Anjali Clery Act training. When they retake the training, the new training certificate and date do not appear.  
-  
-
-### September 28, 2021 (Zoom)
-
-- Attending: Rick, Andrea, Iris, Anjali, Kavya, Kayla, Maggie, Shahir, Yiming, Kym, Sara
-
-- Agenda:
-  - Continue Discussing: Ossmy, O., Han, D., Kaplan, B. E., Xu, M., Bianco, C., Mukamel, R., & Adolph, K. E. (2021). Children do not distinguish efficient from inefficient actions during observation. Scientific Reports, 11(1), 18106. https://doi.org/10.1038/s41598-021-97354-9
-  
-- To Do: 
-  - Log into Asana. Make sure assigned training gets completed.
-  - Read: Sex Differences Paper - it will be shared via email and Discord
-
-### September 22, 2021 (Zoom)
-
-- Attending: Rick, Andrea, Iris, Anjali,Evan, Kavya, Kayla, Maggie, Shahir, Yiming
-
-- Agenda:
-  - Discuss: Ossmy, O., Han, D., Kaplan, B. E., Xu, M., Bianco, C., Mukamel, R., & Adolph, K. E. (2021). Children do not distinguish efficient from inefficient actions during observation. Scientific Reports, 11(1), 18106. https://doi.org/10.1038/s41598-021-97354-9
-  
-- To Do: Continue discussing this paper next week.
-
-### September 15, 2021 (Zoom)
-
-- Attending: Rick, Andrea, Iris, Anjali, Belle, Evan, Kavya, Kayla, Maggie, Shahir, Yiming
-
-- Agenda:
-  - Discuss: Gilmore, R.O., & Qian, Y. (2021). An open developmental science will be more rigorous, robust, and impactful. Infant and Child Development. https://doi.org/10.1002/icd.2254. 
-  - Discuss Data sharing, access to journal articles, review of articles, fees of journals, 
- 
-
-- To Do:
-  - Accept the invitation to join the lab Datacamp class
-  - Finish updating Biographies
-  - Complete assigned training
-  - Read: Ossmy, O., Han, D., Kaplan, B. E., Xu, M., Bianco, C., Mukamel, R., & Adolph, K. E. (2021). Children do not distinguish efficient from inefficient actions during observation. Scientific Reports, 11(1), 18106. https://doi.org/10.1038/s41598-021-97354-9
-  
-### September 8, 2021 (Zoom)
-
-CANCELLED
-    
-### September 1, 2021 (Zoom)
-
-- Attending: Rick, Andrea, Sara, Iris, Anjali, Evan, Kayla, Belle, Shahir, Kavya
-  
-- Agenda:
-  - Introduction of lab members
-  - Review of current [Lab Projects](https://gilmore-lab.github.io/research.html)
+- Notes:
   - Meeting notes will be kept [here](https://gilmore-lab.github.io/lab-meetings.html)
-  
-- To Do for next meeting:
-  - Read: Gilmore, R.O., & Qian, Y. (2021). An open developmental science will be more rigorous, robust, and impactful. Infant and Child Development. https://doi.org/10.1002/icd.2254. 
-  - Write: Create or update your biography for the [lab website](https://gilmore-lab.github.io/who-we-are.html). Instructions sent via Asana
+  - Communication is Key!
+    - Discord is used in between meetings
+    - send a note here if you will miss a meeting.
+
+- To Do:
+  - Accept the invite sent to your PSU account to join the class on Datacamp.
+  - Log in, Pick 3 [R courses on Datacamp](https://app.datacamp.com/learn/courses?technologies=R) to complete by the end of the semester, and send the list of courses to me via Discord
+    - Take `Introduction to R` and `Intermediate R` before taking anything else.
+  - Asana Tasks:
+    - Training
+    - Write or update your [biography](https://gilmore-lab.github.io/who-we-are.html) make sure to use at least one link formatted for R (e.g. I work in the `[Gilmore Lab](https://gilmore-lab.github.io/)` at Penn State.)
 
 
+### 1/19/2022
 
+- Attending: Rick, Andrea, Yiming, Molly, Maggie, Bowen, Kavya, Anjali, Kayla, Belle, Shahir, Lakshmi
+  - Missing: Sara, Kym
+- Agenda
+  - Introduction of lab members
+  - discuss PLAY
+
+- To Do:
+  - Training Assigned in Asana
+  - Join Discord
+  - Read: Soska, K. C., Xu, M., Gonzalez, S. L., Herzberg, O., Tamis-LeMonda, C. S., Gilmore, R. O., & Adolph, K. E. (2021). (Hyper)active data curation: A video case study from behavioral science. Journal of Escience Librarianship, 10(3). https://doi.org/10.7191/jeslib.2021.1208 
 
 
