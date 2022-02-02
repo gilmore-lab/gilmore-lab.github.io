@@ -6,6 +6,10 @@ pagetitle: lab-meetings
 
 For the Fall 2021 Semester, we will meet on Wednesdays 8:00-8:50am on Zoom.
 
+## Previous meeting notes
+
+[Notes from previous semesters](lab-meetings-previous.html)
+
 ## Helpful Computer Information
 
 - Global Protect Instructions for [Mac](https://ithelp.ssri.psu.edu/penn-state-vpn-mac) and [Windows ](https://ithelp.ssri.psu.edu/penn-state-vpn)
