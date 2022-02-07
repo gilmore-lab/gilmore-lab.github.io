@@ -48,10 +48,19 @@ For the Fall 2021 Semester, we will meet on Wednesdays 8:00-8:50am on Zoom.
   - Create [Github](https://github.com/) account and send username to discord channel
   - Write or update your [biography](https://gilmore-lab.github.io/who-we-are.html) make sure to use at least one link formatted for R (e.g. I work in the `[Gilmore Lab](https://gilmore-lab.github.io/)` at Penn State.). Send completed biography to the [Lab Email](psubrainlab@gmail.com)
   - pick 3 courses in Datacamp and send to Andrea via discord
-  - Global Protect (instructions in 'Helpful Computer Information' above) needs to be run when off campus BEFORE logging into R Studio Server 
+  - Global Protect (instructions in 'Helpful Computer Information' above) needs to be run when off campus BEFORE logging into R Studio Server - Install this if you don't have it already
   - Create account/log on to TLT [R Studio Server](https://lat.tlt.psu.edu/home/remoteaccess/oss-web-apps/) - link mid page
     
-  - Check out data repositories.
+  - Check out data repositories.  
+    - [Scholarsphere](https://scholarsphere.psu.edu/)
+    - [Dataverse](https://dataverse.org/)
+    - [ICPSR](https://www.icpsr.umich.edu/web/pages/)
+  - Outstanding Training: All instructions are on Asana
+    - Molly: Reporting Child Abuse, Compliance Training, Title IX, Create GitHub account, Create Biography
+    - Anjali: Compliance Training, Title IX
+    - Shahir: Clery Act, Reporting Child Abuse
+    - Lakshmi: Compliance Training, Title IX
+    - Kym: Create Biography
 
 ### 1/26/2022
 
