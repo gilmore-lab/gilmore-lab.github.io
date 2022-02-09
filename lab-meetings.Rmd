@@ -34,6 +34,22 @@ For the Fall 2021 Semester, we will meet on Wednesdays 8:00-8:50am on Zoom.
     
 ## Spring 2022
 
+### 2/9/2022
+- Attending: Rick, Andrea, Yiming, Molly, Maggie, Kavya, Anjali, Kayla, Belle, Shahir, Lakshmi, Kym
+
+- Agenda:
+  - Remember to check discord at least twice a week, Mondays and fridays
+  - remember to pick 3 courses on datacamp
+  - overview of [Dryad](https://datadryad.org/)
+
+- Homework:
+  - Review [Dryad](https://datadryad.org/)
+    - Note items such as: business model/funding, technical abilities, data curation services, how many staff members, what are the data about, file types (e.g., text, video, MRI, EEG), what is included in the data description.
+  
+  - Find one dataset on this repository that you may be interested in learning more about 
+  - next week download one of these 
+
+
 ### 2/2/2022
 - Attending: Rick, Andrea, Yiming, Molly, Maggie, Kavya, Anjali, Kayla, Belle, Shahir, Lakshmi, Kym
   - Excused: Bowen
