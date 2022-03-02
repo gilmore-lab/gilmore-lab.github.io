@@ -38,11 +38,11 @@ For the Fall 2021 Semester, we will meet on Wednesdays 8:00-8:50am on Zoom.
 
 ### 3/2/2022
   
-- Attending: Rick, Andrea, Yiming, Molly, Maggie, Kavya, Anjali, Belle, Shahir
-  - Missing: Kayla, Lakshmi, Kym  
+- Attending: Rick, Andrea, Yiming, Molly, Maggie, Kavya, Anjali, Belle, Shahir, Lakshmi
+  - Missing: Kayla, Kym  
   
 - Agenda:
-  - Reproducibility papers to read over the next few weeks.
+  - Discuss reading reproducibility papers over the next few weeks. Here is the schedule:
     - Discuss on 3/16/2022: Errington, T. M., Mathur, M., Soderberg, C. K., Denis, A., Perfito, N., Iorns, E., & Nosek, B. A. (2021). Investigating the replicability of preclinical cancer biology. eLife, 10, e71601. https://doi.org/10.7554/eLife.71601
     - Discuss on 3/23/2022: Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251), aac4716. https://doi.org/10.1126/science.aac4716
     - Discuss on 3/30/2022: Camerer, C. F., Dreber, A., Holzmeister, F., Ho, T.-H., Huber, J., Johannesson, M., Kirchler, M., Nave, G., Nosek, B. A., Pfeiffer, T., Altmejd, A., Buttrick, N., Chan, T., Chen, Y., Forsell, E., Gampa, A., Heikensten, E., Hummer, L., Imai, T., … Wu, H. (2018). Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015. Nature Human Behaviour, 1. https://doi.org/10.1038/s41562-018-0399-z
