@@ -13,7 +13,7 @@
 
 <title>home</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.15/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -60,6 +60,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -80,6 +81,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -137,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -232,7 +240,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -284,27 +292,16 @@ $(document).ready(function () {
 </div>
 
 
-<p><img src="images/fesi-2014.jpg"><img src="images/optic-flow.jpg">
-<img src="images/lab-logo.png"></p>
+<p><img src="images/fesi-2014.jpg"><img src="images/optic-flow.jpg"> <img src="images/lab-logo.png"></p>
 <div id="rick-gilmores-lab-penn-state" class="section level1">
 <h1>Rick Gilmore’s Lab @ Penn State</h1>
-<p>The Gilmore Lab in the <a href="https://psych.la.psu.edu">Psychology
-Department</a> at <a href="https://www.psu.edu">Penn State</a> studies
-the development of perception, action, and memory. Our goal is to
-understand patterns of brain and behavioral change in infants, children,
-and young adults. We use behavioral, EEG, MRI, and computational
-modeling methods in our research. We also advocate for and try to
-demonstrate open science practices in our work.</p>
+<p>The Gilmore Lab in the <a href="https://psych.la.psu.edu">Psychology Department</a> at <a href="https://www.psu.edu">Penn State</a> studies the development of perception, action, and memory. Our goal is to understand patterns of brain and behavioral change in infants, children, and young adults. We use behavioral, EEG, MRI, and computational modeling methods in our research. We also advocate for and try to demonstrate open science practices in our work.</p>
 <!-- ## Active Projects -->
 <!-- We have several active projects related to visual perception and open science that are described [here](research.html). You can also get a taste of what we do by visiting the <a href="https://databrary.org">Databrary</a> digital data library, specifically the page devoted to <a href="https://databrary.org/party/6">our research</a>. -->
 <div id="contact-information" class="section level2">
 <h2>Contact Information</h2>
-<p>Dr. <a href="https://psych.la.psu.edu/directory/rog1">Rick
-Gilmore</a>, Professor of Psychology, (<a
-href="mailto:rogilmore@psu.edu">rogilmore@psu.edu</a>; 814-865-3664; 114
-Moore Building) directs the lab.</p>
-<p><a href="mailto:ars17@psu.edu">Andrea Seisler</a> is the Lab
-Manager.</p>
+<p>Dr. <a href="https://psych.la.psu.edu/directory/rog1">Rick Gilmore</a>, Professor of Psychology, (<a href="mailto:rogilmore@psu.edu">rogilmore@psu.edu</a>; 814-865-3664; 114 Moore Building) directs the lab.</p>
+<p><a href="mailto:ars17@psu.edu">Andrea Seisler</a> is the Lab Manager.</p>
 <!-- ## Testing Sites -->
 <!-- We have two testing sites.  -->
 <!-- ### 503 Moore -->
@@ -324,21 +321,12 @@ Manager.</p>
 </div>
 <div id="for-students" class="section level2">
 <h2><a href="who-we-are.html">For Students</a></h2>
-<p>The lab employs an active and engaged group of undergraduate and
-graduate research assistants. If you are a Penn State undergraduate
-student and wish to be considered for a position in the lab, complete an
-online application <a
-href="https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform">here</a>.
-If you are a prospective graduate student, contact Dr. Gilmore by email.
-For more information about current students and alumni, see the <a
-href="who-we-are.html">student page</a>. <strong>We are FULL for Fall
-2021</strong></p>
+<p>The lab employs an active and engaged group of undergraduate and graduate research assistants. If you are a Penn State undergraduate student and wish to be considered for a position in the lab, complete an online application <a href="https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform">here</a>. <strong>We are FULL for Fall 2022</strong></p>
+<p>If you are a prospective graduate student, contact Dr. Gilmore by email. For more information about current students and alumni, see the <a href="who-we-are.html">student page</a>.</p>
 </div>
 <div id="for-parents" class="section level2">
 <h2><a href="parents.html">For Parents</a></h2>
-<p>Much of our research involves testing infants and young children. To
-sign-up for a study or learn more about what a visit entails please
-follow <a href="parents.html">this link</a>.</p>
+<p>Much of our research involves testing infants and young children. To sign-up for a study or learn more about what a visit entails please follow <a href="parents.html">this link</a>.</p>
 </div>
 <div id="news" class="section level2">
 <h2>News</h2>
@@ -346,47 +334,28 @@ follow <a href="parents.html">this link</a>.</p>
 <h3>
 <a href="https://sites.psu.edu/psichi/">PSI CHI</a> RESEARCH CONFERENCE!
 </h3>
-<p>Congratulations to our Undergraduate Research Assistants for
-presenting their posters during the annual Psi Chi Research
-Conference!</p>
+<p>Congratulations to our Undergraduate Research Assistants for presenting their posters during the annual Psi Chi Research Conference!</p>
 <h4>
 Psi Chi 2019 Presenters
 </h4>
-<p>Sarah Shahriar presented her poster <a
-href="https://github.com/gilmore-lab/psi-chi-2019/blob/master/crawling-mode_files/Psi_Chi_Sarah_2019.pdf">On
-the move: A study on gait style and preference in early infancy</a></p>
+<p>Sarah Shahriar presented her poster <a href="https://github.com/gilmore-lab/psi-chi-2019/blob/master/crawling-mode_files/Psi_Chi_Sarah_2019.pdf">On the move: A study on gait style and preference in early infancy</a></p>
 <p><img src="images/2019PsiChiSarahShahriar_122x.jpg" width="122"></p>
-<p>Zhichun Zhao and Ashton Dluzneski presented the poster they worked on
-with Sandy Rayes: <a
-href="https://github.com/gilmore-lab/psi-chi-2019/blob/master/object-play_files/Psi_Chi_ASZ_2019.pdf">Motor
-Development in Early Childhood</a>.</p>
+<p>Zhichun Zhao and Ashton Dluzneski presented the poster they worked on with Sandy Rayes: <a href="https://github.com/gilmore-lab/psi-chi-2019/blob/master/object-play_files/Psi_Chi_ASZ_2019.pdf">Motor Development in Early Childhood</a>.</p>
 <p><img src="images/2019PsiChiZhichun-Ashton_122x.jpg" width="122"></p>
 <h4>
 Psi Chi 2018 Presenters
 </h4>
-<p>Alyssa Pandos presented her poster <a
-href="https://github.com/gilmore-lab/infant-moco-eeg/blob/master/pubs/psi-chi-2018-poster/pandos-gilmore-seisler-psichi-2018.pdf">Infant
-brain responses differentiate between optic flow patterns and motion
-speeds</a>.</p>
+<p>Alyssa Pandos presented her poster <a href="https://github.com/gilmore-lab/infant-moco-eeg/blob/master/pubs/psi-chi-2018-poster/pandos-gilmore-seisler-psichi-2018.pdf">Infant brain responses differentiate between optic flow patterns and motion speeds</a>.</p>
 <p>2<sup>nd</sup> Place Empirical Research Category</p>
 <p><img src="images/2018PsiChiAlyssaPandos_122x.jpg" width="122"></p>
-<p>Charmi Mehta presented her poster <a
-href="https://github.com/gilmore-lab/brain-behavior-data/blob/master/pubs/psi-chi-2018/mehta-psi-chi-2018.pdf">Reanalyzing
-Shared Data about Brains and Behavior</a>.</p>
+<p>Charmi Mehta presented her poster <a href="https://github.com/gilmore-lab/brain-behavior-data/blob/master/pubs/psi-chi-2018/mehta-psi-chi-2018.pdf">Reanalyzing Shared Data about Brains and Behavior</a>.</p>
 <img src="images/2018PsiChiCharmiMehta_122x.jpg" width="122">
 </center>
 </div>
 <div id="datacamp" class="section level2">
 <h2>DataCamp</h2>
-<p>Most students who work as research assistants in the lab do so for
-PSY 494 course credit.</p>
-<p>This class is supported by DataCamp, an intuitive learning platform
-for data science. Learn R, Python and SQL the way you learn best through
-a combination of short expert videos and hands-on-the-keyboard
-exercises. Take over 100+ courses by expert instructors on topics such
-as importing data, data visualization or machine learning and learn
-faster through immediate and personalised feedback on every
-exercise.</p>
+<p>Most students who work as research assistants in the lab do so for PSY 494 course credit.</p>
+<p>This class is supported by DataCamp, an intuitive learning platform for data science. Learn R, Python and SQL the way you learn best through a combination of short expert videos and hands-on-the-keyboard exercises. Take over 100+ courses by expert instructors on topics such as importing data, data visualization or machine learning and learn faster through immediate and personalised feedback on every exercise.</p>
 <p><img src="images/DataCamp-50px.png" width="110" /></p>
 </div>
 </div>
