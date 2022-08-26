@@ -5,7 +5,7 @@ pagetitle: who-we-are
 
 The Brain and Behavioral Dynamics Lab, part of the [Psychology Department](https://psych.la.psu.edu) at Penn State, is looking for research assistants to study brain development in infants, children, and adolescents for **Fall 2022**. 
 You can earn research project (PSY 494) credit or work study funds, and learn video, computer, and communication skills. Prior research experience and computer skills are a plus, but aren't required. 
-We are especially interested in students who have morning availability, computer skills, or are interested in developing skills in advertising, marketing, or public relations. You may apply by completing an [application](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform). **We are FULL for Spring 2022**.
+We are especially interested in students who have morning availability, computer skills, or are interested in developing skills in advertising, marketing, or public relations. You may apply by completing an [application](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform). **We are FULL for Fall 2022**.
 
 ## Lab Director
 
@@ -65,21 +65,14 @@ Besides research activities, Yiming enjoys reading, cooking, gardening, hiking a
 
 Molly Askin is a sophomore at the Pennsylvania State University and is from New Jersey. She is majoring in Psychology with the Neuroscience option with a minor in neuroscience. She is involved in campus through Greek life in her sorority [Alpha Xi Delta](https://www.alphaxidelta.org/). She is also involved in [THON](https://thon.org/) as an assistant THON chair which consists of helping with anything the other THON chairs need help with as well as helping to raise money for THON. She is interested in pursuing her education further and eventually getting her PhD in neuropsychology with hopes to eventually study patients with Alzheimer’s and dementia. 
 
-### Maureen Burke, Undergraduate Research Assistant
-
-Maureen (Maggie) Burke is part of The Pennsylvania State University’s undergraduate class of 2022. She is majoring in Psychology (*neuroscience option*) with a minor in Biology. She is interested in child development and fine motor skills. In the future, she plans on attending graduate school for occupational therapy. This past summer she worked at [High Quality Home Therapy](https://www.hqhtherapy.com/) as an intern, where she shadowed occupational therapists and observed their practices. Outside of this lab, she is involved with [Life Link](https://lifelinkpsu.weebly.com/), a mentorship program offered to students with disabilities. Here, she aids students with navigation skills and attends college classes with them. She is also involved in [Psi Chi](https://sites.psu.edu/psichi/), the national psychological honor society. 
-
-
-<!-- ### Sara Delmoral, Undergraduate Research Assistant -->
-<!-- |   |   | -->
-<!-- |:-|:-| -->
-<!-- |![](images/SaraDelmoral.jpg) |Sara Delmoral is currently a Junior at the Pennsylvania State University who is from Cliffwood Beach, New Jersey. She is double majoring in Biology with a focus in neuroscience as well as Psychology with a focus in neuroscience. She is pursuing a minor in Chinese as well. Sara is currently Vice President of the [Biological Science Society](https://orgcentral.psu.edu/organization/the-psu-biological-sciences-society) , a member of Penn State’s EMS squad, and a member of AED. Not only this, but she is a Liaison for FreshStart, a member of CASA, and works as a home health aide. Interested in cognitive and behavioral development, Sara plans to pursue medical school following her graduation in May 2023. Outside of studies, [Sara](https://www.linkedin.com/in/sara-delmoral-32489b1b3/) enjoys baking, exercising, reading, and painting. | -->
-<!-- </br> -->
-
 ### Bowen (Iris) Deng, Undergraduate Research Assistant
 
 Bowen is a junior student majoring in psychology with a
 Neuroscience option. She is a member of the [CPSA](https://www.linkedin.com/company/psu-cpsa). Bowen is interested in clinic psychology and plan to apply medical school in the future. She can speak Chinese, English, and German. She enjoys traveling, cooking and watching TV series at leisure.
+
+### Ysa Fernandez, Undergraduate Research Assistant
+
+### Madison Gehringer, Undergraduate Research Assistant
 
 ### Kavya Jhaveri, Undergraduate Research Assistant
 
@@ -103,18 +96,21 @@ Anjali Jivan is in Pennsylvania State University’s undergraduate class of 2022
 |![](images/BellePeterson.jpg) | Belle Peterson is a sophomore at the Pennsylvania State University from Northern California. She is majoring in Bio-Behavioral Health, with minors in Neuroscience and Biology. She is the co-founder of an artificial intelligence-based start-up, [Apoio](https://www.apoioclinica.com), which focuses on improving the intake process for mental health providers and providing greater access to care for patients. She is also involved with [Alpha Phi Omega](https://apo.org) and [Remote Area Medical](https://www.ramusa.org), both student-run community service groups. Belle plans to attend medical school after matriculation to specialize in pediatric and adolescent medicine. In her free time, Belle enjoys swimming, baking for her roommates, and white-water rafting. |
 </br>
 
-### Shahir Rayes, Undergraduate Research Assistant  
+### Cecelia Petrarca, Undergraduate Research Assistant
 
-Shahir Rayes is majoring in Biology with a focus on Vertebrate Physiology. He was the President of We Are The World, a club at Penn State that is dedicated to promoting diversity and value students of all backgrounds and beliefs. He is also involved with [ Thon ](https://thon.org) on campus. Shahir is bilingual in both Arabic and English. Some of his hobbies are painting, lifting, and drawing. Shahir plans on going to medical school after graduation. 
-
-### Kymberle Shields, Undergraduate Research Assistant
 
 ### Lakshmi Thangaraj, Undergraduate Research Assistant
 
 Lakshmi Thangaraj is a sophomore at the Pennsylvania State University studying Biobehavioral Health with a minor in Neuroscience. She was born in a small town right outside of Boston, Massachusetts. On campus, Lakshmi is involved in [THON](https://thon.org/) and enjoys leisure running and exercise. Lakshmi is interested in cognitive and psychological development through adolescent stages. She plans on taking a clinical psych route in the neuroscience field of research. Other hobbies that Lakshmi has include reading and cooking, and her favorite show to watch is [*The Great British Bake Off*](https://en.wikipedia.org/wiki/The_Great_British_Bake_Off).
 
+### Lydia Wolf, Undergraduate Research Assistant
+
 ## Recent Alumni
 
+- Maureen Burke
+- Sara Delmoral
+- Kymberle Shields
+- Shahir Rayes
 - Michelle Mendez
 - Rachel Chang
 - Anna Capria
