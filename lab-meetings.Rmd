@@ -18,18 +18,15 @@ For the Fall 2022 Semester, we will meet on Thursdays 8:00-8:50am in room 127 Mo
 - How to take screen shots for [Mac](https://support.apple.com/en-us/HT201361) and [Windows](https://www.howtogeek.com/226280/how-to-take-screenshots-in-windows-10/)
 
 ## Goals
-
-- Learn R Markdown
-    - Begin by creating a brief biography for the [Who we are](https://gilmore-lab.github.io/who-we-are.html) page.
+- Data science
+    - Learn R on [Datacamp](https://www.datacamp.com/)
+    - Begin by creating or updating your a brief biography for the [Who we are](https://gilmore-lab.github.io/who-we-are.html) page on the lab website.
 - Start preparing for presentations in the Fall  
     - Train on poster template
     - Train how to use Databrary API
-- Data science
-    - Learn R on [Datacamp](https://www.datacamp.com/)
-    - Learn more about jupyter notebooks and Python
-- Launch new projects
-    - [Development of Motion Sensitivity Meta-analysis](https://github.com/gilmore-lab/motion-metaanalysis)
-    - Visuomotor tracking
+<!-- - Launch new projects -->
+<!--     - [Development of Motion Sensitivity Meta-analysis](https://github.com/gilmore-lab/motion-metaanalysis) -->
+<!--     - Visuomotor tracking -->
 - Data Processing/Analysis projects
     - Sex Differences: Visual Data vs. survey/Hobbies data
     - Datavyu Coding of infant locomotion
