@@ -30,13 +30,24 @@ For the Fall 2022 Semester, we will meet on Thursdays 8:00-8:50am in room 127 Mo
 - Data Processing/Analysis projects
     - Sex Differences: Visual Data vs. survey/Hobbies data
     - Datavyu Coding of infant locomotion
-    
+
+[Psych 494 Syllabus](https://github.com/gilmore-lab/protocols/psych-494-syllabus.html) 
+
 ## Fall 2022
 
 ### 9/1/2022 127 Moore
 
-- Attending:  
+- Attending: Rick, Andrea, Bowen, Ysa, Madison, Kavya, Kayla, Belle
 - Discuss:  
+  - Introductions 
+  - Review syllabus 
+  - Required trainings and software used 
+  - Research ethics
+  - Databrary and reproducibility crisis 
 - Homework:  
-
+  - ARS 
+    - Set up a tour of SLEIC 
+    - email instructions to create ASANA account 
+  - meet on Zoom next week.
+  - will assign reading
 
