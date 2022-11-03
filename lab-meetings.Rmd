@@ -43,20 +43,28 @@ For the Fall 2022 Semester, we will meet on Thursdays 8:00-8:50am in room 127 Mo
 
 ### 11/10/2022 Zoom
 
+- Attending:
+- Discuss:
+  - issues with creating biography in markdown format
+- Homework:
+
 ### 11/3/2022 Zoom
 
-- Attending: 
-  - Excused: 
+- Attending: Rick, Andrea, Madison, Kayla, Cecelia, Yiming, Belle, Ysa, Bowen, Molly
+  - Missing: Kavya
 - Discuss:
-  - [Databrary](https://nyu.databrary.org/)! What is it and why do we use it? What are the next steps to make it better
+  - [Databrary](https://nyu.databrary.org/)! What is it and why do we use it? 
+  - Databrary User Guide Development using R and Bookdown for R
+  - My favorite [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   - [Datacamp](https://www.datacamp.com/)
   
-- Homework for 10/20/2022!
-  - Please Complete Outstanding Training:
+- Homework to be completed as soon as possible!
+  - Please Complete Outstanding Training these were sent via ASANA
     - Yiming: Annual Compliance Training
     - Kavya: Reporting Child Abuse, Building a Safe Penn State
     - Bowen: Clery Act, Building a Safe Penn State
   - Everyone: Accept the invite to Datacamp that was previously emailed to you. Use your PSU email to create an account if you don't already have one
+  - Everyone: Create or update (if necessary) your biography on the [lab webpage](https://gilmore-lab.github.io/who-we-are.html) and email it to Andrea for upload
 
 ### 10/27/2022 NO MEETING
 
