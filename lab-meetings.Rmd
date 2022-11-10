@@ -37,6 +37,12 @@ For the Fall 2022 Semester, we will meet on Thursdays 8:00-8:50am in room 127 Mo
 
 ## Fall 2022
 
+### 12/1/2022 Zoom
+
+- Attending:
+- Discuss:
+  - Markdown format, Biographies, Datacamp working meeting
+
 ### 11/24/2022 NO MEETING HAPPY THANKSGIVING!
 
 ### 11/17/2022 NO MEETING
@@ -44,6 +50,7 @@ For the Fall 2022 Semester, we will meet on Thursdays 8:00-8:50am in room 127 Mo
 ### 11/10/2022 Zoom
 
 - Attending: Rick, Andrea, Madison, Kayla, Cecelia, Yiming, Belle, Ysa, Bowen, Molly
+  - Missing: Ysa
 - Discuss:
   - election experiences
   - Discuss: Qian Y, Berenbaum SA, Gilmore RO. Vision contributes to sex differences in spatial cognition and activity interests. Sci Rep. 2022 Oct 21;12(1):17623. doi: 10.1038/s41598-022-22269-y. PMID: 36271276; PMCID: PMC9586946.
@@ -51,8 +58,8 @@ For the Fall 2022 Semester, we will meet on Thursdays 8:00-8:50am in room 127 Mo
 
 ### 11/3/2022 Zoom
 
-- Attending: Rick, Andrea, Madison, Kayla, Cecelia, Yiming, Belle, Kavya, Bowen, Molly
-  - Missing: Ysa
+- Attending: Rick, Andrea, Madison, Kayla, Cecelia, Yiming, Belle, Ysa, Bowen, Molly
+  - Missing: Kavya
 - Discuss:
   - [Databrary](https://nyu.databrary.org/)! What is it and why do we use it? 
   - Databrary User Guide Development using R and Bookdown for R
