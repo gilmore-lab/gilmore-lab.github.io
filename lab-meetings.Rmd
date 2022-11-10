@@ -43,15 +43,16 @@ For the Fall 2022 Semester, we will meet on Thursdays 8:00-8:50am in room 127 Mo
 
 ### 11/10/2022 Zoom
 
-- Attending:
+- Attending: Rick, Andrea, Madison, Kayla, Cecelia, Yiming, Belle, Ysa, Bowen, Molly
 - Discuss:
-  - issues with creating biography in markdown format
+  - election experiences
+  - Discuss: Qian Y, Berenbaum SA, Gilmore RO. Vision contributes to sex differences in spatial cognition and activity interests. Sci Rep. 2022 Oct 21;12(1):17623. doi: 10.1038/s41598-022-22269-y. PMID: 36271276; PMCID: PMC9586946.
 - Homework:
 
 ### 11/3/2022 Zoom
 
-- Attending: Rick, Andrea, Madison, Kayla, Cecelia, Yiming, Belle, Ysa, Bowen, Molly
-  - Missing: Kavya
+- Attending: Rick, Andrea, Madison, Kayla, Cecelia, Yiming, Belle, Kavya, Bowen, Molly
+  - Missing: Ysa
 - Discuss:
   - [Databrary](https://nyu.databrary.org/)! What is it and why do we use it? 
   - Databrary User Guide Development using R and Bookdown for R
