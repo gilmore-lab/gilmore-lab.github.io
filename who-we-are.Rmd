@@ -71,7 +71,7 @@ Bowen is a junior student majoring in psychology with a
 Neuroscience option. She is a member of the [CPSA](https://www.linkedin.com/company/psu-cpsa). Bowen is interested in clinic psychology and plan to apply medical school in the future. She can speak Chinese, English, and German. She enjoys traveling, cooking and watching TV series at leisure.
 
 ### Ysa Fernandez, Undergraduate Research Assistant
-
+<!-- image width = 175px  -->
 |   |   |
 |:-|:-|
 |![](images/YsaFernandez.jpg) | Ysa Fernandez is a senior at Penn State pursuing an undergraduate degree in Psychology with a minor in Child Maltreatment and Advocacy Studies. They are a resident assistant and an undergraduate research assistant for the [Cognition, Affect, and Temperament Lab](http://www.catlabpsu.com). Ysa's main research interests include measuring the association between household chaos and caregiving affecting child development, and how environmental stressors can lead parents to adopt stricter behaviors with less sensitivity. They plan to pursue and eventually obtain their PhD in developmental psychology with hopes of exploring their interests even further. In their free time, they like to make music, go bouldering, and forage for mushrooms.|
@@ -102,6 +102,10 @@ Kavya Jhaveri is a junior at the Pennsylvania State University and is from Ahmed
 
 ### Cecelia Petrarca, Undergraduate Research Assistant
 
+|   |   |
+|:-|:-|
+|![](images/CeceliaPetrarca.jpeg) | Cecelia Petrarca is a senior at Penn State, originally from a small town in Connecticut. She is pursuing a degree in Biobehavioral Health, along with a minor in Psychology. She currently has a Neuroscience focus, and is looking to be a part of research in that field after graduation. In the future she will either be pursuing a PhD in Neuroscience or furthering her schooling in the medical field. She has been on the dean's list since her sophomore year, and has recently completed a semester abroad. During her time in Italy, she participated in a [Community Engagement Practicum](https://isiflorence.org/courses/cep-201-cultural-engagement-practicum-critical-disabilities-studies-inclusive-programs/), where she worked with the intellectually disabled community of Florence, through the LINAR program. She is currently working as a Research Assistant for the [Gilmore Lab](https://gilmore-lab.github.io/) at Penn State. In her free time she enjoys lifeguarding, listening to music, traveling, and watching movies with her roommates.| 
+</br>
 
 ### Lakshmi Thangaraj, Undergraduate Research Assistant
 
