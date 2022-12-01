@@ -37,12 +37,25 @@ For the Fall 2022 Semester, we will meet on Thursdays 8:00-8:50am in room 127 Mo
 
 ## Fall 2022
 
+### 12/15/2022 Breakfast
+
+- Lab breakfast 8:00am at E. College Waffle Shop
+
+### 12/8/2022 NO MEETING
+
 ### 12/1/2022 Zoom
 
-- Attending:
+- Attending: Rick, Andrea, Madison, Kayla, Cecelia, Yiming, Belle, Ysa, Bowen, Kavya
+  - Missing: Molly
 - Discuss:
-  - Markdown format, Biographies, Datacamp working meeting
-  - Please add spring 2023 calendars as soon as you have your class schedule so the meeting time for next semester may be determined.
+  - Markdown format, Databrary User Guide
+
+- Homework
+  - 12/8: Look up other websites for the layout/sections for a user guide and send them to Andrea 
+    - Link to Databrary user guide on Discord General Channel
+  - ASAP: Please add spring 2023 calendars as soon as you have your class schedule so the meeting time for next semester may be determined.
+  
+- Next Meeting 12/15 8:00am at the Waffle Shop Downtown!
 
 ### 11/24/2022 NO MEETING HAPPY THANKSGIVING!
 
