@@ -4,7 +4,7 @@ pagetitle: lab-meetings
 
 # Lab Meetings
 
-For the Fall 2022 Semester, we will meet on Thursdays 8:00-8:50am in room 127 Moore or by Zoom.
+For the Spring 2023 Semester, we will meet on Thursdays 8:00-8:50am in room TBD Moore
 
 ## Previous meeting notes
 
@@ -21,163 +21,34 @@ For the Fall 2022 Semester, we will meet on Thursdays 8:00-8:50am in room 127 Mo
 - Data science
     - Learn R on [Datacamp](https://www.datacamp.com/)
     - Begin by creating or updating your a brief biography for the [Who we are](https://gilmore-lab.github.io/who-we-are.html) page on the lab website.
-- Start preparing for presentations in the Fall  
+- Start preparing for presentations in the Spring
     - Train on poster template
     - Train how to use Databrary API
 <!-- - Launch new projects -->
 <!--     - [Development of Motion Sensitivity Meta-analysis](https://github.com/gilmore-lab/motion-metaanalysis) -->
 <!--     - Visuomotor tracking -->
 - Data Processing/Analysis projects
-    - Sex Differences: Visual Data vs. survey/Hobbies data
-    - Datavyu Coding of infant locomotion
+    - Databrary Tagging
+    - Databrary User Guide
+    - Open Science Survey Data
+    - Datavyu Coding of infant locomotion??
+- Submit abstracts for poster presentation:
+  - [Undergraduate Research Exhibition](https://urfm.psu.edu/programs/undergraduate-exhibition#paragraphs-id-114)
+  - [Psi Chi Research Conference](https://sites.psu.edu/psichi/research-conference-2/)
 - Future readings:
   - Yiming's PhD paper and paper reviews
 
 [Psych 494 Syllabus](https://https://gilmore-lab.github.io/protocols/psych-494-syllabus.html) 
 
-## Fall 2022
+## Spring 2023
 
-### 12/15/2022 Breakfast
-
-- Lab breakfast 8:00am at E. College Waffle Shop
-
-### 12/8/2022 NO MEETING
-
-### 12/1/2022 Zoom
-
-- Attending: Rick, Andrea, Madison, Kayla, Cecelia, Yiming, Belle, Ysa, Bowen, Kavya
-  - Missing: Molly
-- Discuss:
-  - Markdown format, Databrary User Guide
-
-- Homework
-  - 12/8: Look up other websites for the layout/sections for a user guide and send them to Andrea 
-    - Link to Databrary user guide on Discord General Channel
-  - ASAP: Please add spring 2023 calendars as soon as you have your class schedule so the meeting time for next semester may be determined.
-  
-- Next Meeting 12/15 8:00am at the Waffle Shop Downtown!
-
-### 11/24/2022 NO MEETING HAPPY THANKSGIVING!
-
-### 11/17/2022 NO MEETING
-
-### 11/10/2022 Zoom
-
-- Attending: Rick, Andrea, Madison, Kayla, Cecelia, Yiming, Belle, Ysa, Bowen, Molly
-  - Missing: Ysa
-- Discuss:
-  - election experiences
-  - Discuss: Qian Y, Berenbaum SA, Gilmore RO. Vision contributes to sex differences in spatial cognition and activity interests. Sci Rep. 2022 Oct 21;12(1):17623. doi: 10.1038/s41598-022-22269-y. PMID: 36271276; PMCID: PMC9586946.
-- Homework:
-
-### 11/3/2022 Zoom
-
-- Attending: Rick, Andrea, Madison, Kayla, Cecelia, Yiming, Belle, Ysa, Bowen, Molly
-  - Missing: Kavya
-- Discuss:
-  - [Databrary](https://nyu.databrary.org/)! What is it and why do we use it? 
-  - Databrary User Guide Development using R and Bookdown for R
-  - My favorite [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-  - [Datacamp](https://www.datacamp.com/)
-  
-- Homework to be completed as soon as possible!
-  - Please Complete Outstanding Training these were sent via ASANA
-    - Yiming: Annual Compliance Training
-    - Kavya: Reporting Child Abuse, Building a Safe Penn State
-    - Bowen: Clery Act, Building a Safe Penn State
-  - Everyone: Accept the invite to Datacamp that was previously emailed to you. Use your PSU email to create an account if you don't already have one
-  - Everyone: Create or update (if necessary) your biography on the [lab webpage](https://gilmore-lab.github.io/who-we-are.html) and email it to Andrea for upload
-
-### 10/27/2022 NO MEETING
-
-### 10/20/2022 127 Moore
-
-- Attending:
-  - Excused: Andrea
-- Discuss:
-  -Epistemological stances noticed in your classes over the last 2 weeks.
-- Sorry, no notes, Andrea absent.
-
-### 10/13/2022 NO MEETING
-
-### 10/6/2022 Zoom
-
-- Attending: Rick, Andrea, Yiming, Ysa, Madison, Kavya, Kayla, Cecelia, Lakshmi
-  - Excused: Belle, Bowen
-- Discuss:
-  - Prosser, A. M. B., Hamshaw, R. J. T., Meyer, J., Bagnall, R., Blackwood, L., Huysamen, M., Jordan, A., Vasileiou, K. & Walter, Z. (2022). When open data closes the door: A critical examination of the past, present and the potential future for open data guidelines in journals. The British Journal of Social Psychology / the British Psychological Society. https://doi.org/10.1111/bjso.12576
-  - Difficulties of generating, taking, and anaylizing a survey
-  
-- Homework for 10/20/2022!
-  - Bring back an epistemological stance from one of your classes over the next 2 weeks.
-  - Create Hypothes.is account AND join the gilmore lab group space. Link to group space is on discord 
-  - Please Complete Outstanding Training:
-    - Yiming: Annual Compliance Training
-    - Kavya: Clery Act, Reporting Child Abuse
-  
-### 9/29/2022 Zoom
+### 1/19/2023
 
 - Attending: 
-- Discuss: 
-  - Johnson, M. H. (2011). Interactive Specialization: A domain-general framework for human functional brain development? Developmental Cognitive Neuroscience, 1(1), 7–21. https://doi.org/10.1016/j.dcn.2010.07.003
-
-- Homework for 10/6!
-
-Read and be prepared to discuss: 
-
-Prosser, A. M. B., Hamshaw, R. J. T., Meyer, J., Bagnall, R., Blackwood, L., Huysamen, M., Jordan, A., Vasileiou, K. & Walter, Z. (2022). When open data closes the door: A critical examination of the past, present and the potential future for open data guidelines in journals. The British Journal of Social Psychology / the British Psychological Society. https://doi.org/10.1111/bjso.12576
-
-
-### 9/22/2022 Zoom 
-
-- Attending: Rick, Andrea, Madison, Kavya, Kayla, Cecelia, Lakshmi, Belle, Ysa, Bowen  
-  - Missing: Yiming, Kavya 
-- Discuss:
-  - finish discussion of paper from last week.
-  - discussion of Yiming's sex differences study with Dr. Berenbaum for her PhD
-- Homework:
-  - Read: Johnson, M. H. (2011). Interactive Specialization: A domain-general framework for human functional brain development? Developmental Cognitive Neuroscience, 1(1), 7–21. https://doi.org/10.1016/j.dcn.2010.07.003
-
-### 9/15/2022 Zoom
-
-- Attending: Rick, Andrea, Yiming, Madison, Kavya, Kayla, Cecelia, Lakshmi, Belle, Ysa
-  - Missing: Bowen
-- Discuss:
-  - Qian, Y., Seisler, A. R. & Gilmore, R. O. (2021). Children’s perceptual sensitivity to optic flow-like visual motion differs from adults. Developmental Psychology, 57(11), 1810–1821. https://doi.org/10.1037/dev0001227
-- Homework:
-  - Enter a paper or topic that you would like to learn more about and discuss in lab into the general channel of discord.
-  - Complete assigned training 
-### 9/8/2022 Zoom
-
-- Attending: Rick, Andrea, Yiming, Bowen, Madison, Kavya, Kayla, Cecelia, Lakshmi
-  - Excused: Belle, Ysa
-  - Missing: Molly
-- Discuss:
-  - Depression article that came out in the summer: Moncrieff, J., Cooper, R. E., Stockmann, T., Amendola, S., Hengartner, M. P. & Horowitz, M. A. (2022). The serotonin theory of depression: a systematic umbrella review of the evidence. Molecular Psychiatry. https://doi.org/10.1038/s41380-022-01661-0
-  - Open Access Article - Accessible for free to the general public
-  - [Paperpile](https://paperpile.com/) used for paper storage and generation of references
-- Homework:
-  - Finish lab training
-  - Read: Qian, Y., Seisler, A. R. & Gilmore, R. O. (2021). Children’s perceptual sensitivity to optic flow-like visual motion differs from adults. Developmental Psychology, 57(11), 1810–1821. https://doi.org/10.1037/dev0001227
-
-### 9/1/2022 127 Moore
-
-- Attending: Rick, Andrea, Bowen, Ysa, Madison, Kavya, Kayla, Belle, Cecelia, Lakshmi
-  - Excused: Molly
-  - Missing: Yiming
 - Discuss:  
   - Introductions 
-  - Review syllabus 
+  - Review syllabus and Goals (above)
   - Required training and software used 
   - Research ethics
   - Databrary and reproducibility crisis 
-- Homework:  
-  - ARS 
-    - Set up a tour of SLEIC 
-    - email instructions to create ASANA account 
-  - meet on Zoom next week.
-  - will assign reading
-
-
-
-  
+- Homework:
