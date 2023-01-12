@@ -4,18 +4,19 @@ pagetitle: lab-meetings
 
 # Lab Meetings
 
-For the Spring 2023 Semester, we will meet on Thursdays 8:00-8:50am in room TBD Moore
+For the Spring 2023 Semester, we will meet on Thursdays 8:00-8:50am in room XXX Moore
 
 ## Previous meeting notes
 
 [Notes from previous semesters](lab-meetings-previous.html)
 
-## Helpful Computer Information
+## Helpful Links
 
 - Global Protect Instructions for [Mac](https://ithelp.ssri.psu.edu/penn-state-vpn-mac) and [Windows ](https://ithelp.ssri.psu.edu/penn-state-vpn)
 - Click to login to our [R Studio Server space](https://rstudio.tlt.psu.edu/s/e40b8122db8f5ab27456f/)
 - Click to login to [Datacamp](https://www.datacamp.com/)
 - How to take screen shots for [Mac](https://support.apple.com/en-us/HT201361) and [Windows](https://www.howtogeek.com/226280/how-to-take-screenshots-in-windows-10/)
+- [Databrary](https://www.databrary.org)
 
 ## Goals
 - Data science
