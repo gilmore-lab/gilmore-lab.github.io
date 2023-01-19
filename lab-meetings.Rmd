@@ -43,13 +43,19 @@ For the Spring 2023 Semester, we will meet on Thursdays 8:00-8:50am in room 350 
 
 ## Spring 2023
 
-### 1/19/2023
 
-- Attending: 
-- Discuss:  
-  - Introductions 
-  - Review syllabus and Goals (above)
+- Review syllabus and Goals (above)
   - Required training and software used 
   - Research ethics
   - Databrary and reproducibility crisis 
+
+### 1/19/2023
+
+- Attending: Rick, Andrea, Yiming, Molly, Bowen, Kayla, Ysa, Belle, Cecilia, Oriana, Madison
+  - Excused: Kavya
+- Discuss: 
+  - Introductions 
+  - Yiming - present 15 min job talk
+    - provide feedback on slides and talk
 - Homework:
+  - Work on any assigned required training. We will discuss next week if there are any problems.
