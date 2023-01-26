@@ -4,7 +4,7 @@ pagetitle: lab-meetings
 
 # Lab Meetings
 
-For the Spring 2023 Semester, we will meet on Thursdays 8:00-8:50am in room 350 Moore
+For the Spring 2023 Semester, we will meet on Thursdays 8:00-8:50am in room 350 Moore.
 
 ## Previous meeting notes
 
@@ -48,9 +48,8 @@ For the Spring 2023 Semester, we will meet on Thursdays 8:00-8:50am in room 350 
 - Attending:
 
 - Review syllabus and Goals (above)
-  - Required training and software used 
-  - Research ethics
-  - Databrary and reproducibility crisis 
+  - Required training and software used
+
 
 ### 1/19/2023
 
