@@ -23,7 +23,7 @@ For the Spring 2023 Semester, we will meet on Thursdays 8:00-8:50am in room 350 
     - Learn R on [Datacamp](https://www.datacamp.com/)
     - Begin by creating or updating your a brief biography for the [Who we are](https://gilmore-lab.github.io/who-we-are.html) page on the lab website.
 - Start preparing for presentations in the Spring
-    - Train on poster template
+    - Train on poster template for R [posterdown](https://github.com/brentthorne/posterdown)
     - Train how to use Databrary API
 <!-- - Launch new projects -->
 <!--     - [Development of Motion Sensitivity Meta-analysis](https://github.com/gilmore-lab/motion-metaanalysis) -->
@@ -39,17 +39,38 @@ For the Spring 2023 Semester, we will meet on Thursdays 8:00-8:50am in room 350 
 - Future readings:
   - Yiming's PhD paper and paper reviews
 
-[Psych 494 Syllabus](https://https://gilmore-lab.github.io/protocols/psych-494-syllabus.html) 
+[Psych 494 Syllabus](https://gilmore-lab.github.io/protocols/psych-494-syllabus.html) 
 
 ## Spring 2023
 
 ### 1/26/2023
 
-- Attending:
+- Attending: Rick, Andrea, Bowen, Kayla, Belle, Cecilia, Madison, Oriana, Yiming
+  - Excused: Ysa, Molly
+  - Kavya
+- Discuss:
+  - What is R and RStudio?
+  - What is [Bookdown](https://bookdown.org/)?
+  - [Penn State Open Science]()
+    - complete IRB protocol
+    - [PLAY Behaviorome](https://play-behaviorome.github.io./protocol/)
+      - how to run the study
+      - recruitment data for entire PLAY project to date
 
-- Review syllabus and Goals (above)
-  - Required training and software used
-
+- Homework:
+  - Read Chapters 1 and 2 of [Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
+  - Check Asana Tasks Weekly
+  - The following students have training to take or retake:
+      - Oriana
+      - Bowen
+      - Kayla
+      - Ysa
+      
+- Next Week:
+  - Begin to create a bookdown site for all lab protocols
+  - review syllabus and goals above
+  - Research ethics
+  - Databrary and reproducibility crisis
 
 ### 1/19/2023
 
