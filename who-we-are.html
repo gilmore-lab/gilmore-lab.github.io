@@ -13,7 +13,7 @@
 
 <title>who-we-are</title>
 
-<script src="site_libs/header-attrs-2.17/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -178,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "\e259";
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -187,9 +187,16 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "\e258";
-  font-family: 'Glyphicons Halflings';
+  content: "&#xe258;";
   border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -287,148 +294,48 @@ $(document).ready(function () {
 
 <div id="for-interested-students" class="section level1">
 <h1>For Interested Students</h1>
-<p>The Brain and Behavioral Dynamics Lab, part of the <a
-href="https://psych.la.psu.edu">Psychology Department</a> at Penn State,
-is looking for research assistants to study brain development in
-infants, children, and adolescents for <strong>Fall 2023</strong>. You
-can earn research project (PSY 494) credit or work study funds, and
-learn video, computer, and communication skills. Prior research
-experience and computer skills are a plus, but aren’t required. We are
-especially interested in students who have morning availability,
-computer skills, or are interested in developing skills in advertising,
-marketing, or public relations. You may apply by completing an <a
-href="https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform">application</a>.
-<strong>We are FULL for Spring 2023</strong>.</p>
+<p>The Brain and Behavioral Dynamics Lab, part of the <a href="https://psych.la.psu.edu">Psychology Department</a> at Penn State, is looking for research assistants to study brain development in infants, children, and adolescents for <strong>Fall 2023</strong>. You can earn research project (PSY 494) credit or work study funds, and learn video, computer, and communication skills. Prior research experience and computer skills are a plus, but aren’t required. We are especially interested in students who have morning availability, computer skills, or are interested in developing skills in advertising, marketing, or public relations. You may apply by completing an <a href="https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform">application</a>. <strong>We are FULL for Spring 2023</strong>.</p>
 <div id="lab-director" class="section level2">
 <h2>Lab Director</h2>
 <p><img src="images/rog-headshot175x220px.jpg" width="88" /></p>
-<p>Rick O. Gilmore is Professor of Psychology, a Huck Institute of the
-Life Sciences faculty member, and an Associate of the Institute for
-Cyberscience. He earned his bachelor’s degree <em>magna cum laude</em>
-in Cognitive Science from <a href="https://www.brown.edu">Brown
-University</a>, and master’s and doctoral degrees in Psychology from <a
-href="https://www.cmu.edu">Carnegie Mellon University</a> where he
-participated in the <a href="https://cnbc.cmu.edu">Center for the Neural
-Basis of Cognition (CNBC)</a> training program in cognitive
-neuroscience. Gilmore’s research focuses on the development of visual
-perception and memory. He is particularly interested in the development
-of brain networks that enable perceivers to extract information about
-the layout of the environment, the shape of objects, and the speed and
-direction of self-movement from patterns of visual motion called optic
-flow. Gilmore is also keenly interested in developing tools and
-practices that make scientific research more open, transparent, and
-reproducible. He is co-founder and Co-Director of the <a
-href="https://databrary.org">Databrary.org</a> data library, and is
-co-PI on the Play &amp; Learning Across a Year <a
-href="https://play-project.org">(PLAY) Project</a>. From 2008 to 2014,
-Gilmore served as the founding Director of Human Imaging at Penn State’s
-Social, Life, and Engineering Sciences Imaging Center <a
-href="https://imaging.psu.edu">(SLEIC)</a>. He has won the College of
-the Liberal Arts tenure-line faculty teaching award, leads the Open Data
-in Developmental Science (ODDS) initiative for the Penn State Child
-Study Center, and has had support for his research from the National
-Institutes of Health and the National Science Foundation.</p>
-<p>Gilmore has served as president of the <a
-href="https://centrebike.org">Centre Region Bicycle Coalition</a>, the
-<a href="https://acousticbrew.org">Acoustic Brew Concert Series</a>, and
-the <a href="https://scctonline.org">State College Community
-Theatre</a>. An active radio amateur or ham (callsign K3ROG), he is
-member of the Board of Directors of the <a
-href="https://www.nittany-arc.net/">Nittany Amateur Radio Club</a> and
-is the faculty adviser and K3CR license trustee for the Penn State
-Amateur Radio Club.</p>
+<p>Rick O. Gilmore is Professor of Psychology, a Huck Institute of the Life Sciences faculty member, and an Associate of the Institute for Cyberscience. He earned his bachelor’s degree <em>magna cum laude</em> in Cognitive Science from <a href="https://www.brown.edu">Brown University</a>, and master’s and doctoral degrees in Psychology from <a href="https://www.cmu.edu">Carnegie Mellon University</a> where he participated in the <a href="https://cnbc.cmu.edu">Center for the Neural Basis of Cognition (CNBC)</a> training program in cognitive neuroscience. Gilmore’s research focuses on the development of visual perception and memory. He is particularly interested in the development of brain networks that enable perceivers to extract information about the layout of the environment, the shape of objects, and the speed and direction of self-movement from patterns of visual motion called optic flow. Gilmore is also keenly interested in developing tools and practices that make scientific research more open, transparent, and reproducible. He is co-founder and Co-Director of the <a href="https://databrary.org">Databrary.org</a> data library, and is co-PI on the Play &amp; Learning Across a Year <a href="https://play-project.org">(PLAY) Project</a>. From 2008 to 2014, Gilmore served as the founding Director of Human Imaging at Penn State’s Social, Life, and Engineering Sciences Imaging Center <a href="https://imaging.psu.edu">(SLEIC)</a>. He has won the College of the Liberal Arts tenure-line faculty teaching award, leads the Open Data in Developmental Science (ODDS) initiative for the Penn State Child Study Center, and has had support for his research from the National Institutes of Health and the National Science Foundation.</p>
+<p>Gilmore has served as president of the <a href="https://centrebike.org">Centre Region Bicycle Coalition</a>, the <a href="https://acousticbrew.org">Acoustic Brew Concert Series</a>, and the <a href="https://scctonline.org">State College Community Theatre</a>. An active radio amateur or ham (callsign K3ROG), he is member of the Board of Directors of the <a href="https://www.nittany-arc.net/">Nittany Amateur Radio Club</a> and is the faculty adviser and K3CR license trustee for the Penn State Amateur Radio Club.</p>
 <div id="contact-information" class="section level4">
 <h4>Contact Information</h4>
 <p>
-<p>114 Moore Building<br/> Department of Psychology<br/> The
-Pennsylvania State University<br/> University Park, PA 16801<br/>
-814-865-3664, voice <br/> 814-863-7002, fax<br/></p>
+<p>114 Moore Building<br/> Department of Psychology<br/> The Pennsylvania State University<br/> University Park, PA 16801<br/> 814-865-3664, voice <br/> 814-863-7002, fax<br/></p>
 <p>rogilmore AT-SIGN psu DOT edu<br/></p>
-<p><a href="https://doodle.com/mm/rickgilmore/book-a-time">Meeting
-scheduler</a></p>
+<p><a href="https://doodle.com/mm/rickgilmore/book-a-time">Meeting scheduler</a></p>
 </div>
 </div>
 <div id="current-staff" class="section level2">
 <h2>Current Staff</h2>
 <div id="andrea-seisler-lab-manager" class="section level3">
 <h3><a href="mailto:ars17@psu.edu">Andrea Seisler</a>, Lab Manager</h3>
-<p>Andrea R. Seisler is the Laboratory Manager of the Brain and
-Behavioral Development Laboratory directed by Dr. Rick O. Gilmore. She
-has also been the Support and Authorizations Specialist at <a
-href="https://databrary.org">Databrary</a> since November 2016. She
-received her bachelor’s and master’s degree in Biomedical Engineering
-from <a href="https://www.cua.edu/">The Catholic University of
-America</a>. During her graduate studies, she was a recipient of the <a
-href="https://www.hluce.org/cblprogram.aspx">Clare Booth Luce
-Fellowship</a> award.</p>
-<p>She completed MRI based neuroscience and orthopedics research while
-working at <a href="https://www.nih.gov/">The National Institutes of
-Health</a> from 2001-2007. After her move to State College, she served
-as an IRB Compliance Coordinator for the <a
-href="https://www.research.psu.edu/orp/humans">Office for Research
-Protections</a> at Penn State and then moved on in 2009 to manage the
-Human Electrophysiology Facility located at the <a
-href="https://www.imaging.psu.edu/">Social, Life, and Enginineering
-Sciences Imaging Center</a> through 2014.</p>
-<p>She is active in Scouts BSA as a Committee Member in <a
-href="https://www.olvcatholicschool.org/Page/804">Troop 245</a> and an
-Executive Board Member of the <a
-href="http://www.jvcbsa.org/about-us/council-leadership/18280">Juniata
-Valley Council, BSA</a>. She completed her <a
-href="http://woodbadge.org/">Wood Badge</a> leadership training course
-in September 2020. Now she is staffing the Wood Badge and <a
-href="https://www.ncacbsa.org/national-youth-leadership-training/">National
-Youth Leadership Training</a> programs. In addition she enjoys dancing
-ballet and teaching at <a href="https://www.dancesc.com/">Dance
-Academy</a>.</p>
+<p>Andrea R. Seisler is the Laboratory Manager of the Brain and Behavioral Development Laboratory directed by Dr. Rick O. Gilmore. She has also been the Support and Authorizations Specialist at <a href="https://databrary.org">Databrary</a> since November 2016. She received her bachelor’s and master’s degree in Biomedical Engineering from <a href="https://www.cua.edu/">The Catholic University of America</a>. During her graduate studies, she was a recipient of the <a href="https://www.hluce.org/cblprogram.aspx">Clare Booth Luce Fellowship</a> award.</p>
+<p>She completed MRI based neuroscience and orthopedics research while working at <a href="https://www.nih.gov/">The National Institutes of Health</a> from 2001-2007. After her move to State College, she served as an IRB Compliance Coordinator for the <a href="https://www.research.psu.edu/orp/humans">Office for Research Protections</a> at Penn State and then moved on in 2009 to manage the Human Electrophysiology Facility located at the <a href="https://www.imaging.psu.edu/">Social, Life, and Enginineering Sciences Imaging Center</a> through 2014.</p>
+<p>She is active in Scouts BSA as a Committee Member in <a href="https://www.olvcatholicschool.org/Page/804">Troop 245</a> and an Executive Board Member of the <a href="http://www.jvcbsa.org/about-us/council-leadership/18280">Juniata Valley Council, BSA</a>. She completed her <a href="http://woodbadge.org/">Wood Badge</a> leadership training course in September 2020. Now she is staffing the Wood Badge and <a href="https://www.ncacbsa.org/national-youth-leadership-training/">National Youth Leadership Training</a> programs. In addition she enjoys dancing ballet and teaching at <a href="https://www.dancesc.com/">Dance Academy</a>.</p>
 <div id="contact-information-1" class="section level4">
 <h4>Contact Information</h4>
 <p>
-503 Moore Building<br/> Department of Psychology<br/> The Pennsylvania
-State University<br/> University Park, PA 16802<br/> ars17 AT-SIGN psu
-DOT edu
+503 Moore Building<br/> Department of Psychology<br/> The Pennsylvania State University<br/> University Park, PA 16802<br/> ars17 AT-SIGN psu DOT edu
 </p>
 </div>
 </div>
 <div id="yiming-qian-graduate-student" class="section level3">
 <h3>Yiming Qian, Graduate Student</h3>
-<p>Yiming is a graduate student in the Department of Psychology at PSU.
-Her research interest is exploring the development of brain networks
-from early childhood to adulthood, using multimodal neuroimaging tools.
-She is also interested in the mechanism of visual motion. Here is her <a
-href="https://rstudio-connect.tlt.psu.edu:3939/content/22/projects_scheme.html">schedule</a>
-for the current research projects.</p>
-<p>Besides research activities, Yiming enjoys reading, cooking,
-gardening, hiking and fishing. She is a big fan of operas and
-musicals.</p>
+<p>Yiming is a graduate student in the Department of Psychology at PSU. Her research interest is exploring the development of brain networks from early childhood to adulthood, using multimodal neuroimaging tools. She is also interested in the mechanism of visual motion. Here is her <a href="https://rstudio-connect.tlt.psu.edu:3939/content/22/projects_scheme.html">schedule</a> for the current research projects.</p>
+<p>Besides research activities, Yiming enjoys reading, cooking, gardening, hiking and fishing. She is a big fan of operas and musicals.</p>
 </div>
-<div id="molly-askin-undergraduate-research-assistant"
-class="section level3">
+<div id="molly-askin-undergraduate-research-assistant" class="section level3">
 <h3>Molly Askin, Undergraduate Research Assistant</h3>
-<p>Molly Askin is a junior at the Pennsylvania State University and is
-from New Jersey. She is majoring in Psychology with the Neuroscience
-option with a minor in neuroscience. She is involved in campus through
-Greek life in her sorority <a href="https://www.alphaxidelta.org/">Alpha
-Xi Delta</a>. She is also involved in <a
-href="https://thon.org/">THON</a> as an assistant THON chair which
-consists of helping with anything the other THON chairs need help with
-as well as helping to raise money for THON. She is interested in
-pursuing her education further and eventually getting her PhD in
-neuropsychology with hopes to eventually study patients with Alzheimer’s
-and dementia.</p>
+<p>Molly Askin is a junior at the Pennsylvania State University and is from New Jersey. She is majoring in Psychology with the Neuroscience option with a minor in neuroscience. She is involved in campus through Greek life in her sorority <a href="https://www.alphaxidelta.org/">Alpha Xi Delta</a>. She is also involved in <a href="https://thon.org/">THON</a> as an assistant THON chair which consists of helping with anything the other THON chairs need help with as well as helping to raise money for THON. She is interested in pursuing her education further and eventually getting her PhD in neuropsychology with hopes to eventually study patients with Alzheimer’s and dementia.</p>
 </div>
-<div id="bowen-deng-undergraduate-research-assistant"
-class="section level3">
+<div id="bowen-deng-undergraduate-research-assistant" class="section level3">
 <h3>Bowen Deng, Undergraduate Research Assistant</h3>
-<p>Bowen is a senior student majoring in psychology with a Neuroscience
-option. She is a member of the <a
-href="https://www.linkedin.com/company/psu-cpsa">CPSA</a>. Bowen is
-interested in clinic psychology and plan to apply medical school in the
-future. She can speak Chinese, English, and German. She enjoys
-traveling, cooking and watching TV series at leisure.</p>
+<p>Bowen is a senior student majoring in psychology with a Neuroscience option. She is a member of the <a href="https://www.linkedin.com/company/psu-cpsa">CPSA</a>. Bowen is interested in clinic psychology and plan to apply medical school in the future. She can speak Chinese, English, and German. She enjoys traveling, cooking and watching TV series at leisure.</p>
 </div>
-<div id="ysa-fernandez-undergraduate-research-assistant"
-class="section level3">
+<div id="ysa-fernandez-undergraduate-research-assistant" class="section level3">
 <h3>Ysa Fernandez, Undergraduate Research Assistant</h3>
 <!-- image width = 175px  -->
 <table>
@@ -439,28 +346,29 @@ class="section level3">
 <tbody>
 <tr class="odd">
 <td align="left"><img src="images/YsaFernandez.jpg" /></td>
-<td align="left">Ysa Fernandez is a senior at Penn State pursuing an
-undergraduate degree in Psychology with a minor in Child Maltreatment
-and Advocacy Studies. They are a resident assistant and an undergraduate
-research assistant for the <a href="http://www.catlabpsu.com">Cognition,
-Affect, and Temperament Lab</a>. Ysa’s main research interests include
-measuring the association between household chaos and caregiving
-affecting child development, and how environmental stressors can lead
-parents to adopt stricter behaviors with less sensitivity. They plan to
-pursue and eventually obtain their PhD in developmental psychology with
-hopes of exploring their interests even further. In their free time,
-they like to make music, go bouldering, and forage for mushrooms.</td>
+<td align="left">Ysa Fernandez is a senior at Penn State pursuing an undergraduate degree in Psychology with a minor in Child Maltreatment and Advocacy Studies. They are a resident assistant and an undergraduate research assistant for the <a href="http://www.catlabpsu.com">Cognition, Affect, and Temperament Lab</a>. Ysa’s main research interests include measuring the association between household chaos and caregiving affecting child development, and how environmental stressors can lead parents to adopt stricter behaviors with less sensitivity. They plan to pursue and eventually obtain their PhD in developmental psychology with hopes of exploring their interests even further. In their free time, they like to make music, go bouldering, and forage for mushrooms.</td>
 </tr>
 </tbody>
 </table>
 <p></br></p>
 </div>
-<div id="oriana-franco-undergraduate-research-assistant"
-class="section level3">
+<div id="oriana-franco-undergraduate-research-assistant" class="section level3">
 <h3>Oriana Franco, Undergraduate Research Assistant</h3>
+<table>
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td align="left"><img src="images/.jpg" /></td>
+<td align="left">Oriana Franco is a <a href="https://www.psu.edu/">Penn State University</a> student, pursuing a psychology major. She is intended to graduate in the spring of 2026 and further her education by pursuing a Ph.D. in Neuroscience or Computer Science. Her hobbies consist of reading, hiking, running, and playing with her dog and cat. Oriana’s interest in developmental psychology has led her to find Dr. Gilmore’s lab and become a part of it. Her proficiency in English and Spanish opened many doors for her to communicate with many individuals without barriers. Oriana’s passion for helping people has put her on a path to further her knowledge on things such as mental illness, in the hopes of later on in her life being able to use that knowledge to guide others.</td>
+</tr>
+</tbody>
+</table>
+<p></br></p>
 </div>
-<div id="madison-gehringer-undergraduate-research-assistant"
-class="section level3">
+<div id="madison-gehringer-undergraduate-research-assistant" class="section level3">
 <h3>Madison Gehringer, Undergraduate Research Assistant</h3>
 <table>
 <colgroup>
@@ -470,39 +378,17 @@ class="section level3">
 <tbody>
 <tr class="odd">
 <td align="left"><img src="images/MadisonGehringer.jpg" /></td>
-<td align="left">Madison Gehringer is a junior at Penn State pursuing an
-undergraduate degree in psychology with a focus in neuroscience as well
-as a minor in biology. She is a member of the National Society of
-Leadership and Success at Penn State. Madison is interested in studying
-brain damage and mental illness, her interest in the brain led her to
-become apart of Dr. Gilmore’s lab. In her free time she enjoys baking,
-drawing and listening to music. Madison is an avid animal lover and when
-she is not at Penn State she works as an animal technician at the <a
-href="https://montgomerycountyspca.org/">Montgomery County SPCA</a>
-Perkiomenville location.</td>
+<td align="left">Madison Gehringer is a junior at Penn State pursuing an undergraduate degree in psychology with a focus in neuroscience as well as a minor in biology. She is a member of the National Society of Leadership and Success at Penn State. Madison is interested in studying brain damage and mental illness, her interest in the brain led her to become apart of Dr. Gilmore’s lab. In her free time she enjoys baking, drawing and listening to music. Madison is an avid animal lover and when she is not at Penn State she works as an animal technician at the <a href="https://montgomerycountyspca.org/">Montgomery County SPCA</a> Perkiomenville location.</td>
 </tr>
 </tbody>
 </table>
 <p></br></p>
 </div>
-<div id="kavya-jhaveri-undergraduate-research-assistant"
-class="section level3">
+<div id="kavya-jhaveri-undergraduate-research-assistant" class="section level3">
 <h3>Kavya Jhaveri, Undergraduate Research Assistant</h3>
-<p>Kavya Jhaveri is a junior at the Pennsylvania State University and is
-from Ahmedabad, India. She is pursuing a major in Psychology with the
-Neuroscience option, and is minoring in Mathematics and Neuroscience.
-She is a writing consultant at the <a
-href="https://pennstatelearning.psu.edu/tutoring/writing">Penn State
-Learning Centre</a>, and works at the <a
-href="https://studentaffairs.psu.edu/facilities-spaces/campus-recreation-facilities/im-building">IM
-Building</a> on campus. She also plans to become involved in THON and
-contribute to the Daily Collegian on campus. She is an avid reader, an
-Indian classical dancer, and loves to paint. Kavya plans to go pursue a
-PhD in neuropsychology, or a related field, and eventually work with
-patients suffering from brain injury.</p>
+<p>Kavya Jhaveri is a junior at the Pennsylvania State University and is from Ahmedabad, India. She is pursuing a major in Psychology with the Neuroscience option, and is minoring in Mathematics and Neuroscience. She is a writing consultant at the <a href="https://pennstatelearning.psu.edu/tutoring/writing">Penn State Learning Centre</a>, and works at the <a href="https://studentaffairs.psu.edu/facilities-spaces/campus-recreation-facilities/im-building">IM Building</a> on campus. She also plans to become involved in THON and contribute to the Daily Collegian on campus. She is an avid reader, an Indian classical dancer, and loves to paint. Kavya plans to go pursue a PhD in neuropsychology, or a related field, and eventually work with patients suffering from brain injury.</p>
 </div>
-<div id="kayla-moninger-undergraduate-research-assistant"
-class="section level3">
+<div id="kayla-moninger-undergraduate-research-assistant" class="section level3">
 <h3>Kayla Moninger, Undergraduate Research Assistant</h3>
 <table>
 <colgroup>
@@ -512,27 +398,13 @@ class="section level3">
 <tbody>
 <tr class="odd">
 <td align="left"><img src="images/KaylaMoniger.jpg" /></td>
-<td align="left">Kayla Moninger is a Penn State student pursuing a
-degree in neuroscience with a minor in biology. She is concurrently
-following the pre-medicine track with intentions of attending medical
-school to become a psychiatrist. As a student, she is the Primary THON
-Chair and Family Relations Chair for Phi Eta Sigma, an honor society
-that also raises money for <a href="https://thon.org/">THON</a>. She is
-the Activities Coordinator for <a
-href="https://www.bestbuddies.org/">Best Buddies</a>, an organization
-that pairs students with people in the area with disabilities. She is
-also a member of PSU <a href="https://www.ramusa.org/">RAM</a>, a global
-health-based nonprofit, and she volunteers as a hotline counselor at <a
-href="https://www.centresafe.org/">Centre Safe</a>. She is also a TA for
-a biology lab at Penn State, and her passion for studying the brain has
-led to her path of research in Dr. Gilmore’s lab.</td>
+<td align="left">Kayla Moninger is a Penn State student pursuing a degree in neuroscience with a minor in biology. She is concurrently following the pre-medicine track with intentions of attending medical school to become a psychiatrist. As a student, she is the Primary THON Chair and Family Relations Chair for Phi Eta Sigma, an honor society that also raises money for <a href="https://thon.org/">THON</a>. She is the Activities Coordinator for <a href="https://www.bestbuddies.org/">Best Buddies</a>, an organization that pairs students with people in the area with disabilities. She is also a member of PSU <a href="https://www.ramusa.org/">RAM</a>, a global health-based nonprofit, and she volunteers as a hotline counselor at <a href="https://www.centresafe.org/">Centre Safe</a>. She is also a TA for a biology lab at Penn State, and her passion for studying the brain has led to her path of research in Dr. Gilmore’s lab.</td>
 </tr>
 </tbody>
 </table>
 <p></br></p>
 </div>
-<div id="sydney-belle-peterson-undergraduate-research-assistant"
-class="section level3">
+<div id="sydney-belle-peterson-undergraduate-research-assistant" class="section level3">
 <h3>Sydney (Belle) Peterson, Undergraduate Research Assistant</h3>
 <table>
 <colgroup>
@@ -542,26 +414,13 @@ class="section level3">
 <tbody>
 <tr class="odd">
 <td align="left"><img src="images/BellePeterson.jpg" /></td>
-<td align="left">Belle Peterson is a junior at the Pennsylvania State
-University from Northern California. She is majoring in Bio-Behavioral
-Health, with minors in Neuroscience and Biology. She is the co-founder
-of an artificial intelligence-based start-up, <a
-href="https://www.apoioclinica.com">Apoio</a>, which focuses on
-improving the intake process for mental health providers and providing
-greater access to care for patients. She is also involved with <a
-href="https://apo.org">Alpha Phi Omega</a> and <a
-href="https://www.ramusa.org">Remote Area Medical</a>, both student-run
-community service groups. Belle plans to attend medical school after
-matriculation to specialize in pediatric and adolescent medicine. In her
-free time, Belle enjoys swimming, baking for her roommates, and
-white-water rafting.</td>
+<td align="left">Belle Peterson is a junior at the Pennsylvania State University from Northern California. She is majoring in Bio-Behavioral Health, with minors in Neuroscience and Biology. She is the co-founder of an artificial intelligence-based start-up, <a href="https://www.apoioclinica.com">Apoio</a>, which focuses on improving the intake process for mental health providers and providing greater access to care for patients. She is also involved with <a href="https://apo.org">Alpha Phi Omega</a> and <a href="https://www.ramusa.org">Remote Area Medical</a>, both student-run community service groups. Belle plans to attend medical school after matriculation to specialize in pediatric and adolescent medicine. In her free time, Belle enjoys swimming, baking for her roommates, and white-water rafting.</td>
 </tr>
 </tbody>
 </table>
 <p></br></p>
 </div>
-<div id="cecelia-petrarca-undergraduate-research-assistant"
-class="section level3">
+<div id="cecelia-petrarca-undergraduate-research-assistant" class="section level3">
 <h3>Cecelia Petrarca, Undergraduate Research Assistant</h3>
 <table>
 <colgroup>
@@ -571,22 +430,7 @@ class="section level3">
 <tbody>
 <tr class="odd">
 <td align="left"><img src="images/CeceliaPetrarca.jpeg" /></td>
-<td align="left">Cecelia Petrarca is a senior at Penn State, originally
-from a small town in Connecticut. She is pursuing a degree in
-Biobehavioral Health, along with a minor in Psychology. She currently
-has a Neuroscience focus, and is looking to be a part of research in
-that field after graduation. In the future she will either be pursuing a
-PhD in Neuroscience or furthering her schooling in the medical field.
-She has been on the dean’s list since her sophomore year, and has
-recently completed a semester abroad. During her time in Italy, she
-participated in a <a
-href="https://isiflorence.org/courses/cep-201-cultural-engagement-practicum-critical-disabilities-studies-inclusive-programs/">Community
-Engagement Practicum</a>, where she worked with the intellectually
-disabled community of Florence, through the LINAR program. She is
-currently working as a Research Assistant for the <a
-href="https://gilmore-lab.github.io/">Gilmore Lab</a> at Penn State. In
-her free time she enjoys lifeguarding, listening to music, traveling,
-and watching movies with her roommates.</td>
+<td align="left">Cecelia Petrarca is a senior at Penn State, originally from a small town in Connecticut. She is pursuing a degree in Biobehavioral Health, along with a minor in Psychology. She currently has a Neuroscience focus, and is looking to be a part of research in that field after graduation. In the future she will either be pursuing a PhD in Neuroscience or furthering her schooling in the medical field. She has been on the dean’s list since her sophomore year, and has recently completed a semester abroad. During her time in Italy, she participated in a <a href="https://isiflorence.org/courses/cep-201-cultural-engagement-practicum-critical-disabilities-studies-inclusive-programs/">Community Engagement Practicum</a>, where she worked with the intellectually disabled community of Florence, through the LINAR program. She is currently working as a Research Assistant for the <a href="https://gilmore-lab.github.io/">Gilmore Lab</a> at Penn State. In her free time she enjoys lifeguarding, listening to music, traveling, and watching movies with her roommates.</td>
 </tr>
 </tbody>
 </table>
@@ -628,20 +472,17 @@ and watching movies with her roommates.</td>
 <li>Auburn Lattanzio, Graduate student, Villanova University</li>
 <li>Michelle Shade</li>
 <li>Sam Pai</li>
-<li>Jun Oh, Apprentice Ruby on Rails Developer, Launch Academy,
-Inc.</li>
+<li>Jun Oh, Apprentice Ruby on Rails Developer, Launch Academy, Inc.</li>
 <li>Amanda Thomas, Ph.D.</li>
 <li>William Adamiak, NIH IRTA</li>
 <li>Shivam Vedak, Medical student</li>
 <li>Dan Elbich, Graduate student, Penn State</li>
 <li>Jeremy Fesi, Ph.D., Research Analyst, U.S. Marine Corps</li>
 <li>Lorena Gonzalez, Graduate student, Penn State</li>
-<li>Ricky Groner, IT Support Specialist, Huck Institutes of the Life
-Sciences, Penn State</li>
+<li>Ricky Groner, IT Support Specialist, Huck Institutes of the Life Sciences, Penn State</li>
 <li>Ken Hwang, Consultant, Anexinet</li>
 <li>Matthew Lee, MBA student, Penn State</li>
-<li>Patricia Jones, Optometry student, Pennsylvania College of
-Optometry</li>
+<li>Patricia Jones, Optometry student, Pennsylvania College of Optometry</li>
 </ul>
 </div>
 </div>

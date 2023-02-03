@@ -45,13 +45,19 @@ For the Spring 2023 Semester, we will meet on Thursdays 8:00-8:50am in room 350 
 
 ### 2/2/2023
 
-- Attending:
+- Attending: Molly, Kayla, Belle, Madison, Cecilia, Oriana, Yiming, Rick, Andrea, Melody, Bowen
+   - Absent: Ysa, Kavya
 
 - Discuss:
+   - Introductions: Melody joined the meeting for the first time
+   - Projects: Create Databrary User Guide [Git](https://github.com/databrary/guide) and Lab Protocols Manual [Git](https://github.com/gilmore-lab/protocols) using Github/RStudio/bookdown
+   - Lab Protocols Manual
+   - Everyone needs GitHub Accounts
+   
    - [Undergraduate Research Jumpstart Program](https://www.psu.edu/news/university-libraries/story/libraries-undergraduate-research-jumpstart-program-seeks-participants/?utm_audience=Combined&utm_source=newswire&utm_medium=email&utm_campaign=Penn%20State%20Today&utm_content=01-31-2023-20-59&utm_term=Announcements%20-%203) - Share with your friends who may be interested in research, but not sure where to start
    - Chapters 1 and 2 of [Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
 
-- Homework:
+- Homework: Complete any outstanding Training. Check Asana!
 
 
 ### 1/26/2023
