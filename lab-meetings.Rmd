@@ -51,16 +51,16 @@ For the Spring 2023 Semester, we will meet on Thursdays 8:00-8:50am in room 350 
 - Discuss:  
   - Work session: bookdown site for all lab protocols
     - Anatomy of using Bookdown files  
-      - .gitignore: don't keep track of the files in this file  
-         protocols.Rproj: this file has information project information specific to your computer  
-      - .Rhistory: history of your files that you have run recently  
+      - `.gitignore`: don't keep track of the files in this file  
+      - `protocols.Rproj`: this file has information project information specific to your computer  
+      - `.Rhistory`: history of your files that you have run recently  
       - folders for resources
-        - imgs/ (eg. jpg, )
-        - pdfs/
-        - docs/ rendered documents
-      index.Rmd: 
-      - README.md: this a descriptive file for how to use this repository
-      anything within a back tick (`)  will appear like `backtick`
+        - `imgs/` (eg. jpg, )
+        - `pdfs/`
+        - `docs/` rendered documents
+      `index.Rmd`: 
+      - `README.md`: this a descriptive file for how to use this repository
+      anything within a back tick (\`)  will appear like `this`
    `.yml` YAML (yet another markup language)
       - renv.lock explains the files required to run in the renv/ folder
       
