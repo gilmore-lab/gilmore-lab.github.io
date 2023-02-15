@@ -43,6 +43,15 @@ For the Spring 2023 Semester, we will meet on Thursdays 8:00-8:50am in room 350 
 
 ## Spring 2023
 
+### 2/16/2023
+
+- Attending:
+
+- Discuss:
+
+- Homework:
+  - Outstanding Training on Asana: Molly and Kayla
+
 ### 2/9/2023
 
 - Attending: Rick, Andrea, Molly, Kayla, Madison, Belle, Cecilia, Bowen, Oriana, Yiming, Melody
@@ -65,11 +74,11 @@ For the Spring 2023 Semester, we will meet on Thursdays 8:00-8:50am in room 350 
       - renv.lock explains the files required to run in the renv/ folder
       
     - render book: 
-    - chunk of code is inbetween three back ticks
+    - chunk of code is in between three back ticks (```)
     
-   ` ```{whatLanguage chunkLabel, paramaters}  
-    package::command(paramaters)  
-    ```  `
+{whatLanguage chunkLabel, paramaters}   
+   package::command(paramaters)    
+
    
 
 - Homework:

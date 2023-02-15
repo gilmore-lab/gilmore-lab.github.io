@@ -4,7 +4,7 @@ pagetitle: publications
 
 ## Books
 
-Gilmore, R.O., & Lockman, J. (eds.) (in press). *New Approaches to Studying Child Development. Advances in Child Development and Behavior (vol. 62)*. Elsevier Press.
+Gilmore, R.O. & Lockman, J.J. (Eds.). (2022). *New Methods and Approaches for Studying Child Development* (Vol. 63). Elsevier Science. 
 
 Johnson, M.H., Munakata, Y., & Gilmore, R.O. (2002). *Brain development and cognition: A reader*, *2nd Ed*. Cambridge: Blackwell.
 
@@ -14,13 +14,13 @@ Soska, K.C., Xu, M., Gonzalez, S.L., Herzberg, O., Tamis-LeMonda, C.S., Gilmore,
 
 Gilmore, R.O., & Qian, Y. (2021). An open developmental science will be more rigorous, robust, and impactful. *Infant and Child Development*. https://doi.org/10.1002/icd.2254.
 
-Qian, Y., Seisler, A.R., & Gilmore, R.O. (in press). Children’s sensitivity to optic flow-like visual motion differs from adults. *Developmental Psychology*.
+Qian, Y., Seisler, A. R., & Gilmore, R. O. (2021). Children's perceptual sensitivity to optic flow-like visual motion differs from adults. *Developmental psychology*, *57*(11), 1810–1821. https://doi.org/10.1037/dev0001227 
 
 Liao, B., Hu, J, & Gilmore, R.O. (2021). Optical flow estimation combining with illumination adjustment and edge refinement in livestock UAV videos. *Computers in Electronics and Agriculture*, *180*, January 2021, 105910. https://doi.org/10.1016/j.compag.2020.105910.
 
 Cuadra, C., Gilmore, R.O., & Latash, M. (2020). Finger force matching and verbal reports: Testing predictions of the Iso-Perceptual Manifold (IPM) concept, *Journal of Motor Behavior*, 1-13. https://doi.org/10.1080/00222895.2020.1813681.
 
-Stoop, T.B., Moriarty, P.M., Wolf, R., Gilmore, R.O.,  Perez-Edgar, K., Scherf, S, Vigeant, M.C., & Cole, P.M. (in press). I know that voice! Mothers' voices influence children's perceptions of emotional intensity. *Journal of Experimental Child Psychology*.
+Stoop, T. B., Moriarty, P. M., Wolf, R., Gilmore, R. O., Perez-Edgar, K., Scherf, K. S., Vigeant, M. C. & Cole, P. M. (2020). I know that voice! Mothers’ voices influence children's perceptions of emotional intensity. *Journal of Experimental Child Psychology*, *199*(104907), 104907. https://doi.org/10.1016/j.jecp.2020.104907
 
 Gilmore, R.O., Cole, P.M., van Aken, M.A.G., Verma S., & Worthman, C.M. (2020). Advancing scientific integrity, transparency, and openness in child development research: Challenges and possible solutions. *Child Development Perspectives*, *14*(1), 9-14. <https://dx.doi.org/10.1111/cdep.12360>
 
@@ -28,7 +28,7 @@ Ossmy O., Gilmore R.O., Adolph K.E. (2020) AutoViDev: A Computer-Vision Framewor
 
 Liu, P., Cole, P.M., Gilmore, R.O., Pérez-Edgar, K.E., Vigeant, M.C., Moriarty, P., Scherf, K.S. (2019). Young children's neural processing of their mother’s voice: An fMRI study, 11-19. *Neuropsychologia*. [doi: 10.1016/j.neuropsychologia.2018.12.003](https://doi.org/10.1016/j.neuropsychologia.2018.12.003).
 
-Gilmore, R. O., Kennedy, J. L., & Adolph, K. E. (2018). Practical Solutions for Sharing Data and Materials From Psychological Research. *Advances in Methods and Practices in Psychological Science*, SAGE Publications Inc. Retrieved from https://doi.org/10.1177/2515245917746500
+Gilmore, R.O., Kennedy, J.L., & Adolph, K.E. (2018). Practical Solutions for Sharing Data and Materials From Psychological Research. *Advances in Methods and Practices in Psychological Science*, SAGE Publications Inc. Retrieved from https://doi.org/10.1177/2515245917746500
 
 Gilmore, R.O. & Adolph, K.E. (2017). Video can make behavioural science more reproducible. *Nature Human Behaviour*. [doi:10.1038/s41562-017-0128](https://doi.org/10.1038/s41562-017-0128).
 
