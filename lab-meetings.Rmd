@@ -45,13 +45,49 @@ For the Spring 2023 Semester, we will meet on Thursdays 8:00-8:50am in room 350 
 
 ### 2/16/2023
 
-- Attending:
+- Attending: Rick, Andrea, Molly, Kayla, Madison, Belle, Cecilia, Bowen, Oriana
+  - Absent Ysa, Kavya  
 
-- Discuss:
+- Discuss:  
+  - all but 1 have R and R Studio Installed  
+  - Everyone has GitHub Accounts  
+  - issue with syncing with GitHub error: "Support for password authentication was removed. Please use a personal access token instead."  
 
-- Homework:
-  - Outstanding Training on Asana: Molly and Kayla
+- Install Github  
 
+  - for mac:  
+  https://www.freecodecamp.org/news/setup-git-on-mac/  
+  `cmd + space` and type `terminal` to open  
+  run command at prompt $ xcode-select --install  
+  
+  - for windows:  
+  https://git-scm.com/download/win  
+  choose the correct version for your computer and run the installer  
+  
+- Connect R with GitHub  
+
+  - Read Chapter 9: https://happygitwithr.com/https-pat.html and try to do this at home  
+  - When R and GitHub are connected
+
+
+- Clone Repository  
+
+  - go to github website
+
+- In RStudio 
+
+  - Make Changes  
+  - render the book using command > bookdown::render_book()  
+  - Save  
+  - commit  
+  - Push once synchronization or R and Git is working  
+
+- Homework:  
+  - create documentation for synchronization R and Git ARS/Rick/Melody  
+  - Outstanding Training on Asana: Molly and Kayla  
+  
+  
+  
 ### 2/9/2023
 
 - Attending: Rick, Andrea, Molly, Kayla, Madison, Belle, Cecilia, Bowen, Oriana, Yiming, Melody
