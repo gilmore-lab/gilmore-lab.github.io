@@ -43,6 +43,24 @@ For the Spring 2023 Semester, we will meet on Thursdays 8:00-8:50am in room 350 
 
 ## Spring 2023
 
+### 2/23/2023
+
+- Attending: Rick, Andrea, Yiming, Oriana, Madison, Bowen, Cecilia
+  - Absent: Molly, Ysa, Kavya
+  - Excused: Belle
+
+- Discuss:
+   - Does everyone have R and R Studio Installed? YES :)
+   - Edit: Protocols repository in R Studio
+      - take off numbering of headers by adding ` {-}` at the end of each header
+      - function takes an input and produces an output. Anything that is given to the function is in parentheses `()` while things that we are looking at are in square brackets `[]`. 
+
+- Homework:   
+  - Everyone pull the protocols repo locally to your R Studio.
+  - Think about and update (if possible) pages with screenshots and descriptive text/links
+      - CITI training: Oriana, Cecilia, Yiming
+      - Yearly Compliance Training: Madison, Kayla, Bowen
+   
 ### 2/16/2023
 
 - Attending: Rick, Andrea, Molly, Kayla, Madison, Belle, Cecilia, Bowen, Oriana
