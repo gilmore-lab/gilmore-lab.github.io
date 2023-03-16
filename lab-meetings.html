@@ -13,7 +13,7 @@
 
 <title>lab-meetings</title>
 
-<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -178,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -187,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -294,18 +287,27 @@ $(document).ready(function () {
 
 <div id="lab-meetings" class="section level1">
 <h1>Lab Meetings</h1>
-<p>For the Spring 2023 Semester, we will meet on Thursdays 8:00-8:50am in room 350 Moore.</p>
+<p>For the Spring 2023 Semester, we will meet on Thursdays 8:00-8:50am
+in room 350 Moore.</p>
 <div id="previous-meeting-notes" class="section level2">
 <h2>Previous meeting notes</h2>
-<p><a href="lab-meetings-previous.html">Notes from previous semesters</a></p>
+<p><a href="lab-meetings-previous.html">Notes from previous
+semesters</a></p>
 </div>
 <div id="helpful-links" class="section level2">
 <h2>Helpful Links</h2>
 <ul>
-<li>Global Protect Instructions for <a href="https://ithelp.ssri.psu.edu/penn-state-vpn-mac">Mac</a> and <a href="https://ithelp.ssri.psu.edu/penn-state-vpn">Windows</a></li>
-<li>Click to login to our <a href="https://rstudio.tlt.psu.edu/s/e40b8122db8f5ab27456f/">R Studio Server space</a></li>
-<li>Click to login to <a href="https://www.datacamp.com/">Datacamp</a></li>
-<li>How to take screen shots for <a href="https://support.apple.com/en-us/HT201361">Mac</a> and <a href="https://www.howtogeek.com/226280/how-to-take-screenshots-in-windows-10/">Windows</a></li>
+<li>Global Protect Instructions for <a
+href="https://ithelp.ssri.psu.edu/penn-state-vpn-mac">Mac</a> and <a
+href="https://ithelp.ssri.psu.edu/penn-state-vpn">Windows</a></li>
+<li>Click to login to our <a
+href="https://rstudio.tlt.psu.edu/s/e40b8122db8f5ab27456f/">R Studio
+Server space</a></li>
+<li>Click to login to <a
+href="https://www.datacamp.com/">Datacamp</a></li>
+<li>How to take screen shots for <a
+href="https://support.apple.com/en-us/HT201361">Mac</a> and <a
+href="https://www.howtogeek.com/226280/how-to-take-screenshots-in-windows-10/">Windows</a></li>
 <li><a href="https://www.databrary.org">Databrary</a></li>
 </ul>
 </div>
@@ -315,12 +317,17 @@ $(document).ready(function () {
 <li>Data science
 <ul>
 <li>Learn R on <a href="https://www.datacamp.com/">Datacamp</a></li>
-<li>Begin by creating or updating your a brief biography for the <a href="https://gilmore-lab.github.io/who-we-are.html">Who we are</a> page on the lab website.</li>
+<li>Begin by creating or updating your a brief biography for the <a
+href="https://gilmore-lab.github.io/who-we-are.html">Who we are</a> page
+on the lab website.</li>
 </ul></li>
 <li>Start preparing for presentations in the Spring
 <ul>
-<li>Train on poster template for R <a href="https://github.com/brentthorne/posterdown">posterdown</a></li>
-<li>Train how to use Databrary API <!-- - Launch new projects --> <!--     - [Development of Motion Sensitivity Meta-analysis](https://github.com/gilmore-lab/motion-metaanalysis) --> <!--     - Visuomotor tracking --></li>
+<li>Train on poster template for R <a
+href="https://github.com/brentthorne/posterdown">posterdown</a></li>
+<li>Train how to use Databrary API <!-- - Launch new projects -->
+<!--     - [Development of Motion Sensitivity Meta-analysis](https://github.com/gilmore-lab/motion-metaanalysis) -->
+<!--     - Visuomotor tracking --></li>
 </ul></li>
 <li>Data Processing/Analysis projects
 <ul>
@@ -331,20 +338,37 @@ $(document).ready(function () {
 </ul></li>
 <li>Submit abstracts for poster presentation:
 <ul>
-<li><a href="https://urfm.psu.edu/programs/undergraduate-exhibition#paragraphs-id-114">Undergraduate Research Exhibition</a></li>
-<li><a href="https://sites.psu.edu/psichi/research-conference-2/">Psi Chi Research Conference</a></li>
+<li><a
+href="https://urfm.psu.edu/programs/undergraduate-exhibition#paragraphs-id-114">Undergraduate
+Research Exhibition</a></li>
+<li><a href="https://sites.psu.edu/psichi/research-conference-2/">Psi
+Chi Research Conference</a></li>
 </ul></li>
 <li>Future readings:
 <ul>
 <li>Yiming’s PhD paper and paper reviews</li>
 </ul></li>
 </ul>
-<p><a href="https://gilmore-lab.github.io/protocols/psych-494-syllabus.html">Psych 494 Syllabus</a></p>
+<p><a
+href="https://gilmore-lab.github.io/protocols/psych-494-syllabus.html">Psych
+494 Syllabus</a></p>
 </div>
 <div id="spring-2023" class="section level2">
 <h2>Spring 2023</h2>
 <div id="moore" class="section level3">
+<h3>3/23/2023 350 Moore</h3>
+</div>
+<div id="moore-1" class="section level3">
 <h3>3/16/2023 350 Moore</h3>
+<ul>
+<li><p>Attending: Rick, Madison, Oriana, Kayla, Belle, Cecilia</p>
+<ul>
+<li>Absent: Ysa, Kavya</li>
+<li>Excused: Andrea, Yiming, Bowen</li>
+</ul></li>
+<li><p>Discuss:</p></li>
+<li><p>Homework:</p></li>
+</ul>
 </div>
 <div id="spring-break" class="section level3">
 <h3>3/9/2023 Spring Break</h3>
@@ -365,14 +389,18 @@ $(document).ready(function () {
 <li>Does everyone have R and R Studio Installed? YES :)</li>
 <li>Edit: Protocols repository in R Studio
 <ul>
-<li>take off numbering of headers by adding <code>{-}</code> at the end of each header</li>
-<li>function takes an input and produces an output. Anything that is given to the function is in parentheses <code>()</code> while things that we are looking at are in square brackets <code>[]</code>.</li>
+<li>take off numbering of headers by adding <code>{-}</code> at the end
+of each header</li>
+<li>function takes an input and produces an output. Anything that is
+given to the function is in parentheses <code>()</code> while things
+that we are looking at are in square brackets <code>[]</code>.</li>
 </ul></li>
 </ul></li>
 <li>Homework:
 <ul>
 <li>Everyone pull the protocols repo locally to your R Studio.</li>
-<li>Think about and update (if possible) pages with screenshots and descriptive text/links
+<li>Think about and update (if possible) pages with screenshots and
+descriptive text/links
 <ul>
 <li>CITI training: Oriana, Cecilia, Yiming</li>
 <li>Yearly Compliance Training: Madison, Kayla, Bowen</li>
@@ -383,7 +411,8 @@ $(document).ready(function () {
 <div id="section-1" class="section level3">
 <h3>2/16/2023</h3>
 <ul>
-<li><p>Attending: Rick, Andrea, Molly, Kayla, Madison, Belle, Cecilia, Bowen, Oriana</p>
+<li><p>Attending: Rick, Andrea, Molly, Kayla, Madison, Belle, Cecilia,
+Bowen, Oriana</p>
 <ul>
 <li>Absent Ysa, Kavya</li>
 </ul></li>
@@ -393,21 +422,28 @@ $(document).ready(function () {
 </li>
 <li>Everyone has GitHub Accounts<br />
 </li>
-<li>issue with syncing with GitHub error: “Support for password authentication was removed. Please use a personal access token instead.”</li>
+<li>issue with syncing with GitHub error: “Support for password
+authentication was removed. Please use a personal access token
+instead.”</li>
 </ul></li>
 <li><p>Install Github</p>
 <ul>
 <li><p>for mac:<br />
-<a href="https://www.freecodecamp.org/news/setup-git-on-mac/" class="uri">https://www.freecodecamp.org/news/setup-git-on-mac/</a><br />
+<a href="https://www.freecodecamp.org/news/setup-git-on-mac/"
+class="uri">https://www.freecodecamp.org/news/setup-git-on-mac/</a><br />
 <code>cmd + space</code> and type <code>terminal</code> to open<br />
 run command at prompt $ xcode-select –install</p></li>
 <li><p>for windows:<br />
-<a href="https://git-scm.com/download/win" class="uri">https://git-scm.com/download/win</a><br />
-choose the correct version for your computer and run the installer</p></li>
+<a href="https://git-scm.com/download/win"
+class="uri">https://git-scm.com/download/win</a><br />
+choose the correct version for your computer and run the
+installer</p></li>
 </ul></li>
 <li><p>Connect R with GitHub</p>
 <ul>
-<li>Read Chapter 9: <a href="https://happygitwithr.com/https-pat.html" class="uri">https://happygitwithr.com/https-pat.html</a> and try to do this at home<br />
+<li>Read Chapter 9: <a href="https://happygitwithr.com/https-pat.html"
+class="uri">https://happygitwithr.com/https-pat.html</a> and try to do
+this at home<br />
 </li>
 <li>When R and GitHub are connected</li>
 </ul></li>
@@ -429,7 +465,8 @@ choose the correct version for your computer and run the installer</p></li>
 </ul></li>
 <li><p>Homework:</p>
 <ul>
-<li>create documentation for synchronization R and Git ARS/Rick/Melody<br />
+<li>create documentation for synchronization R and Git
+ARS/Rick/Melody<br />
 </li>
 <li>Outstanding Training on Asana: Molly and Kayla</li>
 </ul></li>
@@ -438,7 +475,8 @@ choose the correct version for your computer and run the installer</p></li>
 <div id="section-2" class="section level3">
 <h3>2/9/2023</h3>
 <ul>
-<li>Attending: Rick, Andrea, Molly, Kayla, Madison, Belle, Cecilia, Bowen, Oriana, Yiming, Melody
+<li>Attending: Rick, Andrea, Molly, Kayla, Madison, Belle, Cecilia,
+Bowen, Oriana, Yiming, Melody
 <ul>
 <li>Absent: Ysa, Kavya</li>
 </ul></li>
@@ -448,11 +486,14 @@ choose the correct version for your computer and run the installer</p></li>
 <ul>
 <li>Anatomy of using Bookdown files
 <ul>
-<li><code>.gitignore</code>: don’t keep track of the files in this file<br />
+<li><code>.gitignore</code>: don’t keep track of the files in this
+file<br />
 </li>
-<li><code>protocols.Rproj</code>: this file has information project information specific to your computer<br />
+<li><code>protocols.Rproj</code>: this file has information project
+information specific to your computer<br />
 </li>
-<li><code>.Rhistory</code>: history of your files that you have run recently<br />
+<li><code>.Rhistory</code>: history of your files that you have run
+recently<br />
 </li>
 <li>folders for resources
 <ul>
@@ -460,8 +501,12 @@ choose the correct version for your computer and run the installer</p></li>
 <li><code>pdfs/</code></li>
 <li><code>docs/</code> rendered documents <code>index.Rmd</code>:</li>
 </ul></li>
-<li><code>README.md</code>: this a descriptive file for how to use this repository anything within a back tick (`) will appear like <code>this</code> <code>.yml</code> YAML (yet another markup language)</li>
-<li>renv.lock explains the files required to run in the renv/ folder</li>
+<li><code>README.md</code>: this a descriptive file for how to use this
+repository anything within a back tick (`) will appear like
+<code>this</code> <code>.yml</code> YAML (yet another markup
+language)</li>
+<li>renv.lock explains the files required to run in the renv/
+folder</li>
 </ul></li>
 <li>render book:</li>
 <li>chunk of code is in between three back ticks (```)</li>
@@ -474,25 +519,36 @@ package::command(paramaters)</p>
 <li>Homework:
 <ul>
 <li>Complete any training assigned via Asana</li>
-<li>What theme do we want for bookdown? bookdown:: bs4_book is used currently</li>
+<li>What theme do we want for bookdown? bookdown:: bs4_book is used
+currently</li>
 </ul></li>
 </ul>
 </div>
 <div id="section-3" class="section level3">
 <h3>2/2/2023</h3>
 <ul>
-<li>Attending: Molly, Kayla, Belle, Madison, Cecilia, Oriana, Yiming, Rick, Andrea, Melody, Bowen
+<li>Attending: Molly, Kayla, Belle, Madison, Cecilia, Oriana, Yiming,
+Rick, Andrea, Melody, Bowen
 <ul>
 <li>Absent: Ysa, Kavya</li>
 </ul></li>
 <li>Discuss:
 <ul>
-<li><p>Introductions: Melody joined the meeting for the first time</p></li>
-<li><p>Projects: Create Databrary User Guide <a href="https://github.com/databrary/guide">Git</a> and Lab Protocols Manual <a href="https://github.com/gilmore-lab/protocols">Git</a> using Github/RStudio/bookdown</p></li>
+<li><p>Introductions: Melody joined the meeting for the first
+time</p></li>
+<li><p>Projects: Create Databrary User Guide <a
+href="https://github.com/databrary/guide">Git</a> and Lab Protocols
+Manual <a href="https://github.com/gilmore-lab/protocols">Git</a> using
+Github/RStudio/bookdown</p></li>
 <li><p>Lab Protocols Manual</p></li>
 <li><p>Everyone needs GitHub Accounts</p></li>
-<li><p><a href="https://www.psu.edu/news/university-libraries/story/libraries-undergraduate-research-jumpstart-program-seeks-participants/?utm_audience=Combined&amp;utm_source=newswire&amp;utm_medium=email&amp;utm_campaign=Penn%20State%20Today&amp;utm_content=01-31-2023-20-59&amp;utm_term=Announcements%20-%203">Undergraduate Research Jumpstart Program</a> - Share with your friends who may be interested in research, but not sure where to start</p></li>
-<li><p>Chapters 1 and 2 of <a href="https://bookdown.org/yihui/bookdown/">Authoring Books and Technical Documents with R Markdown</a></p></li>
+<li><p><a
+href="https://www.psu.edu/news/university-libraries/story/libraries-undergraduate-research-jumpstart-program-seeks-participants/?utm_audience=Combined&amp;utm_source=newswire&amp;utm_medium=email&amp;utm_campaign=Penn%20State%20Today&amp;utm_content=01-31-2023-20-59&amp;utm_term=Announcements%20-%203">Undergraduate
+Research Jumpstart Program</a> - Share with your friends who may be
+interested in research, but not sure where to start</p></li>
+<li><p>Chapters 1 and 2 of <a
+href="https://bookdown.org/yihui/bookdown/">Authoring Books and
+Technical Documents with R Markdown</a></p></li>
 </ul></li>
 <li>Homework: Complete any outstanding Training. Check Asana!</li>
 </ul>
@@ -500,7 +556,8 @@ package::command(paramaters)</p>
 <div id="section-4" class="section level3">
 <h3>1/26/2023</h3>
 <ul>
-<li>Attending: Rick, Andrea, Bowen, Kayla, Belle, Cecilia, Madison, Oriana, Yiming
+<li>Attending: Rick, Andrea, Bowen, Kayla, Belle, Cecilia, Madison,
+Oriana, Yiming
 <ul>
 <li>Excused: Ysa, Molly</li>
 <li>Kavya</li>
@@ -509,10 +566,12 @@ package::command(paramaters)</p>
 <ul>
 <li>What is R and RStudio?</li>
 <li>What is <a href="https://bookdown.org/">Bookdown</a>?</li>
-<li><a href="https://github.com/penn-state-open-science/roadmap">Penn State Open Science</a>
+<li><a href="https://github.com/penn-state-open-science/roadmap">Penn
+State Open Science</a>
 <ul>
 <li>complete IRB protocol</li>
-<li><a href="https://play-behaviorome.github.io./protocol/">PLAY Behaviorome</a>
+<li><a href="https://play-behaviorome.github.io./protocol/">PLAY
+Behaviorome</a>
 <ul>
 <li>how to run the study</li>
 <li>recruitment data for entire PLAY project to date</li>
@@ -521,7 +580,9 @@ package::command(paramaters)</p>
 </ul></li>
 <li>Homework:
 <ul>
-<li>Read Chapters 1 and 2 of <a href="https://bookdown.org/yihui/bookdown/">Authoring Books and Technical Documents with R Markdown</a></li>
+<li>Read Chapters 1 and 2 of <a
+href="https://bookdown.org/yihui/bookdown/">Authoring Books and
+Technical Documents with R Markdown</a></li>
 <li>Check Asana Tasks Weekly</li>
 <li>The following students have training to take or retake:
 <ul>
@@ -543,7 +604,8 @@ package::command(paramaters)</p>
 <div id="section-5" class="section level3">
 <h3>1/19/2023</h3>
 <ul>
-<li>Attending: Rick, Andrea, Yiming, Molly, Bowen, Kayla, Ysa, Belle, Cecilia, Oriana, Madison
+<li>Attending: Rick, Andrea, Yiming, Molly, Bowen, Kayla, Ysa, Belle,
+Cecilia, Oriana, Madison
 <ul>
 <li>Excused: Kavya</li>
 </ul></li>
@@ -557,7 +619,8 @@ package::command(paramaters)</p>
 </ul></li>
 <li>Homework:
 <ul>
-<li>Work on any training assigned via Asana. We will discuss next week if there are any problems.</li>
+<li>Work on any training assigned via Asana. We will discuss next week
+if there are any problems.</li>
 </ul></li>
 </ul>
 </div>
