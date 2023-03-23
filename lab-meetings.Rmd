@@ -44,6 +44,19 @@ For the Spring 2023 Semester, we will meet on Thursdays 8:00-8:50am in room 350 
 ## Spring 2023
 
 ### 3/23/2023 350 Moore
+- Attending: Rick, Andrea, Kayla, Madison, Belle, Cecilia, Melody, Bowen, Yiming
+  - Excused: Oriana, Kavya, Ysa
+  - Absent: Molly
+  
+- Discuss: 
+  - Best way to merge work from multiple people - we think push to master
+  - how to show a code chunk without running code
+
+- Homework:
+  - ARS - add link to location in book down that shows how to show code chunk
+  - change global options for saving  -ARS emailed ROG
+  
+  - Everyone keep working on sections for protocols. Push changes to master branch
 
 ### 3/16/2023 350 Moore
 - Attending: Rick, Madison, Oriana, Kayla, Belle, Cecilia
