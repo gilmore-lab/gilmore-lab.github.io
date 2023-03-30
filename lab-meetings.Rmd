@@ -43,6 +43,26 @@ For the Spring 2023 Semester, we will meet on Thursdays 8:00-8:50am in room 350 
 
 ## Spring 2023
 
+### 3/30/2023 350 Moore
+- Attending: Rick, Andrea, Yinming, Oriana, Cecilia, Belle, Madison, Belle, Molly
+  - Excused: Kayla, Kavya, Melody
+  - Absent: Ysa
+
+- Discuss:
+  - Tips and Tricks for R on http://gilmore-lab.github.io/protocols/tricks-and-tips.html
+  - Tester for Annual Compliance Training began evaluation 
+  
+- Protocols Project 
+  - on Github: https://github.com/gilmore-lab/protocols
+  - live site: http://gilmore-lab.github.io/protocols/
+
+- Homework:
+  - Belle - complete evaluation of Annual Compliance Training began evaluation 
+
+- Project Teams:
+  - Bowen, Madison, Belle: Annual Compliance Training
+  - Oriana, Yiming, Cecilia, Molly: CITI Training
+  
 ### 3/23/2023 350 Moore
 - Attending: Rick, Andrea, Kayla, Madison, Belle, Cecilia, Melody, Bowen, Yiming
   - Excused: Oriana, Kavya, Ysa
