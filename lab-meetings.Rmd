@@ -43,8 +43,31 @@ For the Spring 2023 Semester, we will meet on Thursdays 8:00-8:50am in room 350 
 
 ## Spring 2023
 
+### 4/6/2023 350 Moore
+- Attending: Rick, Andrea, Yiming, Kalya, Bowen, Alex
+  - Excused: Molly, Oriana, Madison, Kavya, Belle, Cecelia
+  - Absent: Ysa
+
+- Discuss:
+  - [Ham Radio Book](https://k3cr.github.io/newhambook/)
+    - Alex tested some of the activities in chapter 3 Hands on Hamming.
+  - Motion Sensitivity Paper Study
+    - What is development of infants visual acuity - Teller Acuity Cards
+    - Create database/metaanalysis/data aggregation of Teller Acuity Card results over time
+    
+  - [Open Science Bootcamp 2023 Book](https://penn-state-open-science.github.io/bootcamp-2023/)
+- Homework:
+  - ARS: Find Teller Acuity Card info for Gilmore Lab
+  - ARS: Schedule final meeting
+  - Look up "Teller Acuity Cards" if you have time.
+  
+- Next Week:
+  - Live literature search
+  - work on protocol
+  
+  
 ### 3/30/2023 350 Moore
-- Attending: Rick, Andrea, Yinming, Oriana, Cecilia, Belle, Madison, Belle, Molly
+- Attending: Rick, Andrea, Yiming, Oriana, Cecilia, Belle, Madison, Belle, Molly
   - Excused: Kayla, Kavya, Melody
   - Absent: Ysa
 
