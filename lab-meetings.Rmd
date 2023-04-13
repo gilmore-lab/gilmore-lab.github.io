@@ -43,9 +43,30 @@ For the Spring 2023 Semester, we will meet on Thursdays 8:00-8:50am in room 350 
 
 ## Spring 2023
 
+### 5/4/2023 Lab Breakfast @ Waffle Shop 
+
+### 4/27/2023 350 Moore
+
+### 4/20/2023 NO MEETING
+
+### 4/13/2023 350 Moore
+- Attending: Rick, Andrea, Kayla, Bowen, Cecelia, Belle, Madison, Oriana, Yiming, Ysa
+  - Excused: Kavya, Melody
+  - Absent: Molly
+  
+- Discuss:
+  - How to create a new project on Git and clone repository in RStudio
+  - Next Project is Visual Acuity - Teller Acuity Cards
+  - Work on setting up Bookdown for Visual Acuity project
+  - easier to copy from another repository and alter them for new project
+    - need files: _bookdown.yml, _output.yml, and index.Rmd
+    - set up files and directories in visual-acuity-project folder
+    - generate book
+    - set up webpage 
+  
 ### 4/6/2023 350 Moore
-- Attending: Rick, Andrea, Yiming, Kalya, Bowen, Alex
-  - Excused: Molly, Oriana, Madison, Kavya, Belle, Cecelia
+- Attending: Rick, Andrea, Yiming, Kayla, Bowen, Alex
+  - Excused: Molly, Oriana, Madison, Kavya, Belle, Cecelia, Melody
   - Absent: Ysa
 
 - Discuss:
