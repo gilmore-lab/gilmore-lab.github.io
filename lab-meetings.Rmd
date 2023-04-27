@@ -46,6 +46,22 @@ For the Spring 2023 Semester, we will meet on Thursdays 8:00-8:50am in room 350 
 ### 5/4/2023 Lab Breakfast @ Waffle Shop 
 
 ### 4/27/2023 350 Moore
+- Attending: Rick, Andrea, Cecelia, Belle, Madison, Oriana, Yiming
+  - Excused: Kayla
+  - Absent: Molly, Bowen, Ysa
+- Discuss
+  - How relevant is Rmarkdown in other classes? not so much, but maybe in the future
+  
+  - protocols book
+    - Create instructions for: Github, data camp, rstudio and some other missing sections
+    - fix image size and box formatting
+  - should we switch to outlook calendar or stay with google calendar
+  - most don't use teams so stay with Discord
+  - look at [Play Project Surveys](https://play-behaviorome.github.io/KoBoToolbox/visualizations.html)
+  
+- To Do:
+  - ARS - create Datacamp plan for lab next semester and add to lab meeting agendas
+  
 
 ### 4/20/2023 NO MEETING
 
