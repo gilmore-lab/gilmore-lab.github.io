@@ -5,7 +5,7 @@ pagetitle: who-we-are
 
 The Brain and Behavioral Dynamics Lab, part of the [Psychology Department](https://psych.la.psu.edu) at Penn State, is looking for research assistants to study brain development in infants, children, and adolescents for **Fall 2023**. 
 You can earn research project (PSY 494) credit or work study funds, and learn video, computer, and communication skills. Prior research experience and computer skills are a plus, but aren't required. 
-We are especially interested in students who have morning availability, computer skills, or are interested in developing skills in advertising, marketing, or public relations. You may apply by completing an [application](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform). **For Fall 2023 we are accepting students that can be with the lab for MORE than one year. Spots for Seniors are FULL**
+We are especially interested in students who have morning availability, computer skills, or are interested in developing skills in advertising, marketing, or public relations. You may apply by completing an [application](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform). **For Fall 2023 all spots for Juniors and Seniors are FULL**
 
 ## Lab Director
 
@@ -45,7 +45,7 @@ Andrea R. Seisler is the Laboratory Manager of the Brain and Behavioral Developm
 
 She completed MRI based neuroscience and orthopedics research while working at [The National Institutes of Health](https://www.nih.gov/) from 2001-2007. After her move to State College, she served as an IRB Compliance Coordinator for the [Office for Research Protections](https://www.research.psu.edu/orp/humans) at Penn State and then moved on in 2009 to manage the Human Electrophysiology Facility located at the [Social, Life, and Enginineering Sciences Imaging Center](https://www.imaging.psu.edu/) through 2014. 
 
-She is active in Scouts BSA as a Committee Member in [Troop 245](https://www.olvcatholicschool.org/Page/804) and an Executive Board Member of the [Juniata Valley Council, BSA](http://www.jvcbsa.org/about-us/council-leadership/18280). She completed her [Wood Badge](http://woodbadge.org/) leadership training course in September 2020. Now she is staffing the Wood Badge and [National Youth Leadership Training](https://www.ncacbsa.org/national-youth-leadership-training/) programs. In addition she enjoys dancing ballet and teaching at [Dance Academy](https://www.dancesc.com/).
+She is active in Scouts BSA as a Committee Member in [Troop 245](https://www.olvcatholicschool.org/Page/804) and an Executive Board Member of the [Juniata Valley Council, BSA](http://www.jvcbsa.org/about-us/council-leadership/18280). She completed her [Wood Badge](http://woodbadge.org/) leadership training course in September 2020 and was a Troop Guide on staff in the Spring of 2022. She has been the Assistant Scoutmaster of Administration for [National Youth Leadership Training](https://www.ncacbsa.org/national-youth-leadership-training/) since 2021. In addition she enjoys dancing ballet and teaching at [Dance Academy](https://www.dancesc.com/).
 
 #### Contact Information
 
@@ -55,19 +55,18 @@ The Pennsylvania State University<br/>
 University Park, PA 16802<br/>
 ars17 AT-SIGN psu DOT edu</p>
 
-### Yiming Qian, Graduate Student
-
-Yiming is a graduate student in the Department of Psychology at PSU. Her research interest is exploring the development of brain networks from early childhood to adulthood, using multimodal neuroimaging tools. She is also interested in the mechanism of visual motion. Here is her [schedule](https://rstudio-connect.tlt.psu.edu:3939/content/22/projects_scheme.html) for the current research projects.
-
-Besides research activities, Yiming enjoys reading, cooking, gardening, hiking and fishing. She is a big fan of operas and musicals.
 
 ### Molly Askin, Undergraduate Research Assistant
 
 Molly Askin is a junior at the Pennsylvania State University and is from New Jersey. She is majoring in Psychology with the Neuroscience option with a minor in neuroscience. She is involved in campus through Greek life in her sorority [Alpha Xi Delta](https://www.alphaxidelta.org/). She is also involved in [THON](https://thon.org/) as an assistant THON chair which consists of helping with anything the other THON chairs need help with as well as helping to raise money for THON. She is interested in pursuing her education further and eventually getting her PhD in neuropsychology with hopes to eventually study patients with Alzheimer’s and dementia. 
 
+### Bruna Baldivieso, Undergraduate Research Assistant
+
 ### Brianna Beamer, Undergraduate Research Assistant
 
-### Julia DiFulvio, Unergraduate Research Assistant
+### Julia DiFulvio, Undergraduate Research Assistant
+
+### Clara Eroles, Undergraduate Research Assistant
 
 ### Ysa Fernandez, Undergraduate Research Assistant
 <!-- image width = 175px  -->
@@ -89,6 +88,8 @@ Molly Askin is a junior at the Pennsylvania State University and is from New Jer
 |![](images/MadisonGehringer.jpg) | Madison Gehringer is a junior at Penn State pursuing an undergraduate degree in psychology with a focus in neuroscience as well as a minor in biology. She is a member of the National Society of Leadership and Success at Penn State. Madison is interested in studying brain damage and mental illness, her interest in the brain led her to become apart of Dr. Gilmore's lab. In her free time she enjoys baking, drawing and listening to music. Madison is an avid animal lover and when she is not at Penn State she works as an animal technician at the [Montgomery County SPCA](https://montgomerycountyspca.org/) Perkiomenville location.|
 </br>
 
+### Peter Huang, Undergraduate Research Assistant
+
 ### Yinghe Liu, Undergraduate Research Assistant
 
 ### Sydney (Belle) Peterson, Undergraduate Research Assistant  
@@ -100,6 +101,7 @@ Molly Askin is a junior at the Pennsylvania State University and is from New Jer
 
 ## Recent Alumni
 
+- Yiming Qian
 - Cecelia Petrarca
 - Kayla Moninger
 - Kavya Jhaveri
