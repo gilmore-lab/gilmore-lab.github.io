@@ -4,7 +4,7 @@ pagetitle: lab-meetings
 
 # Lab Meetings
 
-For the Fall 2023 Semester, we will meet on Tusedays 8:00-8:50am in room XXX Moore.
+For the Fall 2023 Semester, we will meet on Tusedays 8:00-8:50am in room 350 Moore.
 
 ## Previous meeting notes
 
@@ -42,4 +42,7 @@ For the Fall 2023 Semester, we will meet on Tusedays 8:00-8:50am in room XXX Moo
 [Psych 494 Syllabus](https://gilmore-lab.github.io/protocols/psych-494-syllabus.html) 
 
 ## Fall 2023
+
+### Tuesday 8/29/2023 350 Moore
+
 
