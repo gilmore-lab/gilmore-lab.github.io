@@ -13,22 +13,36 @@
 
 <title>home</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.24/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -41,32 +55,8 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
+
 
 
 
@@ -76,10 +66,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -96,40 +82,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 51px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -157,7 +119,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -169,7 +131,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -179,11 +141,28 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.parent().addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -195,13 +174,12 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -209,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -262,7 +233,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -306,7 +277,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -314,22 +285,30 @@ $(document).ready(function () {
 </div>
 
 
-<p><img src="images/fesi-2014.jpg"><img src="images/optic-flow.jpg"> <img src="images/lab-logo.png"></p>
+<p><img src="images/fesi-2014.jpg"><img src="images/optic-flow.jpg">
+<img src="images/lab-logo.png"></p>
 <div id="rick-gilmores-lab-penn-state" class="section level1">
 <h1>Rick Gilmore’s Lab @ Penn State</h1>
-<p>The Gilmore Lab in the <a href="http://psych.la.psu.edu">Psychology Department</a> at <a href="http://www.psu.edu">Penn State</a> studies the development of perception, action, and memory. Our goal is to understand patterns of brain and behavioral change in infants, children, and young adults. We use behavioral, EEG, MRI, and computational modeling methods in our research. We also advocate for and try to demonstrate open science practices in our work.</p>
+<p>The Gilmore Lab in the <a href="https://psych.la.psu.edu">Psychology
+Department</a> at <a href="https://www.psu.edu">Penn State</a> studies
+the development of perception, action, and memory. Our goal is to
+understand patterns of brain and behavioral change in infants, children,
+and young adults. We use behavioral, EEG, MRI, and computational
+modeling methods in our research. We also advocate for and try to
+demonstrate open science practices in our work.</p>
 <!-- ## Active Projects -->
 <!-- We have several active projects related to visual perception and open science that are described [here](research.html). You can also get a taste of what we do by visiting the <a href="https://databrary.org">Databrary</a> digital data library, specifically the page devoted to <a href="https://databrary.org/party/6">our research</a>. -->
-<!-- During the Spring 2019 semester, we are focusing on improving our collective data science chops thanks to the support of online training offered by  -->
-<!-- <img src="https://pbs.twimg.com/profile_images/883047035758313472/UM0JK6WN_400x400.jpg" height=75px width=50px> -->
-<!-- [**DataCamp**](http://www.datacamp.com). Thanks, DataCamp! -->
 <div id="contact-information" class="section level2">
 <h2>Contact Information</h2>
-<p>Dr. <a href="https://psych.la.psu.edu/directory/rog1">Rick Gilmore</a>, Professor of Psychology, (<a href="mailto:rogilmore@psu.edu">rogilmore@psu.edu</a>; 814-865-3664; 114 Moore Building) directs the lab.</p>
-<p><a href="mailto:ars17@psu.edu">Andrea Seisler</a> is the Lab Manager.</p>
+<p>Dr. <a href="https://psych.la.psu.edu/directory/rog1">Rick
+Gilmore</a>, Professor of Psychology, (<a
+href="mailto:rogilmore@psu.edu">rogilmore@psu.edu</a>; 814-865-3664; 114
+Moore Building) directs the lab.</p>
+<p><a href="mailto:ars17@psu.edu">Andrea Seisler</a> is the Lab
+Manager.</p>
 <!-- ## Testing Sites -->
 <!-- We have two testing sites.  -->
-<!-- ### 449 Moore -->
+<!-- ### 503 Moore -->
 <!-- <p>Department of Psychology</br> -->
 <!-- The Pennsylvania State University</br> -->
 <!-- University Park, PA 16802</br> -->
@@ -339,47 +318,56 @@ $(document).ready(function () {
 <!-- Parking for studies at the Moore Building can be found in the Nittany Lion Parking Deck. -->
 <!-- ### 120 Chandlee -->
 <!-- <p>Human Electrophysiology Facility</br> -->
-<!-- [Social, Life, & Engineering Sciences Imaging Center (SLEIC)](http://imaging.psu.edu)</br> -->
+<!-- [Social, Life, & Engineering Sciences Imaging Center (SLEIC)](https://imaging.psu.edu)</br> -->
 <!-- University Park, PA 16802</br> -->
 <!-- </p> -->
 <!-- Parking for studies at Chandlee can be found near the building. Our research staff will provide full instructions when we schedule a visit. -->
 </div>
 <div id="for-students" class="section level2">
 <h2><a href="who-we-are.html">For Students</a></h2>
-<p>The lab employs an active and engaged group of undergraduate and graduate research assistants. If you are a Penn State undergraduate student and wish to be considered for a position in the lab, complete an online application <a href="https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform">here</a>. If you are a prospective graduate student, contact Dr. Gilmore by email. For more information about current students and alumni, see the <a href="who-we-are.html">student page</a>.</p>
+<p>The lab employs an active and engaged group of undergraduate and
+graduate research assistants. If you are a Penn State undergraduate
+student and wish to be considered for a position in the lab, complete an
+online application <a
+href="https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform">here</a>.
+<strong>We are FULL for Fall 2023 and Spring 2024</strong></p>
+<p>If you are a prospective graduate student, contact Dr. Gilmore by
+email. For more information about current students and alumni, see the
+<a href="who-we-are.html">student page</a>.</p>
 </div>
 <div id="for-parents" class="section level2">
 <h2><a href="parents.html">For Parents</a></h2>
-<p>Much of our research involves testing infants and young children. To sign-up for a study or learn more about what a visit entails please follow <a href="parents.html">this link</a>.</p>
-</div>
-<div id="news" class="section level2">
-<h2>News</h2>
-<center>
-<h3>
-<a href="http://sites.psu.edu/psichi/">PSI CHI</a> RESEARCH CONFERENCE!
-</h3>
-<p>Congratulations to our Undergraduate Research Assistants for presenting their posters during the annual Psi Chi Research Conference!</p>
-<h4>
-Psi Chi 2019 Presenters
-</h4>
-<p>Sarah Shahriar presented her poster <a href="https://github.com/gilmore-lab/psi-chi-2019/blob/master/crawling-mode_files/Psi_Chi_Sarah_2019.pdf">On the move: A study on gait style and preference in early infancy</a></p>
-<p><img src="images/2019PsiChiSarahShahriar_250x.jpg"></p>
-<p>Zhichun Zhao and Ashton Dluzneski presented the poster they worked on with Sandy Rayes: <a href="https://github.com/gilmore-lab/psi-chi-2019/blob/master/object-play_files/Psi_Chi_ASZ_2019.pdf">Motor Development in Early Childhood</a>.</p>
-<p><img src="images/2019PsiChiZhichun-Ashton_250x.jpg"></p>
-<h4>
-Psi Chi 2018 Presenters
-</h4>
-<p>Alyssa Pandos presented her poster <a href="https://github.com/gilmore-lab/infant-moco-eeg/blob/master/pubs/psi-chi-2018-poster/pandos-gilmore-seisler-psichi-2018.pdf">Infant brain responses differentiate between optic flow patterns and motion speeds</a>.</p>
-<p>2<sup>nd</sup> Place Empirical Research Category</p>
-<p><img src="images/2018PsiChiAlyssaPandos.jpg"></p>
-<p>Charmi Mehta presented her poster <a href="https://github.com/gilmore-lab/brain-behavior-data/blob/master/pubs/psi-chi-2018/mehta-psi-chi-2018.pdf">Reanalyzing Shared Data about Brains and Behavior</a>.</p>
-<img src="images/2018PsiChiCharmiMehta.jpg">&quot;
-</center>
+<p>Much of our research involves testing infants and young children. To
+sign-up for a study or learn more about what a visit entails please
+follow <a href="parents.html">this link</a>.</p>
+<!-- ## News -->
+<!-- <center> -->
+<!-- <h3>[PSI CHI](https://sites.psu.edu/psichi/) RESEARCH CONFERENCE!</h3> -->
+<!-- Congratulations to our Undergraduate Research Assistants for presenting their posters during the annual Psi Chi Research Conference!   -->
+<!-- <h4>Psi Chi 2019 Presenters</h4> -->
+<!-- Sarah Shahriar presented her poster [On the move: A study on gait style and preference in early infancy](https://github.com/gilmore-lab/psi-chi-2019/blob/master/crawling-mode_files/Psi_Chi_Sarah_2019.pdf) -->
+<!-- <img src="images/2019PsiChiSarahShahriar_122x.jpg" width="122"> -->
+<!-- Zhichun Zhao and Ashton Dluzneski presented the poster they worked on with Sandy Rayes: [Motor Development in Early Childhood](https://github.com/gilmore-lab/psi-chi-2019/blob/master/object-play_files/Psi_Chi_ASZ_2019.pdf). -->
+<!-- <img src="images/2019PsiChiZhichun-Ashton_122x.jpg" width="122"> -->
+<!-- <h4>Psi Chi 2018 Presenters</h4> -->
+<!-- Alyssa Pandos presented her poster [Infant brain responses differentiate between optic flow patterns and motion speeds](https://github.com/gilmore-lab/infant-moco-eeg/blob/master/pubs/psi-chi-2018-poster/pandos-gilmore-seisler-psichi-2018.pdf).   -->
+<!-- 2<sup>nd</sup> Place Empirical Research Category    -->
+<!-- <img src="images/2018PsiChiAlyssaPandos_122x.jpg" width="122">  -->
+<!-- Charmi Mehta presented her poster [Reanalyzing Shared Data about Brains and Behavior](https://github.com/gilmore-lab/brain-behavior-data/blob/master/pubs/psi-chi-2018/mehta-psi-chi-2018.pdf).  -->
+<!-- <img src="images/2018PsiChiCharmiMehta_122x.jpg" width="122"> -->
+<!-- </center> -->
 </div>
 <div id="datacamp" class="section level2">
 <h2>DataCamp</h2>
-<p>Most students who work as research assistants in the lab do so for PSY 494 course credit.</p>
-<p>This class is supported by DataCamp, an intuitive learning platform for data science. Learn R, Python and SQL the way you learn best through a combination of short expert videos and hands-on-the-keyboard exercises. Take over 100+ courses by expert instructors on topics such as importing data, data visualization or machine learning and learn faster through immediate and personalised feedback on every exercise.</p>
+<p>Most students who work as research assistants in the lab do so for
+PSY 494 course credit.</p>
+<p>This class is supported by DataCamp, an intuitive learning platform
+for data science. Learn R, Python and SQL the way you learn best through
+a combination of short expert videos and hands-on-the-keyboard
+exercises. Take over 100+ courses by expert instructors on topics such
+as importing data, data visualization or machine learning and learn
+faster through immediate and personalised feedback on every
+exercise.</p>
 <p><img src="images/DataCamp-50px.png" width="110" /></p>
 </div>
 </div>
@@ -393,7 +381,7 @@ Psi Chi 2018 Presenters
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -411,7 +399,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

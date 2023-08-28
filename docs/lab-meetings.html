@@ -13,22 +13,36 @@
 
 <title>lab-meetings</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.24/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -41,32 +55,8 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
+
 
 
 
@@ -76,10 +66,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -96,40 +82,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 51px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -157,7 +119,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -169,7 +131,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -179,11 +141,28 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.parent().addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -195,13 +174,12 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -209,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -262,7 +233,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -306,7 +277,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -316,210 +287,100 @@ $(document).ready(function () {
 
 <div id="lab-meetings" class="section level1">
 <h1>Lab Meetings</h1>
-<p>For the spring 2020 Semester, we will meet on Monday from 8-8:50 am in room 444 Moore.</p>
+<p>For the Fall 2023 Semester, we will meet on Tuesdays 8:00-8:50am in
+room 350 Moore.</p>
+<div id="previous-meeting-notes" class="section level2">
+<h2>Previous meeting notes</h2>
+<p><a href="lab-meetings-previous.html">Notes from previous
+semesters</a></p>
+</div>
+<div id="helpful-links" class="section level2">
+<h2>Helpful Links</h2>
+<ul>
+<li>Global Protect Instructions for <a
+href="https://ithelp.ssri.psu.edu/penn-state-vpn-mac">Mac</a> and <a
+href="https://ithelp.ssri.psu.edu/penn-state-vpn">Windows</a></li>
+<li>Click to login to our <a
+href="https://rstudio.tlt.psu.edu/s/e40b8122db8f5ab27456f/">R Studio
+Server space</a></li>
+<li>Click to login to <a
+href="https://www.datacamp.com/">Datacamp</a></li>
+<li>How to take screen shots for <a
+href="https://support.apple.com/en-us/HT201361">Mac</a> and <a
+href="https://www.howtogeek.com/226280/how-to-take-screenshots-in-windows-10/">Windows</a></li>
+<li><a href="https://www.databrary.org">Databrary</a></li>
+</ul>
+</div>
 <div id="goals" class="section level2">
 <h2>Goals</h2>
 <ul>
-<li>Lab Name (<a href="https://docs.google.com/document/d/1s3UZ7g3vR8vZja5EIu1sFraG5oOKZUQDG54wjqUMNDE/edit?usp=sharing">Google doc with terms</a>)</li>
-<li>Start preparing for presentations in the Fall
-<ul>
-<li>Train on poster template</li>
-<li>Train how to use Databrary API</li>
-</ul></li>
-<li>Data simulation to create graphs and analyses for learning</li>
-<li>Preparation for PLAY
-<ul>
-<li>Train on locomotion coding on PLAY pilots</li>
-</ul></li>
-<li>Write-ups
-<ul>
-<li>child/adult MOCO psychophysics</li>
-<li>infant MOCO EEG</li>
-<li>child MOFO</li>
-</ul></li>
 <li>Data science
 <ul>
-<li>Learn R on Datacamp</li>
-<li>Learn more about jupyter notebooks and python</li>
+<li>Learn R on <a href="https://www.datacamp.com/">Datacamp</a></li>
+<li>Begin by creating or updating your a brief biography for the <a
+href="https://gilmore-lab.github.io/who-we-are.html">Who we are</a> page
+on the lab website.</li>
 </ul></li>
-<li>Read more primary source papers</li>
-<li>Launch new projects
+<li>Start preparing for presentations in the Spring
 <ul>
-<li><a href="https://github.com/gilmore-lab/annotating-databrary">Annotating Databrary</a> project</li>
-<li><a href="https://github.com/gilmore-lab/motion-metaanalysis">Development of Motion Sensitivity Meta-analysis</a></li>
-<li><a href="https://github.com/dev-psych-behavior">Behaviors in developmental psychology research</a> project</li>
+<li>Train on poster template for R <a
+href="https://github.com/brentthorne/posterdown">posterdown</a></li>
+<li>Train how to use Databrary API <!-- - Launch new projects -->
+<!--     - [Development of Motion Sensitivity Meta-analysis](https://github.com/gilmore-lab/motion-metaanalysis) -->
+<!--     - Visuomotor tracking --></li>
 </ul></li>
-</ul>
-</div>
-<div id="possible-readings" class="section level2">
-<h2>Possible readings</h2>
+<li>Data Processing/Analysis projects
 <ul>
-<li>Special Issue “<a href="https://www.sciencedirect.com/journal/infant-behavior-and-development/special-issue/10RZSSM6DGN">Replication, Collaboration, and Best Practices in Infancy Research</a>,” in Infant Behavior and Development.</li>
-<li>Finkelstein, A., Las, L., &amp; Ulanovsky, N. (2016). 3-D Maps and Compasses in the Brain. <em>Annual Review of Neuroscience</em>, <em>39</em>, 171–196. Retrieved from <a href="http://dx.doi.org/10.1146/annurev-neuro-070815-013831" class="uri">http://dx.doi.org/10.1146/annurev-neuro-070815-013831</a></li>
-<li>Egnor, S. E. R., &amp; Branson, K. (2016). Computational Analysis of Behavior. <em>Annual Review of Neuroscience</em>, <em>39</em>, 217–236. Retrieved from <a href="http://dx.doi.org/10.1146/annurev-neuro-070815-013845" class="uri">http://dx.doi.org/10.1146/annurev-neuro-070815-013845</a></li>
-<li>Kaplan, R., Schuck, N. W., &amp; Doeller, C. F. (2017). The Role of Mental Maps in Decision-Making. <em>Trends in Neurosciences</em>, <em>40</em>(5), 256–259. Retrieved from <a href="http://dx.doi.org/10.1016/j.tins.2017.03.002" class="uri">http://dx.doi.org/10.1016/j.tins.2017.03.002</a></li>
-<li>Rowland, D. C., Roudi, Y., Moser, M.-B., &amp; Moser, E. I. (2016). Ten Years of Grid Cells. <em>Annual Review of Neuroscience</em>, <em>39</em>, 19–40. Retrieved from <a href="http://dx.doi.org/10.1146/annurev-neuro-070815-013824" class="uri">http://dx.doi.org/10.1146/annurev-neuro-070815-013824</a></li>
-<li>Atkinson, J., &amp; Braddick, O. (2013). Visual Development. In P. D. Zelazo (Ed.), <em>The Oxford Handbook of Developmental Psychology (Vol. 1, pp. 271–309)</em>. Oxford University Press.</li>
-</ul>
-</div>
-<div id="spring-2020-poster-presentations" class="section level2">
-<h2>Spring 2020 Poster Presentations</h2>
-<ul>
-<li><a href="http://sites.psu.edu/psichi/">Psi Chi</a> Research Conference
-<ul>
-<li><a href="http://sites.psu.edu/psichi/research-conference-2/">Application</a> due March 16 by 5:00pm<br />
-</li>
-<li>Conference Date: April 9, 2020, 2-4:30 pm, The Moore Building Atrium</li>
+<li>Databrary Tagging</li>
+<li>Databrary User Guide</li>
+<li>Open Science Survey Data</li>
+<li>Datavyu Coding of infant locomotion??</li>
 </ul></li>
-<li>The <a href="https://undergradresearch.psu.edu/resources/opportunities/undergraduate-exhibition">Undergraduate Exhibition</a>
+<li>Submit abstracts for poster presentation:
 <ul>
-<li><a href="https://psu.infoready4.com/#competitionDetail/1790155">Application</a> due March 22</li>
-<li>Conference Date: April 15, 2020, 4-7pm, Alumni and Heritage Halls</li>
+<li><a
+href="https://urfm.psu.edu/programs/undergraduate-exhibition#paragraphs-id-114">Undergraduate
+Research Exhibition</a></li>
+<li><a href="https://sites.psu.edu/psichi/research-conference-2/">Psi
+Chi Research Conference</a></li>
+</ul></li>
+<li>Future readings:
+<ul>
+<li>Yiming’s PhD paper and paper reviews</li>
 </ul></li>
 </ul>
+<p><a
+href="https://gilmore-lab.github.io/protocols/psych-494-syllabus.html">Psych
+494 Syllabus</a></p>
 </div>
-<div id="schedule" class="section level2">
-<h2>Schedule</h2>
-<!-- ### March 16, 2020 -->
-<!-- - Attending:   -->
-<!-- - Agenda:    -->
-<!--   - Paper Presentation: Amar, Luka, Sandy - postpone to after spring break -->
-<!--     - Ouakinin, S. (2016). Teaching Psychology in Medicine: The Context, Methodologies and Doctor’s Professional Identity. Acta medica portuguesa, 29(12), 867–874. Retrieved from http://dx.doi.org/10.20344/amp.8384 -->
-<!-- ### March 9, 2020 -->
-<!-- Spring Break - No Meeting -->
-<div id="march-2-2020" class="section level3">
-<h3>March 2, 2020</h3>
+<div id="fall-2023" class="section level2">
+<h2>Fall 2023</h2>
+<div id="tuesday-8292023-350-moore" class="section level3">
+<h3>Tuesday 8/29/2023 350 Moore</h3>
+<ol style="list-style-type: decimal">
+<li>Introductions</li>
+<li>Orientation to lab priorities (Rick)
 <ul>
-<li><p>Attending: Rick, Andrea, Yiming, Michelle, Emily, Amar, Luka, Sandy</p></li>
-<li>Agenda:
-<ul>
-<li>Poster Groups: Finalize groups and topics for presentation
-<ul>
-<li>Michelle - Play pilot metadata - poster on Overleaf.com</li>
-<li>Emily - Pire Project</li>
-<li>Amar, Sandy, Luka - BehAV
-<ul>
-<li>Compare OpenPose, OpenFace, and human observer using Datavyu
-<ul>
-<li>Front, side, oblique, down, up Views
-<ul>
-<li>rules for each situation</li>
-<li>full head in view = mom head (information to read a facial expression) and baby head, two separate coding columns</li>
+<li>Play &amp; Learning Across a Year (PLAY) Project, <a
+href="https://play-project.org">PLAY site</a>, <a
+href="https://anhourinthelife.org">Parent site</a>, <a
+href="https://PLAY-behaviorome.github.io/KoBoToolbox/">KoBoToolbox
+Surveys</a></li>
+<li>Legacy Project, especially <a
+href="https://gilmore-lab.github.io/visual-acuity/">Visual
+Acuity</a></li>
+<li><a href="https://databrary.org">Databrary</a>, especially the <a
+href="https://databrary.github.io/guide">Databrary Guide</a>, the <a
+href="https://databrary.github.io/databraryr"><em>databraryr</em>
+package</a>, and the <a
+href="https://databrary.github.io/analytics">Databrary
+Analytics</a>.</li>
+<li>Refreshing internal resources, especially the <a
+href="https://gilmore-lab.github.io">lab website</a> and our lab <a
+href="https://gilmore-lab.github.io/protocols">protocols site</a>.</li>
 </ul></li>
-</ul></li>
-</ul></li>
-</ul></li>
-<li><a href="https://learn.datacamp.com/">DataCamp</a></li>
-<li>Review Sex Differences QA</li>
-</ul></li>
-</ul>
-<p>To Do: - Ouakinin, S. (2016). Teaching Psychology in Medicine: The Context, Methodologies and Doctor’s Professional Identity. Acta medica portuguesa, 29(12), 867–874. Retrieved from <a href="http://dx.doi.org/10.20344/amp.8384" class="uri">http://dx.doi.org/10.20344/amp.8384</a> - move to week after Psi Chi is due - Record Experimenter Name in Expermineter Note question of Qualtrics Survey - ARS add to protocol - Update stereo acuity to include instructions for when participant has difficulty - Yiming - Investigate motion staircase 383 and 20191204095223578: handedness, %correct - Add Line on both walls to line chair up - PSU X-ling 4/3/2020 9am 127 Moore - Emily presenting talk - open to everyone - poster session 1-3pm hub</p>
-</div>
-<div id="february-24-2020" class="section level3">
-<h3>February 24, 2020</h3>
-<ul>
-<li>Attending: Rick, Andrea, Emily, Yiming, Amar
-<ul>
-<li>Sick: Rachel, Sandy (Work), Luka</li>
-<li>Absent: Chelsea, Michelle</li>
-</ul></li>
-<li>Agenda:
-<ul>
-<li>Sex Differences
-<ul>
-<li>Review Test Session Protocol (<a href="https://gilmore-lab.github.io/sex-differences-in-motion-perception/protocol/test-session-protocol.html">html</a>) (<a href="https://gilmore-lab.github.i%20o/sex-differences-in-motion-perception/protocol/test-session-protocol.Rmd">Rmd</a>)</li>
-<li>Look at participant plots for Temporal Threshold and Contrast Sensitivity results</li>
-</ul></li>
-<li>Discuss <a href="https://gilmore-lab.github.io/BehAV/facial-recognition.html">BehAV project coding</a></li>
-</ul></li>
-<li>To Do:
-<ul>
-<li>ARS: Change protocol to copy data every day - Andrea or Yiming will do this - note on discord when it is complete at the end of the day. <strong>DONE 2020-02-26</strong></li>
-<li>Procedure needed for checking what happened eg. 2 files same participant number</li>
-<li>ARS: Check with Rachel participant 389 - why aren’t there 2 files</li>
-</ul></li>
-</ul>
-</div>
-<div id="february-17-2020" class="section level3">
-<h3>February 17, 2020</h3>
-<ul>
-<li>Attending: Rick, Andrea, Yiming, Emily, Chelsea, Rachel, Amar
-<ul>
-<li>Excused - Michelle</li>
-<li>Absent - Sandy, Luka</li>
-</ul></li>
-<li>Agenda:
-<ul>
-<li>Presentation: <a href="https://github.com/gilmore-lab/student-testbed">Posterdown Preview</a> - Emily</li>
-<li>Discuss Sex Differences <a href="https://gilmore-lab.github.io/sex-differences-in-motion-perception/analysis/session_qa.html">Session QA</a></li>
-<li>Discuss <a href="https://github.com/gilmore-lab/BehAV">BehAV project</a> and data on <a href="https://psu.box.com/s/ytyd3hnz4614frjhq55oail9mge1l150">Box</a></li>
-</ul></li>
-<li>To Do:
-<ul>
-<li>Come up with ideas for Poster presenation.</li>
-</ul></li>
-</ul>
-</div>
-<div id="february-10-2020" class="section level3">
-<h3>February 10, 2020</h3>
-<p>NO MEETING :)</p>
-</div>
-<div id="february-3-2020" class="section level3">
-<h3>February 3, 2020</h3>
-<ul>
-<li>Attending: Rick, Andrea, Yiming, Michelle, Rachel
-<ul>
-<li>Excused: Luka, Sandy, Amar</li>
-<li>Missing: Emily, Chelsea</li>
-</ul></li>
-<li>Agenda:
-<ul>
-<li>Type I (false positive), Type II (false negative) and statistical power
-<ul>
-<li><a href="talk-slides/type-I-type-II-errors.html">Slides</a></li>
-</ul></li>
-<li>Update on Sex Differences Project
-<ul>
-<li>Data collection status</li>
-<li>Harmonizing data</li>
-</ul></li>
-</ul></li>
-</ul>
-</div>
-<div id="january-27-2020" class="section level3">
-<h3>January 27, 2020</h3>
-<ul>
-<li>Attending: Rick, Andrea, Michelle, Emily, Chelsea, Sandy, Luka, Rachel
-<ul>
-<li>Missing: Yiming, Amar</li>
-</ul></li>
-<li>Agenda:
-<ul>
-<li>Introductions<br />
-</li>
-<li>Submit 1-2 projects to the <a href="http://sites.psu.edu/psichi/">Psi Chi</a> conference
-<ul>
-<li><a href="http://sites.psu.edu/psichi/research-conference-2/">Application</a> due March 16 by 5:00pm<br />
-</li>
-<li>Conference on April 9, 2-4:30 pm, The Moore Building Atrium</li>
-</ul></li>
-<li>Overview of projects
-<ul>
-<li><a href="https://github.com/gilmore-lab/sex-differences-in-motion-perception">Sex Differences in Motion Perception</a>
-<ul>
-<li>Train everyone to collect data solo.</li>
-<li>Changes to protocol</li>
-</ul></li>
-</ul></li>
-<li>Plan for semester</li>
-</ul></li>
-<li>Next Meeting:
-<ul>
-<li>Schedule presentation for Sandy/Amar</li>
-<li>Emily present posterdown 2/10/2020</li>
-<li>Read paper</li>
-</ul></li>
-</ul>
+<li>Onboarding and orientation (Andrea)</li>
+</ol>
 </div>
 </div>
 </div>
@@ -533,7 +394,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -551,7 +412,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

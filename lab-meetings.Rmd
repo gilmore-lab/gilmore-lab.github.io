@@ -4,7 +4,7 @@ pagetitle: lab-meetings
 
 # Lab Meetings
 
-For the Fall 2023 Semester, we will meet on Tusedays 8:00-8:50am in room 350 Moore.
+For the Fall 2023 Semester, we will meet on Tuesdays 8:00-8:50am in room 350 Moore.
 
 ## Previous meeting notes
 
@@ -45,4 +45,10 @@ For the Fall 2023 Semester, we will meet on Tusedays 8:00-8:50am in room 350 Moo
 
 ### Tuesday 8/29/2023 350 Moore
 
-
+1. Introductions
+2. Orientation to lab priorities (Rick)
+    - Play & Learning Across a Year (PLAY) Project, [PLAY site](https://play-project.org), [Parent site](https://anhourinthelife.org), [KoBoToolbox Surveys](https://PLAY-behaviorome.github.io/KoBoToolbox/)
+    - Legacy Project, especially [Visual Acuity](https://gilmore-lab.github.io/visual-acuity/)
+    - [Databrary](https://databrary.org), especially the [Databrary Guide](https://databrary.github.io/guide), the [*databraryr* package](https://databrary.github.io/databraryr), and the [Databrary Analytics](https://databrary.github.io/analytics).
+    - Refreshing internal resources, especially the [lab website](https://gilmore-lab.github.io) and our lab [protocols site](https://gilmore-lab.github.io/protocols).
+3. Onboarding and orientation (Andrea)
