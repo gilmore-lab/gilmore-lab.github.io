@@ -18,7 +18,7 @@ For the Fall 2023 Semester, we will meet on Tuesdays 8:00-8:50am in room 350 Moo
 - How to take screen shots for [Mac](https://support.apple.com/en-us/HT201361) and [Windows](https://www.howtogeek.com/226280/how-to-take-screenshots-in-windows-10/)
 - [Databrary](https://www.databrary.org)
 
-<!-- ## Goals -->
+## Goals
 
 - Data science
     - Learn R on [Datacamp](https://www.datacamp.com/)
@@ -31,6 +31,7 @@ For the Fall 2023 Semester, we will meet on Tuesdays 8:00-8:50am in room 350 Moo
 - Launch new projects
     - PLAY
     - Legacy: Visual Acuity
+    - Migrate lab site to Quarto
 - Reinvigorate old projects
     - Databrary tagging
     - Databrary User [Guide](https://databrary.github.io/guide)
