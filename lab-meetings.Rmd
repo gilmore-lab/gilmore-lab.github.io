@@ -18,37 +18,38 @@ For the Fall 2023 Semester, we will meet on Tuesdays 8:00-8:50am in room 350 Moo
 - How to take screen shots for [Mac](https://support.apple.com/en-us/HT201361) and [Windows](https://www.howtogeek.com/226280/how-to-take-screenshots-in-windows-10/)
 - [Databrary](https://www.databrary.org)
 
-## Goals
+<!-- ## Goals -->
+
 - Data science
     - Learn R on [Datacamp](https://www.datacamp.com/)
     - Begin by creating or updating your a brief biography for the [Who we are](https://gilmore-lab.github.io/who-we-are.html) page on the lab website.
-- Start preparing for presentations in the Spring
+- Start preparing for presentations in Spring 2024
     - Train on poster template for R [posterdown](https://github.com/brentthorne/posterdown)
-    - Train how to use Databrary API
-<!-- - Launch new projects -->
-<!--     - [Development of Motion Sensitivity Meta-analysis](https://github.com/gilmore-lab/motion-metaanalysis) -->
-<!--     - Visuomotor tracking -->
-- Data Processing/Analysis projects
-    - Databrary Tagging
-    - Databrary User Guide
-    - Open Science Survey Data
-    - Datavyu Coding of infant locomotion??
-- Submit abstracts for poster presentation:
+    - Submit abstracts for poster presentation:
   - [Undergraduate Research Exhibition](https://urfm.psu.edu/programs/undergraduate-exhibition#paragraphs-id-114)
   - [Psi Chi Research Conference](https://sites.psu.edu/psichi/research-conference-2/)
+- Launch new projects
+    - PLAY
+    - Legacy: Visual Acuity
+- Reinvigorate old projects
+    - Databrary tagging
+    - Databrary User [Guide](https://databrary.github.io/guide)
+    - Testing and documenting [*databraryr* package](https://databrary.github.io/databraryr), and the [Databrary Analytics](https://databrary.github.io/analytics)
+    - [Motion meta-analysis](https://github.com/gilmore-lab/motion-metaanalysis)
 - Future readings:
   - Yiming's PhD paper and paper reviews
 
-[Psych 494 Syllabus](https://gilmore-lab.github.io/protocols/psych-494-syllabus.html) 
+<!-- [Psych 494 Syllabus](https://gilmore-lab.github.io/protocols/psych-494-syllabus.html)  -->
 
 ## Fall 2023
 
 ### Tuesday 8/29/2023 350 Moore
 
 1. Introductions
-2. Orientation to lab priorities (Rick)
+2. Orientation to Fall 2023 lab priorities (Rick)
     - Play & Learning Across a Year (PLAY) Project, [PLAY site](https://play-project.org), [Parent site](https://anhourinthelife.org), [KoBoToolbox Surveys](https://PLAY-behaviorome.github.io/KoBoToolbox/)
     - Legacy Project, especially [Visual Acuity](https://gilmore-lab.github.io/visual-acuity/)
     - [Databrary](https://databrary.org), especially the [Databrary Guide](https://databrary.github.io/guide), the [*databraryr* package](https://databrary.github.io/databraryr), and the [Databrary Analytics](https://databrary.github.io/analytics).
     - Refreshing internal resources, especially the [lab website](https://gilmore-lab.github.io) and our lab [protocols site](https://gilmore-lab.github.io/protocols).
 3. Onboarding and orientation (Andrea)
+4. Schedule
