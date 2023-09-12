@@ -1,0 +1,35 @@
+project:
+  type: website
+  
+execute: 
+  freeze: auto
+
+website:
+  title: "BBD Lab"
+  navbar:
+    left:
+    - text: "Research"
+      href: research.qmd
+    - text: "Publications"
+      href: publications.qmd
+    - text: "Parents"
+      href: parents.qmd
+    - text: "Participants"
+      href: participants.qmd
+    - text: "Who we are"
+      href: who-we-are.qmd
+    - text: "Lab mtgs"
+      href: lab-meetings.qmd
+    - text: "Resources"
+      href: resources.qmd
+    - text: "Site info"
+      href: site-info.qmd
+      
+    right:
+        - icon: github
+          text: Github
+          href: https://github.com/gilmore-lab
+format:
+  html:
+    theme: litera
+    css: styles.css

@@ -1,0 +1,13 @@
+---
+title: "Lab meeting: 2023-09-12"
+date: 2023-09-12
+categories:
+  - lab meetings
+  - PLAY
+  - Databrary
+---
+
+![PLAY Project Logo](https://www.play-project.org/img/PLAY-logo.png){fig-align="center"}
+
+[Madison Gehringer](who-we-are.qmd/#madison-gehringer) talked about the Play & Learning Across a Year (PLAY) Project in today's lab meeting.
+We had a great discussion about the ethics of sharing identifiable data like video, among other topics.

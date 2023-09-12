@@ -1,0 +1,14 @@
+---
+title: "New website!"
+date: 2023-09-12
+categories:
+  - website
+  - quarto
+---
+
+![](../images/symmetry-sample-1.png)
+
+Welcome to our new website. 
+The old site was built in R Markdown.
+The new one is built in [Quarto](https://quarto.org).
+We hope you like the new look and feel.

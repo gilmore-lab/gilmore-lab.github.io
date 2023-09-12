@@ -1,0 +1,70 @@
+---
+title: lab-meetings
+---
+
+# Lab Meetings
+
+For the Fall 2023 Semester, we will meet on Tuesdays 8:00-8:50am in room 350 Moore.
+
+## Previous meeting notes
+
+[Notes from previous semesters](lab-meetings-previous.html)
+
+## Helpful Links
+
+- Global Protect Instructions for [Mac](https://ithelp.ssri.psu.edu/penn-state-vpn-mac) and [Windows](https://ithelp.ssri.psu.edu/penn-state-vpn)
+<!-- - Click to login to our [R Studio Server space](https://rstudio.tlt.psu.edu/s/e40b8122db8f5ab27456f/) -->
+- Click to login to [Datacamp](https://www.datacamp.com/)
+- How to take screen shots for [Mac](https://support.apple.com/en-us/HT201361) and [Windows](https://www.howtogeek.com/226280/how-to-take-screenshots-in-windows-10/)
+- [Databrary](https://www.databrary.org)
+
+## Goals
+
+- Data science
+    - Learn R on [Datacamp](https://www.datacamp.com/)
+    - Begin by creating or updating your a brief biography for the [Who we are](https://gilmore-lab.github.io/who-we-are.html) page on the lab website.
+- Start preparing for presentations in Spring 2024
+    - Train on poster template for R [posterdown](https://github.com/brentthorne/posterdown)
+    - Submit abstracts for poster presentation:
+  - [Undergraduate Research Exhibition](https://urfm.psu.edu/programs/undergraduate-exhibition#paragraphs-id-114)
+  - [Psi Chi Research Conference](https://sites.psu.edu/psichi/research-conference-2/)
+- Launch new projects
+    - PLAY
+    - Legacy: Visual Acuity
+    - Migrate lab site to Quarto
+- Reinvigorate old projects
+    - Databrary tagging
+    - Databrary User [Guide](https://databrary.github.io/guide)
+    - Testing and documenting [*databraryr* package](https://databrary.github.io/databraryr), and the [Databrary Analytics](https://databrary.github.io/analytics)
+    - [Motion meta-analysis](https://github.com/gilmore-lab/motion-metaanalysis)
+- Future readings:
+  - Yiming's PhD paper and paper reviews
+
+<!-- [Psych 494 Syllabus](https://gilmore-lab.github.io/protocols/psych-494-syllabus.html)  -->
+
+## Fall 2023
+
+### Tuesday, September 12, 2023, 350 Moore
+
+1. What is [PLAY](https://play-project.org/)? (Madison)
+2. Introducing the Legacy Project: Visual Acuity (Rick)
+
+### Tuesday, September 5, 2023, 350 Moore
+
+1. Assigning work teams (Andrea)
+2. Watch 
+
+NYU Health Sciences Library. (2013, 13. November). Data Sharing and Management Snafu in 3 Short Acts (Higher Quality). Youtube. https://www.youtube.com/watch?v=66oNv_DJuPc
+
+3. Discuss project team assignments (Rick)
+
+### Tuesday, 8/29/2023, 350 Moore
+
+1. Introductions
+2. Orientation to Fall 2023 lab priorities (Rick)
+    - Play & Learning Across a Year (PLAY) Project, [PLAY site](https://play-project.org), [Parent site](https://anhourinthelife.org), [KoBoToolbox Surveys](https://PLAY-behaviorome.github.io/KoBoToolbox/)
+    - Legacy Project, especially [Visual Acuity](https://gilmore-lab.github.io/visual-acuity/)
+    - [Databrary](https://databrary.org), especially the [Databrary Guide](https://databrary.github.io/guide), the [*databraryr* package](https://databrary.github.io/databraryr), and the [Databrary Analytics](https://databrary.github.io/analytics).
+    - Refreshing internal resources, especially the [lab website](https://gilmore-lab.github.io) and our lab [protocols site](https://gilmore-lab.github.io/protocols).
+3. [Onboarding and Training](https://gilmore-lab.github.io/protocols) and orientation (Andrea)
+4. Schedule

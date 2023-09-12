@@ -1,0 +1,46 @@
+---
+title: "Brain and Behavioral Dynamics Lab"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+![](images/fesi-2014.jpg){#fig-surus}![](images/optic-flow.jpg){#fig-hanno}![](images/lab-logo.png){#fig-hanno}
+
+Brain and Behavioral Dynamics Lab in the [Psychology Department](https://psych.la.psu.edu) at [Penn State](https://www.psu.edu) studies the development of perception, action, and memory. Our goal is to understand patterns of brain and behavioral change in infants, children, and young adults. We use behavioral, EEG, MRI, and computational modeling methods in our research. We also advocate for and try to demonstrate open science practices in our work. 
+
+Professor Rick Gilmore directs the lab.
+
+----
+
+<!-- ## Contact Information -->
+
+<!-- Dr. [Rick Gilmore](https://psych.la.psu.edu/directory/rog1), Professor of Psychology, ([rogilmore@psu.edu](mailto:rogilmore@psu.edu); 814-865-3664; 114 Moore Building) directs the lab. -->
+
+<!-- [Andrea Seisler](mailto:ars17@psu.edu) is the Lab Manager. -->
+
+<!-- ## [For Students](who-we-are.html) -->
+
+<!-- The lab employs an active and engaged group of undergraduate and graduate research assistants. If you are a Penn State undergraduate student and wish to be considered for a position in the lab, complete an online application [here](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform). **We are FULL for Fall 2023 and Spring 2024** -->
+
+<!-- If you are a prospective graduate student, contact Dr. Gilmore by email.  For more information about current students and alumni, see the [student page](who-we-are.html).  -->
+
+<!-- ## [For Parents](parents.html) -->
+
+<!-- Much of our research involves testing infants and young children. To sign-up for a study or learn more about what a visit entails please follow [this link](parents.html).  -->
+
+<!-- ## DataCamp -->
+
+<!-- Most students who work as research assistants in the lab do so for PSY 494 course credit. -->
+
+<!-- This class is supported by DataCamp, an intuitive learning platform for data science. Learn R, Python and SQL the way you learn best through a combination of short expert videos and hands-on-the-keyboard exercises. Take over 100+ courses by expert instructors on topics such as importing data, data visualization or machine learning and learn faster through immediate and personalised feedback on every exercise. -->
+
+<!-- ```{r, echo=FALSE} -->
+<!-- knitr::include_graphics("images/DataCamp-50px.png") -->
+<!-- ``` -->
