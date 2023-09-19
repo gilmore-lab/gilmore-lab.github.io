@@ -58,6 +58,7 @@ For the Fall 2023 Semester, we will meet on Tuesdays 8:00-8:50 am in room 350 Mo
     - Web site master
     - [`databraryr`](https://databrary.github.io/databraryr) package tester and help with documentation.
     - Sign-up for Hypothes.is
+6. Who is working when
 
 ### Tuesday, September 12, 2023, 350 Moore
 
