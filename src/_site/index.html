@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>BBD Lab - lab-meetings</title>
+<title>BBD Lab - Brain and Behavioral Dynamics Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -59,12 +61,43 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -102,7 +135,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Who we are</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./lab-meetings.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="./lab-meetings.html" rel="" target="">
  <span class="menu-text">Lab mtgs</span></a>
   </li>  
   <li class="nav-item">
@@ -128,122 +161,136 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page-left">
+      <h1 class="title">Brain and Behavioral Dynamics Lab</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Databrary">Databrary <span class="quarto-category-count">(1)</span></div><div class="category" data-category="PLAY">PLAY <span class="quarto-category-count">(1)</span></div><div class="category" data-category="lab meetings">lab meetings <span class="quarto-category-count">(1)</span></div><div class="category" data-category="quarto">quarto <span class="quarto-category-count">(1)</span></div><div class="category" data-category="website">website <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">lab-meetings</h1>
+
+
+
+<p><img src="images/fesi-2014.jpg" id="fig-surus" class="img-fluid"><img src="images/optic-flow.jpg" id="fig-hanno" class="img-fluid"><img src="images/lab-logo.png" id="fig-hanno" class="img-fluid"></p>
+<p>Brain and Behavioral Dynamics Lab in the <a href="https://psych.la.psu.edu">Psychology Department</a> at <a href="https://www.psu.edu">Penn State</a> studies the development of perception, action, and memory. Our goal is to understand patterns of brain and behavioral change in infants, children, and young adults. We use behavioral, EEG, MRI, and computational modeling methods in our research. We also advocate for and try to demonstrate open science practices in our work.</p>
+<p>Professor Rick Gilmore directs the lab.</p>
+<hr>
+<!-- ## Contact Information -->
+<!-- Dr. [Rick Gilmore](https://psych.la.psu.edu/directory/rog1), Professor of Psychology, ([rogilmore@psu.edu](mailto:rogilmore@psu.edu); 814-865-3664; 114 Moore Building) directs the lab. -->
+<!-- [Andrea Seisler](mailto:ars17@psu.edu) is the Lab Manager. -->
+<!-- ## [For Students](who-we-are.html) -->
+<!-- The lab employs an active and engaged group of undergraduate and graduate research assistants. If you are a Penn State undergraduate student and wish to be considered for a position in the lab, complete an online application [here](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform). **We are FULL for Fall 2023 and Spring 2024** -->
+<!-- If you are a prospective graduate student, contact Dr. Gilmore by email.  For more information about current students and alumni, see the [student page](who-we-are.html).  -->
+<!-- ## [For Parents](parents.html) -->
+<!-- Much of our research involves testing infants and young children. To sign-up for a study or learn more about what a visit entails please follow [this link](parents.html).  -->
+<!-- ## DataCamp -->
+<!-- Most students who work as research assistants in the lab do so for PSY 494 course credit. -->
+<!-- This class is supported by DataCamp, an intuitive learning platform for data science. Learn R, Python and SQL the way you learn best through a combination of short expert videos and hands-on-the-keyboard exercises. Take over 100+ courses by expert instructors on topics such as importing data, data visualization or machine learning and learn faster through immediate and personalised feedback on every exercise. -->
+<!-- ```{r, echo=FALSE} -->
+<!-- knitr::include_graphics("images/DataCamp-50px.png") -->
+<!-- ``` -->
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="website,quarto" data-listing-date-sort="1694491200000" data-listing-file-modified-sort="1695057594336" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./posts/new-site.html"> <p class="card-img-top"><img src="images/symmetry-sample-1.png"  class="thumbnail-image card-img"/></p> </a></p>
 </div>
+<div class="body">
+<a href="./posts/new-site.html">
+<h3 class="no-anchor listing-title">
+New website!
+</h3>
+<div class="listing-subtitle">
 
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('website'); return false;">
+website
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('quarto'); return false;">
+quarto
+</div>
+</div>
+<a href="./posts/new-site.html">
+<div class="listing-description">
+Welcome to our new website. The old site was built in R Markdown. The new one is built in Quarto. We hope you like the new look and feel.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/new-site.html">
+<div class="listing-date">
+Sep 12, 2023
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="lab meetings,PLAY,Databrary" data-listing-date-sort="1694491200000" data-listing-file-modified-sort="1695058061962" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./posts/lab-mtg-2023-09-12.html"> <p class="card-img-top"><img src="https://www.play-project.org/img/PLAY-logo.png"  class="thumbnail-image card-img"/></p> </a></p>
+</div>
+<div class="body">
+<a href="./posts/lab-mtg-2023-09-12.html">
+<h3 class="no-anchor listing-title">
+Lab meeting: 2023-09-12
+</h3>
+<div class="listing-subtitle">
 
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-</header>
-
-<section id="lab-meetings" class="level1">
-<h1>Lab Meetings</h1>
-<p>For the Fall 2023 Semester, we will meet on Tuesdays 8:00-8:50am in room 350 Moore.</p>
-<section id="previous-meeting-notes" class="level2">
-<h2 class="anchored" data-anchor-id="previous-meeting-notes">Previous meeting notes</h2>
-<p><a href="lab-meetings-previous.html">Notes from previous semesters</a></p>
-</section>
-<section id="helpful-links" class="level2">
-<h2 class="anchored" data-anchor-id="helpful-links">Helpful Links</h2>
-<ul>
-<li>Global Protect Instructions for <a href="https://ithelp.ssri.psu.edu/penn-state-vpn-mac">Mac</a> and <a href="https://ithelp.ssri.psu.edu/penn-state-vpn">Windows</a> <!-- - Click to login to our [R Studio Server space](https://rstudio.tlt.psu.edu/s/e40b8122db8f5ab27456f/) --></li>
-<li>Click to login to <a href="https://www.datacamp.com/">Datacamp</a></li>
-<li>How to take screen shots for <a href="https://support.apple.com/en-us/HT201361">Mac</a> and <a href="https://www.howtogeek.com/226280/how-to-take-screenshots-in-windows-10/">Windows</a></li>
-<li><a href="https://www.databrary.org">Databrary</a></li>
-</ul>
-</section>
-<section id="goals" class="level2">
-<h2 class="anchored" data-anchor-id="goals">Goals</h2>
-<ul>
-<li>Data science
-<ul>
-<li>Learn R on <a href="https://www.datacamp.com/">Datacamp</a></li>
-<li>Begin by creating or updating your a brief biography for the <a href="https://gilmore-lab.github.io/who-we-are.html">Who we are</a> page on the lab website.</li>
-</ul></li>
-<li>Start preparing for presentations in Spring 2024
-<ul>
-<li>Train on poster template for R <a href="https://github.com/brentthorne/posterdown">posterdown</a></li>
-<li>Submit abstracts for poster presentation:</li>
-<li><a href="https://urfm.psu.edu/programs/undergraduate-exhibition#paragraphs-id-114">Undergraduate Research Exhibition</a></li>
-<li><a href="https://sites.psu.edu/psichi/research-conference-2/">Psi Chi Research Conference</a></li>
-</ul></li>
-<li>Launch new projects
-<ul>
-<li>PLAY</li>
-<li>Legacy: Visual Acuity</li>
-<li>Migrate lab site to Quarto</li>
-</ul></li>
-<li>Reinvigorate old projects
-<ul>
-<li>Databrary tagging</li>
-<li>Databrary User <a href="https://databrary.github.io/guide">Guide</a></li>
-<li>Testing and documenting <a href="https://databrary.github.io/databraryr"><em>databraryr</em> package</a>, and the <a href="https://databrary.github.io/analytics">Databrary Analytics</a></li>
-<li><a href="https://github.com/gilmore-lab/motion-metaanalysis">Motion meta-analysis</a></li>
-</ul></li>
-<li>Future readings:
-<ul>
-<li>Yiming’s PhD paper and paper reviews</li>
-</ul></li>
-</ul>
-<!-- [Psych 494 Syllabus](https://gilmore-lab.github.io/protocols/psych-494-syllabus.html)  -->
-</section>
-<section id="fall-2023" class="level2">
-<h2 class="anchored" data-anchor-id="fall-2023">Fall 2023</h2>
-<section id="tuesday-september-12-2023-350-moore" class="level3">
-<h3 class="anchored" data-anchor-id="tuesday-september-12-2023-350-moore">Tuesday, September 12, 2023, 350 Moore</h3>
-<ol type="1">
-<li>What is <a href="https://play-project.org/">PLAY</a>? (Madison)</li>
-<li>Introducing the Legacy Project: Visual Acuity (Rick)</li>
-</ol>
-</section>
-<section id="tuesday-september-5-2023-350-moore" class="level3">
-<h3 class="anchored" data-anchor-id="tuesday-september-5-2023-350-moore">Tuesday, September 5, 2023, 350 Moore</h3>
-<ol type="1">
-<li>Assigning work teams (Andrea)</li>
-<li>Watch</li>
-</ol>
-<p>NYU Health Sciences Library. (2013, 13. November). Data Sharing and Management Snafu in 3 Short Acts (Higher Quality). Youtube. https://www.youtube.com/watch?v=66oNv_DJuPc</p>
-<ol start="3" type="1">
-<li>Discuss project team assignments (Rick)</li>
-</ol>
-</section>
-<section id="tuesday-8292023-350-moore" class="level3">
-<h3 class="anchored" data-anchor-id="tuesday-8292023-350-moore">Tuesday, 8/29/2023, 350 Moore</h3>
-<ol type="1">
-<li>Introductions</li>
-<li>Orientation to Fall 2023 lab priorities (Rick)
-<ul>
-<li>Play &amp; Learning Across a Year (PLAY) Project, <a href="https://play-project.org">PLAY site</a>, <a href="https://anhourinthelife.org">Parent site</a>, <a href="https://PLAY-behaviorome.github.io/KoBoToolbox/">KoBoToolbox Surveys</a></li>
-<li>Legacy Project, especially <a href="https://gilmore-lab.github.io/visual-acuity/">Visual Acuity</a></li>
-<li><a href="https://databrary.org">Databrary</a>, especially the <a href="https://databrary.github.io/guide">Databrary Guide</a>, the <a href="https://databrary.github.io/databraryr"><em>databraryr</em> package</a>, and the <a href="https://databrary.github.io/analytics">Databrary Analytics</a>.</li>
-<li>Refreshing internal resources, especially the <a href="https://gilmore-lab.github.io">lab website</a> and our lab <a href="https://gilmore-lab.github.io/protocols">protocols site</a>.</li>
-</ul></li>
-<li><a href="https://gilmore-lab.github.io/protocols">Onboarding and Training</a> and orientation (Andrea)</li>
-<li>Schedule</li>
-</ol>
-
-
-</section>
-</section>
-</section>
-
-</main> <!-- /main -->
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('lab meetings'); return false;">
+lab meetings
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('PLAY'); return false;">
+PLAY
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Databrary'); return false;">
+Databrary
+</div>
+</div>
+<a href="./posts/lab-mtg-2023-09-12.html">
+<div class="listing-description">
+Madison Gehringer talked about the Play &amp;…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/lab-mtg-2023-09-12.html">
+<div class="listing-date">
+Sep 12, 2023
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
