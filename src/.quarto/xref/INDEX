@@ -1,0 +1,65 @@
+{
+  "research.qmd": {
+    "research.html": "5838dee9"
+  },
+  "posts/new-site.qmd": {
+    "new-site.html": "98ba03e2"
+  },
+  "posts/lab-mtg-2023-09-12.qmd": {
+    "lab-mtg-2023-09-12.html": "8c8311a6"
+  },
+  "lab-meetings.qmd": {
+    "lab-meetings.html": "503aa608"
+  },
+  "lab-mtgs/notes-murray-2018.Rmd": {
+    "notes-murray-2018.html": "b0f44830"
+  },
+  "lab-mtgs/leonard-lee-schultz-2017.Rmd": {
+    "leonard-lee-schultz-2017.html": "acac38e9"
+  },
+  "lab-mtgs/notes-cohen-2017.Rmd": {
+    "notes-cohen-2017.html": "56b563fe"
+  },
+  "parents.qmd": {
+    "parents.html": "05f60703"
+  },
+  "index.qmd": {
+    "index.html": "58fbc9b7"
+  },
+  "students.qmd": {
+    "students.html": "fb23c6ae"
+  },
+  "publications.qmd": {
+    "publications.html": "704d5fc3"
+  },
+  "about.qmd": {
+    "about.html": "828f7826"
+  },
+  "site-info.qmd": {
+    "site-info.html": "d05d58ec"
+  },
+  "who-we-are.qmd": {
+    "who-we-are.html": "b1066f7c"
+  },
+  "participants.qmd": {
+    "participants.html": "2ba2b25d"
+  },
+  "talk-slides/how-to-read-academic-paper.Rmd": {
+    "how-to-read-academic-paper.html": "5cea16f3"
+  },
+  "talk-slides/type-I-type-II-errors.Rmd": {
+    "type-I-type-II-errors.html": "b3376a56"
+  },
+  "talk-slides/munafo-etal-2017.Rmd": {
+    "munafo-etal-2017.html": "93dcbb77"
+  },
+  "talk-slides/abramov-etal-2012.Rmd": {
+    "abramov-etal-2012.html": "f9493c0d"
+  },
+  "resources.qmd": {
+    "resources.html": "716048be"
+  },
+  "posts/lab-mtg-2023-09-19.qmd": {
+    "lab-mtg-2023-09-19.html": "36750d2c"
+  }
+}
