@@ -1,0 +1,14 @@
+{
+  "hash": "4712ff0c77b438a08ddf0e45df57ca5d",
+  "result": {
+    "markdown": "---\ntitle: \"How to Read and Academic Paper\"\nauthor: \"Rick Gilmore & Yiming Qian\"\ndate: \"2019-09-24\"\ncss: css/outline.css\noutput:\n  html_document:\n    keep_md: true\n    theme: lumen\n    toc: yes\n    toc_depth: 5\n    toc_float: no\n    code_folding: hide\n---\n\n\n# Three Points for Reading a Paper\n\n## Why does this paper matter?\n\n- Read carefully of just skim  \n- The goal of this research  \n- Why is it interesting for us to think/talk about?\n\n## What does it talk about?\n\n- Research Question?\n- Hypotheses?\n- Findingis?\n\n## What are the methods it used?\n\n- Population (age, gender, ...), time, locations, etc.\n- What are DVs and IVs?\n- How are thy measuresed? Why to use it rather than the other?\n\n# My Reading Sequence\n\n1. Abstract\n- Very, very important\n- It can answer most of the above questions\n- If you find terminiology you are not familiar with, what do you do?\n\n2. Methods + Analysis\n\n3. Result part\n- Plots\n\n4. Reflections\n- Was the research question answered in this paper?\n- Did the methods measure what the researchers want to measure?\n- Were the finidings consistent with the hypotheses? Do they suprise you?\n\n5. Find some explanations in the introductions and discussion part\n\n# Lets Do It!\n\nAbramov, I., Gordon, J., Feldman, O., & Chavarga, A. (2012). Sex & vision I: Spatio-temporal resolution. Biology of Sex Differences, 3(1), 20.\n\n# Example Abstract\n\n![](../images/sample-abstract.png)\n\n# Methods\n\n- Participant\n36 females [16-38] Mean = 23.5\n16 males [16-37] Mean = 24.3\n- Measures\n    - Visual Acuity\n    - Color Vision\n    - Binocular Depth perception (stereopsis)\n    - **Contrast sensitivity task**\n- Stimuli\n\nWhat are DVs and IVs?\n\n![](../images/methods-table.png)\n\n# Relate Plot with Main Findings    \n\n![](../images/cs-female.png)\n![](../images/cs-male.png)\n\nRatio \n\n![](../images/cs-ratio.png)\n\nMean +- Standard Error \n\n![](../images/mean-standard-error.png)\n\n# Discussion\n\n- Any questions about this paper?\n- Was the research question answered in this paper?\n- Did the methods measure what the researchers want to measure?\n- Do the findings surprise you?\n- What is the implication of these findings?\n- Any critique? What can be improved in this study?",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

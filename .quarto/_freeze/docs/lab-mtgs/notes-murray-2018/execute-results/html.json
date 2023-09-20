@@ -1,0 +1,14 @@
+{
+  "hash": "9911e4dcd9196088d1fc9f0939c39137",
+  "result": {
+    "markdown": "---\ntitle: \"notes-murray-2018\"\nauthor: \"Rick Gilmore & Yiming Qian\"\ndate: \"2023-09-12 12:28:41.890971\"\noutput: html_document\n---\n\n\n\n\n## Background\n\nNotes and resources to discuss \n\nMurray, S. O., Schallmo, M.-P., Kolodny, T., Millin, R., Kale, A., Thomas, P., Rammsayer, T. H., et al. (2018). Sex Differences in Visual Motion Processing. *Current Biology: CB*. Retrieved from http://dx.doi.org/10.1016/j.cub.2018.06.014\n\n## Figure 1\n\n<img src=\"https://www.cell.com/cms/attachment/4eb49b11-0f51-4c46-b461-5cc59a037be3/gr1.jpg\"/>\n\n## Figure 2\n\n<img src=\"https://www.cell.com/cms/attachment/18c43e7a-48ad-4819-a1bd-e2e00a0ed23f/gr2.jpg\"/>\n\n## Supplemental Materials\n\n<https://www.cell.com/cms/10.1016/j.cub.2018.06.014/attachment/4f09c701-2144-4732-b7e6-92265a65ed7d/mmc1.pdf>\n\n## Additional sources of data\n\nMelnick, M. D., Harrison, B. R., Park, S., Bennetto, L., & Tadin, D. (2013). A strong interactive link between sensory discriminations and intelligence. Current biology: CB, 23(11), 1013–1017. Retrieved from http://dx.doi.org/10.1016/j.cub.2013.04.053\n\nTroche, S. J., Thomas, P., Tadin, D., & Rammsayer, T. H. (2018). On the relationship between spatial suppression, speed of information processing, and psychometric intelligence. Intelligence, 67, 11–18. Retrieved from http://www.sciencedirect.com/science/article/pii/S0160289617302027\n\n## What do the stimuli look like?\n\n- Documentation about PsychoPy [`GratingStim`](http://www.psychopy.org/api/visual/gratingstim.html#psychopy.visual.GratingStim) function",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

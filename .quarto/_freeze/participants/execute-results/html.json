@@ -1,0 +1,14 @@
+{
+  "hash": "6d271ed407a2e089f40662094c32fdd0",
+  "result": {
+    "markdown": "---\npagetitle: participants\n---\n\n\n# Research Participant Information\n\nThe Brain and Behavioral Dynamics Lab is interested in how the visual system develops over time. To reach this goal, we use behavioral, EEG and MRI techniques to study how the infant, child and adult brain responds to motion and pattern.\n\nIf you are interested in participating in a study or having your child participate, please contact us at psubrainlab@gmail.com.\n\n<!-- ## EEG Studies -->\n\n<!-- EEG (Electroencephalogram) is a technique which allows the electrical signals in the brain to be recorded. In these studies we are recording the brain activity while the participants watch images on a computer monitor. The studies at our lab take approximately 1 hour.  -->\n\n<!-- - We do not have an active study at this time -->\n\n<!-- ## Behavioral Studies -->\n\n<!-- ### Individual Differences in Motion Perceiption -->\n<!-- In this study, participants will view black and white stripes and have to make a determination about what they see. In addition, participants will also complete some questionnaires. -->\n\n<!-- Recruitment for this study takes place through the [Psychology Subject Pool](http://pennstate.sona-systems.com/) for students for Psych 100 and Psych 105. -->\n\n<!-- ### Symmetry Sorting Study   -->\n<!-- We are studying how the brain perceives symmetry in two-dimensions. Participants view a series of images and group them into similar categories. -->\n\n<!-- - We do not have an active study at this time. -->\n\n<!-- ### Detection of Optic Flow -->\n\n<!-- In this study, participants view two images side by side on a computer screen and have to choose which one has coherent motion.  -->\n\n<!-- - We do not have an active study at this time -->\n\n<!-- ## MRI Studies -->\n<!-- Functional Magnetic Resonance Imaging (fMRI) provides information about blood flow in the brain. This technique allows us to determine the areas of the brain that are active while viewing a particular stimuli.   -->\n\n<!-- - We do not have an active study at this time.  -->\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

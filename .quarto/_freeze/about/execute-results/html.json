@@ -1,0 +1,14 @@
+{
+  "hash": "44d4a84554b7b1f0df4d812bd26b6dcc",
+  "result": {
+    "markdown": "---\npagetitle: about\n---\n\n\n## Gilmore Bio\n\nRick O. Gilmore is Associate Professor of Psychology, a Huck Institute of the Life Sciences faculty member, and an Associate of the Institute for Cyberscience. He earned his bachelor's degree *magna cum laude* in Cognitive Science from [Brown University](https://www.brown.edu), and master's and doctoral degrees in Psychology from [Carnegie Mellon University](https://www.cmu.edu) where he participated in the [Center for the Neural Basis of Cognition (CNBC)](https://cnbc.cmu.edu) training program in cognitive neuroscience. Gilmore's research focuses on the development of visual perception and memory. He is particularly interested in the development of brain networks that enable perceivers to extract information about the layout of the environment, the shape of objects, and the speed and direction of self-movement from patterns of visual motion called optic flow. Gilmore is also keenly interested in developing tools and practices that make scientific research more open, transparent, and reproducible. He is co-founder and Co-Director of the [Databrary.org](https://databrary.org) data library.\n\nFrom 2008 to 2014, Gilmore served as the founding Director of Human Imaging at Penn State's Social, Life, and Engineering Sciences Imaging Center [(SLEIC)](https://imaging.psu.edu). He has won the College of the Liberal Arts tenure-line faculty teaching award, leads the Human Developmental Neuroscience Initiative for the Child Study Center, and has had support for his research from the National Institutes of Health and the National Science Foundation. Gilmore has served as president of the [Centre Region Bicycle Coalition](https://centrebike.org), the [Acoustic Brew Concert Series](https://acousticbrew.org), and the [State College Community Theatre](https://scctonline.org). He recently joined the board of the Nittany Amateur Radio Club (NARC), and serves as faculty adviser (and K3CR license trustee) for the Penn State Amateur Radio Club.\n\n## Contact Information\n\n<p>114 Moore Building<br/>\nDepartment of Psychology<br/>\nThe Pennsylvania State University<br/>\nUniversity Park, PA 16801<br/>\n814-865-3664, voice <br/>\n814-863-7002, fax<br/>\n\nrogilmore AT-SIGN psu DOT edu<br/>\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
