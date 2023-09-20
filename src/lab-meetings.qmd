@@ -2,21 +2,7 @@
 title: lab-meetings
 ---
 
-# Lab Meetings
-
 For the Fall 2023 Semester, we will meet on Tuesdays 8:00-8:50 am in room 350 Moore.
-
-## Previous meeting notes
-
-[Notes from previous semesters](lab-meetings-previous.html)
-
-## Helpful Links
-
-- Global Protect Instructions for [Mac](https://ithelp.ssri.psu.edu/penn-state-vpn-mac) and [Windows](https://ithelp.ssri.psu.edu/penn-state-vpn)
-<!-- - Click to login to our [R Studio Server space](https://rstudio.tlt.psu.edu/s/e40b8122db8f5ab27456f/) -->
-- Click to login to [Datacamp](https://www.datacamp.com/)
-- How to take screen shots for [Mac](https://support.apple.com/en-us/HT201361) and [Windows](https://www.howtogeek.com/226280/how-to-take-screenshots-in-windows-10/)
-- [Databrary](https://www.databrary.org)
 
 ## Goals
 
@@ -30,8 +16,10 @@ For the Fall 2023 Semester, we will meet on Tuesdays 8:00-8:50 am in room 350 Mo
   - [Psi Chi Research Conference](https://sites.psu.edu/psichi/research-conference-2/)
 - Launch new projects
     - PLAY
+        - Data collection
+        - Locomotion coding
     - Legacy: Visual Acuity
-    - Migrate lab site to Quarto
+    - ~~Migrate lab site to Quarto~~
 - Reinvigorate old projects
     - Databrary tagging
     - Databrary User [Guide](https://databrary.github.io/guide)
@@ -39,8 +27,6 @@ For the Fall 2023 Semester, we will meet on Tuesdays 8:00-8:50 am in room 350 Mo
     - [Motion meta-analysis](https://github.com/gilmore-lab/motion-metaanalysis)
 - Future readings:
   - Yiming's PhD paper and paper reviews
-
-<!-- [Psych 494 Syllabus](https://gilmore-lab.github.io/protocols/psych-494-syllabus.html)  -->
 
 ## Fall 2023
 
@@ -84,3 +70,16 @@ NYU Health Sciences Library. (2013, 13. November). Data Sharing and Management S
     - Refreshing internal resources, especially the [lab website](https://gilmore-lab.github.io) and our lab [protocols site](https://gilmore-lab.github.io/protocols).
 3. [Onboarding and Training](https://gilmore-lab.github.io/protocols) and orientation (Andrea)
 4. Schedule
+
+## Previous meeting notes
+
+[Notes from previous semesters](lab-meetings-previous.html)
+
+## Helpful Links
+
+- Global Protect Instructions for [Mac](https://ithelp.ssri.psu.edu/penn-state-vpn-mac) and [Windows](https://ithelp.ssri.psu.edu/penn-state-vpn)
+<!-- - Click to login to our [R Studio Server space](https://rstudio.tlt.psu.edu/s/e40b8122db8f5ab27456f/) -->
+- Click to login to [Datacamp](https://www.datacamp.com/)
+- How to take screen shots for [Mac](https://support.apple.com/en-us/HT201361) and [Windows](https://www.howtogeek.com/226280/how-to-take-screenshots-in-windows-10/)
+- [Databrary](https://www.databrary.org)
+

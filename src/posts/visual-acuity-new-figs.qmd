@@ -1,0 +1,18 @@
+---
+title: "Preliminary figures from Legacy: Visual Acuity"
+date: 2023-09-20
+categories:
+  - visual acuity
+  - visualization
+image: https://gilmore-lab.github.io/visual-acuity/data_files/figure-html/fig-teller-acuity-across-age-1.png
+---
+
+Several RAs have taken the bull by the horns and made significant progress on the research protocol for the Legacy Project: Visual Acuity study.
+
+In the meantime, Rick went ahead and made a very preliminary plot of what the eventual study-level data might look like:
+
+![Figure from <https://gilmore-lab.github.io/visual-acuity/data.html#fig-teller-acuity-across-age>](https://gilmore-lab.github.io/visual-acuity/data_files/figure-html/fig-teller-acuity-across-age-1.png){fig-align="center"}
+
+With a bit of tweaking of some archival data, Rick also wrangled the following plot of some individual-level data.
+
+![Figure from <https://gilmore-lab.github.io/visual-acuity/data.html#fig-gilmore-lab-archival>](https://gilmore-lab.github.io/visual-acuity/data_files/figure-html/fig-gilmore-lab-archival-1.png){fig-align="center"}
