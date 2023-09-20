@@ -1,0 +1,43 @@
+body { 
+  font-size: 24px; 
+  max-width: 1800px; 
+  margin: auto; 
+  padding: 1em; }
+
+.r { 
+  font-size: 24px; 
+}
+
+pre { 
+  font-size: 18px;
+}
+
+p { 
+  padding-top: 10px; 
+  padding-bottom: 4px; 
+}
+
+h1 { 
+  font-size: 38px; 
+}
+
+h2 { 
+  font-size: 34px; 
+}
+
+h3 { 
+  font-size: 31px; 
+}
+
+h4 { 
+  font-size: 28px; 
+}
+
+h5 { 
+  font-size: 26px; 
+}
+
+li { 
+  font-size: 24px; 
+}
+

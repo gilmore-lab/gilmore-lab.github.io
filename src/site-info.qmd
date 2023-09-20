@@ -1,0 +1,12 @@
+---
+title: "About the site"
+---
+
+This site is generated in [Quarto](http://quarto.org/) using [RStudio](http://rstudio.com).
+The rendered site is hosted using GitHub pages.
+
+Here is additional information about the R session.
+
+```{r}
+sessionInfo()
+```

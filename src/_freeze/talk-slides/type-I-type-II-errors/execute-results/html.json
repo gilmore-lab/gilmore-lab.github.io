@@ -1,0 +1,14 @@
+{
+  "hash": "bc67950778ca7a3cbd6a66f5aff0330d",
+  "result": {
+    "markdown": "---\ntitle: \"Type I & Type II Errors and Statistical Power\"\nauthor: \"Rick Gilmore\"\ndate: \"2023-09-12 12:28:50.058206\"\noutput: \n  html_document:\n    self_contained: yes\n    toc: yes\n    toc_depth: 3\n    toc_float: yes\n---\n\n\n\n\n## Purpose\n\nTo discuss Type I and Type II errors and how they relate to the idea of statistical power.\n\n## Making decisions\n\n\n::: {.cell}\n\n```{.r .cell-code}\nknitr::include_graphics(\"https://mk0abtastybwtpirqi5t.kinstacdn.com/wp-content/uploads/type-1-2-errors.png\")\n```\n\n::: {.cell-output-display}\n![](https://mk0abtastybwtpirqi5t.kinstacdn.com/wp-content/uploads/type-1-2-errors.png)\n:::\n:::\n\n\n## Setting decision thresholds\n\n- Goal: Minimize the probability of making errors\n- Types of errors\n    - False positives: Nothing's going on, but we say otherwise (Type I)\n    - False negatives: Something's going on, but we miss it (Type II)\n\n\n::: {.cell}\n\n```{.r .cell-code}\nknitr::include_graphics(\"https://i.stack.imgur.com/R0ncP.png\")\n```\n\n::: {.cell-output-display}\n![](https://i.stack.imgur.com/R0ncP.png)\n:::\n:::\n\n\n## What do we control? What do we measure?\n\n- Control\n    - Sample size\n    - Decision criteria\n    - How big a difference (effect size) actually matters\n    - Width of \"null\" or reference distribution\n- Measure\n    - Outcomes and their variability\n    \n## Power analysis on sex differences data\n\n<https://gilmore-lab.github.io/sex-differences-in-motion-perception/analysis/preregistration_power_analysis.html>\n\n## Bottom line\n\n- Need bigger samples to detect smaller effects with confidence\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

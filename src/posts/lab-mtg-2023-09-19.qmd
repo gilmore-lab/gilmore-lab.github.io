@@ -1,0 +1,27 @@
+---
+title: "Lab meeting: 2023-09-19"
+date: 2023-09-19
+categories:
+  - lab meetings
+  - PLAY
+  - Databrary
+  - Visual Acuity
+---
+
+Rick and the [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/) talked about progress on this project, especially the excellent protocol [Brianna Beamer](../who-we-are.qmd#brianna-beamer) drafted from scratch and the comments [Julia DiFulvio](../who-we-are.qmd#julia-difulvio) made on the draft.
+
+[Madison Gehringer](../who-we-are.qmd#madison-gehringer), [Belle Peterson](../who-we-are.qmd#belle-peterson), and Andrea gave updates about PLAY.
+
+Andrea and [Yinghe Liu](../who-we-are.qmd#yinghe-liu) talked about progress on the Databrary [Guide](https://databrary.github.io/guide/).
+
+::: {.callout-important}
+
+Who wants to be the lab website webmaster?
+
+:::
+
+::: {.callout-note}
+
+We need bios from a number of new folks.
+
+:::
