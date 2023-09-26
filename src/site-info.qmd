@@ -10,3 +10,23 @@ Here is additional information about the R session.
 ```{r}
 sessionInfo()
 ```
+
+## Standard workflow
+
+1. Open project
+2. Pull
+3. Make changes 
+2. Render site
+3. Preview site
+4. Commit changes
+5. Push to GitHub
+
+```{mermaid}
+flowchart LR
+  A[Open project] --> B(Pull)
+  B --> C{Make changes}
+  C --> D[Render site]
+  D --> E[Preview site]
+```
+
+

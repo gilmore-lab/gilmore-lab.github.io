@@ -93,6 +93,9 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     "search-label": "Search"
   }
 }</script>
+<script src="site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="styles.css">
@@ -215,8 +218,34 @@ loaded via a namespace (and not attached):
 [13] digest_0.6.33     rlang_1.1.1       evaluate_0.21    </code></pre>
 </div>
 </div>
+<section id="standard-workflow" class="level2">
+<h2 class="anchored" data-anchor-id="standard-workflow">Standard workflow</h2>
+<ol type="1">
+<li>Open project</li>
+<li>Pull</li>
+<li>Make changes</li>
+<li>Render site</li>
+<li>Preview site</li>
+<li>Commit changes</li>
+<li>Push to GitHub</li>
+</ol>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<div>
+<pre class="mermaid mermaid-js">flowchart LR
+  A[Open project] --&gt; B(Pull)
+  B --&gt; C{Make changes}
+  C --&gt; D[Render site]
+  D --&gt; E[Preview site]
+</pre>
+</div>
+</div>
+</div>
+</div>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
