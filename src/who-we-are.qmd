@@ -123,17 +123,19 @@ Molly Askin is a junior at the Pennsylvania State University and is from New Jer
 
 ----
 
-### Brianna Beamer, Undergraduate Research Assistant {brianna-beamer}
+### Brianna Beamer, Undergraduate Research Assistant {#brianna-beamer}
 
 :::: {.columns}
 
 ::: {.column width="25%"}
 
-![](images/lab-logo.png){fig-align="left" width="80%"}
+![](images/brianna-beamer.jpeg){fig-align="left" width="80%"}
 
 :::
 
 ::: {.column width="75%"}
+
+Brianna Beamer is a Junior at Penn State University studying Psychology with a neuroscience focus. She works in the [Gilmore Lab](https://gilmore-lab.github.io/) here at Penn State. She hopes to further her education and eventually earn a Ph.D. in Psychology to become a neuropsychologist. With this, she plans to help patients with damage in their central nervous system to help them to overcome the struggles they encounter. In Brianna's free time, she enjoys baking, listening to music, and exploring the outdoors. A fun fact about Brianna is she is from Dallas, Texas! 
 
 :::
 
@@ -153,7 +155,7 @@ Molly Askin is a junior at the Pennsylvania State University and is from New Jer
 
 ::: {.column width="75%"}
 
-
+Nicole Cruz is a sophomore at Pennsylvania State University pursuing an undergraduate degree in Psychology with a Neuroscience focus. She intends to graduate in the spring of 2025 and continue her education by pursuing an MD and/or Ph.D. in Neuropsychology. She is interested in research on topics about neurological disorders like Alzheimer’s disease. She is now an undergraduate research assistant working with Dr. Gilmore in his Brain and Behavioral Dynamics lab [Gilmore Lab](https://gilmore-lab.github.io/) at Penn State. In her free time, she enjoys listening and playing music, traveling, and cooking. 
 
 :::
 
@@ -240,7 +242,7 @@ Oriana Franco is a [Penn State University](https://www.psu.edu/) student, pursui
 :::
 
 ::: {.column width="75%"}
-Madison Gehringer is a junior at Penn State pursuing an undergraduate degree in psychology with a focus in neuroscience as well as a minor in biology. She is a member of the National Society of Leadership and Success at Penn State. Madison is interested in studying brain damage and mental illness, her interest in the brain led her to become apart of Dr. Gilmore's lab. In her free time she enjoys baking, drawing and listening to music. Madison is an avid animal lover and when she is not at Penn State she works as an animal technician at the [Montgomery County SPCA](https://montgomerycountyspca.org/) Perkiomenville location.
+Madison Gehringer is a Senior at Penn State pursuing an undergraduate degree in psychology with a focus in neuroscience as well as a minor in biology. Madison is interested in studying brain damage and mental illness, her interest in the brain led her to become apart of Dr. Gilmore’s lab. Madison is currently working on the [PLAY]( https://www.play-project.org/) project as lead data collector for Penn State. She is a member of the National Society of Leadership and Success at Penn State. In her free time she enjoys baking, drawing and listening to music. Madison is an avid animal lover and when she is not at Penn State she works as an animal technician at the [Montgomery County SPCA](https://montgomerycountyspca.org/) Perkiomenville location.
 :::
 
 ::::
@@ -257,6 +259,8 @@ Madison Gehringer is a junior at Penn State pursuing an undergraduate degree in 
 
 ::: {.column width="75%"}
 
+Peter is a senior student majoring in Biology with a focus on neuroscience option, he is currently participating in [Legacy project]( https://gilmore-lab.github.io/visual-acuity/) in [Gilmore Lab](https://gilmore-lab.github.io/) at Penn State. He is interested in how our brain works at neuron levels, especially visual perception. Peter plans to continue pursuing a Ph.D. in neuroscience after graduation from Penn State.
+
 :::
 
 ::::
@@ -267,11 +271,13 @@ Madison Gehringer is a junior at Penn State pursuing an undergraduate degree in 
 
 ::: {.column width="25%"}
 
-![](images/lab-logo.png){fig-align="left" width="80%"}
+![](images/yinghe-liu.jpeg){fig-align="left" width="80%"}
 
 :::
 
 ::: {.column width="75%"}
+
+Liu is a senior undergraduate majoring in Psychology with a minor in Human Development and Family Study. Currently, Liu is working on improving the [guidance manual for Databrary](https://databrary.github.io/guide/). His academic journey has been defined by a deep interest in understanding the development of decision-making mechanism with a focus on cognitive flexibility. He is also planning on a post-undergraduate education after graduation. Outside of his academic interest, Liu is an enthusiastic player of the [game of Go](https://en.wikipedia.org/wiki/Go_(game)#Psychology), a complex board game that has significantly shaped his perspective on human intelligence. 
 
 :::
 
@@ -282,11 +288,13 @@ Madison Gehringer is a junior at Penn State pursuing an undergraduate degree in 
 :::: {.columns}
 
 ::: {.column width="25%"}
-|![](images/BellePeterson.jpg)
+|![](images/BelleP.jpg)
 :::
 
 ::: {.column width="75%"}
-Belle Peterson is a junior at the Pennsylvania State University from Northern California. She is majoring in Bio-Behavioral Health, with minors in Neuroscience and Biology. She is the co-founder of an artificial intelligence-based start-up, [Apoio](https://www.apoioclinica.com), which focuses on improving the intake process for mental health providers and providing greater access to care for patients. She is also involved with [Alpha Phi Omega](https://apo.org) and [Remote Area Medical](https://www.ramusa.org), both student-run community service groups. Belle plans to attend medical school after matriculation to specialize in pediatric and adolescent medicine. In her free time, Belle enjoys swimming, baking for her roommates, and white-water rafting.
+
+Belle Peterson is a senior Biobehavioral Health Major, with minors in Global Health and Diversity and Inclusion in Health and Human Development. Belle is currently preparing to apply to medical school, with the goal of eventually becoming a Pediatrician and working with underserved pediatric populations, both domestically and abroad. Belle is passionate about the intersections between physiological and psychological health, and has had the opportunity to pursue this interest during her time in the Gilmore Lab, as well as through the founding of her artificial intelligence based start-up, Apoio, which focuses on improving the intake process for mental health providers in rural/remote regions. Belle is also involved with [Alpha Phi Omega](https://apo.org) and [Remote Area Medical](https://www.ramusa.org), which are both student-run service organizations on campus. In her free time, Belle enjoys swimming, baking, and trying new coffee shops.
+
 :::
 
 ::::
