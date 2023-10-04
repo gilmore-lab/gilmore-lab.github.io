@@ -288,7 +288,7 @@ Liu is a senior undergraduate majoring in Psychology with a minor in Human Devel
 :::: {.columns}
 
 ::: {.column width="25%"}
-|![](images/BelleP.jpg)
+![](images/BellePcrop.jpeg)
 :::
 
 ::: {.column width="75%"}
