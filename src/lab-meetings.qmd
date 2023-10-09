@@ -35,6 +35,18 @@ For the Fall 2023 Semester, we will meet on Tuesdays 8:00-8:50 am in room 350 Mo
 1. Project updates/work session
      - [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/). update (Rick, Brianna, Julia, Nicole, Peter)
 2. Using R, R Markdown & Quarto (Rick & Andrea)
+    - Planning
+      - Goals
+      - Are data sensitive or not
+    - Create repo
+    - Create RStudio project
+    - Create stub site/documents
+    - On data page
+      - Purpose
+      - Gathering
+      - Cleaning
+      - Visualization
+    - Commit (& usually push)
 
 ### Tuesday, October 3, 2023
 
