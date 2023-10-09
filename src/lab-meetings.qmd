@@ -30,12 +30,23 @@ For the Fall 2023 Semester, we will meet on Tuesdays 8:00-8:50 am in room 350 Mo
 
 ## Fall 2023
 
+## Tuesday, October 10, 2023
+
+1. Project updates/work session
+     - [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/). update (Rick, Brianna, Julia, Nicole, Peter)
+2. Using R, R Markdown & Quarto (Rick & Andrea)
+
+### Tuesday, October 3, 2023
+
+**No lab meeting**
+
 ### Tuesday, September 26, 2023, 350 Moore
 
 1. Project updates
     - [PLAY](https://play-project.org/) update (Madison, Andrea, Belle, Oriana)
     - [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/). update (Rick, Brianna, Julia, Nicole, Peter)
     - Databrary [Guide](https://databrary.github.io/guide/) project update (Andrea, Liu)
+    
 ### Tuesday, September 19, 2023, 350 Moore
 2. Looking for:
     - Web site master
@@ -43,7 +54,7 @@ For the Fall 2023 Semester, we will meet on Tuesdays 8:00-8:50 am in room 350 Mo
     - Sign-up for Hypothes.is
 3. Future meetings
     - Readings related to PLAY, visual acuity project, Databrary
-        - Peter will look at: Teller, D. Y., McDonald, M. A., Preston, K., Sebris, S. L. & Dobson, V. (1986). Assessment of visual acuity in infants and children: the acuity card procedure. Developmental Medicine and Child Neurology, 28(6), 779–789. As candidate for reading as a group. https://doi.org/10.1111/j.1469-8749.1986.tb03932.x
+        - Peter will look at: Teller, D. Y., McDonald, M. A., Preston, K., Sebris, S. L. & Dobson, V. (1986). Assessment of visual acuity in infants and children: The acuity card procedure. *Developmental Medicine and Child Neurology*, *28*(6), 779–789. As candidate for reading as a group. https://doi.org/10.1111/j.1469-8749.1986.tb03932.x
     - Work sessions on using Quarto and R Studio.
     - Learning Mermaid and Graphviz tools from [Quarto](https://quarto.org/docs/authoring/diagrams.html).
 

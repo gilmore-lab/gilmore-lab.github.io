@@ -201,23 +201,23 @@ Nicole Cruz is a sophomore at Pennsylvania State University pursuing an undergra
 
 ----
 
-### Ysa Fernandez, Undergraduate Research Assistant {#ysa-fernandez}
+<!-- ### Ysa Fernandez, Undergraduate Research Assistant {#ysa-fernandez} -->
 
-:::: {.columns}
+<!-- :::: {.columns} -->
 
-::: {.column width="25%"}
+<!-- ::: {.column width="25%"} -->
 
-![](images/YsaFernandez.jpg)
+<!-- ![](images/YsaFernandez.jpg) -->
 
-:::
+<!-- ::: -->
 
-::: {.column width="75%"}
+<!-- ::: {.column width="75%"} -->
 
-Ysa Fernandez is a senior at Penn State pursuing an undergraduate degree in Psychology with a minor in Child Maltreatment and Advocacy Studies. They are a resident assistant and an undergraduate research assistant for the [Cognition, Affect, and Temperament Lab](http://www.catlabpsu.com). Ysa's main research interests include measuring the association between household chaos and caregiving affecting child development, and how environmental stressors can lead parents to adopt stricter behaviors with less sensitivity. They plan to pursue and eventually obtain their PhD in developmental psychology with hopes of exploring their interests even further. In their free time, they like to make music, go bouldering, and forage for mushrooms.
+<!-- Ysa Fernandez is a senior at Penn State pursuing an undergraduate degree in Psychology with a minor in Child Maltreatment and Advocacy Studies. They are a resident assistant and an undergraduate research assistant for the [Cognition, Affect, and Temperament Lab](http://www.catlabpsu.com). Ysa's main research interests include measuring the association between household chaos and caregiving affecting child development, and how environmental stressors can lead parents to adopt stricter behaviors with less sensitivity. They plan to pursue and eventually obtain their PhD in developmental psychology with hopes of exploring their interests even further. In their free time, they like to make music, go bouldering, and forage for mushrooms. -->
 
-:::
+<!-- ::: -->
 
-::::
+<!-- :::: -->
 
 ### Oriana Franco, Undergraduate Research Assistant {#oriana-franco}
 
@@ -301,6 +301,7 @@ Belle Peterson is a senior Biobehavioral Health Major, with minors in Global Hea
 
 ## Recent Alumni
 
+- Ysa Fernandez
 - Yiming Qian, Ph.D.
 - Cecelia Petrarca
 - Kayla Moninger
