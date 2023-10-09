@@ -371,18 +371,18 @@
     "text": "Helpful Links\n\nGlobal Protect Instructions for Mac and Windows \nClick to login to Datacamp\nHow to take screen shots for Mac and Windows\nDatabrary"
   },
   {
-    "objectID": "posts/lab-mtg-2023-09-12.html",
-    "href": "posts/lab-mtg-2023-09-12.html",
-    "title": "Lab meeting: 2023-09-12",
+    "objectID": "posts/lab-mtg-2023-10-10.html",
+    "href": "posts/lab-mtg-2023-10-10.html",
+    "title": "Lab meeting: 2023-10-10",
     "section": "",
-    "text": "PLAY Project Logo\n\n\nMadison Gehringer talked about the Play & Learning Across a Year (PLAY) Project in today’s lab meeting. We had a great discussion about the ethics of sharing identifiable data like video, among other topics."
+    "text": "Datasaurus dozen\n\n\nThe visual acuity project team led a discussion about the draft protocol.\nRick and Andrea led a how-to session based on some reaction time data Andrea collected in her son Alex’s class last year. We will discuss how to plan a data visualization and analysis project like this in a way that “bakes-in” reproducible workflows from the very beginning."
   },
   {
-    "objectID": "posts/visual-acuity-new-figs.html",
-    "href": "posts/visual-acuity-new-figs.html",
-    "title": "Preliminary figures from Legacy: Visual Acuity",
+    "objectID": "posts/new-site.html",
+    "href": "posts/new-site.html",
+    "title": "New website!",
     "section": "",
-    "text": "Several RAs have taken the bull by the horns and made significant progress on the research protocol for the Legacy Project: Visual Acuity study.\nIn the meantime, Rick went ahead and made a very preliminary plot of what the eventual study-level data might look like:\n\n\n\nFigure from https://gilmore-lab.github.io/visual-acuity/data.html#fig-teller-acuity-across-age\n\n\nWith a bit of tweaking of some archival data, Rick also wrangled the following plot of some individual-level data.\n\n\n\nFigure from https://gilmore-lab.github.io/visual-acuity/data.html#fig-gilmore-lab-archival"
+    "text": "Welcome to our new website. The old site was built in R Markdown. The new one is built in Quarto. We hope you like the new look and feel."
   },
   {
     "objectID": "research.html",
@@ -448,11 +448,18 @@
     "text": "The ability to sense regular or near-regular patterns serves critical biological needs and is equally important for computer vision and machine intelligence. Despite wide variation in the types of regularity present in natural images, research on human and computer processing of pattern regularity has focused primarily on detecting bilateral reflection symmetry, using largely atheoretical approaches. The goals of this interdisciplinary research are to i) use principles of group theory to develop a conceptual framework for understanding regularity perception and brain activation in humans, and ii) to design general computer-based symmetry detection algorithms that can operate at a level of practical usability.\nPublication\nKohler, P.J., Vedak, S., Y& Gilmore, R.O. (in prep). Perceptual similarities among wallpaper group exemplars. GitHub repo: https://github.com/gilmore-lab/symmetry-sorting.\nPresentations\nVedak, S.C., Gilmore, R.O., Kohler, P.J., Liu, Y., & Norcia, A.M. (2015, May). The salience of low-order visual features in highly self-similar wallpaper groups. Poster presented at the Vision Sciences Society meeting, St. Pete Beach, FL. PDF. Materials on Databrary.\nThomas, A.L., Gilmore, R.O., Norcia, A.M., Liu, Y., Fesi, J.D., Hwang, K.D., Stitt, J., & Liu, J. (2012, October). Visual patterns with rotational symmetry activate distinct cortical regions. Poster presented at the Society for Neuroscience meeting, New Orleans, LA.\nRole\n\nCo-Investigator\n\nCollaborators\n\nYanxi Liu, Penn State Computer Science & Engineering\nAnthony Norcia, Stanford University, Department of Psychology\nPeter Kohler, York University\n\nSupport\nThis project was supported by the National Science Foundation under grant IIS-1248076."
   },
   {
-    "objectID": "posts/new-site.html",
-    "href": "posts/new-site.html",
-    "title": "New website!",
+    "objectID": "posts/visual-acuity-new-figs.html",
+    "href": "posts/visual-acuity-new-figs.html",
+    "title": "Preliminary figures from Legacy: Visual Acuity",
     "section": "",
-    "text": "Welcome to our new website. The old site was built in R Markdown. The new one is built in Quarto. We hope you like the new look and feel."
+    "text": "Several RAs have taken the bull by the horns and made significant progress on the research protocol for the Legacy Project: Visual Acuity study.\nIn the meantime, Rick went ahead and made a very preliminary plot of what the eventual study-level data might look like:\n\n\n\nFigure from https://gilmore-lab.github.io/visual-acuity/data.html#fig-teller-acuity-across-age\n\n\nWith a bit of tweaking of some archival data, Rick also wrangled the following plot of some individual-level data.\n\n\n\nFigure from https://gilmore-lab.github.io/visual-acuity/data.html#fig-gilmore-lab-archival"
+  },
+  {
+    "objectID": "posts/lab-mtg-2023-09-12.html",
+    "href": "posts/lab-mtg-2023-09-12.html",
+    "title": "Lab meeting: 2023-09-12",
+    "section": "",
+    "text": "PLAY Project Logo\n\n\nMadison Gehringer talked about the Play & Learning Across a Year (PLAY) Project in today’s lab meeting. We had a great discussion about the ethics of sharing identifiable data like video, among other topics."
   },
   {
     "objectID": "posts/lab-mtg-2023-09-19.html",
@@ -564,7 +571,7 @@
     "href": "index.html",
     "title": "Brain and Behavioral Dynamics Lab",
     "section": "",
-    "text": "Brain and Behavioral Dynamics Lab in the Psychology Department at Penn State studies the development of perception, action, and memory. Our goal is to understand patterns of brain and behavioral change in infants, children, and young adults. We use behavioral, EEG, MRI, and computational modeling methods in our research. We also advocate for and try to demonstrate open science practices in our work.\nProfessor Rick Gilmore directs the lab.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPreliminary figures from Legacy: Visual Acuity\n\n\n\n\n\n\n\nvisual acuity\n\n\nvisualization\n\n\n\n\n\n\n\n\n\n\n\nSep 20, 2023\n\n\n\n\n\n\n  \n\n\n\n\nLab meeting: 2023-09-19\n\n\n\n\n\n\n\nlab meetings\n\n\nPLAY\n\n\nDatabrary\n\n\nVisual Acuity\n\n\n\n\n\n\n\n\n\n\n\nSep 19, 2023\n\n\n\n\n\n\n  \n\n\n\n\nLab meeting: 2023-09-12\n\n\n\n\n\n\n\nlab meetings\n\n\nPLAY\n\n\nDatabrary\n\n\n\n\n\n\n\n\n\n\n\nSep 12, 2023\n\n\n\n\n\n\n  \n\n\n\n\nNew website!\n\n\n\n\n\n\n\nwebsite\n\n\nquarto\n\n\n\n\n\n\n\n\n\n\n\nSep 11, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "Brain and Behavioral Dynamics Lab in the Psychology Department at Penn State studies the development of perception, action, and memory. Our goal is to understand patterns of brain and behavioral change in infants, children, and young adults. We use behavioral, EEG, MRI, and computational modeling methods in our research. We also advocate for and try to demonstrate open science practices in our work.\nProfessor Rick Gilmore directs the lab.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nLab meeting: 2023-10-10\n\n\n\n\n\n\n\nlab meetings\n\n\nVisual Acuity\n\n\nR\n\n\nquarto\n\n\n\n\n\n\n\n\n\n\n\nOct 10, 2023\n\n\n\n\n\n\n  \n\n\n\n\nPreliminary figures from Legacy: Visual Acuity\n\n\n\n\n\n\n\nvisual acuity\n\n\nvisualization\n\n\n\n\n\n\n\n\n\n\n\nSep 20, 2023\n\n\n\n\n\n\n  \n\n\n\n\nLab meeting: 2023-09-19\n\n\n\n\n\n\n\nlab meetings\n\n\nPLAY\n\n\nDatabrary\n\n\nVisual Acuity\n\n\n\n\n\n\n\n\n\n\n\nSep 19, 2023\n\n\n\n\n\n\n  \n\n\n\n\nLab meeting: 2023-09-12\n\n\n\n\n\n\n\nlab meetings\n\n\nPLAY\n\n\nDatabrary\n\n\n\n\n\n\n\n\n\n\n\nSep 12, 2023\n\n\n\n\n\n\n  \n\n\n\n\nNew website!\n\n\n\n\n\n\n\nwebsite\n\n\nquarto\n\n\n\n\n\n\n\n\n\n\n\nSep 11, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
