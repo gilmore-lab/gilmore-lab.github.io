@@ -15,5 +15,19 @@ This is an entertaining demonstration about the importance of visualizing data.
 
 The visual acuity project team will a discussion about the draft protocol.
 
-Rick and Andrea will a how-to session based on some reaction time data Andrea collected in her son Alex's class last year.
+Rick and Andrea will run a how-to session based on some reaction time data Andrea collected in her son Alex's class last year.
 We will discuss how to plan a data visualization and analysis project like this in a way that "bakes-in" reproducible workflows from the very beginning.
+
+Here's the figure we generated:
+
+![Histogram of RT data](https://gilmore-lab.github.io/ruler-reaction-time/index_files/figure-html/unnamed-chunk-5-1.png)
+
+This document describes the process:
+
+<https://gilmore-lab.github.io/ruler-reaction-time>
+
+The GitHub repo for this project is here:
+
+<https://github.com/gilmore-lab/ruler-reaction-time/>
+
+
