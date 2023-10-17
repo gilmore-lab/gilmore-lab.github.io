@@ -31,12 +31,16 @@ For the Fall 2023 Semester, we will meet on Tuesdays 8:00-8:50 am in room 350 Mo
 
 ## Fall 2023
 
-## Tuesday, October 17, 2023
+### Tuesday, October 24, 2023
+
+- Read and discuss this piece: <https://www.nytimes.com/interactive/2023/10/16/us/census-race-ethnicity.html?smid=nytcore-ios-share&referringSource=articleShare>
+
+### Tuesday, October 17, 2023
 
 1. Peter will lead a discussion of Birch, E. E., Hudgins, L. A., Jost, R. M., Cheng-Patel, C. S., Morale, S. E. & Kelly, K. R. (2022). Web-based visual acuity testing for children. *Journal of AAPOS: The Official Publication of the American Association for Pediatric Ophthalmology and Strabismus / American Association for Pediatric Ophthalmology and Strabismus*, *26*(2), 61.e1–e61.e5. <https://doi.org/10.1016/j.jaapos.2021.11.007>.
 2. Watch video(s) from <https://mgto.org/meta-analysis-registered-reports/> on meta-analyses and registered reports.
 
-## Tuesday, October 10, 2023
+### Tuesday, October 10, 2023
 
 1. Project updates/work session
      - [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/). update (Rick, Brianna, Julia, Nicole, Peter)

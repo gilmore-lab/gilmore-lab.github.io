@@ -10,7 +10,7 @@ categories:
 
 ![Datasaurus dozen](https://damassets.autodesk.net/content/dam/autodesk/research/publications-assets/gifs/same-stats-different-graphs/DinoSequentialSmaller.gif)
 
-Rick intended talk about the Datasaurus dozen (see figure above).
+Rick talked about the Datasaurus dozen (see figure above).
 This is an entertaining demonstration about the importance of visualizing data.
 
 The visual acuity project team discussed the draft protocol.
@@ -29,5 +29,4 @@ This document describes the process:
 The GitHub repo for this project is here:
 
 <https://github.com/gilmore-lab/ruler-reaction-time/>
-
-
+  
