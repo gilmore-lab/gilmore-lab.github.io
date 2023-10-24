@@ -6,6 +6,8 @@ The Brain and Behavioral Dynamics Lab, part of the [Psychology Department](https
 You can earn research project (PSY 494) credit or work study funds, and learn video, computer, and communication skills. Prior research experience and computer skills are a plus, but aren't required. 
 We are especially interested in students who have morning availability, computer skills, or are interested in developing skills in advertising, marketing, or public relations. You may apply by completing an [application](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform). **We are FULL for Fall 2023 and Spring 2024**
 
+<!-- headshot image width = 175px and 175x220px is ideal -->
+
 ## Lab Director
 
 :::: {.columns}
@@ -149,7 +151,7 @@ Brianna Beamer is a Junior at Penn State University studying Psychology with a n
 
 ::: {.column width="25%"}
 
-![](images/lab-logo.png){fig-align="left" width="80%"}
+![](images/nicole-cruz.jpeg){fig-align="left" width="80%"}
 
 :::
 
@@ -183,41 +185,23 @@ Nicole Cruz is a sophomore at Pennsylvania State University pursuing an undergra
 
 ----
 
-### Clara Eroles, Undergraduate Research Assistant {#clara-eroles}
-
-:::: {.columns}
-
-::: {.column width="25%"}
-
-![](images/lab-logo.png){fig-align="left" width="80%"}
-
-:::
-
-::: {.column width="75%"}
-
-:::
-
-::::
-
-----
-
-<!-- ### Ysa Fernandez, Undergraduate Research Assistant {#ysa-fernandez} -->
+<!-- ### Clara Eroles, Undergraduate Research Assistant {#clara-eroles} -->
 
 <!-- :::: {.columns} -->
 
 <!-- ::: {.column width="25%"} -->
 
-<!-- ![](images/YsaFernandez.jpg) -->
+<!-- ![](images/lab-logo.png){fig-align="left" width="80%"} -->
 
 <!-- ::: -->
 
 <!-- ::: {.column width="75%"} -->
 
-<!-- Ysa Fernandez is a senior at Penn State pursuing an undergraduate degree in Psychology with a minor in Child Maltreatment and Advocacy Studies. They are a resident assistant and an undergraduate research assistant for the [Cognition, Affect, and Temperament Lab](http://www.catlabpsu.com). Ysa's main research interests include measuring the association between household chaos and caregiving affecting child development, and how environmental stressors can lead parents to adopt stricter behaviors with less sensitivity. They plan to pursue and eventually obtain their PhD in developmental psychology with hopes of exploring their interests even further. In their free time, they like to make music, go bouldering, and forage for mushrooms. -->
-
 <!-- ::: -->
 
 <!-- :::: -->
+
+----
 
 ### Oriana Franco, Undergraduate Research Assistant {#oriana-franco}
 
