@@ -9,6 +9,8 @@ For the Fall 2023 Semester, we will meet on Tuesdays 8:00-8:50 am in room 350 Mo
 
 - Data science
     - Learn R on [Datacamp](https://www.datacamp.com/)
+      - ggplot
+      - Data wrangling with dplyr
     - Begin by creating or updating your a brief biography for the [Who we are](https://gilmore-lab.github.io/who-we-are.html) page on the lab website.
 - Start preparing for presentations in Spring 2024
     - Train on poster template for R [posterdown](https://github.com/brentthorne/posterdown)
@@ -24,12 +26,17 @@ For the Fall 2023 Semester, we will meet on Tuesdays 8:00-8:50 am in room 350 Mo
 - Reinvigorate old projects
     - Databrary tagging
     - Databrary User [Guide](https://databrary.github.io/guide)
-    - Testing and documenting [*databraryr* package](https://databrary.github.io/databraryr), and the [Databrary Analytics](https://databrary.github.io/analytics)
+    - ~~Testing and documenting [*databraryr* package](https://databrary.github.io/databraryr)~~
+    - Test and enhance [Databrary Analytics](https://databrary.github.io/analytics)
     - [Motion meta-analysis](https://github.com/gilmore-lab/motion-metaanalysis)
-- Future readings:
-  - Yiming's PhD paper and paper reviews
+- Future readings
+  - Yiming's Ph.D. paper and paper reviews
 
 ## Fall 2023
+
+### Tuesday, November 7, 2023
+
+**No lab meeting**
 
 ### Tuesday, October 31, 2023
 
