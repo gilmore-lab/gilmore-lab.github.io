@@ -40,10 +40,10 @@ For the Fall 2023 Semester, we will meet on Tuesdays 8:00-8:50 am in room 350 Mo
 
 ### Tuesday, November 14, 2023
 
-- Liu will discuss his work on the [Databrary Guide](https://databrary.github.io/guide) and how using ChatGPT has been helpful to that work
-- Schedule end of semester breakfast
-- Getting [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/). update (Rick, Brianna, Julia, Nicole, Peter) back on track
 - Status report on DataCamp
+- Schedule end of semester breakfast
+- Liu will discuss his work on the [Databrary Guide](https://databrary.github.io/guide) and how using ChatGPT has been helpful to that work.
+- Getting [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/). update (Rick, Brianna, Julia, Nicole, Peter) back on track
 
 ### Tuesday, November 7, 2023
 
