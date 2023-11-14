@@ -1,0 +1,19 @@
+---
+title: "Lab meeting: 2023-11-14"
+date: 2023-11-14
+categories:
+  - lab meetings
+  - Databrary
+  - PLAY
+  - R
+  - quarto
+---
+
+![Databrary logo](../images/databrary-nav-sm.jpg)
+
+In the 2023-11-14 lab meeting, Liu discussed work on a new version of the [Databrary Guide](https://databrary.github.io/guide).
+We got an update about the PLAY project from Belle and Madison.
+We made plans for our end-of-semester breakfast on **Monday, December 11, 2023** at the [Downtown Waffle Shop](https://www.facebook.com/waffleshopdowntown/).
+We also learned how to make posts like this!
+
+

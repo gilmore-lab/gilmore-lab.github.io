@@ -29,7 +29,7 @@ website:
     right:
         - icon: github
           text: Github
-          href: https://github.com/gilmore-lab
+          href: https://github.com/gilmore-lab/
 format:
   html:
     theme: litera

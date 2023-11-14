@@ -5,45 +5,24 @@ bibliography: "bib/lab.bib"
 
 For the Fall 2023 Semester, we will meet on Tuesdays 8:00-8:50 am in room 350 Moore.
 
-## Goals
-
-- Data science
-    - Learn R on [Datacamp](https://www.datacamp.com/)
-      - ggplot
-      - Data wrangling with dplyr
-    - Begin by creating or updating your a brief biography for the [Who we are](https://gilmore-lab.github.io/who-we-are.html) page on the lab website.
-- Start preparing for presentations in Spring 2024
-    - Train on poster template for R [posterdown](https://github.com/brentthorne/posterdown)
-    - Submit abstracts for poster presentation:
-  - [Undergraduate Research Exhibition](https://urfm.psu.edu/programs/undergraduate-exhibition#paragraphs-id-114)
-  - [Psi Chi Research Conference](https://sites.psu.edu/psichi/research-conference-2/)
-- Launch new projects
-    - PLAY
-        - Data collection
-        - Locomotion coding
-    - Legacy: Visual Acuity
-    - ~~Migrate lab site to Quarto~~
-- Reinvigorate old projects
-    - Databrary tagging
-    - Databrary User [Guide](https://databrary.github.io/guide)
-    - ~~Testing and documenting [*databraryr* package](https://databrary.github.io/databraryr)~~
-    - Test and enhance [Databrary Analytics](https://databrary.github.io/analytics)
-    - [Motion meta-analysis](https://github.com/gilmore-lab/motion-metaanalysis)
-- Future readings
-  - Yiming's Ph.D. paper and paper reviews
-
 ## Fall 2023
+
+### Tuesday, December 5, 2023
+
+- `ggplot2` interactive (Brianna, Rick) demo.
 
 ### Tuesday, November, 28, 2023
 
-- Peter will present
+- Peter will lead a discussion of a paper.
+- Julia will lead a discussion of a paper.
 
 ### Tuesday, November 14, 2023
 
-- Status report on DataCamp
-- Schedule end of semester breakfast
+- Status report on DataCamp.
+- Schedule end of semester breakfast.
+- PLAY status (Madison & Belle).
 - Liu will discuss his work on the [Databrary Guide](https://databrary.github.io/guide) and how using ChatGPT has been helpful to that work.
-- Getting [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/). update (Rick, Brianna, Julia, Nicole, Peter) back on track
+- Getting [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/). update (Rick, Brianna, Julia, Nicole, Peter) back on track.
 
 ### Tuesday, November 7, 2023
 
@@ -130,6 +109,33 @@ NYU Health Sciences Library. (2013, 13. November). Data Sharing and Management S
     - Refreshing internal resources, especially the [lab website](https://gilmore-lab.github.io) and our lab [protocols site](https://gilmore-lab.github.io/protocols).
 3. [Onboarding and Training](https://gilmore-lab.github.io/protocols) and orientation (Andrea)
 4. Schedule
+
+## Goals
+
+- Data science
+    - Learn R on [Datacamp](https://www.datacamp.com/)
+      - ggplot
+      - Data wrangling with dplyr
+    - Begin by creating or updating your a brief biography for the [Who we are](https://gilmore-lab.github.io/who-we-are.html) page on the lab website.
+- Start preparing for presentations in Spring 2024
+    - Train on poster template for R [posterdown](https://github.com/brentthorne/posterdown)
+    - Submit abstracts for poster presentation:
+  - [Undergraduate Research Exhibition](https://urfm.psu.edu/programs/undergraduate-exhibition#paragraphs-id-114)
+  - [Psi Chi Research Conference](https://sites.psu.edu/psichi/research-conference-2/)
+- Launch new projects
+    - PLAY
+        - Data collection
+        - Locomotion coding
+    - Legacy: Visual Acuity
+    - ~~Migrate lab site to Quarto~~
+- Reinvigorate old projects
+    - Databrary tagging
+    - Databrary User [Guide](https://databrary.github.io/guide)
+    - ~~Testing and documenting [*databraryr* package](https://databrary.github.io/databraryr)~~
+    - Test and enhance [Databrary Analytics](https://databrary.github.io/analytics)
+    - [Motion meta-analysis](https://github.com/gilmore-lab/motion-metaanalysis)
+- Future readings
+  - Yiming's Ph.D. paper and paper reviews
 
 ## Previous meeting notes
 
