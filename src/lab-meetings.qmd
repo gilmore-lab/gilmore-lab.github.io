@@ -7,22 +7,29 @@ For the Fall 2023 Semester, we will meet on Tuesdays 8:00-8:50 am in room 350 Mo
 
 ## Fall 2023
 
+### Monday, December 11, 2023
+
+- End of semester lab breakfast, [The Waffle Shop, 364 E. College Avenue](https://www.facebook.com/waffleshopdowntown).
+
 ### Tuesday, December 5, 2023
 
-- `ggplot2` interactive (Brianna, Rick) demo.
+- Julia will lead a discussion of a paper: [@Courage1990-xe].
+  - Link to Legacy Project: Acuity [dataset](https://docs.google.com/spreadsheets/d/1UFZkbh9oU4JHpYsrkDQcNmDyqD4J-qB74dhyMzIkqKs/edit#gid=0).
+- ~~`ggplot2` interactive (Brianna, Rick) demo~~.
+- *Attendees*: Julia, Liu, Madison, Belle, Briana, Yiming, Rick, Andrea
+  
+### Tuesday, November, 28, 2023 **CANCELLED**
 
-### Tuesday, November, 28, 2023
-
-- Peter will lead a discussion of a paper.
 - Julia will lead a discussion of a paper.
+- Peter will lead a discussion of a paper:
 
 ### Tuesday, November 14, 2023
 
-- Status report on DataCamp.
+- Status report on DataCamp.</br>
 - Schedule end of semester breakfast.
 - PLAY status (Madison & Belle).
 - Liu will discuss his work on the [Databrary Guide](https://databrary.github.io/guide) and how using ChatGPT has been helpful to that work.
-- Getting [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/). update (Rick, Brianna, Julia, Nicole, Peter) back on track.
+- [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/) update (Rick, Brianna, Julia, Nicole, Peter).
 
 ### Tuesday, November 7, 2023
 
