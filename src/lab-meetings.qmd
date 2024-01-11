@@ -3,7 +3,23 @@ title: lab-meetings
 bibliography: "bib/lab.bib"
 ---
 
-For the Fall 2023 Semester, we will meet on Tuesdays 8:00-8:50 am in room 350 Moore.
+For the Spring 2024 Semester, we will meet on Tuesdays 8:00-8:50 am in room 444 Moore.
+
+## Spring 2024
+
+### Tuesday, January 16, 2024
+
+1. Status Report
+   - [Datacamp](https://www.datacamp.com/) 
+   - [PLAY](https://play-project.org/) update
+      - recruitment
+      - data collection
+   - [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/)
+2. Schedule Outstanding Lab Member Presentations from last semester
+   - `ggplot2` interactive (Brianna, Rick) demo?
+   - Peter paper discussion?
+3. Missing Webpage Biography
+   - Molly, Julia, Bruna
 
 ## Fall 2023
 
