@@ -7,7 +7,38 @@ For the Spring 2024 Semester, we will meet on Tuesdays 8:00-8:50 am in room 444 
 
 ## Spring 2024
 
-### Tuesday, January 16, 2024
+### Tuesday, April 9, 2024
+
+1. Yiming presentation (tentative)
+
+### Tuesday, February 6, 2024
+
+1. Belle (& Rick) presentation/discussion of: 
+
+Soska, K. C., Xu, M., Gonzalez, S. L., Herzberg, O., Tamis-LeMonda, C. S., Gilmore, R. O. & Adolph, K. E. (2021). (Hyper)active data curation: A video case study from behavioral science. Journal of Escience Librarianship, 10(3). <https://doi.org/10.7191/jeslib.2021.1208>.
+
+### Tuesday, January 30, 2024
+
+1. Datacamp check-in
+2. Peter paper presentation
+
+### Tuesday, January 23, 2024
+
+0. Attending
+  - Nicole, Belle, Julia, Bruna, Liu, Andrea, Yiming, Rick, Peter
+1. Status Report
+   - [Datacamp](https://www.datacamp.com/)
+   - [PLAY](https://play-project.org/) update
+      - recruitment
+      - data collection
+   - [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/)
+2. Schedule Outstanding Lab Member Presentations from last semester
+   - `ggplot2` interactive (Brianna, Rick) demo?
+   - Peter paper discussion?
+3. Missing Webpage Biography
+   - Molly, Julia, Bruna
+
+### CANCELLED ~~Tuesday, January 16, 2024~~
 
 1. Status Report
    - [Datacamp](https://www.datacamp.com/) 
