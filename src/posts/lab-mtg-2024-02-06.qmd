@@ -1,0 +1,19 @@
+---
+title: "Lab meeting: 2024-02-06"
+date: 2024-02-06
+categories:
+  - lab meetings
+  - Databrary
+  - PLAY
+  - R
+  - quarto
+---
+
+![Figure 1 from Soska et al. 2021](../talk-slides/img/soska-etal-2021-fig01.jpeg)
+
+In this week's meeting, Rick and Belle talked about the PLAY Project workflow,
+focusing especially on the quality assurance procedures outlined in this paper:
+
+Soska, K. C., Xu, M., Gonzalez, S. L., Herzberg, O., Tamis-LeMonda, C. S., Gilmore, R. O. & Adolph, K. E. (2021). (Hyper)active data curation: A video case study from behavioral science. *Journal of Escience Librarianship*, *10*(3). <https://doi.org/10.7191/jeslib.2021.1208>.
+
+

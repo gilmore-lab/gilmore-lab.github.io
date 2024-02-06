@@ -1,187 +1,5 @@
 [
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "resources",
-    "section": "",
-    "text": "New Lab Member Instructions\nWe use Paperpile for reference management. Please use the Paperpile Instructions to utilize this web based reference management system.\n\n\n\nR for Data Science"
-  },
-  {
-    "objectID": "resources.html#lab-resources",
-    "href": "resources.html#lab-resources",
-    "title": "resources",
-    "section": "",
-    "text": "New Lab Member Instructions\nWe use Paperpile for reference management. Please use the Paperpile Instructions to utilize this web based reference management system.\n\n\n\nR for Data Science"
-  },
-  {
-    "objectID": "resources.html#active-projects",
-    "href": "resources.html#active-projects",
-    "title": "resources",
-    "section": "Active Projects",
-    "text": "Active Projects\n\nMotion Coherence (MOCO)\n\nInfant High Density EEG Data\n\nGitHub\n\nDatabrary\n\n\nChild Behavioral Data\n\nGitHub\n\nDatabrary\n\n\nAdult Behavioral Data\n\nGitHub\n\nDatabrary\n\n\n\n\nMotion Form (MOFO)\n\nChild High Density EEG Data\n\nGitHub\n\nDatabrary\n\n\n\n\nSize Matters\n\nData\n\nGitHub\n\n\n\n\nSymmetry\n\nAdult Behavorial Data\n\nGitHub\n\nDatabrary"
-  },
-  {
-    "objectID": "talk-slides/munafo-etal-2017.html",
-    "href": "talk-slides/munafo-etal-2017.html",
-    "title": "munafo-etal-2017",
-    "section": "",
-    "text": "Munafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Sert, N. P. du, … Ioannidis, J. P. A. (2017). A manifesto for reproducible science. Nature Human Behaviour, 1, 0021. https://doi.org/10.1038/s41562-016-0021."
-  },
-  {
-    "objectID": "talk-slides/munafo-etal-2017.html#discussion-of",
-    "href": "talk-slides/munafo-etal-2017.html#discussion-of",
-    "title": "munafo-etal-2017",
-    "section": "",
-    "text": "Munafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Sert, N. P. du, … Ioannidis, J. P. A. (2017). A manifesto for reproducible science. Nature Human Behaviour, 1, 0021. https://doi.org/10.1038/s41562-016-0021."
-  },
-  {
-    "objectID": "talk-slides/munafo-etal-2017.html#steps-in-scientific-method",
-    "href": "talk-slides/munafo-etal-2017.html#steps-in-scientific-method",
-    "title": "munafo-etal-2017",
-    "section": "Steps in scientific method",
-    "text": "Steps in scientific method\n\nGenerate and specify hypothesis\nDesign study\nConduct study and collect data\nAnalyze data and test hypothesis\nInterpret results\nPublish and/or conduct next study"
-  },
-  {
-    "objectID": "talk-slides/munafo-etal-2017.html#failure-to-control-for-bias",
-    "href": "talk-slides/munafo-etal-2017.html#failure-to-control-for-bias",
-    "title": "munafo-etal-2017",
-    "section": "Failure to control for bias",
-    "text": "Failure to control for bias\n\nApophenia\nConfirmation bias\nHindsight bias"
-  },
-  {
-    "objectID": "talk-slides/munafo-etal-2017.html#low-statistical-power",
-    "href": "talk-slides/munafo-etal-2017.html#low-statistical-power",
-    "title": "munafo-etal-2017",
-    "section": "Low statistical power",
-    "text": "Low statistical power\n\nStatistical Power: probability that study will detect an effect, when one actually exists.\n\nHow big is effect?\nHow big and how variable is sample?"
-  },
-  {
-    "objectID": "talk-slides/munafo-etal-2017.html#is-psychological-science-underpowered",
-    "href": "talk-slides/munafo-etal-2017.html#is-psychological-science-underpowered",
-    "title": "munafo-etal-2017",
-    "section": "Is psychological science underpowered?",
-    "text": "Is psychological science underpowered?\n\nButton, K. S., Ioannidis, J. P. A., Mokrysz, C., Nosek, B. A., Flint, J., Robinson, E. S. J., & Munafò, M. R. (2013). Power failure: why small sample size undermines the reliability of neuroscience. Nature Reviews Neuroscience, 14(5), 365–376. https://doi.org/10.1038/nrn3475\nIoannidis, J. P. A. (2005). Why Most Published Research Findings Are False. PLOS Medicine, 2(8), e124. https://doi.org/10.1371/journal.pmed.0020124"
-  },
-  {
-    "objectID": "talk-slides/munafo-etal-2017.html#is-psychological-science-underpowered-1",
-    "href": "talk-slides/munafo-etal-2017.html#is-psychological-science-underpowered-1",
-    "title": "munafo-etal-2017",
-    "section": "Is psychological science underpowered?",
-    "text": "Is psychological science underpowered?\n\nSzucs, D., & Ioannidis, J. P. (2016). Empirical assessment of published effect sizes and power in the recent cognitive neuroscience and psychology literature. bioRxiv, 071530. https://doi.org/10.1101/071530\n“We have empirically assessed the distribution of published effect sizes and estimated power by extracting more than 100,000 statistical records from about 10,000 cognitive neuroscience and psychology papers published during the past 5 years.”"
-  },
-  {
-    "objectID": "talk-slides/munafo-etal-2017.html#szucs-ioannides-2016",
-    "href": "talk-slides/munafo-etal-2017.html#szucs-ioannides-2016",
-    "title": "munafo-etal-2017",
-    "section": "Szucs & Ioannides 2016",
-    "text": "Szucs & Ioannides 2016\n\n“Median power to detect small, medium and large effects was 0.12, 0.44 and 0.73.”\n“False report probability is likely to exceed 50% for the whole literature.”"
-  },
-  {
-    "objectID": "talk-slides/munafo-etal-2017.html#poor-quality-control",
-    "href": "talk-slides/munafo-etal-2017.html#poor-quality-control",
-    "title": "munafo-etal-2017",
-    "section": "Poor quality control",
-    "text": "Poor quality control\n\nGoodman, S. N., Fanelli, D., & Ioannidis, J. P. A. (2016). What does research reproducibility mean? Science Translational Medicine, 8(341), 341ps12–341ps12. https://doi.org/10.1126/scitranslmed.aaf5027\nMethods reproducibility\n\n“…the ability to implement, as exactly as possible, the experimental and computational procedures, with the same data and tools, to obtain the same results.”"
-  },
-  {
-    "objectID": "talk-slides/munafo-etal-2017.html#p-hacking",
-    "href": "talk-slides/munafo-etal-2017.html#p-hacking",
-    "title": "munafo-etal-2017",
-    "section": "P-Hacking",
-    "text": "P-Hacking\n\nSimonsohn, U., Nelson, L. D., & Simmons, J. P. (2014). P-curve: A key to the file-drawer. Journal of Experimental Psychology: General, 143(2), 534–547. https://doi.org/10.1037/a0033242\nhttp://www.p-curve.com/\np-curve app\nIf an effect is true, the distribution of reported p values should be right-skewed (long right tail)"
-  },
-  {
-    "objectID": "talk-slides/munafo-etal-2017.html#harking-hypothesizing-after-the-results-are-known",
-    "href": "talk-slides/munafo-etal-2017.html#harking-hypothesizing-after-the-results-are-known",
-    "title": "munafo-etal-2017",
-    "section": "HARKing: hypothesizing after the results are known",
-    "text": "HARKing: hypothesizing after the results are known\n\nKerr, N. L. (1998). HARKing: Hypothesizing After the Results are Known. Personality and Social Psychology Review, 2(3), 196–217. https://doi.org/10.1207/s15327957pspr0203_4\nFind an effect in data analysis\nPresent effect as if it had been hypothesized"
-  },
-  {
-    "objectID": "talk-slides/munafo-etal-2017.html#publication-bias",
-    "href": "talk-slides/munafo-etal-2017.html#publication-bias",
-    "title": "munafo-etal-2017",
-    "section": "Publication bias",
-    "text": "Publication bias\n\nResults vs. null findings\nNovel results vs. replications\nCounter-intuitive findings\nFile drawer effect\n\nHow many unpublished failures to replicate sit in file drawers?"
-  },
-  {
-    "objectID": "talk-slides/munafo-etal-2017.html#performing-research",
-    "href": "talk-slides/munafo-etal-2017.html#performing-research",
-    "title": "munafo-etal-2017",
-    "section": "Performing research",
-    "text": "Performing research\n\nProtecting against cognitive biases\nImproving methodological training\nImplementing independent methological support\nEncouraging collaboration and team science"
-  },
-  {
-    "objectID": "talk-slides/munafo-etal-2017.html#reporting-on-research",
-    "href": "talk-slides/munafo-etal-2017.html#reporting-on-research",
-    "title": "munafo-etal-2017",
-    "section": "Reporting on research",
-    "text": "Reporting on research\n\nPromoting study pre-registration\n\nRegistered reports (Munafo et al. 2017, Box 3)\n\nImproving the quality of reporting\n\nThe Transparency and Openness Promotion (TOP) guidelines and signatories"
-  },
-  {
-    "objectID": "talk-slides/munafo-etal-2017.html#reporting-on-research-1",
-    "href": "talk-slides/munafo-etal-2017.html#reporting-on-research-1",
-    "title": "munafo-etal-2017",
-    "section": "Reporting on research",
-    "text": "Reporting on research\n\nFranco, A., Malhotra, N., & Simonovits, G. (2016). Underreporting in Psychology Experiments: Evidence From a Study Registry. Social Psychological and Personality Science, 7(1), 8–12. https://doi.org/10.1177/1948550615598377\n“We find that about 40% of studies fail to fully report all experimental conditions and about 70% of studies do not report all outcome variables included in the questionnaire. Reported effect sizes are about twice as large as unreported effect sizes and are about 3 times more likely to be statistically significant.”"
-  },
-  {
-    "objectID": "talk-slides/munafo-etal-2017.html#verifying-research",
-    "href": "talk-slides/munafo-etal-2017.html#verifying-research",
-    "title": "munafo-etal-2017",
-    "section": "Verifying research",
-    "text": "Verifying research\n\nPromoting transparency and open science"
-  },
-  {
-    "objectID": "talk-slides/munafo-etal-2017.html#evaluating-research",
-    "href": "talk-slides/munafo-etal-2017.html#evaluating-research",
-    "title": "munafo-etal-2017",
-    "section": "Evaluating research",
-    "text": "Evaluating research\n\nDiversifying peer review"
-  },
-  {
-    "objectID": "talk-slides/munafo-etal-2017.html#changing-incentives",
-    "href": "talk-slides/munafo-etal-2017.html#changing-incentives",
-    "title": "munafo-etal-2017",
-    "section": "Changing Incentives",
-    "text": "Changing Incentives\nHigginson, A. D., & Munafò, M. R. (2016). Current Incentives for Scientists Lead to Underpowered Studies with Erroneous Conclusions. PLOS Biology, 14(11), e2000995. https://doi.org/10.1371/journal.pbio.2000995\n\nBadge system"
-  },
-  {
-    "objectID": "talk-slides/munafo-etal-2017.html#status-reportrecommendations-by-stakeholder-group",
-    "href": "talk-slides/munafo-etal-2017.html#status-reportrecommendations-by-stakeholder-group",
-    "title": "munafo-etal-2017",
-    "section": "Status report/recommendations by stakeholder group",
-    "text": "Status report/recommendations by stakeholder group\n\n\n\nSource: http://www.nature.com/articles/s41562-016-0021/tables/1"
-  },
-  {
-    "objectID": "talk-slides/how-to-read-academic-paper.html",
-    "href": "talk-slides/how-to-read-academic-paper.html",
-    "title": "How to Read and Academic Paper",
-    "section": "",
-    "text": "Read carefully of just skim\n\nThe goal of this research\n\nWhy is it interesting for us to think/talk about?\n\n\n\n\n\nResearch Question?\nHypotheses?\nFindingis?\n\n\n\n\n\nPopulation (age, gender, …), time, locations, etc.\nWhat are DVs and IVs?\nHow are thy measuresed? Why to use it rather than the other?"
-  },
-  {
-    "objectID": "talk-slides/how-to-read-academic-paper.html#why-does-this-paper-matter",
-    "href": "talk-slides/how-to-read-academic-paper.html#why-does-this-paper-matter",
-    "title": "How to Read and Academic Paper",
-    "section": "",
-    "text": "Read carefully of just skim\n\nThe goal of this research\n\nWhy is it interesting for us to think/talk about?"
-  },
-  {
-    "objectID": "talk-slides/how-to-read-academic-paper.html#what-does-it-talk-about",
-    "href": "talk-slides/how-to-read-academic-paper.html#what-does-it-talk-about",
-    "title": "How to Read and Academic Paper",
-    "section": "",
-    "text": "Research Question?\nHypotheses?\nFindingis?"
-  },
-  {
-    "objectID": "talk-slides/how-to-read-academic-paper.html#what-are-the-methods-it-used",
-    "href": "talk-slides/how-to-read-academic-paper.html#what-are-the-methods-it-used",
-    "title": "How to Read and Academic Paper",
-    "section": "",
-    "text": "Population (age, gender, …), time, locations, etc.\nWhat are DVs and IVs?\nHow are thy measuresed? Why to use it rather than the other?"
-  },
-  {
     "objectID": "who-we-are.html",
     "href": "who-we-are.html",
     "title": "People",
@@ -210,186 +28,18 @@
     "text": "Recent Alumni\n\nMadison Gehringer\nOriana Franco\nYsa Fernandez\nYiming Qian, Ph.D.\nCecelia Petrarca\nKayla Moninger\nKavya Jhaveri\nBowen Deng\nAnjali Jivan\nMaureen Burke\nSara Delmoral\nKymberle Shields\nShahir Rayes\nMichelle Mendez\nRachel Chang\nAnna Capria\nEmily Herman\nChelsea Davis\nSandy Rayes\nLuka Kelly\nAmar Bhatia\nZhichun Zhao\nSarah Shahriar\nAshton Dluzneski\nAlyssa Pandos\n\nCharmi Mehta\n\nMichael Dexheimer\nHifzah Malik\nRaya Willoughby\nKatie Torres\nShivani Patel\nMichael O’Neill\nDaved Fared\nAuburn Lattanzio, Graduate student, Villanova University\nMichelle Shade\nSam Pai\nJun Oh, Apprentice Ruby on Rails Developer, Launch Academy, Inc.\nAmanda Thomas, Ph.D.\nWilliam Adamiak\nShivam Vedak, MBA, MD\nDan Elbich, Graduate student, Penn State\nJeremy Fesi, Ph.D., Research Analyst, U.S. Marine Corps\nLorena Gonzalez, Graduate student, Penn State\nRicky Groner, IT Support Specialist, Huck Institutes of the Life Sciences, Penn State\nKen Hwang, Consultant, Anexinet\nMatthew Lee, MBA student, Penn State\nPatricia Jones, Optometry student, Pennsylvania College of Optometry"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "about",
+    "objectID": "site-info.html",
+    "href": "site-info.html",
+    "title": "About the site",
     "section": "",
-    "text": "Rick O. Gilmore is Associate Professor of Psychology, a Huck Institute of the Life Sciences faculty member, and an Associate of the Institute for Cyberscience. He earned his bachelor’s degree magna cum laude in Cognitive Science from Brown University, and master’s and doctoral degrees in Psychology from Carnegie Mellon University where he participated in the Center for the Neural Basis of Cognition (CNBC) training program in cognitive neuroscience. Gilmore’s research focuses on the development of visual perception and memory. He is particularly interested in the development of brain networks that enable perceivers to extract information about the layout of the environment, the shape of objects, and the speed and direction of self-movement from patterns of visual motion called optic flow. Gilmore is also keenly interested in developing tools and practices that make scientific research more open, transparent, and reproducible. He is co-founder and Co-Director of the Databrary.org data library.\nFrom 2008 to 2014, Gilmore served as the founding Director of Human Imaging at Penn State’s Social, Life, and Engineering Sciences Imaging Center (SLEIC). He has won the College of the Liberal Arts tenure-line faculty teaching award, leads the Human Developmental Neuroscience Initiative for the Child Study Center, and has had support for his research from the National Institutes of Health and the National Science Foundation. Gilmore has served as president of the Centre Region Bicycle Coalition, the Acoustic Brew Concert Series, and the State College Community Theatre. He recently joined the board of the Nittany Amateur Radio Club (NARC), and serves as faculty adviser (and K3CR license trustee) for the Penn State Amateur Radio Club."
+    "text": "This site is generated in Quarto using RStudio. The rendered site is hosted using GitHub pages.\nHere is additional information about the R session.\nsessionInfo()\n\nR version 4.3.1 (2023-06-16)\nPlatform: aarch64-apple-darwin20 (64-bit)\nRunning under: macOS Ventura 13.5.2\n\nMatrix products: default\nBLAS:   /Library/Frameworks/R.framework/Versions/4.3-arm64/Resources/lib/libRblas.0.dylib \nLAPACK: /Library/Frameworks/R.framework/Versions/4.3-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.11.0\n\nlocale:\n[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8\n\ntime zone: America/New_York\ntzcode source: internal\n\nattached base packages:\n[1] stats     graphics  grDevices utils     datasets  methods   base     \n\nloaded via a namespace (and not attached):\n [1] htmlwidgets_1.6.2 compiler_4.3.1    fastmap_1.1.1     cli_3.6.1        \n [5] tools_4.3.1       htmltools_0.5.5   rstudioapi_0.15.0 yaml_2.3.7       \n [9] rmarkdown_2.24    knitr_1.43        jsonlite_1.8.7    xfun_0.39        \n[13] digest_0.6.33     rlang_1.1.1       evaluate_0.21"
   },
   {
-    "objectID": "about.html#gilmore-bio",
-    "href": "about.html#gilmore-bio",
-    "title": "about",
-    "section": "",
-    "text": "Rick O. Gilmore is Associate Professor of Psychology, a Huck Institute of the Life Sciences faculty member, and an Associate of the Institute for Cyberscience. He earned his bachelor’s degree magna cum laude in Cognitive Science from Brown University, and master’s and doctoral degrees in Psychology from Carnegie Mellon University where he participated in the Center for the Neural Basis of Cognition (CNBC) training program in cognitive neuroscience. Gilmore’s research focuses on the development of visual perception and memory. He is particularly interested in the development of brain networks that enable perceivers to extract information about the layout of the environment, the shape of objects, and the speed and direction of self-movement from patterns of visual motion called optic flow. Gilmore is also keenly interested in developing tools and practices that make scientific research more open, transparent, and reproducible. He is co-founder and Co-Director of the Databrary.org data library.\nFrom 2008 to 2014, Gilmore served as the founding Director of Human Imaging at Penn State’s Social, Life, and Engineering Sciences Imaging Center (SLEIC). He has won the College of the Liberal Arts tenure-line faculty teaching award, leads the Human Developmental Neuroscience Initiative for the Child Study Center, and has had support for his research from the National Institutes of Health and the National Science Foundation. Gilmore has served as president of the Centre Region Bicycle Coalition, the Acoustic Brew Concert Series, and the State College Community Theatre. He recently joined the board of the Nittany Amateur Radio Club (NARC), and serves as faculty adviser (and K3CR license trustee) for the Penn State Amateur Radio Club."
-  },
-  {
-    "objectID": "about.html#contact-information",
-    "href": "about.html#contact-information",
-    "title": "about",
-    "section": "Contact Information",
-    "text": "Contact Information\n\n114 Moore Building Department of Psychology The Pennsylvania State University University Park, PA 16801 814-865-3664, voice  814-863-7002, fax\nrogilmore AT-SIGN psu DOT edu"
-  },
-  {
-    "objectID": "students.html",
-    "href": "students.html",
-    "title": "For Students",
-    "section": "",
-    "text": "Rick O. Gilmore is Associate Professor of Psychology, a Huck Institute of the Life Sciences faculty member, and an Associate of the Institute for Cyberscience. He earned his bachelor’s degree magna cum laude in Cognitive Science from Brown University, and master’s and doctoral degrees in Psychology from Carnegie Mellon University where he participated in the Center for the Neural Basis of Cognition (CNBC) training program in cognitive neuroscience. Gilmore’s research focuses on the development of visual perception and memory. He is particularly interested in the development of brain networks that enable perceivers to extract information about the layout of the environment, the shape of objects, and the speed and direction of self-movement from patterns of visual motion called optic flow. Gilmore is also keenly interested in developing tools and practices that make scientific research more open, transparent, and reproducible. He is co-founder and Co-Director of the Databrary.org data library.\nFrom 2008 to 2014, Gilmore served as the founding Director of Human Imaging at Penn State’s Social, Life, and Engineering Sciences Imaging Center (SLEIC). He has won the College of the Liberal Arts tenure-line faculty teaching award, leads the Human Developmental Neuroscience Initiative for the Child Study Center, and has had support for his research from the National Institutes of Health and the National Science Foundation. Gilmore has served as president of the Centre Region Bicycle Coalition, the Acoustic Brew Concert Series, and the State College Community Theatre."
-  },
-  {
-    "objectID": "students.html#gilmore-bio",
-    "href": "students.html#gilmore-bio",
-    "title": "For Students",
-    "section": "",
-    "text": "Rick O. Gilmore is Associate Professor of Psychology, a Huck Institute of the Life Sciences faculty member, and an Associate of the Institute for Cyberscience. He earned his bachelor’s degree magna cum laude in Cognitive Science from Brown University, and master’s and doctoral degrees in Psychology from Carnegie Mellon University where he participated in the Center for the Neural Basis of Cognition (CNBC) training program in cognitive neuroscience. Gilmore’s research focuses on the development of visual perception and memory. He is particularly interested in the development of brain networks that enable perceivers to extract information about the layout of the environment, the shape of objects, and the speed and direction of self-movement from patterns of visual motion called optic flow. Gilmore is also keenly interested in developing tools and practices that make scientific research more open, transparent, and reproducible. He is co-founder and Co-Director of the Databrary.org data library.\nFrom 2008 to 2014, Gilmore served as the founding Director of Human Imaging at Penn State’s Social, Life, and Engineering Sciences Imaging Center (SLEIC). He has won the College of the Liberal Arts tenure-line faculty teaching award, leads the Human Developmental Neuroscience Initiative for the Child Study Center, and has had support for his research from the National Institutes of Health and the National Science Foundation. Gilmore has served as president of the Centre Region Bicycle Coalition, the Acoustic Brew Concert Series, and the State College Community Theatre."
-  },
-  {
-    "objectID": "students.html#contact-information",
-    "href": "students.html#contact-information",
-    "title": "For Students",
-    "section": "Contact Information",
-    "text": "Contact Information\n\n114 Moore Building Department of Psychology The Pennsylvania State University University Park, PA 16801 814-865-3664, voice  814-863-7002, fax\nrogilmore AT-SIGN psu DOT edu\nhttps://www.personal.psu.edu/rog1"
-  },
-  {
-    "objectID": "students.html#current-staff",
-    "href": "students.html#current-staff",
-    "title": "For Students",
-    "section": "Current Staff",
-    "text": "Current Staff\n\nAndrea Seisler, Lab Manager\nAndrea R. Seisler is the Laboratory Manager of the Brain Development Laboratory directed by Dr. Rick O. Gilmore. She received her bachelor’s and master’s degree in Biomedical Engineering from The Catholic University of America. During her graduate studies, she was a recipient of the Clare Booth Luce Fellowship award.\nShe completed MRI based neuroscience and orthopedics research while working at The National Institutes of Health from 2001-2007. After her move to State College, she served as an IRB Compliance Coordinator for the Office for Research Protections at Penn State and then moved on to manage the Human Electrophysiology Facility located at the Social, Life, and Enginineering Sciences Imaging Center through 2014.\n\nContact Information\n\n503 Moore Building Department of Psychology The Pennsylvania State University University Park, PA 16802 ars17 AT-SIGN psu DOT edu\n\n\n\n\nYiming Qian\nYiming is the graduate student in the Department of Psychology at PSU. Her research interests is exploring the development of brain networks from early childhood to adulthood, using neuroimaging tools. She is also interested in the mechanism of visual motion.\nBesides research activities, Yiming enjoys reading, cooking, gardening, hiking and fishing. She is a big fan of operas and musicals.\n\n\nSarah Shahriar\nSarah is a junior majoring in Psychology with a concentration in Neuroscience. She hopes to pursue a medical degree after studying at Penn State University and hopes to practice as a psychiatrist in the future.\nSarah is originally from Hershey, PA and enjoys spending her time volunteering at Penn State Hershey Medical Center Children’s Hospital within the Ronald McDonald charities."
-  },
-  {
-    "objectID": "students.html#recent-alumni",
-    "href": "students.html#recent-alumni",
-    "title": "For Students",
-    "section": "Recent Alumni",
-    "text": "Recent Alumni\n\nAlyssa Pandos\nCharmi Mehta\nRaya Willoughby\nKatie Torres\nShivani Patel\nMichael O’Neill, Graduate student, PSU\nDaved Fared\nAuburn Lattanzio\nMichelle Shade\nSam Pai\nJun Oh, Apprentice Ruby on Rails Developer, Launch Academy, Inc.\nAmanda Thomas, Postdoctoral researcher, Swarthmore\nWilliam Adamiak, NIH IRTA\nShivam Vedak, Medical student\nDan Elbich, Graduate student, Penn State\nJeremy Fesi, Ph.D., US Marine Corps Research\nLorena Gonzalez, Graduate student, Penn State\nRicky Groner, IT Support Specialist, Huck Institutes of the Life Sciences, Penn State\nKen Hwang, Consultant, Anexinet\nMatthew Lee, MBA student, Penn State\nPatricia Jones, Optometry student, Pennsylvania College of Optometry"
-  },
-  {
-    "objectID": "parents.html",
-    "href": "parents.html",
-    "title": "parents",
-    "section": "",
-    "text": "Some parents are surprised to learn how much we can learn from studies of infants and children. Dr. Gilmore has been conducting research with infants and children for more than 20 years, and he has two daughters of his own who have been regular participants in research studies. The Penn State Brain and Behavioral Dynamics Lab works very hard to ensure that you and your child will be safe and comfortable at all times and that everyone enjoys their visit to the lab. This page is designed to help parents prepare for a visit. If you have a question this page does not answer, please email (rogilmore@psu.edu) or call (814-865-3664) Dr. Gilmore.\n\n\n\n\nMost of our studies are conducted at Chandlee Laboratory on the main Penn State University Park campus in the Human Electrophysiology Laboratory (HEF). The HEF has parking set aside for research participants. We will give you directions to Chandlee Lab, and will make arrangements to meet you before your appointment and guide you to the parking spot. Here is a map that shows how to enter campus and provides directions to Chandlee. When you stop at the Parking Kiosk, you should tell the attendant that you are “here for a research study at the imaging center in Chandlee Laboratory.”\n\n\n\nMost appointments take about 45 min to an hour from start to finish. If we think we will go longer than that, we will tell you in advance.\n\n\n\nSome studies involve more than one visit. Others involve just a single visit. We will tell you in advance what the study requires. Sometimes, we may ask you to return if things have either gone especially well, or if we have made a mistake of some kind. You are under no obligation to participate, but we find that most families are happy to come back if they can make time in their schedule.\n\n\n\nYou and your child are in charge. If your child is unhappy about being in the study, we will stop. No questions asked."
-  },
-  {
-    "objectID": "parents.html#frequently-asked-questions-faqs",
-    "href": "parents.html#frequently-asked-questions-faqs",
-    "title": "parents",
-    "section": "",
-    "text": "Most of our studies are conducted at Chandlee Laboratory on the main Penn State University Park campus in the Human Electrophysiology Laboratory (HEF). The HEF has parking set aside for research participants. We will give you directions to Chandlee Lab, and will make arrangements to meet you before your appointment and guide you to the parking spot. Here is a map that shows how to enter campus and provides directions to Chandlee. When you stop at the Parking Kiosk, you should tell the attendant that you are “here for a research study at the imaging center in Chandlee Laboratory.”\n\n\n\nMost appointments take about 45 min to an hour from start to finish. If we think we will go longer than that, we will tell you in advance.\n\n\n\nSome studies involve more than one visit. Others involve just a single visit. We will tell you in advance what the study requires. Sometimes, we may ask you to return if things have either gone especially well, or if we have made a mistake of some kind. You are under no obligation to participate, but we find that most families are happy to come back if they can make time in their schedule.\n\n\n\nYou and your child are in charge. If your child is unhappy about being in the study, we will stop. No questions asked."
-  },
-  {
-    "objectID": "lab-mtgs/leonard-lee-schultz-2017.html",
-    "href": "lab-mtgs/leonard-lee-schultz-2017.html",
-    "title": "Leonard, Lee, & Schultz 2017",
-    "section": "",
-    "text": "Discuss:\nLeonard, J. A., Lee, Y., & Schulz, L. E. (2017). Infants make more attempts to achieve a goal when they see adults persist. Science, 357(6357), 1290–1294. Retrieved from http://dx.doi.org/10.1126/science.aan2317."
-  },
-  {
-    "objectID": "lab-mtgs/leonard-lee-schultz-2017.html#purpose",
-    "href": "lab-mtgs/leonard-lee-schultz-2017.html#purpose",
-    "title": "Leonard, Lee, & Schultz 2017",
-    "section": "",
-    "text": "Discuss:\nLeonard, J. A., Lee, Y., & Schulz, L. E. (2017). Infants make more attempts to achieve a goal when they see adults persist. Science, 357(6357), 1290–1294. Retrieved from http://dx.doi.org/10.1126/science.aan2317."
-  },
-  {
-    "objectID": "lab-mtgs/leonard-lee-schultz-2017.html#video-exemplar",
-    "href": "lab-mtgs/leonard-lee-schultz-2017.html#video-exemplar",
-    "title": "Leonard, Lee, & Schultz 2017",
-    "section": "Video exemplar",
-    "text": "Video exemplar\n(tried to embed, but this only works sporadically.)\nhttp://science.sciencemag.org/highwire/filestream/699641/field_highwire_adjunct_files/1/aan2317s1.mp4"
-  },
-  {
-    "objectID": "lab-mtgs/leonard-lee-schultz-2017.html#figures",
-    "href": "lab-mtgs/leonard-lee-schultz-2017.html#figures",
-    "title": "Leonard, Lee, & Schultz 2017",
-    "section": "Figures",
-    "text": "Figures"
-  },
-  {
-    "objectID": "lab-mtgs/leonard-lee-schultz-2017.html#methods-info-from-supplementary-materials",
-    "href": "lab-mtgs/leonard-lee-schultz-2017.html#methods-info-from-supplementary-materials",
-    "title": "Leonard, Lee, & Schultz 2017",
-    "section": "Methods info from supplementary materials",
-    "text": "Methods info from supplementary materials\n\n“Button presses were operationalized as a hand pushing down the button. Button presses were coded from videotape by two coders blind to hypotheses and condition (inter-rater reliability \\(r = .99, p &lt; .001\\)). Data from a single coder was used for analyses but all results held with the second coder’s data. Coders agreed with the experimenter’s judgment on the termination of the experiment 100% of the time.”\n\n(Supplement, p. 2)\n\n\n“Additionally, a coder blind to condition and hypotheses coded the tapes for potential confounds. No difference was found across the conditions for whether the parent talked to the child (\\(\\chi^2 (2, N=102)=1.03\\), \\(p = .60\\)), parents’ proximity to the infant (as distance in inches, \\(H(2) = 4.32\\), \\(p = .12\\)), and parents’ encouragement to the infant (\\(\\chi^2 (2, N = 102) = 5.56\\), \\(p = .06\\)). Additionally, because the experimenter might have conveyed more enthusiasm in handing the toy to the child in the Effort than the No Effort condition, a second coder rated the experimenter’s enthusiasm at the start of the test trial on a Likert scale, blind to conditions (\\(W = 525\\), \\(p = .50\\)).”\n\n(Supplement, p. 2)"
-  },
-  {
-    "objectID": "lab-mtgs/leonard-lee-schultz-2017.html#questions-cheers-lamentations",
-    "href": "lab-mtgs/leonard-lee-schultz-2017.html#questions-cheers-lamentations",
-    "title": "Leonard, Lee, & Schultz 2017",
-    "section": "Questions, cheers, & lamentations",
-    "text": "Questions, cheers, & lamentations\n\nQuestions\n\nCould ‘effort’ be based on personal qualities of child?\nDifferences in environment (noise, what parent did, etc.)?\nWhat do parents & siblings do (for work, at home)?\nWould parent as demonstrator elicit stronger responses from kid?\nHow does child’s attention span affect outcome?\nIndividual differences in child’s interest in the toy?\n\n\n\nCheers\n\nPreregistration of replication\nShow video exemplars\nShared data and analysis scripts."
-  },
-  {
-    "objectID": "lab-mtgs/leonard-lee-schultz-2017.html#lamentations",
-    "href": "lab-mtgs/leonard-lee-schultz-2017.html#lamentations",
-    "title": "Leonard, Lee, & Schultz 2017",
-    "section": "Lamentations",
-    "text": "Lamentations\n\nPlots don’t show individual responses (but we could fix with data file)\nFocus only on button pressing, lots of other behaviors that might have distinguished groups\nCould share videos of all participants on Databrary so other researchers could follow up\nScience article space limitations causes important details to be ‘buried’ in teh supplementary materials"
-  },
-  {
-    "objectID": "lab-meetings.html",
-    "href": "lab-meetings.html",
-    "title": "lab-meetings",
-    "section": "",
-    "text": "For the Spring 2024 Semester, we will meet on Tuesdays 8:00-8:50 am in room 444 Moore."
-  },
-  {
-    "objectID": "lab-meetings.html#spring-2024",
-    "href": "lab-meetings.html#spring-2024",
-    "title": "lab-meetings",
-    "section": "Spring 2024",
-    "text": "Spring 2024\n\nTuesday, April 9, 2024\n\nYiming presentation (tentative)\n\n\n\nTuesday, February 6, 2024\n\nBelle (& Rick) presentation/discussion of:\n\nSoska, K. C., Xu, M., Gonzalez, S. L., Herzberg, O., Tamis-LeMonda, C. S., Gilmore, R. O. & Adolph, K. E. (2021). (Hyper)active data curation: A video case study from behavioral science. Journal of Escience Librarianship, 10(3). https://doi.org/10.7191/jeslib.2021.1208.\n\n\nTuesday, January 30, 2024\n\nDatacamp check-in\nPeter paper presentation\n\n\n\nTuesday, January 23, 2024\n\nAttending\n\n\nNicole, Belle, Julia, Bruna, Liu, Andrea, Yiming, Rick, Peter\n\n\nStatus Report\n\nDatacamp\nPLAY update\n\nrecruitment\ndata collection\n\nLegacy Project: Visual Acuity\n\nSchedule Outstanding Lab Member Presentations from last semester\n\nggplot2 interactive (Brianna, Rick) demo?\nPeter paper discussion?\n\nMissing Webpage Biography\n\nMolly, Julia, Bruna\n\n\n\n\nCANCELLED Tuesday, January 16, 2024\n\nStatus Report\n\nDatacamp\nPLAY update\n\nrecruitment\ndata collection\n\nLegacy Project: Visual Acuity\n\nSchedule Outstanding Lab Member Presentations from last semester\n\nggplot2 interactive (Brianna, Rick) demo?\nPeter paper discussion?\n\nMissing Webpage Biography\n\nMolly, Julia, Bruna"
-  },
-  {
-    "objectID": "lab-meetings.html#fall-2023",
-    "href": "lab-meetings.html#fall-2023",
-    "title": "lab-meetings",
-    "section": "Fall 2023",
-    "text": "Fall 2023\n\nMonday, December 11, 2023\n\nEnd of semester lab breakfast, The Waffle Shop, 364 E. College Avenue.\n\n\n\nTuesday, December 5, 2023\n\nJulia will lead a discussion of a paper: (Courage and Adams 1990).\n\nLink to Legacy Project: Acuity dataset.\n\nggplot2 interactive (Brianna, Rick) demo.\nAttendees: Julia, Liu, Madison, Belle, Briana, Yiming, Rick, Andrea\n\n\n\nTuesday, November, 28, 2023 CANCELLED\n\nJulia will lead a discussion of a paper.\nPeter will lead a discussion of a paper:\n\n\n\nTuesday, November 14, 2023\n\nStatus report on DataCamp.\nSchedule end of semester breakfast.\nPLAY status (Madison & Belle).\nLiu will discuss his work on the Databrary Guide and how using ChatGPT has been helpful to that work.\nLegacy Project: Visual Acuity update (Rick, Brianna, Julia, Nicole, Peter).\n\n\n\nTuesday, November 7, 2023\nNo lab meeting\n\n\nTuesday, October 31, 2023\n\nRead and discuss this piece: https://www.nytimes.com/interactive/2023/10/16/us/census-race-ethnicity.html\n\n\n\nTuesday, October 24, 2023\n\nAdd PDF and reference to paper (Birch et al. 2022) discussed last week.\nPractice visualizations of ruler reaction time data.\n\n\n\nTuesday, October 17, 2023\n\nPeter will lead a discussion of Birch, E. E., Hudgins, L. A., Jost, R. M., Cheng-Patel, C. S., Morale, S. E. & Kelly, K. R. (2022). Web-based visual acuity testing for children. Journal of AAPOS: The Official Publication of the American Association for Pediatric Ophthalmology and Strabismus / American Association for Pediatric Ophthalmology and Strabismus, 26(2), 61.e1–e61.e5. https://doi.org/10.1016/j.jaapos.2021.11.007. PDF.\nWatch video(s) from https://mgto.org/meta-analysis-registered-reports/ on meta-analyses and registered reports.\n\n\n\nTuesday, October 10, 2023\n\nProject updates/work session\n\nLegacy Project: Visual Acuity. update (Rick, Brianna, Julia, Nicole, Peter)\n\nUsing R, R Markdown & Quarto (Rick & Andrea)\n\nPlanning\n\nGoals\nAre data sensitive or not\n\nCreate repo\nCreate RStudio project\nCreate stub site/documents\nOn data page\n\nPurpose\nGathering\nCleaning\nVisualization\n\nCommit (& usually push)\nHere is the page we generated: https://gilmore-lab.github.io/ruler-reaction-time/\n\nAnnouncement\n\nNext week (2023-10-17) Peter will lead a discussion of Birch, E. E., Hudgins, L. A., Jost, R. M., Cheng-Patel, C. S., Morale, S. E. & Kelly, K. R. (2022). Web-based visual acuity testing for children. Journal of AAPOS: The Official Publication of the American Association for Pediatric Ophthalmology and Strabismus / American Association for Pediatric Ophthalmology and Strabismus, 26(2), 61.e1–e61.e5. https://doi.org/10.1016/j.jaapos.2021.11.007.\n\n\n\n\nTuesday, October 3, 2023\nNo lab meeting\n\n\nTuesday, September 26, 2023, 350 Moore\n\nProject updates\n\nPLAY update (Madison, Andrea, Belle, Oriana)\nLegacy Project: Visual Acuity. update (Rick, Brianna, Julia, Nicole, Peter)\nDatabrary Guide project update (Andrea, Liu)\n\n\n\n\nTuesday, September 19, 2023, 350 Moore\n\nLooking for:\n\nWeb site master\ndatabraryr package tester and help with documentation.\nSign-up for Hypothes.is\n\nFuture meetings\n\nReadings related to PLAY, visual acuity project, Databrary\n\nPeter will look at: Teller, D. Y., McDonald, M. A., Preston, K., Sebris, S. L. & Dobson, V. (1986). Assessment of visual acuity in infants and children: The acuity card procedure. Developmental Medicine and Child Neurology, 28(6), 779–789. As candidate for reading as a group. https://doi.org/10.1111/j.1469-8749.1986.tb03932.x\n\nWork sessions on using Quarto and R Studio.\nLearning Mermaid and Graphviz tools from Quarto.\n\n\n\n\nTuesday, September 12, 2023, 350 Moore\n\nWhat is PLAY? (Madison)\nIntroducing the Legacy Project: Visual Acuity (Rick)\n\n\n\nTuesday, September 5, 2023, 350 Moore\n\nAssigning work teams (Andrea)\nWatch\n\nNYU Health Sciences Library. (2013, 13. November). Data Sharing and Management Snafu in 3 Short Acts (Higher Quality). Youtube. https://www.youtube.com/watch?v=66oNv_DJuPc\n\nDiscuss project team assignments (Rick)\n\n\n\nTuesday, 8/29/2023, 350 Moore\n\nIntroductions\nOrientation to Fall 2023 lab priorities (Rick)\n\nPlay & Learning Across a Year (PLAY) Project, PLAY site, Parent site, KoBoToolbox Surveys\nLegacy Project, especially Visual Acuity\nDatabrary, especially the Databrary Guide, the databraryr package, and the Databrary Analytics.\nRefreshing internal resources, especially the lab website and our lab protocols site.\n\nOnboarding and Training and orientation (Andrea)\nSchedule"
-  },
-  {
-    "objectID": "lab-meetings.html#goals",
-    "href": "lab-meetings.html#goals",
-    "title": "lab-meetings",
-    "section": "Goals",
-    "text": "Goals\n\nData science\n\nLearn R on Datacamp\n\nggplot\nData wrangling with dplyr\n\nBegin by creating or updating your a brief biography for the Who we are page on the lab website.\n\nStart preparing for presentations in Spring 2024\n\nTrain on poster template for R posterdown\nSubmit abstracts for poster presentation:\nUndergraduate Research Exhibition\nPsi Chi Research Conference\n\nLaunch new projects\n\nPLAY\n\nData collection\nLocomotion coding\n\nLegacy: Visual Acuity\nMigrate lab site to Quarto\n\nReinvigorate old projects\n\nDatabrary tagging\nDatabrary User Guide\nTesting and documenting databraryr package\nTest and enhance Databrary Analytics\nMotion meta-analysis\n\nFuture readings\n\nYiming’s Ph.D. paper and paper reviews"
-  },
-  {
-    "objectID": "lab-meetings.html#previous-meeting-notes",
-    "href": "lab-meetings.html#previous-meeting-notes",
-    "title": "lab-meetings",
-    "section": "Previous meeting notes",
-    "text": "Previous meeting notes\nNotes from previous semesters"
-  },
-  {
-    "objectID": "lab-meetings.html#helpful-links",
-    "href": "lab-meetings.html#helpful-links",
-    "title": "lab-meetings",
-    "section": "Helpful Links",
-    "text": "Helpful Links\n\nGlobal Protect Instructions for Mac and Windows \nClick to login to Datacamp\nHow to take screen shots for Mac and Windows\nDatabrary"
-  },
-  {
-    "objectID": "posts/lab-mtg-2023-10-10.html",
-    "href": "posts/lab-mtg-2023-10-10.html",
-    "title": "Lab meeting: 2023-10-10",
-    "section": "",
-    "text": "Datasaurus dozen\n\n\nRick talked about the Datasaurus dozen (see figure above). This is an entertaining demonstration about the importance of visualizing data.\nThe visual acuity project team discussed the draft protocol.\nRick and Andrea ran a how-to session based on some reaction time data Andrea collected in her son Alex’s class last year. We discussed how to plan a data visualization and analysis project like this in a way that “bakes-in” reproducible workflows from the very beginning.\nHere’s the figure we generated:\n\n\n\nHistogram of RT data\n\n\nThis document describes the process:\nhttps://gilmore-lab.github.io/ruler-reaction-time\nThe GitHub repo for this project is here:\nhttps://github.com/gilmore-lab/ruler-reaction-time/"
-  },
-  {
-    "objectID": "posts/lab-mtg-2023-11-14.html",
-    "href": "posts/lab-mtg-2023-11-14.html",
-    "title": "Lab meeting: 2023-11-14",
-    "section": "",
-    "text": "Databrary logo\n\n\nIn the 2023-11-14 lab meeting, Liu discussed work on a new version of the Databrary Guide. We got an update about the PLAY project from Belle and Madison. We made plans for our end-of-semester breakfast on Monday, December 11, 2023 at the Downtown Waffle Shop. We also learned how to make posts like this!"
-  },
-  {
-    "objectID": "posts/visual-acuity-new-figs.html",
-    "href": "posts/visual-acuity-new-figs.html",
-    "title": "Preliminary figures from Legacy: Visual Acuity",
-    "section": "",
-    "text": "Several RAs have taken the bull by the horns and made significant progress on the research protocol for the Legacy Project: Visual Acuity study.\nIn the meantime, Rick went ahead and made a very preliminary plot of what the eventual study-level data might look like:\n\n\n\nFigure from https://gilmore-lab.github.io/visual-acuity/data.html#fig-teller-acuity-across-age\n\n\nWith a bit of tweaking of some archival data, Rick also wrangled the following plot of some individual-level data.\n\n\n\nFigure from https://gilmore-lab.github.io/visual-acuity/data.html#fig-gilmore-lab-archival"
+    "objectID": "site-info.html#standard-workflow",
+    "href": "site-info.html#standard-workflow",
+    "title": "About the site",
+    "section": "Standard workflow",
+    "text": "Standard workflow\n\nOpen project\nPull\nMake changes\nRender site\nPreview site\nCommit changes\nPush to GitHub\n\n\n\n\n\nflowchart LR\n  A[Open project] --&gt; B(Pull)\n  B --&gt; C{Make changes}\n  C --&gt; D[Render site]\n  D --&gt; E[Preview site]"
   },
   {
     "objectID": "research.html",
@@ -455,11 +105,25 @@
     "text": "The ability to sense regular or near-regular patterns serves critical biological needs and is equally important for computer vision and machine intelligence. Despite wide variation in the types of regularity present in natural images, research on human and computer processing of pattern regularity has focused primarily on detecting bilateral reflection symmetry, using largely atheoretical approaches. The goals of this interdisciplinary research are to i) use principles of group theory to develop a conceptual framework for understanding regularity perception and brain activation in humans, and ii) to design general computer-based symmetry detection algorithms that can operate at a level of practical usability.\nPublication\nKohler, P.J., Vedak, S., Y& Gilmore, R.O. (in prep). Perceptual similarities among wallpaper group exemplars. GitHub repo: https://github.com/gilmore-lab/symmetry-sorting.\nPresentations\nVedak, S.C., Gilmore, R.O., Kohler, P.J., Liu, Y., & Norcia, A.M. (2015, May). The salience of low-order visual features in highly self-similar wallpaper groups. Poster presented at the Vision Sciences Society meeting, St. Pete Beach, FL. PDF. Materials on Databrary.\nThomas, A.L., Gilmore, R.O., Norcia, A.M., Liu, Y., Fesi, J.D., Hwang, K.D., Stitt, J., & Liu, J. (2012, October). Visual patterns with rotational symmetry activate distinct cortical regions. Poster presented at the Society for Neuroscience meeting, New Orleans, LA.\nRole\n\nCo-Investigator\n\nCollaborators\n\nYanxi Liu, Penn State Computer Science & Engineering\nAnthony Norcia, Stanford University, Department of Psychology\nPeter Kohler, York University\n\nSupport\nThis project was supported by the National Science Foundation under grant IIS-1248076."
   },
   {
-    "objectID": "posts/new-site.html",
-    "href": "posts/new-site.html",
-    "title": "New website!",
+    "objectID": "posts/visual-acuity-new-figs.html",
+    "href": "posts/visual-acuity-new-figs.html",
+    "title": "Preliminary figures from Legacy: Visual Acuity",
     "section": "",
-    "text": "Welcome to our new website. The old site was built in R Markdown. The new one is built in Quarto. We hope you like the new look and feel."
+    "text": "Several RAs have taken the bull by the horns and made significant progress on the research protocol for the Legacy Project: Visual Acuity study.\nIn the meantime, Rick went ahead and made a very preliminary plot of what the eventual study-level data might look like:\n\n\n\nFigure from https://gilmore-lab.github.io/visual-acuity/data.html#fig-teller-acuity-across-age\n\n\nWith a bit of tweaking of some archival data, Rick also wrangled the following plot of some individual-level data.\n\n\n\nFigure from https://gilmore-lab.github.io/visual-acuity/data.html#fig-gilmore-lab-archival"
+  },
+  {
+    "objectID": "posts/lab-mtg-2024-02-06.html",
+    "href": "posts/lab-mtg-2024-02-06.html",
+    "title": "Lab meeting: 2024-02-06",
+    "section": "",
+    "text": "Figure 1 from Soska et al. 2021\n\n\nIn this week’s meeting, Rick and Belle talked about the PLAY Project workflow, focusing especially on the quality assurance procedures outlined in this paper:\nSoska, K. C., Xu, M., Gonzalez, S. L., Herzberg, O., Tamis-LeMonda, C. S., Gilmore, R. O. & Adolph, K. E. (2021). (Hyper)active data curation: A video case study from behavioral science. Journal of Escience Librarianship, 10(3). https://doi.org/10.7191/jeslib.2021.1208."
+  },
+  {
+    "objectID": "posts/lab-mtg-2023-10-10.html",
+    "href": "posts/lab-mtg-2023-10-10.html",
+    "title": "Lab meeting: 2023-10-10",
+    "section": "",
+    "text": "Datasaurus dozen\n\n\nRick talked about the Datasaurus dozen (see figure above). This is an entertaining demonstration about the importance of visualizing data.\nThe visual acuity project team discussed the draft protocol.\nRick and Andrea ran a how-to session based on some reaction time data Andrea collected in her son Alex’s class last year. We discussed how to plan a data visualization and analysis project like this in a way that “bakes-in” reproducible workflows from the very beginning.\nHere’s the figure we generated:\n\n\n\nHistogram of RT data\n\n\nThis document describes the process:\nhttps://gilmore-lab.github.io/ruler-reaction-time\nThe GitHub repo for this project is here:\nhttps://github.com/gilmore-lab/ruler-reaction-time/"
   },
   {
     "objectID": "posts/lab-mtg-2023-09-12.html",
@@ -469,6 +133,132 @@
     "text": "PLAY Project Logo\n\n\nMadison Gehringer talked about the Play & Learning Across a Year (PLAY) Project in today’s lab meeting. We had a great discussion about the ethics of sharing identifiable data like video, among other topics."
   },
   {
+    "objectID": "parents.html",
+    "href": "parents.html",
+    "title": "parents",
+    "section": "",
+    "text": "Some parents are surprised to learn how much we can learn from studies of infants and children. Dr. Gilmore has been conducting research with infants and children for more than 20 years, and he has two daughters of his own who have been regular participants in research studies. The Penn State Brain and Behavioral Dynamics Lab works very hard to ensure that you and your child will be safe and comfortable at all times and that everyone enjoys their visit to the lab. This page is designed to help parents prepare for a visit. If you have a question this page does not answer, please email (rogilmore@psu.edu) or call (814-865-3664) Dr. Gilmore.\n\n\n\n\nMost of our studies are conducted at Chandlee Laboratory on the main Penn State University Park campus in the Human Electrophysiology Laboratory (HEF). The HEF has parking set aside for research participants. We will give you directions to Chandlee Lab, and will make arrangements to meet you before your appointment and guide you to the parking spot. Here is a map that shows how to enter campus and provides directions to Chandlee. When you stop at the Parking Kiosk, you should tell the attendant that you are “here for a research study at the imaging center in Chandlee Laboratory.”\n\n\n\nMost appointments take about 45 min to an hour from start to finish. If we think we will go longer than that, we will tell you in advance.\n\n\n\nSome studies involve more than one visit. Others involve just a single visit. We will tell you in advance what the study requires. Sometimes, we may ask you to return if things have either gone especially well, or if we have made a mistake of some kind. You are under no obligation to participate, but we find that most families are happy to come back if they can make time in their schedule.\n\n\n\nYou and your child are in charge. If your child is unhappy about being in the study, we will stop. No questions asked."
+  },
+  {
+    "objectID": "parents.html#frequently-asked-questions-faqs",
+    "href": "parents.html#frequently-asked-questions-faqs",
+    "title": "parents",
+    "section": "",
+    "text": "Most of our studies are conducted at Chandlee Laboratory on the main Penn State University Park campus in the Human Electrophysiology Laboratory (HEF). The HEF has parking set aside for research participants. We will give you directions to Chandlee Lab, and will make arrangements to meet you before your appointment and guide you to the parking spot. Here is a map that shows how to enter campus and provides directions to Chandlee. When you stop at the Parking Kiosk, you should tell the attendant that you are “here for a research study at the imaging center in Chandlee Laboratory.”\n\n\n\nMost appointments take about 45 min to an hour from start to finish. If we think we will go longer than that, we will tell you in advance.\n\n\n\nSome studies involve more than one visit. Others involve just a single visit. We will tell you in advance what the study requires. Sometimes, we may ask you to return if things have either gone especially well, or if we have made a mistake of some kind. You are under no obligation to participate, but we find that most families are happy to come back if they can make time in their schedule.\n\n\n\nYou and your child are in charge. If your child is unhappy about being in the study, we will stop. No questions asked."
+  },
+  {
+    "objectID": "lab-meetings.html",
+    "href": "lab-meetings.html",
+    "title": "lab-meetings",
+    "section": "",
+    "text": "For the Spring 2024 Semester, we will meet on Tuesdays 8:00-8:50 am in room 444 Moore."
+  },
+  {
+    "objectID": "lab-meetings.html#spring-2024",
+    "href": "lab-meetings.html#spring-2024",
+    "title": "lab-meetings",
+    "section": "Spring 2024",
+    "text": "Spring 2024\n\nTuesday, April 9, 2024\n\nYiming presentation (tentative)\n\n\n\nTuesday, February 13, 2024\n\nBrianna & Rick ggplot2\n\n\nAssignment: Install (or update) RStudio.\n\n\nDatacamp check-in\n\n\n\nTuesday, February 6, 2024\n\nAttending\n\n\nRick, Bruna, Julia, Molly, Belle, Brianna, Paige, Andrea, Nicole\n\n\nAnnouncements\n\n\nWeekly lab times: Tue 9-11 (Molly, Julia, Paige, Liu, Belle), Thu 10:30-12 (Brianna, Julia, Bruna), Fri 11-1 (Nicole, Peter, Bruna, Brianna?)\n\n\nBelle (& Rick) presentation/discussion of:\n\nSoska, K. C., Xu, M., Gonzalez, S. L., Herzberg, O., Tamis-LeMonda, C. S., Gilmore, R. O. & Adolph, K. E. (2021). (Hyper)active data curation: A video case study from behavioral science. Journal of Escience Librarianship, 10(3). https://doi.org/10.7191/jeslib.2021.1208.\nQuarto slides\n\n\nTuesday, January 30, 2024\n\nAttending\n\n\nRick, Belle, Brianna, Andrea, Paige, Molly, Liu, Peter\nBruna, Julia, Yiming, Nicole (unable to attend)\n\n\nDatacamp check-in\nConfirm team work schedule\n\n\nTue 9-11; Thu 10:30-12; Fri 11-1\n\n\nPeter paper presentation\n\n\n\nTuesday, January 23, 2024\n\nAttending\n\n\nNicole, Belle, Julia, Bruna, Liu, Andrea, Yiming, Rick, Peter\n\n\nStatus Report\n\nDatacamp\nPLAY update\n\nrecruitment\ndata collection\n\nLegacy Project: Visual Acuity\n\nSchedule Outstanding Lab Member Presentations from last semester\n\nggplot2 interactive (Brianna, Rick) demo?\nPeter paper discussion?\n\nMissing Webpage Biography\n\nMolly, Julia, Bruna\n\n\n\n\nCANCELLED Tuesday, January 16, 2024\n\nStatus Report\n\nDatacamp\nPLAY update\n\nrecruitment\ndata collection\n\nLegacy Project: Visual Acuity\n\nSchedule Outstanding Lab Member Presentations from last semester\n\nggplot2 interactive (Brianna, Rick) demo?\nPeter paper discussion?\n\nMissing Webpage Biography\n\nMolly, Julia, Bruna"
+  },
+  {
+    "objectID": "lab-meetings.html#fall-2023",
+    "href": "lab-meetings.html#fall-2023",
+    "title": "lab-meetings",
+    "section": "Fall 2023",
+    "text": "Fall 2023\n\nMonday, December 11, 2023\n\nEnd of semester lab breakfast, The Waffle Shop, 364 E. College Avenue.\n\n\n\nTuesday, December 5, 2023\n\nJulia will lead a discussion of a paper: (Courage and Adams 1990).\n\nLink to Legacy Project: Acuity dataset.\n\nggplot2 interactive (Brianna, Rick) demo.\nAttendees: Julia, Liu, Madison, Belle, Briana, Yiming, Rick, Andrea\n\n\n\nTuesday, November, 28, 2023 CANCELLED\n\nJulia will lead a discussion of a paper.\nPeter will lead a discussion of a paper:\n\n\n\nTuesday, November 14, 2023\n\nStatus report on DataCamp.\nSchedule end of semester breakfast.\nPLAY status (Madison & Belle).\nLiu will discuss his work on the Databrary Guide and how using ChatGPT has been helpful to that work.\nLegacy Project: Visual Acuity update (Rick, Brianna, Julia, Nicole, Peter).\n\n\n\nTuesday, November 7, 2023\nNo lab meeting\n\n\nTuesday, October 31, 2023\n\nRead and discuss this piece: https://www.nytimes.com/interactive/2023/10/16/us/census-race-ethnicity.html\n\n\n\nTuesday, October 24, 2023\n\nAdd PDF and reference to paper (Birch et al. 2022) discussed last week.\nPractice visualizations of ruler reaction time data.\n\n\n\nTuesday, October 17, 2023\n\nPeter will lead a discussion of Birch, E. E., Hudgins, L. A., Jost, R. M., Cheng-Patel, C. S., Morale, S. E. & Kelly, K. R. (2022). Web-based visual acuity testing for children. Journal of AAPOS: The Official Publication of the American Association for Pediatric Ophthalmology and Strabismus / American Association for Pediatric Ophthalmology and Strabismus, 26(2), 61.e1–e61.e5. https://doi.org/10.1016/j.jaapos.2021.11.007. PDF.\nWatch video(s) from https://mgto.org/meta-analysis-registered-reports/ on meta-analyses and registered reports.\n\n\n\nTuesday, October 10, 2023\n\nProject updates/work session\n\nLegacy Project: Visual Acuity. update (Rick, Brianna, Julia, Nicole, Peter)\n\nUsing R, R Markdown & Quarto (Rick & Andrea)\n\nPlanning\n\nGoals\nAre data sensitive or not\n\nCreate repo\nCreate RStudio project\nCreate stub site/documents\nOn data page\n\nPurpose\nGathering\nCleaning\nVisualization\n\nCommit (& usually push)\nHere is the page we generated: https://gilmore-lab.github.io/ruler-reaction-time/\n\nAnnouncement\n\nNext week (2023-10-17) Peter will lead a discussion of Birch, E. E., Hudgins, L. A., Jost, R. M., Cheng-Patel, C. S., Morale, S. E. & Kelly, K. R. (2022). Web-based visual acuity testing for children. Journal of AAPOS: The Official Publication of the American Association for Pediatric Ophthalmology and Strabismus / American Association for Pediatric Ophthalmology and Strabismus, 26(2), 61.e1–e61.e5. https://doi.org/10.1016/j.jaapos.2021.11.007.\n\n\n\n\nTuesday, October 3, 2023\nNo lab meeting\n\n\nTuesday, September 26, 2023, 350 Moore\n\nProject updates\n\nPLAY update (Madison, Andrea, Belle, Oriana)\nLegacy Project: Visual Acuity. update (Rick, Brianna, Julia, Nicole, Peter)\nDatabrary Guide project update (Andrea, Liu)\n\n\n\n\nTuesday, September 19, 2023, 350 Moore\n\nLooking for:\n\nWeb site master\ndatabraryr package tester and help with documentation.\nSign-up for Hypothes.is\n\nFuture meetings\n\nReadings related to PLAY, visual acuity project, Databrary\n\nPeter will look at: Teller, D. Y., McDonald, M. A., Preston, K., Sebris, S. L. & Dobson, V. (1986). Assessment of visual acuity in infants and children: The acuity card procedure. Developmental Medicine and Child Neurology, 28(6), 779–789. As candidate for reading as a group. https://doi.org/10.1111/j.1469-8749.1986.tb03932.x\n\nWork sessions on using Quarto and R Studio.\nLearning Mermaid and Graphviz tools from Quarto.\n\n\n\n\nTuesday, September 12, 2023, 350 Moore\n\nWhat is PLAY? (Madison)\nIntroducing the Legacy Project: Visual Acuity (Rick)\n\n\n\nTuesday, September 5, 2023, 350 Moore\n\nAssigning work teams (Andrea)\nWatch\n\nNYU Health Sciences Library. (2013, 13. November). Data Sharing and Management Snafu in 3 Short Acts (Higher Quality). Youtube. https://www.youtube.com/watch?v=66oNv_DJuPc\n\nDiscuss project team assignments (Rick)\n\n\n\nTuesday, 8/29/2023, 350 Moore\n\nIntroductions\nOrientation to Fall 2023 lab priorities (Rick)\n\nPlay & Learning Across a Year (PLAY) Project, PLAY site, Parent site, KoBoToolbox Surveys\nLegacy Project, especially Visual Acuity\nDatabrary, especially the Databrary Guide, the databraryr package, and the Databrary Analytics.\nRefreshing internal resources, especially the lab website and our lab protocols site.\n\nOnboarding and Training and orientation (Andrea)\nSchedule"
+  },
+  {
+    "objectID": "lab-meetings.html#goals",
+    "href": "lab-meetings.html#goals",
+    "title": "lab-meetings",
+    "section": "Goals",
+    "text": "Goals\n\nData science\n\nLearn R on Datacamp\n\nggplot\nData wrangling with dplyr\n\nBegin by creating or updating your a brief biography for the Who we are page on the lab website.\n\nStart preparing for presentations in Spring 2024\n\nTrain on poster template for R posterdown\nSubmit abstracts for poster presentation:\nUndergraduate Research Exhibition\nPsi Chi Research Conference\n\nLaunch new projects\n\nPLAY\n\nData collection\nLocomotion coding\n\nLegacy: Visual Acuity\nMigrate lab site to Quarto\n\nReinvigorate old projects\n\nDatabrary tagging\nDatabrary User Guide\nTesting and documenting databraryr package\nTest and enhance Databrary Analytics\nMotion meta-analysis\n\nFuture readings\n\nYiming’s Ph.D. paper and paper reviews"
+  },
+  {
+    "objectID": "lab-meetings.html#previous-meeting-notes",
+    "href": "lab-meetings.html#previous-meeting-notes",
+    "title": "lab-meetings",
+    "section": "Previous meeting notes",
+    "text": "Previous meeting notes\nNotes from previous semesters"
+  },
+  {
+    "objectID": "lab-meetings.html#helpful-links",
+    "href": "lab-meetings.html#helpful-links",
+    "title": "lab-meetings",
+    "section": "Helpful Links",
+    "text": "Helpful Links\n\nGlobal Protect Instructions for Mac and Windows \nClick to login to Datacamp\nHow to take screen shots for Mac and Windows\nDatabrary"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "about",
+    "section": "",
+    "text": "Rick O. Gilmore is Associate Professor of Psychology, a Huck Institute of the Life Sciences faculty member, and an Associate of the Institute for Cyberscience. He earned his bachelor’s degree magna cum laude in Cognitive Science from Brown University, and master’s and doctoral degrees in Psychology from Carnegie Mellon University where he participated in the Center for the Neural Basis of Cognition (CNBC) training program in cognitive neuroscience. Gilmore’s research focuses on the development of visual perception and memory. He is particularly interested in the development of brain networks that enable perceivers to extract information about the layout of the environment, the shape of objects, and the speed and direction of self-movement from patterns of visual motion called optic flow. Gilmore is also keenly interested in developing tools and practices that make scientific research more open, transparent, and reproducible. He is co-founder and Co-Director of the Databrary.org data library.\nFrom 2008 to 2014, Gilmore served as the founding Director of Human Imaging at Penn State’s Social, Life, and Engineering Sciences Imaging Center (SLEIC). He has won the College of the Liberal Arts tenure-line faculty teaching award, leads the Human Developmental Neuroscience Initiative for the Child Study Center, and has had support for his research from the National Institutes of Health and the National Science Foundation. Gilmore has served as president of the Centre Region Bicycle Coalition, the Acoustic Brew Concert Series, and the State College Community Theatre. He recently joined the board of the Nittany Amateur Radio Club (NARC), and serves as faculty adviser (and K3CR license trustee) for the Penn State Amateur Radio Club."
+  },
+  {
+    "objectID": "about.html#gilmore-bio",
+    "href": "about.html#gilmore-bio",
+    "title": "about",
+    "section": "",
+    "text": "Rick O. Gilmore is Associate Professor of Psychology, a Huck Institute of the Life Sciences faculty member, and an Associate of the Institute for Cyberscience. He earned his bachelor’s degree magna cum laude in Cognitive Science from Brown University, and master’s and doctoral degrees in Psychology from Carnegie Mellon University where he participated in the Center for the Neural Basis of Cognition (CNBC) training program in cognitive neuroscience. Gilmore’s research focuses on the development of visual perception and memory. He is particularly interested in the development of brain networks that enable perceivers to extract information about the layout of the environment, the shape of objects, and the speed and direction of self-movement from patterns of visual motion called optic flow. Gilmore is also keenly interested in developing tools and practices that make scientific research more open, transparent, and reproducible. He is co-founder and Co-Director of the Databrary.org data library.\nFrom 2008 to 2014, Gilmore served as the founding Director of Human Imaging at Penn State’s Social, Life, and Engineering Sciences Imaging Center (SLEIC). He has won the College of the Liberal Arts tenure-line faculty teaching award, leads the Human Developmental Neuroscience Initiative for the Child Study Center, and has had support for his research from the National Institutes of Health and the National Science Foundation. Gilmore has served as president of the Centre Region Bicycle Coalition, the Acoustic Brew Concert Series, and the State College Community Theatre. He recently joined the board of the Nittany Amateur Radio Club (NARC), and serves as faculty adviser (and K3CR license trustee) for the Penn State Amateur Radio Club."
+  },
+  {
+    "objectID": "about.html#contact-information",
+    "href": "about.html#contact-information",
+    "title": "about",
+    "section": "Contact Information",
+    "text": "Contact Information\n\n114 Moore Building Department of Psychology The Pennsylvania State University University Park, PA 16801 814-865-3664, voice  814-863-7002, fax\nrogilmore AT-SIGN psu DOT edu"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Brain and Behavioral Dynamics Lab",
+    "section": "",
+    "text": "Brain and Behavioral Dynamics Lab in the Psychology Department at Penn State studies the development of perception, action, and memory. Our goal is to understand patterns of brain and behavioral change in infants, children, and young adults. We use behavioral, EEG, MRI, and computational modeling methods in our research. We also advocate for and try to demonstrate open science practices in our work.\nProfessor Rick Gilmore directs the lab.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nLab meeting: 2024-02-06\n\n\n\n\n\n\n\nlab meetings\n\n\nDatabrary\n\n\nPLAY\n\n\nR\n\n\nquarto\n\n\n\n\n\n\n\n\n\n\n\nFeb 6, 2024\n\n\n\n\n\n\n  \n\n\n\n\nLab meeting: 2023-11-14\n\n\n\n\n\n\n\nlab meetings\n\n\nDatabrary\n\n\nPLAY\n\n\nR\n\n\nquarto\n\n\n\n\n\n\n\n\n\n\n\nNov 14, 2023\n\n\n\n\n\n\n  \n\n\n\n\nLab meeting: 2023-10-10\n\n\n\n\n\n\n\nlab meetings\n\n\nVisual Acuity\n\n\nR\n\n\nquarto\n\n\n\n\n\n\n\n\n\n\n\nOct 10, 2023\n\n\n\n\n\n\n  \n\n\n\n\nPreliminary figures from Legacy: Visual Acuity\n\n\n\n\n\n\n\nvisual acuity\n\n\nvisualization\n\n\n\n\n\n\n\n\n\n\n\nSep 20, 2023\n\n\n\n\n\n\n  \n\n\n\n\nLab meeting: 2023-09-19\n\n\n\n\n\n\n\nlab meetings\n\n\nPLAY\n\n\nDatabrary\n\n\nVisual Acuity\n\n\n\n\n\n\n\n\n\n\n\nSep 19, 2023\n\n\n\n\n\n\n  \n\n\n\n\nLab meeting: 2023-09-12\n\n\n\n\n\n\n\nlab meetings\n\n\nPLAY\n\n\nDatabrary\n\n\n\n\n\n\n\n\n\n\n\nSep 12, 2023\n\n\n\n\n\n\n  \n\n\n\n\nNew website!\n\n\n\n\n\n\n\nwebsite\n\n\nquarto\n\n\n\n\n\n\n\n\n\n\n\nSep 11, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "lab-mtgs/soska-etal-2021.html#motivation",
+    "href": "lab-mtgs/soska-etal-2021.html#motivation",
+    "title": "Soska et al. (2021)",
+    "section": "Motivation",
+    "text": "Motivation\n\nWhat is curation?\nWhy is it important?\nWhat is active curation?\nWhat is quality assurance/quality control"
+  },
+  {
+    "objectID": "lab-mtgs/soska-etal-2021.html#play-learning-across-a-year-play-project",
+    "href": "lab-mtgs/soska-etal-2021.html#play-learning-across-a-year-play-project",
+    "title": "Soska et al. (2021)",
+    "section": "Play & Learning Across a Year (PLAY) Project",
+    "text": "Play & Learning Across a Year (PLAY) Project\n\nhttps://play-project.org\nhttps://anhourinthelife.org for parents\nhttps://PLAY-behaviorome/KoBoToolbox/"
+  },
+  {
+    "objectID": "lab-mtgs/soska-etal-2021.html#workflow",
+    "href": "lab-mtgs/soska-etal-2021.html#workflow",
+    "title": "Soska et al. (2021)",
+    "section": "Workflow",
+    "text": "Workflow\n\nFigure 1 from Soska et al. 2021"
+  },
+  {
+    "objectID": "lab-mtgs/soska-etal-2021.html#qa-flow",
+    "href": "lab-mtgs/soska-etal-2021.html#qa-flow",
+    "title": "Soska et al. (2021)",
+    "section": "QA flow",
+    "text": "QA flow\n\nFigure 3 from Soska et al. 2021"
+  },
+  {
+    "objectID": "lab-mtgs/soska-etal-2021.html#site-level-checks",
+    "href": "lab-mtgs/soska-etal-2021.html#site-level-checks",
+    "title": "Soska et al. (2021)",
+    "section": "Site-level checks",
+    "text": "Site-level checks\n ## Survey data\nhttps://PLAY-behaviorome.github.io/KoBoToolbox\n\n\nGilmore Lab meetings"
+  },
+  {
+    "objectID": "participants.html",
+    "href": "participants.html",
+    "title": "participants",
+    "section": "",
+    "text": "Research Participant Information\nThe Brain and Behavioral Dynamics Lab is interested in how the visual system develops over time. To reach this goal, we use behavioral, EEG and MRI techniques to study how the infant, child and adult brain responds to motion and pattern.\nIf you are interested in participating in a study or having your child participate, please contact us at psubrainlab@gmail.com."
+  },
+  {
     "objectID": "posts/lab-mtg-2023-09-19.html",
     "href": "posts/lab-mtg-2023-09-19.html",
     "title": "Lab meeting: 2023-09-19",
@@ -476,109 +266,18 @@
     "text": "Rick and the Legacy Project: Visual Acuity talked about progress on this project, especially the excellent protocol Brianna Beamer drafted from scratch and the comments Julia DiFulvio made on the draft.\nMadison Gehringer, Belle Peterson, and Andrea gave updates about PLAY.\nAndrea and Yinghe Liu talked about progress on the Databrary Guide.\n\n\n\n\n\n\nImportant\n\n\n\nWho wants to be the lab website webmaster?\n\n\n\n\n\n\n\n\nNote\n\n\n\nWe need bios from a number of new folks."
   },
   {
-    "objectID": "lab-mtgs/notes-murray-2018.html",
-    "href": "lab-mtgs/notes-murray-2018.html",
-    "title": "notes-murray-2018",
+    "objectID": "posts/lab-mtg-2023-11-14.html",
+    "href": "posts/lab-mtg-2023-11-14.html",
+    "title": "Lab meeting: 2023-11-14",
     "section": "",
-    "text": "Notes and resources to discuss\nMurray, S. O., Schallmo, M.-P., Kolodny, T., Millin, R., Kale, A., Thomas, P., Rammsayer, T. H., et al. (2018). Sex Differences in Visual Motion Processing. Current Biology: CB. Retrieved from http://dx.doi.org/10.1016/j.cub.2018.06.014"
+    "text": "Databrary logo\n\n\nIn the 2023-11-14 lab meeting, Liu discussed work on a new version of the Databrary Guide. We got an update about the PLAY project from Belle and Madison. We made plans for our end-of-semester breakfast on Monday, December 11, 2023 at the Downtown Waffle Shop. We also learned how to make posts like this!"
   },
   {
-    "objectID": "lab-mtgs/notes-murray-2018.html#background",
-    "href": "lab-mtgs/notes-murray-2018.html#background",
-    "title": "notes-murray-2018",
+    "objectID": "posts/new-site.html",
+    "href": "posts/new-site.html",
+    "title": "New website!",
     "section": "",
-    "text": "Notes and resources to discuss\nMurray, S. O., Schallmo, M.-P., Kolodny, T., Millin, R., Kale, A., Thomas, P., Rammsayer, T. H., et al. (2018). Sex Differences in Visual Motion Processing. Current Biology: CB. Retrieved from http://dx.doi.org/10.1016/j.cub.2018.06.014"
-  },
-  {
-    "objectID": "lab-mtgs/notes-murray-2018.html#figure-1",
-    "href": "lab-mtgs/notes-murray-2018.html#figure-1",
-    "title": "notes-murray-2018",
-    "section": "Figure 1",
-    "text": "Figure 1"
-  },
-  {
-    "objectID": "lab-mtgs/notes-murray-2018.html#figure-2",
-    "href": "lab-mtgs/notes-murray-2018.html#figure-2",
-    "title": "notes-murray-2018",
-    "section": "Figure 2",
-    "text": "Figure 2"
-  },
-  {
-    "objectID": "lab-mtgs/notes-murray-2018.html#supplemental-materials",
-    "href": "lab-mtgs/notes-murray-2018.html#supplemental-materials",
-    "title": "notes-murray-2018",
-    "section": "Supplemental Materials",
-    "text": "Supplemental Materials\nhttps://www.cell.com/cms/10.1016/j.cub.2018.06.014/attachment/4f09c701-2144-4732-b7e6-92265a65ed7d/mmc1.pdf"
-  },
-  {
-    "objectID": "lab-mtgs/notes-murray-2018.html#additional-sources-of-data",
-    "href": "lab-mtgs/notes-murray-2018.html#additional-sources-of-data",
-    "title": "notes-murray-2018",
-    "section": "Additional sources of data",
-    "text": "Additional sources of data\nMelnick, M. D., Harrison, B. R., Park, S., Bennetto, L., & Tadin, D. (2013). A strong interactive link between sensory discriminations and intelligence. Current biology: CB, 23(11), 1013–1017. Retrieved from http://dx.doi.org/10.1016/j.cub.2013.04.053\nTroche, S. J., Thomas, P., Tadin, D., & Rammsayer, T. H. (2018). On the relationship between spatial suppression, speed of information processing, and psychometric intelligence. Intelligence, 67, 11–18. Retrieved from http://www.sciencedirect.com/science/article/pii/S0160289617302027"
-  },
-  {
-    "objectID": "lab-mtgs/notes-murray-2018.html#what-do-the-stimuli-look-like",
-    "href": "lab-mtgs/notes-murray-2018.html#what-do-the-stimuli-look-like",
-    "title": "notes-murray-2018",
-    "section": "What do the stimuli look like?",
-    "text": "What do the stimuli look like?\n\nDocumentation about PsychoPy GratingStim function"
-  },
-  {
-    "objectID": "lab-mtgs/notes-cohen-2017.html",
-    "href": "lab-mtgs/notes-cohen-2017.html",
-    "title": "notes-on-cohen-2017",
-    "section": "",
-    "text": "Notes for discussing\nCohen, M. X. (2017). Where Does EEG Come From and What Does It Mean? Trends in Neurosciences, 40(4), 208–218. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.02.004"
-  },
-  {
-    "objectID": "lab-mtgs/notes-cohen-2017.html#background",
-    "href": "lab-mtgs/notes-cohen-2017.html#background",
-    "title": "notes-on-cohen-2017",
-    "section": "",
-    "text": "Notes for discussing\nCohen, M. X. (2017). Where Does EEG Come From and What Does It Mean? Trends in Neurosciences, 40(4), 208–218. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.02.004"
-  },
-  {
-    "objectID": "lab-mtgs/notes-cohen-2017.html#figure-1",
-    "href": "lab-mtgs/notes-cohen-2017.html#figure-1",
-    "title": "notes-on-cohen-2017",
-    "section": "Figure 1",
-    "text": "Figure 1"
-  },
-  {
-    "objectID": "lab-mtgs/notes-cohen-2017.html#figure-2",
-    "href": "lab-mtgs/notes-cohen-2017.html#figure-2",
-    "title": "notes-on-cohen-2017",
-    "section": "Figure 2",
-    "text": "Figure 2"
-  },
-  {
-    "objectID": "lab-mtgs/notes-cohen-2017.html#issues",
-    "href": "lab-mtgs/notes-cohen-2017.html#issues",
-    "title": "notes-on-cohen-2017",
-    "section": "Issues",
-    "text": "Issues\n\nFrom single cell spike (action potential) trains to EEG"
-  },
-  {
-    "objectID": "lab-mtgs/notes-cohen-2017.html#terms",
-    "href": "lab-mtgs/notes-cohen-2017.html#terms",
-    "title": "notes-on-cohen-2017",
-    "section": "Terms",
-    "text": "Terms\n\nForward model\nInverse model\nLocal field potential\n\\(\\alpha\\), \\(\\beta\\), \\(\\delta\\), \\(\\gamma\\) band oscillations\nwavelet\nFourier transform"
-  },
-  {
-    "objectID": "lab-mtgs/notes-cohen-2017.html#possible-additional-readings",
-    "href": "lab-mtgs/notes-cohen-2017.html#possible-additional-readings",
-    "title": "notes-on-cohen-2017",
-    "section": "Possible additional readings",
-    "text": "Possible additional readings\nJackson, A. F., & Bolger, D. J. (2014). The neurophysiological bases of EEG and EEG measurement: A review for the rest of us. Psychophysiology. Wiley Online Library. Retrieved from http://onlinelibrary.wiley.com/doi/10.1111/psyp.12283/full\n\nFigure 1 from Jackson & Bolger, 2014\n\n\n\nFigure 2 from Jackson & Bolger, 2014\n\n\n\nFigure 3 from Jackson & Bolger, 2014\n\n\n\nFigure 4 from Jackwon & Bolger, 2014"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Brain and Behavioral Dynamics Lab",
-    "section": "",
-    "text": "Brain and Behavioral Dynamics Lab in the Psychology Department at Penn State studies the development of perception, action, and memory. Our goal is to understand patterns of brain and behavioral change in infants, children, and young adults. We use behavioral, EEG, MRI, and computational modeling methods in our research. We also advocate for and try to demonstrate open science practices in our work.\nProfessor Rick Gilmore directs the lab.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nLab meeting: 2023-11-14\n\n\n\n\n\n\n\nlab meetings\n\n\nDatabrary\n\n\nPLAY\n\n\nR\n\n\nquarto\n\n\n\n\n\n\n\n\n\n\n\nNov 14, 2023\n\n\n\n\n\n\n  \n\n\n\n\nLab meeting: 2023-10-10\n\n\n\n\n\n\n\nlab meetings\n\n\nVisual Acuity\n\n\nR\n\n\nquarto\n\n\n\n\n\n\n\n\n\n\n\nOct 10, 2023\n\n\n\n\n\n\n  \n\n\n\n\nPreliminary figures from Legacy: Visual Acuity\n\n\n\n\n\n\n\nvisual acuity\n\n\nvisualization\n\n\n\n\n\n\n\n\n\n\n\nSep 20, 2023\n\n\n\n\n\n\n  \n\n\n\n\nLab meeting: 2023-09-19\n\n\n\n\n\n\n\nlab meetings\n\n\nPLAY\n\n\nDatabrary\n\n\nVisual Acuity\n\n\n\n\n\n\n\n\n\n\n\nSep 19, 2023\n\n\n\n\n\n\n  \n\n\n\n\nLab meeting: 2023-09-12\n\n\n\n\n\n\n\nlab meetings\n\n\nPLAY\n\n\nDatabrary\n\n\n\n\n\n\n\n\n\n\n\nSep 12, 2023\n\n\n\n\n\n\n  \n\n\n\n\nNew website!\n\n\n\n\n\n\n\nwebsite\n\n\nquarto\n\n\n\n\n\n\n\n\n\n\n\nSep 11, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to our new website. The old site was built in R Markdown. The new one is built in Quarto. We hope you like the new look and feel."
   },
   {
     "objectID": "publications.html",
@@ -609,143 +308,59 @@
     "text": "Other (non-peer-reviewed) publications\nGilmore, R.O., Xu, M., & Adolph, K.E. (2021). Data sharing. In Panecker, S. & Stanley, B. (Eds.), Handbook of Research Ethics in Psychological Science, APA Press, Washington, DC. PDF.\nGilmore, R. O. & Adolph, K. E. (2019). Open sharing of research video: Breaking down the boundaries of the research team. In , K. L. Hall, A. L. Vogel, & R. T. Croyle (Eds.), Strategies for team science success: Handbook of evidence-based principles for cross-disciplinary science and practical lessons learned from health researchers. Cham: Springer, pp. 575-583.\nAdolph, K.E., Gilmore, R.O., & Kennedy, J.L. (2017, October). Video data and documentation will improve psychological science. Psychological Science Agenda. https://www.apa.org/science/about/psa/2017/10/video-data.aspx.\nGilmore, R. O., Kennedy, J. L., & Adolph, K. E. (2017, September 7). Practical solutions for the ethical sharing of identifiable research data. Retrieved from https://psyarxiv.com/kew8u.\nSeisler, A.R. & Gilmore, R.O. (2017). Developing R Code for the Processing and Analysis of Optic Flow Data. In Kitzes, J., Turek, D., & Deniz, F. (Eds.). The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences, Oakland, CA: University of California Press, [Online Version]. Retrieved from https://www.practicereproducibleresearch.org.\nGilmore, R. O., & Adolph, K. E. (2017, February 6). Video can make science more open, transparent, robust, and reproducible. Retrieved from https://osf.io/3kvp7.\nGilmore, R.O., & Adolph, K.E. (in press). Open sharing of research video: Breaking the boundaries of the research team, in Advancing Social and Behavioral Health Research through Cross-disciplinary Team Science: Principles for Success. Hall, K., Croyle, R., & Vogel, A. (Eds.). Springer: Philadelphia.\nGilmore, R.O, Gummer, E., & Koedinger, K. (2015). Collaborating on tools, infrastructures, and repositories. In Dede, C. (Ed.) Data-intensive research in education: Current work and next steps, Report on two National Science Foundation sponsored computing research education workshops, 63-73. Computing Research Association.\nGilmore, R.O. & Fesi, J.D. (2009). Infant Perception: Methods of Testing. In B. Goldstein (Ed.), Encyclopedia of Perception, Sage Publishing. doi:10.4135/9781412972000.\nGilmore, R.O., Weinstein, J. & Von Der Heide, R. (2008). The Development and Neuropsychology of Visual Impairment. In A.M. Walker, D.M. Kaufman, G.E. Solomon, and C. Pfeffer (Eds.), Child and Adolescent Neurology for Psychiatrists. Baltimore: Lippincott Williams & Wilkins. 323-347.\nGilmore, R.O. (2003). Where are they going? The perception of information about visual direction in young infants. In B. Hopkins & S.P. Johnson (Eds.), Neurobiology of Infant Vision, Advances in Infancy Research. Westport, CT: Praeger Publishers. 181-210.\nGilmore, R.O. (2003). Toward a neuropsychology of visual development. In S. J. Segalowitz & I. Rapin (Eds.), Handbook of Neuropsychology (2nd Ed.), Vol 8., Part II: Child Neuropsychology. Amsterdam: Elsevier Science. 417-437.\nGilmore, R.O. (2000). The development of representations for perception and action. In J.G. Warhol, N. Fox, & L. Leavitt, (Eds.), The Role of Early Experience in Infant Development: Johnson & Johnson Pediatric Roundtable Series.\nJohnson, M.H., & Gilmore, R.O. (2000). Infancy: Biological processes, in A. Kazdin (Ed.), Encyclopedia of Psychology. Washington, DC: APA Press.\nGilmore, R.O., & Johnson, M.H. (1998). Learning what is where: Oculomotor constraints on the development of spatial cognition. In G. Butterworth & F. Simion, (Eds.), The Development of Sensory, Motor & Cognitive Capacities in Early Infancy: From Sensation to Cognition. Hillsdale, NJ: Erlbaum.\nJohnson, M.H., Gilmore, R.O., & Csibra, G. (1998). Toward a computational model of the development of saccadic control. In J. Richards, (Ed.), The Cognitive Neuroscience of Attention. Hillsdale, NJ: Erlbaum.\nJohnson, M.H., & Gilmore, R.O. (1996). Developmental cognitive neuroscience: A biological perspective on cognitive change. In R. Gelman & T. Au (Eds.), Handbook of Perception and Cognition, 13, Orlando, FL: Academic Press.\nGilmore, R.O., & Johnson, M.H. (1995). Egocentric action in early infancy: Spatial frames of reference for saccades (Developmental Cognitive Neuroscience Tech. Report 95-4). London: U.K. MRC Cognitive Development Unit.\nJohnson, M.H., Gilmore, R.O., Tucker, L.A., & Minister, S.L. (1995). Cortical development and saccadic control: Vector summation in young infants (Developmental Cognitive Neuroscience Tech. Report 95-3). London: U.K. MRC Cognitive Development Unit."
   },
   {
-    "objectID": "site-info.html",
-    "href": "site-info.html",
-    "title": "About the site",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "resources",
     "section": "",
-    "text": "This site is generated in Quarto using RStudio. The rendered site is hosted using GitHub pages.\nHere is additional information about the R session.\nsessionInfo()\n\nR version 4.3.1 (2023-06-16)\nPlatform: aarch64-apple-darwin20 (64-bit)\nRunning under: macOS Ventura 13.5.2\n\nMatrix products: default\nBLAS:   /Library/Frameworks/R.framework/Versions/4.3-arm64/Resources/lib/libRblas.0.dylib \nLAPACK: /Library/Frameworks/R.framework/Versions/4.3-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.11.0\n\nlocale:\n[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8\n\ntime zone: America/New_York\ntzcode source: internal\n\nattached base packages:\n[1] stats     graphics  grDevices utils     datasets  methods   base     \n\nloaded via a namespace (and not attached):\n [1] htmlwidgets_1.6.2 compiler_4.3.1    fastmap_1.1.1     cli_3.6.1        \n [5] tools_4.3.1       htmltools_0.5.5   rstudioapi_0.15.0 yaml_2.3.7       \n [9] rmarkdown_2.24    knitr_1.43        jsonlite_1.8.7    xfun_0.39        \n[13] digest_0.6.33     rlang_1.1.1       evaluate_0.21"
+    "text": "New Lab Member Instructions\nWe use Paperpile for reference management. Please use the Paperpile Instructions to utilize this web based reference management system.\n\n\n\nR for Data Science"
   },
   {
-    "objectID": "site-info.html#standard-workflow",
-    "href": "site-info.html#standard-workflow",
-    "title": "About the site",
-    "section": "Standard workflow",
-    "text": "Standard workflow\n\nOpen project\nPull\nMake changes\nRender site\nPreview site\nCommit changes\nPush to GitHub\n\n\n\n\n\nflowchart LR\n  A[Open project] --&gt; B(Pull)\n  B --&gt; C{Make changes}\n  C --&gt; D[Render site]\n  D --&gt; E[Preview site]"
-  },
-  {
-    "objectID": "participants.html",
-    "href": "participants.html",
-    "title": "participants",
+    "objectID": "resources.html#lab-resources",
+    "href": "resources.html#lab-resources",
+    "title": "resources",
     "section": "",
-    "text": "Research Participant Information\nThe Brain and Behavioral Dynamics Lab is interested in how the visual system develops over time. To reach this goal, we use behavioral, EEG and MRI techniques to study how the infant, child and adult brain responds to motion and pattern.\nIf you are interested in participating in a study or having your child participate, please contact us at psubrainlab@gmail.com."
+    "text": "New Lab Member Instructions\nWe use Paperpile for reference management. Please use the Paperpile Instructions to utilize this web based reference management system.\n\n\n\nR for Data Science"
   },
   {
-    "objectID": "talk-slides/type-I-type-II-errors.html",
-    "href": "talk-slides/type-I-type-II-errors.html",
-    "title": "Type I & Type II Errors and Statistical Power",
+    "objectID": "resources.html#active-projects",
+    "href": "resources.html#active-projects",
+    "title": "resources",
+    "section": "Active Projects",
+    "text": "Active Projects\n\nMotion Coherence (MOCO)\n\nInfant High Density EEG Data\n\nGitHub\n\nDatabrary\n\n\nChild Behavioral Data\n\nGitHub\n\nDatabrary\n\n\nAdult Behavioral Data\n\nGitHub\n\nDatabrary\n\n\n\n\nMotion Form (MOFO)\n\nChild High Density EEG Data\n\nGitHub\n\nDatabrary\n\n\n\n\nSize Matters\n\nData\n\nGitHub\n\n\n\n\nSymmetry\n\nAdult Behavorial Data\n\nGitHub\n\nDatabrary"
+  },
+  {
+    "objectID": "students.html",
+    "href": "students.html",
+    "title": "For Students",
     "section": "",
-    "text": "To discuss Type I and Type II errors and how they relate to the idea of statistical power."
+    "text": "Rick O. Gilmore is Associate Professor of Psychology, a Huck Institute of the Life Sciences faculty member, and an Associate of the Institute for Cyberscience. He earned his bachelor’s degree magna cum laude in Cognitive Science from Brown University, and master’s and doctoral degrees in Psychology from Carnegie Mellon University where he participated in the Center for the Neural Basis of Cognition (CNBC) training program in cognitive neuroscience. Gilmore’s research focuses on the development of visual perception and memory. He is particularly interested in the development of brain networks that enable perceivers to extract information about the layout of the environment, the shape of objects, and the speed and direction of self-movement from patterns of visual motion called optic flow. Gilmore is also keenly interested in developing tools and practices that make scientific research more open, transparent, and reproducible. He is co-founder and Co-Director of the Databrary.org data library.\nFrom 2008 to 2014, Gilmore served as the founding Director of Human Imaging at Penn State’s Social, Life, and Engineering Sciences Imaging Center (SLEIC). He has won the College of the Liberal Arts tenure-line faculty teaching award, leads the Human Developmental Neuroscience Initiative for the Child Study Center, and has had support for his research from the National Institutes of Health and the National Science Foundation. Gilmore has served as president of the Centre Region Bicycle Coalition, the Acoustic Brew Concert Series, and the State College Community Theatre."
   },
   {
-    "objectID": "talk-slides/type-I-type-II-errors.html#purpose",
-    "href": "talk-slides/type-I-type-II-errors.html#purpose",
-    "title": "Type I & Type II Errors and Statistical Power",
+    "objectID": "students.html#gilmore-bio",
+    "href": "students.html#gilmore-bio",
+    "title": "For Students",
     "section": "",
-    "text": "To discuss Type I and Type II errors and how they relate to the idea of statistical power."
+    "text": "Rick O. Gilmore is Associate Professor of Psychology, a Huck Institute of the Life Sciences faculty member, and an Associate of the Institute for Cyberscience. He earned his bachelor’s degree magna cum laude in Cognitive Science from Brown University, and master’s and doctoral degrees in Psychology from Carnegie Mellon University where he participated in the Center for the Neural Basis of Cognition (CNBC) training program in cognitive neuroscience. Gilmore’s research focuses on the development of visual perception and memory. He is particularly interested in the development of brain networks that enable perceivers to extract information about the layout of the environment, the shape of objects, and the speed and direction of self-movement from patterns of visual motion called optic flow. Gilmore is also keenly interested in developing tools and practices that make scientific research more open, transparent, and reproducible. He is co-founder and Co-Director of the Databrary.org data library.\nFrom 2008 to 2014, Gilmore served as the founding Director of Human Imaging at Penn State’s Social, Life, and Engineering Sciences Imaging Center (SLEIC). He has won the College of the Liberal Arts tenure-line faculty teaching award, leads the Human Developmental Neuroscience Initiative for the Child Study Center, and has had support for his research from the National Institutes of Health and the National Science Foundation. Gilmore has served as president of the Centre Region Bicycle Coalition, the Acoustic Brew Concert Series, and the State College Community Theatre."
   },
   {
-    "objectID": "talk-slides/type-I-type-II-errors.html#making-decisions",
-    "href": "talk-slides/type-I-type-II-errors.html#making-decisions",
-    "title": "Type I & Type II Errors and Statistical Power",
-    "section": "Making decisions",
-    "text": "Making decisions\n\nknitr::include_graphics(\"https://mk0abtastybwtpirqi5t.kinstacdn.com/wp-content/uploads/type-1-2-errors.png\")"
+    "objectID": "students.html#contact-information",
+    "href": "students.html#contact-information",
+    "title": "For Students",
+    "section": "Contact Information",
+    "text": "Contact Information\n\n114 Moore Building Department of Psychology The Pennsylvania State University University Park, PA 16801 814-865-3664, voice  814-863-7002, fax\nrogilmore AT-SIGN psu DOT edu\nhttps://www.personal.psu.edu/rog1"
   },
   {
-    "objectID": "talk-slides/type-I-type-II-errors.html#setting-decision-thresholds",
-    "href": "talk-slides/type-I-type-II-errors.html#setting-decision-thresholds",
-    "title": "Type I & Type II Errors and Statistical Power",
-    "section": "Setting decision thresholds",
-    "text": "Setting decision thresholds\n\nGoal: Minimize the probability of making errors\nTypes of errors\n\nFalse positives: Nothing’s going on, but we say otherwise (Type I)\nFalse negatives: Something’s going on, but we miss it (Type II)\n\n\n\nknitr::include_graphics(\"https://i.stack.imgur.com/R0ncP.png\")"
+    "objectID": "students.html#current-staff",
+    "href": "students.html#current-staff",
+    "title": "For Students",
+    "section": "Current Staff",
+    "text": "Current Staff\n\nAndrea Seisler, Lab Manager\nAndrea R. Seisler is the Laboratory Manager of the Brain Development Laboratory directed by Dr. Rick O. Gilmore. She received her bachelor’s and master’s degree in Biomedical Engineering from The Catholic University of America. During her graduate studies, she was a recipient of the Clare Booth Luce Fellowship award.\nShe completed MRI based neuroscience and orthopedics research while working at The National Institutes of Health from 2001-2007. After her move to State College, she served as an IRB Compliance Coordinator for the Office for Research Protections at Penn State and then moved on to manage the Human Electrophysiology Facility located at the Social, Life, and Enginineering Sciences Imaging Center through 2014.\n\nContact Information\n\n503 Moore Building Department of Psychology The Pennsylvania State University University Park, PA 16802 ars17 AT-SIGN psu DOT edu\n\n\n\n\nYiming Qian\nYiming is the graduate student in the Department of Psychology at PSU. Her research interests is exploring the development of brain networks from early childhood to adulthood, using neuroimaging tools. She is also interested in the mechanism of visual motion.\nBesides research activities, Yiming enjoys reading, cooking, gardening, hiking and fishing. She is a big fan of operas and musicals.\n\n\nSarah Shahriar\nSarah is a junior majoring in Psychology with a concentration in Neuroscience. She hopes to pursue a medical degree after studying at Penn State University and hopes to practice as a psychiatrist in the future.\nSarah is originally from Hershey, PA and enjoys spending her time volunteering at Penn State Hershey Medical Center Children’s Hospital within the Ronald McDonald charities."
   },
   {
-    "objectID": "talk-slides/type-I-type-II-errors.html#what-do-we-control-what-do-we-measure",
-    "href": "talk-slides/type-I-type-II-errors.html#what-do-we-control-what-do-we-measure",
-    "title": "Type I & Type II Errors and Statistical Power",
-    "section": "What do we control? What do we measure?",
-    "text": "What do we control? What do we measure?\n\nControl\n\nSample size\nDecision criteria\nHow big a difference (effect size) actually matters\nWidth of “null” or reference distribution\n\nMeasure\n\nOutcomes and their variability"
-  },
-  {
-    "objectID": "talk-slides/type-I-type-II-errors.html#power-analysis-on-sex-differences-data",
-    "href": "talk-slides/type-I-type-II-errors.html#power-analysis-on-sex-differences-data",
-    "title": "Type I & Type II Errors and Statistical Power",
-    "section": "Power analysis on sex differences data",
-    "text": "Power analysis on sex differences data\nhttps://gilmore-lab.github.io/sex-differences-in-motion-perception/analysis/preregistration_power_analysis.html"
-  },
-  {
-    "objectID": "talk-slides/type-I-type-II-errors.html#bottom-line",
-    "href": "talk-slides/type-I-type-II-errors.html#bottom-line",
-    "title": "Type I & Type II Errors and Statistical Power",
-    "section": "Bottom line",
-    "text": "Bottom line\n\nNeed bigger samples to detect smaller effects with confidence"
-  },
-  {
-    "objectID": "talk-slides/abramov-etal-2012.html",
-    "href": "talk-slides/abramov-etal-2012.html",
-    "title": "abramov-etal-2017",
-    "section": "",
-    "text": "Abramov, I., Gordon, J., Feldman, O., & Chavarga, A. (2012). Sex & vision I: Spatio-temporal resolution. Biology of Sex Differences, 3(1), 20. bsd.biomedcentral.com. Retrieved from http://dx.doi.org/10.1186/2042-6410-3-20"
-  },
-  {
-    "objectID": "talk-slides/abramov-etal-2012.html#discussion-of-abramov2012-da",
-    "href": "talk-slides/abramov-etal-2012.html#discussion-of-abramov2012-da",
-    "title": "abramov-etal-2017",
-    "section": "",
-    "text": "Abramov, I., Gordon, J., Feldman, O., & Chavarga, A. (2012). Sex & vision I: Spatio-temporal resolution. Biology of Sex Differences, 3(1), 20. bsd.biomedcentral.com. Retrieved from http://dx.doi.org/10.1186/2042-6410-3-20"
-  },
-  {
-    "objectID": "talk-slides/abramov-etal-2012.html#who-were-the-participants",
-    "href": "talk-slides/abramov-etal-2012.html#who-were-the-participants",
-    "title": "abramov-etal-2017",
-    "section": "Who were the participants?",
-    "text": "Who were the participants?\n\nAdults (faculty, graduate and undergraduate students at Brooklyn College, some high school students)\n\\(n=36\\) females (16-38 years; mean = 23.5 years); \\(n=16\\) males (16-37 years; mean 24.3 years)\n\n\n“These numbers of participants are appreciably larger than those in the vast majority of detailed psychophysical studies of vision.”"
-  },
-  {
-    "objectID": "talk-slides/abramov-etal-2012.html#what-tasks-did-they-perform",
-    "href": "talk-slides/abramov-etal-2012.html#what-tasks-did-they-perform",
-    "title": "abramov-etal-2017",
-    "section": "What tasks did they perform?",
-    "text": "What tasks did they perform?\n\nExample display\n\n\nPrimary\n\nSpatio-Temporal Contrast Sensitivity Function (ST-CSF)\n\n\nContrast sensitivity function example\n\n\n\n\n\nhttps://understandinglowvision.com/2-0-contrast-sensitivity-function/\n\n\n\n\n\n\n\nSecondary\n\nStereopsis or binocular depth perception (Titmus Fly Book Test; Randot Stereo Acuity Test; TNO anaglypic random-dot plates)\nColor perception\nAcuity"
-  },
-  {
-    "objectID": "talk-slides/abramov-etal-2012.html#what-specific-variablesmeasures-were-of-interest",
-    "href": "talk-slides/abramov-etal-2012.html#what-specific-variablesmeasures-were-of-interest",
-    "title": "abramov-etal-2017",
-    "section": "What specific variables/measures were of interest?",
-    "text": "What specific variables/measures were of interest?\n\nI manipulate independent variables (controlled variables or ‘inputs’); ‘Dey’ provide information about dependent variables (responses/outcome variables or ‘outputs’)\n\n\nST-CSF thresholds\n\nat different spatial frequencies and temporal frequencies"
-  },
-  {
-    "objectID": "talk-slides/abramov-etal-2012.html#how-many-visitsdata-collection-sessions",
-    "href": "talk-slides/abramov-etal-2012.html#how-many-visitsdata-collection-sessions",
-    "title": "abramov-etal-2017",
-    "section": "How many visits/data collection sessions?",
-    "text": "How many visits/data collection sessions?\n\n15+ laboratory sessions\n\n\n“Furthermore, each of our participants had to complete our entire Battery of tests of vision; this entailed coming to the laboratory for fifteen or more sessions of approximately one hour.”"
-  },
-  {
-    "objectID": "talk-slides/abramov-etal-2012.html#how-were-the-data-analyzed",
-    "href": "talk-slides/abramov-etal-2012.html#how-were-the-data-analyzed",
-    "title": "abramov-etal-2017",
-    "section": "How were the data analyzed?",
-    "text": "How were the data analyzed?"
-  },
-  {
-    "objectID": "talk-slides/abramov-etal-2012.html#group-contrast-sensitivity-functions-females",
-    "href": "talk-slides/abramov-etal-2012.html#group-contrast-sensitivity-functions-females",
-    "title": "abramov-etal-2017",
-    "section": "Group contrast sensitivity functions (females)",
-    "text": "Group contrast sensitivity functions (females)\n\n\n\n\n\nAbramov et al. 2012, Figure 1"
-  },
-  {
-    "objectID": "talk-slides/abramov-etal-2012.html#group-contrast-sensitivity-functions-males",
-    "href": "talk-slides/abramov-etal-2012.html#group-contrast-sensitivity-functions-males",
-    "title": "abramov-etal-2017",
-    "section": "Group contrast sensitivity functions (males)",
-    "text": "Group contrast sensitivity functions (males)\n\n\n\n\n\nAbramov et al. 2012, Figure 1"
-  },
-  {
-    "objectID": "talk-slides/abramov-etal-2012.html#ratios-of-group-contrast-sensitivity-functions-malesfemales",
-    "href": "talk-slides/abramov-etal-2012.html#ratios-of-group-contrast-sensitivity-functions-malesfemales",
-    "title": "abramov-etal-2017",
-    "section": "Ratios of group contrast sensitivity functions (Males/Females)",
-    "text": "Ratios of group contrast sensitivity functions (Males/Females)\n\n\n\n\n\nAbramov et al. 2012, Figure 1"
+    "objectID": "students.html#recent-alumni",
+    "href": "students.html#recent-alumni",
+    "title": "For Students",
+    "section": "Recent Alumni",
+    "text": "Recent Alumni\n\nAlyssa Pandos\nCharmi Mehta\nRaya Willoughby\nKatie Torres\nShivani Patel\nMichael O’Neill, Graduate student, PSU\nDaved Fared\nAuburn Lattanzio\nMichelle Shade\nSam Pai\nJun Oh, Apprentice Ruby on Rails Developer, Launch Academy, Inc.\nAmanda Thomas, Postdoctoral researcher, Swarthmore\nWilliam Adamiak, NIH IRTA\nShivam Vedak, Medical student\nDan Elbich, Graduate student, Penn State\nJeremy Fesi, Ph.D., US Marine Corps Research\nLorena Gonzalez, Graduate student, Penn State\nRicky Groner, IT Support Specialist, Huck Institutes of the Life Sciences, Penn State\nKen Hwang, Consultant, Anexinet\nMatthew Lee, MBA student, Penn State\nPatricia Jones, Optometry student, Pennsylvania College of Optometry"
   }
 ]

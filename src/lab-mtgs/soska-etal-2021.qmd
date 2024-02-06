@@ -1,0 +1,39 @@
+---
+title: "Soska et al. (2021)"
+subtitle: "2024-02-06 lab meeting"
+format: 
+  revealjs:
+    footer: "[Gilmore Lab meetings](../lab-meetings.html#tuesday-february-6-2024)"
+---
+
+---
+
+Soska, K. C., Xu, M., Gonzalez, S. L., Herzberg, O., Tamis-LeMonda, C. S., Gilmore, R. O. & Adolph, K. E. (2021). (Hyper)active data curation: A video case study from behavioral science. *Journal of Escience Librarianship*, *10*(3). <https://doi.org/10.7191/jeslib.2021.1208>.
+
+## Motivation
+
+- What is curation?
+- Why is it important?
+- What is *active* curation?
+- What is quality assurance/quality control
+
+## Play & Learning Across a Year (PLAY) Project
+
+- <https://play-project.org>
+- <https://anhourinthelife.org> for parents
+- <https://PLAY-behaviorome/KoBoToolbox/>
+
+## Workflow
+
+![Figure 1 from Soska et al. 2021](img/soska-etal-2021-fig01.jpeg)
+
+## QA flow
+
+![Figure 3 from Soska et al. 2021](img/soska-etal-2021-fig03.jpg)
+
+## Site-level checks
+
+![Figure 7 from Soska et al. 2021](img/soska-etal-2021-fig07.jpg)
+## Survey data
+
+<https://PLAY-behaviorome.github.io/KoBoToolbox>

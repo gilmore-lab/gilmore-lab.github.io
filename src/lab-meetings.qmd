@@ -11,16 +11,33 @@ For the Spring 2024 Semester, we will meet on Tuesdays 8:00-8:50 am in room 444 
 
 1. Yiming presentation (tentative)
 
+### Tuesday, February 13, 2024
+
+1. Brianna & Rick `ggplot2`
+  - Assignment: Install (or update) [RStudio](https://posit.co/download/rstudio-desktop/).
+2. Datacamp check-in
+
 ### Tuesday, February 6, 2024
 
-1. Belle (& Rick) presentation/discussion of: 
+0. Attending
+  - Rick, Bruna, Julia, Molly, Belle, Brianna, Paige, Andrea, Nicole
+1. Announcements
+  - Weekly lab times: Tue 9-11 (Molly, Julia, Paige, Liu, Belle), Thu 10:30-12 (Brianna, Julia, Bruna), Fri 11-1 (Nicole, Peter, Bruna, Brianna?)
+2. Belle (& Rick) presentation/discussion of: 
 
-Soska, K. C., Xu, M., Gonzalez, S. L., Herzberg, O., Tamis-LeMonda, C. S., Gilmore, R. O. & Adolph, K. E. (2021). (Hyper)active data curation: A video case study from behavioral science. Journal of Escience Librarianship, 10(3). <https://doi.org/10.7191/jeslib.2021.1208>.
+Soska, K. C., Xu, M., Gonzalez, S. L., Herzberg, O., Tamis-LeMonda, C. S., Gilmore, R. O. & Adolph, K. E. (2021). (Hyper)active data curation: A video case study from behavioral science. *Journal of Escience Librarianship*, *10*(3). <https://doi.org/10.7191/jeslib.2021.1208>.
+
+[Quarto slides](lab-mtgs/soska-etal-2021.qmd)
 
 ### Tuesday, January 30, 2024
 
+0. Attending
+  - Rick, Belle, Brianna, Andrea, Paige, Molly, Liu, Peter
+  - Bruna, Julia, Yiming, Nicole (unable to attend) 
 1. Datacamp check-in
-2. Peter paper presentation
+2. Confirm team work schedule
+  - Tue 9-11; Thu 10:30-12; Fri 11-1
+3. Peter paper presentation
 
 ### Tuesday, January 23, 2024
 

@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: "../docs"
+  render:
+    - "*.qmd"
+    - "posts/*.qmd"
+    - "talk-slides/*.qmd"
   
 execute: 
   freeze: auto
@@ -20,7 +24,11 @@ website:
     - text: "Who we are"
       href: who-we-are.qmd
     - text: "Lab mtgs"
-      href: lab-meetings.qmd
+      menu: 
+        - text: "Current semester"
+          href: lab-meetings.qmd
+        - text: "Soska et al. 2021"
+          href: lab-mtgs/soska-etal-2021.qmd
     - text: "Resources"
       href: resources.qmd
     - text: "Site info"
