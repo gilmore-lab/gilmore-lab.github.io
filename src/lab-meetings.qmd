@@ -11,7 +11,21 @@ For the Spring 2024 Semester, we will meet on Tuesdays 8:00-8:50 am in room 444 
 
 1. Yiming presentation (tentative)
 
+### Tuesday, February 20, 2024
+
+1. Brianna & Rick `ggplot2`
+  - Assignment: Install (or update) [RStudio](https://posit.co/download/rstudio-desktop/).
+  - [Choosing a chart type](https://guides.lib.berkeley.edu/data-visualization/type)
+  - See also [@Cleveland1985-vu; @Franconeri2021-uv; @Friel2001-st].
+2. Datacamp check-in
+
 ### Tuesday, February 13, 2024
+
+::: {.callout-warning}
+
+Cancelled because of bad weather
+
+:::
 
 1. Brianna & Rick `ggplot2`
   - Assignment: Install (or update) [RStudio](https://posit.co/download/rstudio-desktop/).
