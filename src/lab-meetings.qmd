@@ -12,9 +12,21 @@ For the Spring 2024 Semester, we will meet on Tuesdays 8:00-8:50 am in room 444 
 
 ### Tuesday, April 9, 2024
 
-1. Yiming presentation (tentative)
+- Yiming presentation (tentative)
 
 ### Tuesday, March 12, 2024
+
+- Attending: Rick
+- [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/) check-in.
+  - Seeking project team leader
+  - Capture screenshots of tables yes or no? Decided yes.
+- [PLAY Project](https://play-project.org) update; [Survey data](https://PLAY-behaviorome.github.io/KoBoToolbox)
+  - Paid recruiting & coding position for summer
+- Brianna & Rick `ggplot2`
+  - Assignment: Install (or update) [RStudio](https://posit.co/download/rstudio-desktop/).
+  - [Choosing a chart type](https://guides.lib.berkeley.edu/data-visualization/type)
+  - See also [@Cleveland1985-vu; @Franconeri2021-uv; @Friel2001-st].
+- Datacamp check-in
 
 ### Tuesday, February 27, 2024
 
