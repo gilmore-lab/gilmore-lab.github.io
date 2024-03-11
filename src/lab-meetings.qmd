@@ -1,86 +1,100 @@
 ---
-title: lab-meetings
+title: ""
 bibliography: "bib/lab.bib"
+format:
+  html:
+    toc: true
 ---
 
-For the Spring 2024 Semester, we will meet on Tuesdays 8:00-8:50 am in room 444 Moore.
-
 ## Spring 2024
+
+For the Spring 2024 Semester, we will meet on Tuesdays 8:00-8:50 am in room 444 Moore.
 
 ### Tuesday, April 9, 2024
 
 1. Yiming presentation (tentative)
 
+### Tuesday, March 12, 2024
+
+### Tuesday, February 27, 2024
+
+- No meeting
+
 ### Tuesday, February 20, 2024
 
-1. Brianna & Rick `ggplot2`
+- Attending: Rick, Andrea, Belle, Brianna, Paige, Nicole
+- [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/) check-in.
+  - Seeking project team leader
+  - Capture screenshots of tables yes or no? Decided yes.
+- [PLAY Project](https://play-project.org) update; [Survey data](https://PLAY-behaviorome.github.io/KoBoToolbox)
+  - Paid recruiting & coding position for summer
+  - Starting calls today
+- Brianna & Rick `ggplot2`
   - Assignment: Install (or update) [RStudio](https://posit.co/download/rstudio-desktop/).
   - [Choosing a chart type](https://guides.lib.berkeley.edu/data-visualization/type)
   - See also [@Cleveland1985-vu; @Franconeri2021-uv; @Friel2001-st].
-2. Datacamp check-in
+- Datacamp check-in
+- Next meeting: **Tuesday, March 12, 2024**
 
 ### Tuesday, February 13, 2024
 
-::: {.callout-warning}
+**Cancelled**
 
-Cancelled because of bad weather
-
-:::
-
-1. Brianna & Rick `ggplot2`
+- Brianna & Rick `ggplot2`
   - Assignment: Install (or update) [RStudio](https://posit.co/download/rstudio-desktop/).
-2. Datacamp check-in
+- Datacamp check-in
 
 ### Tuesday, February 6, 2024
 
-0. Attending
+- Attending
   - Rick, Bruna, Julia, Molly, Belle, Brianna, Paige, Andrea, Nicole
-1. Announcements
+- Announcements
   - Weekly lab times: Tue 9-11 (Molly, Julia, Paige, Liu, Belle), Thu 10:30-12 (Brianna, Julia, Bruna), Fri 11-1 (Nicole, Peter, Bruna, Brianna?)
-2. Belle (& Rick) presentation/discussion of: 
+- Belle (& Rick) presentation/discussion of: 
+  - Soska, K. C., Xu, M., Gonzalez, S. L., Herzberg, O., Tamis-LeMonda, C. S., Gilmore, R. O. & Adolph, K. E. (2021). (Hyper)active data curation: A video case study from behavioral science. *Journal of Escience Librarianship*, *10*(3). <https://doi.org/10.7191/jeslib.2021.1208>.
 
-Soska, K. C., Xu, M., Gonzalez, S. L., Herzberg, O., Tamis-LeMonda, C. S., Gilmore, R. O. & Adolph, K. E. (2021). (Hyper)active data curation: A video case study from behavioral science. *Journal of Escience Librarianship*, *10*(3). <https://doi.org/10.7191/jeslib.2021.1208>.
-
-[Quarto slides](lab-mtgs/soska-etal-2021.qmd)
+[Quarto slides](lab-mtg-talks/soska-etal-2021.qmd)
 
 ### Tuesday, January 30, 2024
 
-0. Attending
+- Attending
   - Rick, Belle, Brianna, Andrea, Paige, Molly, Liu, Peter
   - Bruna, Julia, Yiming, Nicole (unable to attend) 
-1. Datacamp check-in
-2. Confirm team work schedule
+- Datacamp check-in
+- Confirm team work schedule
   - Tue 9-11; Thu 10:30-12; Fri 11-1
-3. Peter paper presentation
+- Peter paper presentation
 
 ### Tuesday, January 23, 2024
 
-0. Attending
+- Attending
   - Nicole, Belle, Julia, Bruna, Liu, Andrea, Yiming, Rick, Peter
-1. Status Report
+- Status Report
    - [Datacamp](https://www.datacamp.com/)
    - [PLAY](https://play-project.org/) update
       - recruitment
       - data collection
    - [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/)
-2. Schedule Outstanding Lab Member Presentations from last semester
+- Schedule Outstanding Lab Member Presentations from last semester
    - `ggplot2` interactive (Brianna, Rick) demo?
    - Peter paper discussion?
-3. Missing Webpage Biography
+- Missing Webpage Biography
    - Molly, Julia, Bruna
 
-### CANCELLED ~~Tuesday, January 16, 2024~~
+### Tuesday, January 16, 2024
 
-1. Status Report
+**Cancelled**
+
+- Status Report
    - [Datacamp](https://www.datacamp.com/) 
    - [PLAY](https://play-project.org/) update
       - recruitment
       - data collection
    - [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/)
-2. Schedule Outstanding Lab Member Presentations from last semester
+- Schedule Outstanding Lab Member Presentations from last semester
    - `ggplot2` interactive (Brianna, Rick) demo?
    - Peter paper discussion?
-3. Missing Webpage Biography
+- Missing Webpage Biography
    - Molly, Julia, Bruna
 
 ## Fall 2023

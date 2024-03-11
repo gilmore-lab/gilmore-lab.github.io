@@ -4,7 +4,7 @@ project:
   render:
     - "*.qmd"
     - "posts/*.qmd"
-    - "talk-slides/*.qmd"
+    - "lab-mtg-talks/*.qmd"
   
 execute: 
   freeze: auto
@@ -28,7 +28,7 @@ website:
         - text: "Current semester"
           href: lab-meetings.qmd
         - text: "Soska et al. 2021"
-          href: lab-mtgs/soska-etal-2021.qmd
+          href: lab-mtg-talks/soska-etal-2021.qmd
     - text: "Resources"
       href: resources.qmd
     - text: "Site info"
@@ -40,5 +40,4 @@ website:
           href: https://github.com/gilmore-lab/
 format:
   html:
-    theme: litera
-    css: styles.css
+    theme: default
