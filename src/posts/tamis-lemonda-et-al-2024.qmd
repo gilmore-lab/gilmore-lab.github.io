@@ -1,0 +1,22 @@
+---
+title: "New paper in Infancy"
+date: 2024-03-12
+format: html
+categories:
+  - publication
+  - PLAY
+  - Databrary
+  - open science
+---
+
+![[Figure 1 from @Tamis-LeMonda2024-lq]](https://onlinelibrary.wiley.com/cms/asset/69ff61c9-667a-462f-9d2c-85a765df5a0e/infa12571-fig-0001-m.png)
+
+We're delighted to announce the publication of the following paper:
+
+Tamis-LeMonda, C. S., Kachergis, G., Masek, L. R., Gonzalez, S. L., Soska, K. C., Herzberg, O., Xu, M., Adolph, K. E., Gilmore, R. O., Bornstein, M. H., Casasola, M., Fausey, C. M., Frank, M. C., Goldin-Meadow, S., Gros-Louis, J., Hirsh-Pasek, K., Iverson, J., Lew-Williams, C., MacWhinney, B., … Yurovsky, D. (2024). Comparing apples to manzanas and oranges to naranjas: A new measure of English-Spanish vocabulary for dual language learners. *Infancy: The Official Journal of the International Society on Infant Studies*. <https://doi.org/10.1111/infa.12571>
+
+It's accompanied by openly shared data and materials:
+
+Tamis-LeMonda, C., Adolph, K. & Gilmore, R.O. (2020). DLL-ES Inventories. Databrary. Retrieved March 12, 2024 from <http://doi.org/10.17910/b7.1168>.
+
+Tamis-LeMonda, C., Adolph, K. & Soska, K.C. (2022). DLL-ES Case Study Administrations. Databrary. Retrieved March 12, 2024 from <https://nyu.databrary.org/volume/1442>.

@@ -10,23 +10,19 @@ format:
 
 For the Spring 2024 Semester, we will meet on Tuesdays 8:00-8:50 am in room 444 Moore.
 
-### Tuesday, April 9, 2024
+### Tuesday, March 19, 2024
 
-- Yiming presentation (tentative)
+- Attending:
+- Read & discuss [@Franconeri2021-uv].
 
 ### Tuesday, March 12, 2024
 
-- Attending: Rick
+- Attending: Rick, Liu, Peter, Nicole, Belle, Paige, Brianna
 - [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/) check-in.
-  - Seeking project team leader
-  - Capture screenshots of tables yes or no? Decided yes.
+  - Still seeking project team leader
 - [PLAY Project](https://play-project.org) update; [Survey data](https://PLAY-behaviorome.github.io/KoBoToolbox)
   - Paid recruiting & coding position for summer
-- Brianna & Rick `ggplot2`
-  - Assignment: Install (or update) [RStudio](https://posit.co/download/rstudio-desktop/).
-  - [Choosing a chart type](https://guides.lib.berkeley.edu/data-visualization/type)
-  - See also [@Cleveland1985-vu; @Franconeri2021-uv; @Friel2001-st].
-- Datacamp check-in
+- Discuss future plan to read [@Tamis-LeMonda2024-lq]
 
 ### Tuesday, February 27, 2024
 
@@ -108,6 +104,20 @@ For the Spring 2024 Semester, we will meet on Tuesdays 8:00-8:50 am in room 444 
    - Peter paper discussion?
 - Missing Webpage Biography
    - Molly, Julia, Bruna
+   
+## Radar
+
+### Tuesday, April 23, 2024
+
+- Election Day **NO MEETING**
+
+### Tuesday, April 9, 2024
+
+- Yiming presentation (tentative)
+
+### Tuesday, March 26, 2024
+
+- **NO MEETING**
 
 ## Fall 2023
 

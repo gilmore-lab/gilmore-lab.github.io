@@ -1,0 +1,24 @@
+---
+title: "Lab meeting: 2024-02-24"
+date: 2023-09-19
+categories:
+  - lab meetings
+  - PLAY
+  - Databrary
+  - Visual Acuity
+  - R
+---
+
+Rick and the [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/) team talked about progress on this project.
+[Belle Peterson](../who-we-are.qmd#belle-peterson) about PLAY.
+
+Brianna and Rick talked about the power of [`ggplot2`](https://ggplot2.tidyverse.org).
+
+::: {.callout-important}
+
+Who wants to be the lab website webmaster?
+
+We're also looking for a project lead for [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/). 
+
+:::
+
