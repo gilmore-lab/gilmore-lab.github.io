@@ -1,24 +1,31 @@
 ---
-title: "Lab meeting: 2024-02-24"
-date: 2023-09-19
+title: "Lab meeting: 2024-03-12"
+date: 2024-03-12
 categories:
   - lab meetings
   - PLAY
   - Databrary
   - Visual Acuity
   - R
+bibliography: ../bib/lab.bib
 ---
 
 Rick and the [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/) team talked about progress on this project.
-[Belle Peterson](../who-we-are.qmd#belle-peterson) about PLAY.
+We made progress in figuring out the best procedure for taking screenshots of data tables and where to store those screenshots for later data entry.
 
-Brianna and Rick talked about the power of [`ggplot2`](https://ggplot2.tidyverse.org).
+[Belle Peterson](../who-we-are.qmd#belle-peterson) talked about PLAY.
+
+Next week we will read and discuss this paper:
+
+Franconeri, S. L., Padilla, L. M., Shah, P., Zacks, J. M., & Hullman, J. (2021). The Science of Visual Data Communication: What Works. *Psychological Science in the Public Interest: A Journal of the American Psychological Society*, *22*(3), 110–161. https://doi.org/10.1177/15291006211051956
+
+![Figure 2 from @Franconeri2021-uv](https://journals.sagepub.com/cms/10.1177/15291006211051956/asset/images/large/10.1177_15291006211051956-fig2.jpeg)
 
 ::: {.callout-important}
 
 Who wants to be the lab website webmaster?
 
-We're also looking for a project lead for [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/). 
+We're still looking for a project lead for [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/). 
 
 :::
 

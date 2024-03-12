@@ -21,7 +21,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -155,7 +175,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">New paper in Infancy</h1>
+<h1 class="title">New paper in <em>Infancy</em></h1>
   <div class="quarto-categories">
     <div class="quarto-category">publication</div>
     <div class="quarto-category">PLAY</div>
@@ -187,18 +207,23 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://onlinelibrary.wiley.com/cms/asset/69ff61c9-667a-462f-9d2c-85a765df5a0e/infa12571-fig-0001-m.png" class="img-fluid figure-img"></p>
-<figcaption><span class="citation" data-cites="Tamis-LeMonda2024-lq">[Figure 1 from @Tamis-LeMonda2024-lq]</span></figcaption>
+<figcaption><span class="citation" data-cites="Tamis-LeMonda2024-lq">(Figure 1 from <a href="#ref-Tamis-LeMonda2024-lq" role="doc-biblioref">Tamis-LeMonda et al. 2024</a>)</span></figcaption>
 </figure>
 </div>
 <p>We’re delighted to announce the publication of the following paper:</p>
 <p>Tamis-LeMonda, C. S., Kachergis, G., Masek, L. R., Gonzalez, S. L., Soska, K. C., Herzberg, O., Xu, M., Adolph, K. E., Gilmore, R. O., Bornstein, M. H., Casasola, M., Fausey, C. M., Frank, M. C., Goldin-Meadow, S., Gros-Louis, J., Hirsh-Pasek, K., Iverson, J., Lew-Williams, C., MacWhinney, B., … Yurovsky, D. (2024). Comparing apples to manzanas and oranges to naranjas: A new measure of English-Spanish vocabulary for dual language learners. <em>Infancy: The Official Journal of the International Society on Infant Studies</em>. <a href="https://doi.org/10.1111/infa.12571" class="uri">https://doi.org/10.1111/infa.12571</a></p>
 <p>It’s accompanied by openly shared data and materials:</p>
-<p>Tamis-LeMonda, C., Adolph, K. &amp; Gilmore, R.O. (2020). DLL-ES Inventories. Databrary. Retrieved March 12, 2024 from <a href="http://doi.org/10.17910/b7.1168" class="uri">http://doi.org/10.17910/b7.1168</a>.</p>
-<p>Tamis-LeMonda, C., Adolph, K. &amp; Soska, K.C. (2022). DLL-ES Case Study Administrations. Databrary. Retrieved March 12, 2024 from <a href="https://nyu.databrary.org/volume/1442" class="uri">https://nyu.databrary.org/volume/1442</a>.</p>
+<p>Tamis-LeMonda, C., Adolph, K. &amp; Gilmore, R.O. (2020). DLL-ES Inventories. <em>Databrary</em>. Retrieved March 12, 2024 from <a href="http://doi.org/10.17910/b7.1168" class="uri">http://doi.org/10.17910/b7.1168</a>.</p>
+<p>Tamis-LeMonda, C., Adolph, K. &amp; Soska, K.C. (2022). DLL-ES Case Study Administrations. <em>Databrary</em>. Retrieved March 12, 2024 from <a href="https://nyu.databrary.org/volume/1442" class="uri">https://nyu.databrary.org/volume/1442</a>.</p>
 
 
 
-</main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-Tamis-LeMonda2024-lq" class="csl-entry" role="listitem">
+Tamis-LeMonda, Catherine S, George Kachergis, Lillian R Masek, Sandy L Gonzalez, Kasey C Soska, Orit Herzberg, Melody Xu, et al. 2024. <span>“Comparing Apples to Manzanas and Oranges to Naranjas: A New Measure of <span>English-Spanish</span> Vocabulary for Dual Language Learners.”</span> <em>Infancy: The Official Journal of the International Society on Infant Studies</em>, January. <a href="https://doi.org/10.1111/infa.12571">https://doi.org/10.1111/infa.12571</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

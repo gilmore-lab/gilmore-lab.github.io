@@ -1,7 +1,9 @@
 ---
-title: "New paper in Infancy"
+title: "New paper in *Infancy*"
 date: 2024-03-12
 format: html
+bibliography: ../bib/lab.bib
+image: "https://onlinelibrary.wiley.com/cms/asset/69ff61c9-667a-462f-9d2c-85a765df5a0e/infa12571-fig-0001-m.png"
 categories:
   - publication
   - PLAY
@@ -17,6 +19,6 @@ Tamis-LeMonda, C. S., Kachergis, G., Masek, L. R., Gonzalez, S. L., Soska, K. C.
 
 It's accompanied by openly shared data and materials:
 
-Tamis-LeMonda, C., Adolph, K. & Gilmore, R.O. (2020). DLL-ES Inventories. Databrary. Retrieved March 12, 2024 from <http://doi.org/10.17910/b7.1168>.
+Tamis-LeMonda, C., Adolph, K. & Gilmore, R.O. (2020). DLL-ES Inventories. *Databrary*. Retrieved March 12, 2024 from <http://doi.org/10.17910/b7.1168>.
 
-Tamis-LeMonda, C., Adolph, K. & Soska, K.C. (2022). DLL-ES Case Study Administrations. Databrary. Retrieved March 12, 2024 from <https://nyu.databrary.org/volume/1442>.
+Tamis-LeMonda, C., Adolph, K. & Soska, K.C. (2022). DLL-ES Case Study Administrations. *Databrary*. Retrieved March 12, 2024 from <https://nyu.databrary.org/volume/1442>.
