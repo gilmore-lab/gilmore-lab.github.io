@@ -1,0 +1,18 @@
+---
+title: "Franconeri et al. 2021"
+subtitle: "2024-03-19 lab meeting"
+format: revealjs
+bib: ../bib/lab.bib
+---
+
+---
+
+Franconeri, S. L., Padilla, L. M., Shah, P., Zacks, J. M., & Hullman, J. (2021). The science of visual data communication: What works. *Psychological Science in the Public Interest: A Journal of the American Psychological Society*, *22*(3), 110–161. <https://doi.org/10.1177/15291006211051956>.
+
+---
+
+![Figure 1 [from @Franconeri2021-uv]](../images/franconeri-etal-2021-fig1.jpeg)
+
+---
+
+

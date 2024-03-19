@@ -11,7 +11,7 @@ page-layout: full
 title-block-banner: true
 ---
 
-![](images/fesi-2014.jpg){#fig-surus}![](images/optic-flow.jpg){#fig-hanno}![](images/lab-logo.png){#fig-hanno}
+![](images/fesi-2014.jpg){#fig-fesi-2014}![](images/optic-flow.jpg){#fig-optic-flow}![](images/lab-logo.png){#fig-lab-logo}
 
 Brain and Behavioral Dynamics Lab in the [Psychology Department](https://psych.la.psu.edu) at [Penn State](https://www.psu.edu) studies the development of perception, action, and memory. Our goal is to understand patterns of brain and behavioral change in infants, children, and young adults. We use behavioral, EEG, MRI, and computational modeling methods in our research. We also advocate for and try to demonstrate open science practices in our work. 
 

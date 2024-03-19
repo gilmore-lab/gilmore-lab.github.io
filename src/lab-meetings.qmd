@@ -10,11 +10,20 @@ format:
 
 For the Spring 2024 Semester, we will meet on Tuesdays 8:00-8:50 am in room 444 Moore.
 
+### Tuesday, April 2, 2024
+
+- Attending
+- Read & discuss [@Franconeri2021-uv].
+  - Please bring a paper with a figure we can discuss.
+    - Belle will send out an assignment
+  - RevealJS [slides](lab-mtg-talks/franconeri-etal-2021.qmd)
+
 ### Tuesday, March 19, 2024
 
-- Attending:
-- Read & discuss [@Franconeri2021-uv].
-
+- Attending: Rick, Trinity, Belle, Molly, Nicole, Julia, Liu, Trinity
+- Enjoy Datasaurus (again)
+- Begin work on dashboard for [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/).
+  
 ### Tuesday, March 12, 2024
 
 - Attending: Rick, Liu, Peter, Nicole, Belle, Paige, Brianna
