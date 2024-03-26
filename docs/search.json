@@ -119,67 +119,67 @@
     "text": "Welcome to our new website. The old site was built in R Markdown. The new one is built in Quarto. We hope you like the new look and feel."
   },
   {
-    "objectID": "posts/lab-mtg-2024-02-06.html",
-    "href": "posts/lab-mtg-2024-02-06.html",
-    "title": "Lab meeting: 2024-02-06",
+    "objectID": "posts/lab-mtg-2024-02-24.html",
+    "href": "posts/lab-mtg-2024-02-24.html",
+    "title": "Lab meeting: 2024-03-19",
     "section": "",
-    "text": "Figure 1 from Soska et al. 2021\n\n\nIn this week’s meeting, Rick and Belle talked about the PLAY Project workflow, focusing especially on the quality assurance procedures outlined in this paper:\nSoska, K. C., Xu, M., Gonzalez, S. L., Herzberg, O., Tamis-LeMonda, C. S., Gilmore, R. O. & Adolph, K. E. (2021). (Hyper)active data curation: A video case study from behavioral science. Journal of Escience Librarianship, 10(3). https://doi.org/10.7191/jeslib.2021.1208."
+    "text": "Belle Peterson talked about our first pilot PLAY participant.\nWe agreed to push discussion of this paper until two weeks from now:\nFranconeri, S. L., Padilla, L. M., Shah, P., Zacks, J. M., & Hullman, J. (2021). The Science of Visual Data Communication: What Works. Psychological Science in the Public Interest: A Journal of the American Psychological Society, 22(3), 110–161. https://doi.org/10.1177/15291006211051956\nRick and the Legacy Project: Visual Acuity team worked on a dashboard to track progress. We found a bug in our code, but switching to the ‘googlesheets4’ package fixed our download errors. Here is a figure from that workflow:\n\n\n\nDistribution of publication dates encoded thus far."
   },
   {
-    "objectID": "posts/lab-mtg-2023-10-10.html",
-    "href": "posts/lab-mtg-2023-10-10.html",
-    "title": "Lab meeting: 2023-10-10",
+    "objectID": "posts/lab-mtg-2023-11-14.html",
+    "href": "posts/lab-mtg-2023-11-14.html",
+    "title": "Lab meeting: 2023-11-14",
     "section": "",
-    "text": "Datasaurus dozen\n\n\nRick talked about the Datasaurus dozen (see figure above). This is an entertaining demonstration about the importance of visualizing data.\nThe visual acuity project team discussed the draft protocol.\nRick and Andrea ran a how-to session based on some reaction time data Andrea collected in her son Alex’s class last year. We discussed how to plan a data visualization and analysis project like this in a way that “bakes-in” reproducible workflows from the very beginning.\nHere’s the figure we generated:\n\n\n\nHistogram of RT data\n\n\nThis document describes the process:\nhttps://gilmore-lab.github.io/ruler-reaction-time\nThe GitHub repo for this project is here:\nhttps://github.com/gilmore-lab/ruler-reaction-time/"
+    "text": "Databrary logo\n\n\nIn the 2023-11-14 lab meeting, Liu discussed work on a new version of the Databrary Guide. We got an update about the PLAY project from Belle and Madison. We made plans for our end-of-semester breakfast on Monday, December 11, 2023 at the Downtown Waffle Shop. We also learned how to make posts like this!"
   },
   {
-    "objectID": "posts/lab-mtg-2023-09-12.html",
-    "href": "posts/lab-mtg-2023-09-12.html",
-    "title": "Lab meeting: 2023-09-12",
+    "objectID": "posts/lab-mtg-2023-09-19.html",
+    "href": "posts/lab-mtg-2023-09-19.html",
+    "title": "Lab meeting: 2023-09-19",
     "section": "",
-    "text": "PLAY Project Logo\n\n\nMadison Gehringer talked about the Play & Learning Across a Year (PLAY) Project in today’s lab meeting. We had a great discussion about the ethics of sharing identifiable data like video, among other topics."
+    "text": "Rick and the Legacy Project: Visual Acuity talked about progress on this project, especially the excellent protocol Brianna Beamer drafted from scratch and the comments Julia DiFulvio made on the draft.\nMadison Gehringer, Belle Peterson, and Andrea gave updates about PLAY.\nAndrea and Yinghe Liu talked about progress on the Databrary Guide.\n\n\n\n\n\n\nImportant\n\n\n\nWho wants to be the lab website webmaster?\n\n\n\n\n\n\n\n\nNote\n\n\n\nWe need bios from a number of new folks."
   },
   {
-    "objectID": "parents.html",
-    "href": "parents.html",
-    "title": "parents",
+    "objectID": "participants.html",
+    "href": "participants.html",
+    "title": "participants",
     "section": "",
-    "text": "Some parents are surprised to learn how much we can learn from studies of infants and children. Dr. Gilmore has been conducting research with infants and children for more than 20 years, and he has two daughters of his own who have been regular participants in research studies. The Penn State Brain and Behavioral Dynamics Lab works very hard to ensure that you and your child will be safe and comfortable at all times and that everyone enjoys their visit to the lab. This page is designed to help parents prepare for a visit. If you have a question this page does not answer, please email (rogilmore@psu.edu) or call (814-865-3664) Dr. Gilmore.\n\n\n\n\nMost of our studies are conducted at Chandlee Laboratory on the main Penn State University Park campus in the Human Electrophysiology Laboratory (HEF). The HEF has parking set aside for research participants. We will give you directions to Chandlee Lab, and will make arrangements to meet you before your appointment and guide you to the parking spot. Here is a map that shows how to enter campus and provides directions to Chandlee. When you stop at the Parking Kiosk, you should tell the attendant that you are “here for a research study at the imaging center in Chandlee Laboratory.”\n\n\n\nMost appointments take about 45 min to an hour from start to finish. If we think we will go longer than that, we will tell you in advance.\n\n\n\nSome studies involve more than one visit. Others involve just a single visit. We will tell you in advance what the study requires. Sometimes, we may ask you to return if things have either gone especially well, or if we have made a mistake of some kind. You are under no obligation to participate, but we find that most families are happy to come back if they can make time in their schedule.\n\n\n\nYou and your child are in charge. If your child is unhappy about being in the study, we will stop. No questions asked."
+    "text": "Research Participant Information\nThe Brain and Behavioral Dynamics Lab is interested in how the visual system develops over time. To reach this goal, we use behavioral, EEG and MRI techniques to study how the infant, child and adult brain responds to motion and pattern.\nIf you are interested in participating in a study or having your child participate, please contact us at psubrainlab@gmail.com."
   },
   {
-    "objectID": "parents.html#frequently-asked-questions-faqs",
-    "href": "parents.html#frequently-asked-questions-faqs",
-    "title": "parents",
-    "section": "",
-    "text": "Most of our studies are conducted at Chandlee Laboratory on the main Penn State University Park campus in the Human Electrophysiology Laboratory (HEF). The HEF has parking set aside for research participants. We will give you directions to Chandlee Lab, and will make arrangements to meet you before your appointment and guide you to the parking spot. Here is a map that shows how to enter campus and provides directions to Chandlee. When you stop at the Parking Kiosk, you should tell the attendant that you are “here for a research study at the imaging center in Chandlee Laboratory.”\n\n\n\nMost appointments take about 45 min to an hour from start to finish. If we think we will go longer than that, we will tell you in advance.\n\n\n\nSome studies involve more than one visit. Others involve just a single visit. We will tell you in advance what the study requires. Sometimes, we may ask you to return if things have either gone especially well, or if we have made a mistake of some kind. You are under no obligation to participate, but we find that most families are happy to come back if they can make time in their schedule.\n\n\n\nYou and your child are in charge. If your child is unhappy about being in the study, we will stop. No questions asked."
+    "objectID": "lab-mtg-talks/soska-etal-2021.html#motivation",
+    "href": "lab-mtg-talks/soska-etal-2021.html#motivation",
+    "title": "Soska et al. (2021)",
+    "section": "Motivation",
+    "text": "Motivation\n\nWhat is curation?\nWhy is it important?\nWhat is active curation?\nWhat is quality assurance/quality control"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Brain and Behavioral Dynamics Lab",
-    "section": "",
-    "text": "Brain and Behavioral Dynamics Lab in the Psychology Department at Penn State studies the development of perception, action, and memory. Our goal is to understand patterns of brain and behavioral change in infants, children, and young adults. We use behavioral, EEG, MRI, and computational modeling methods in our research. We also advocate for and try to demonstrate open science practices in our work.\nProfessor Rick Gilmore directs the lab.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLab meeting: 2024-03-12\n\n\n\n\n\n\nlab meetings\n\n\nPLAY\n\n\nDatabrary\n\n\nVisual Acuity\n\n\nR\n\n\n\n\n\n\n\n\n\nMar 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nNew paper in Infancy\n\n\n\n\n\n\npublication\n\n\nPLAY\n\n\nDatabrary\n\n\nopen science\n\n\n\n\n\n\n\n\n\nMar 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nLab meeting: 2024-02-06\n\n\n\n\n\n\nlab meetings\n\n\nDatabrary\n\n\nPLAY\n\n\nR\n\n\nquarto\n\n\n\n\n\n\n\n\n\nFeb 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nLab meeting: 2023-11-14\n\n\n\n\n\n\nlab meetings\n\n\nDatabrary\n\n\nPLAY\n\n\nR\n\n\nquarto\n\n\n\n\n\n\n\n\n\nNov 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nLab meeting: 2023-10-10\n\n\n\n\n\n\nlab meetings\n\n\nVisual Acuity\n\n\nR\n\n\nquarto\n\n\n\n\n\n\n\n\n\nOct 10, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nPreliminary figures from Legacy: Visual Acuity\n\n\n\n\n\n\nvisual acuity\n\n\nvisualization\n\n\n\n\n\n\n\n\n\nSep 20, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nLab meeting: 2023-09-19\n\n\n\n\n\n\nlab meetings\n\n\nPLAY\n\n\nDatabrary\n\n\nVisual Acuity\n\n\n\n\n\n\n\n\n\nSep 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nLab meeting: 2023-09-12\n\n\n\n\n\n\nlab meetings\n\n\nPLAY\n\n\nDatabrary\n\n\n\n\n\n\n\n\n\nSep 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nNew website!\n\n\n\n\n\n\nwebsite\n\n\nquarto\n\n\n\n\n\n\n\n\n\nSep 11, 2023\n\n\n\n\n\n\nNo matching items"
+    "objectID": "lab-mtg-talks/soska-etal-2021.html#play-learning-across-a-year-play-project",
+    "href": "lab-mtg-talks/soska-etal-2021.html#play-learning-across-a-year-play-project",
+    "title": "Soska et al. (2021)",
+    "section": "Play & Learning Across a Year (PLAY) Project",
+    "text": "Play & Learning Across a Year (PLAY) Project\n\nhttps://play-project.org\nhttps://anhourinthelife.org for parents\nhttps://PLAY-behaviorome/KoBoToolbox/"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "about",
-    "section": "",
-    "text": "Rick O. Gilmore is Associate Professor of Psychology, a Huck Institute of the Life Sciences faculty member, and an Associate of the Institute for Cyberscience. He earned his bachelor’s degree magna cum laude in Cognitive Science from Brown University, and master’s and doctoral degrees in Psychology from Carnegie Mellon University where he participated in the Center for the Neural Basis of Cognition (CNBC) training program in cognitive neuroscience. Gilmore’s research focuses on the development of visual perception and memory. He is particularly interested in the development of brain networks that enable perceivers to extract information about the layout of the environment, the shape of objects, and the speed and direction of self-movement from patterns of visual motion called optic flow. Gilmore is also keenly interested in developing tools and practices that make scientific research more open, transparent, and reproducible. He is co-founder and Co-Director of the Databrary.org data library.\nFrom 2008 to 2014, Gilmore served as the founding Director of Human Imaging at Penn State’s Social, Life, and Engineering Sciences Imaging Center (SLEIC). He has won the College of the Liberal Arts tenure-line faculty teaching award, leads the Human Developmental Neuroscience Initiative for the Child Study Center, and has had support for his research from the National Institutes of Health and the National Science Foundation. Gilmore has served as president of the Centre Region Bicycle Coalition, the Acoustic Brew Concert Series, and the State College Community Theatre. He recently joined the board of the Nittany Amateur Radio Club (NARC), and serves as faculty adviser (and K3CR license trustee) for the Penn State Amateur Radio Club."
+    "objectID": "lab-mtg-talks/soska-etal-2021.html#workflow",
+    "href": "lab-mtg-talks/soska-etal-2021.html#workflow",
+    "title": "Soska et al. (2021)",
+    "section": "Workflow",
+    "text": "Workflow\n\nFigure 1 from Soska et al. 2021"
   },
   {
-    "objectID": "about.html#gilmore-bio",
-    "href": "about.html#gilmore-bio",
-    "title": "about",
-    "section": "",
-    "text": "Rick O. Gilmore is Associate Professor of Psychology, a Huck Institute of the Life Sciences faculty member, and an Associate of the Institute for Cyberscience. He earned his bachelor’s degree magna cum laude in Cognitive Science from Brown University, and master’s and doctoral degrees in Psychology from Carnegie Mellon University where he participated in the Center for the Neural Basis of Cognition (CNBC) training program in cognitive neuroscience. Gilmore’s research focuses on the development of visual perception and memory. He is particularly interested in the development of brain networks that enable perceivers to extract information about the layout of the environment, the shape of objects, and the speed and direction of self-movement from patterns of visual motion called optic flow. Gilmore is also keenly interested in developing tools and practices that make scientific research more open, transparent, and reproducible. He is co-founder and Co-Director of the Databrary.org data library.\nFrom 2008 to 2014, Gilmore served as the founding Director of Human Imaging at Penn State’s Social, Life, and Engineering Sciences Imaging Center (SLEIC). He has won the College of the Liberal Arts tenure-line faculty teaching award, leads the Human Developmental Neuroscience Initiative for the Child Study Center, and has had support for his research from the National Institutes of Health and the National Science Foundation. Gilmore has served as president of the Centre Region Bicycle Coalition, the Acoustic Brew Concert Series, and the State College Community Theatre. He recently joined the board of the Nittany Amateur Radio Club (NARC), and serves as faculty adviser (and K3CR license trustee) for the Penn State Amateur Radio Club."
+    "objectID": "lab-mtg-talks/soska-etal-2021.html#qa-flow",
+    "href": "lab-mtg-talks/soska-etal-2021.html#qa-flow",
+    "title": "Soska et al. (2021)",
+    "section": "QA flow",
+    "text": "QA flow\n\nFigure 3 from Soska et al. 2021"
   },
   {
-    "objectID": "about.html#contact-information",
-    "href": "about.html#contact-information",
-    "title": "about",
-    "section": "Contact Information",
-    "text": "Contact Information\n\n114 Moore Building Department of Psychology The Pennsylvania State University University Park, PA 16801 814-865-3664, voice  814-863-7002, fax\nrogilmore AT-SIGN psu DOT edu"
+    "objectID": "lab-mtg-talks/soska-etal-2021.html#site-level-checks",
+    "href": "lab-mtg-talks/soska-etal-2021.html#site-level-checks",
+    "title": "Soska et al. (2021)",
+    "section": "Site-level checks",
+    "text": "Site-level checks\n ## Survey data\nhttps://PLAY-behaviorome.github.io/KoBoToolbox\n\n\n\nGilmore Lab meetings"
   },
   {
     "objectID": "lab-meetings.html",
@@ -231,64 +231,71 @@
     "text": "Helpful Links\n\nGlobal Protect Instructions for Mac and Windows \nClick to login to Datacamp\nHow to take screen shots for Mac and Windows\nDatabrary"
   },
   {
-    "objectID": "lab-mtg-talks/soska-etal-2021.html#motivation",
-    "href": "lab-mtg-talks/soska-etal-2021.html#motivation",
-    "title": "Soska et al. (2021)",
-    "section": "Motivation",
-    "text": "Motivation\n\nWhat is curation?\nWhy is it important?\nWhat is active curation?\nWhat is quality assurance/quality control"
-  },
-  {
-    "objectID": "lab-mtg-talks/soska-etal-2021.html#play-learning-across-a-year-play-project",
-    "href": "lab-mtg-talks/soska-etal-2021.html#play-learning-across-a-year-play-project",
-    "title": "Soska et al. (2021)",
-    "section": "Play & Learning Across a Year (PLAY) Project",
-    "text": "Play & Learning Across a Year (PLAY) Project\n\nhttps://play-project.org\nhttps://anhourinthelife.org for parents\nhttps://PLAY-behaviorome/KoBoToolbox/"
-  },
-  {
-    "objectID": "lab-mtg-talks/soska-etal-2021.html#workflow",
-    "href": "lab-mtg-talks/soska-etal-2021.html#workflow",
-    "title": "Soska et al. (2021)",
-    "section": "Workflow",
-    "text": "Workflow\n\nFigure 1 from Soska et al. 2021"
-  },
-  {
-    "objectID": "lab-mtg-talks/soska-etal-2021.html#qa-flow",
-    "href": "lab-mtg-talks/soska-etal-2021.html#qa-flow",
-    "title": "Soska et al. (2021)",
-    "section": "QA flow",
-    "text": "QA flow\n\nFigure 3 from Soska et al. 2021"
-  },
-  {
-    "objectID": "lab-mtg-talks/soska-etal-2021.html#site-level-checks",
-    "href": "lab-mtg-talks/soska-etal-2021.html#site-level-checks",
-    "title": "Soska et al. (2021)",
-    "section": "Site-level checks",
-    "text": "Site-level checks\n ## Survey data\nhttps://PLAY-behaviorome.github.io/KoBoToolbox\n\n\n\nGilmore Lab meetings"
-  },
-  {
-    "objectID": "participants.html",
-    "href": "participants.html",
-    "title": "participants",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "about",
     "section": "",
-    "text": "Research Participant Information\nThe Brain and Behavioral Dynamics Lab is interested in how the visual system develops over time. To reach this goal, we use behavioral, EEG and MRI techniques to study how the infant, child and adult brain responds to motion and pattern.\nIf you are interested in participating in a study or having your child participate, please contact us at psubrainlab@gmail.com."
+    "text": "Rick O. Gilmore is Associate Professor of Psychology, a Huck Institute of the Life Sciences faculty member, and an Associate of the Institute for Cyberscience. He earned his bachelor’s degree magna cum laude in Cognitive Science from Brown University, and master’s and doctoral degrees in Psychology from Carnegie Mellon University where he participated in the Center for the Neural Basis of Cognition (CNBC) training program in cognitive neuroscience. Gilmore’s research focuses on the development of visual perception and memory. He is particularly interested in the development of brain networks that enable perceivers to extract information about the layout of the environment, the shape of objects, and the speed and direction of self-movement from patterns of visual motion called optic flow. Gilmore is also keenly interested in developing tools and practices that make scientific research more open, transparent, and reproducible. He is co-founder and Co-Director of the Databrary.org data library.\nFrom 2008 to 2014, Gilmore served as the founding Director of Human Imaging at Penn State’s Social, Life, and Engineering Sciences Imaging Center (SLEIC). He has won the College of the Liberal Arts tenure-line faculty teaching award, leads the Human Developmental Neuroscience Initiative for the Child Study Center, and has had support for his research from the National Institutes of Health and the National Science Foundation. Gilmore has served as president of the Centre Region Bicycle Coalition, the Acoustic Brew Concert Series, and the State College Community Theatre. He recently joined the board of the Nittany Amateur Radio Club (NARC), and serves as faculty adviser (and K3CR license trustee) for the Penn State Amateur Radio Club."
   },
   {
-    "objectID": "posts/lab-mtg-2023-09-19.html",
-    "href": "posts/lab-mtg-2023-09-19.html",
-    "title": "Lab meeting: 2023-09-19",
+    "objectID": "about.html#gilmore-bio",
+    "href": "about.html#gilmore-bio",
+    "title": "about",
     "section": "",
-    "text": "Rick and the Legacy Project: Visual Acuity talked about progress on this project, especially the excellent protocol Brianna Beamer drafted from scratch and the comments Julia DiFulvio made on the draft.\nMadison Gehringer, Belle Peterson, and Andrea gave updates about PLAY.\nAndrea and Yinghe Liu talked about progress on the Databrary Guide.\n\n\n\n\n\n\nImportant\n\n\n\nWho wants to be the lab website webmaster?\n\n\n\n\n\n\n\n\nNote\n\n\n\nWe need bios from a number of new folks."
+    "text": "Rick O. Gilmore is Associate Professor of Psychology, a Huck Institute of the Life Sciences faculty member, and an Associate of the Institute for Cyberscience. He earned his bachelor’s degree magna cum laude in Cognitive Science from Brown University, and master’s and doctoral degrees in Psychology from Carnegie Mellon University where he participated in the Center for the Neural Basis of Cognition (CNBC) training program in cognitive neuroscience. Gilmore’s research focuses on the development of visual perception and memory. He is particularly interested in the development of brain networks that enable perceivers to extract information about the layout of the environment, the shape of objects, and the speed and direction of self-movement from patterns of visual motion called optic flow. Gilmore is also keenly interested in developing tools and practices that make scientific research more open, transparent, and reproducible. He is co-founder and Co-Director of the Databrary.org data library.\nFrom 2008 to 2014, Gilmore served as the founding Director of Human Imaging at Penn State’s Social, Life, and Engineering Sciences Imaging Center (SLEIC). He has won the College of the Liberal Arts tenure-line faculty teaching award, leads the Human Developmental Neuroscience Initiative for the Child Study Center, and has had support for his research from the National Institutes of Health and the National Science Foundation. Gilmore has served as president of the Centre Region Bicycle Coalition, the Acoustic Brew Concert Series, and the State College Community Theatre. He recently joined the board of the Nittany Amateur Radio Club (NARC), and serves as faculty adviser (and K3CR license trustee) for the Penn State Amateur Radio Club."
   },
   {
-    "objectID": "posts/lab-mtg-2023-11-14.html",
-    "href": "posts/lab-mtg-2023-11-14.html",
-    "title": "Lab meeting: 2023-11-14",
+    "objectID": "about.html#contact-information",
+    "href": "about.html#contact-information",
+    "title": "about",
+    "section": "Contact Information",
+    "text": "Contact Information\n\n114 Moore Building Department of Psychology The Pennsylvania State University University Park, PA 16801 814-865-3664, voice  814-863-7002, fax\nrogilmore AT-SIGN psu DOT edu"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Brain and Behavioral Dynamics Lab",
     "section": "",
-    "text": "Databrary logo\n\n\nIn the 2023-11-14 lab meeting, Liu discussed work on a new version of the Databrary Guide. We got an update about the PLAY project from Belle and Madison. We made plans for our end-of-semester breakfast on Monday, December 11, 2023 at the Downtown Waffle Shop. We also learned how to make posts like this!"
+    "text": "Brain and Behavioral Dynamics Lab in the Psychology Department at Penn State studies the development of perception, action, and memory. Our goal is to understand patterns of brain and behavioral change in infants, children, and young adults. We use behavioral, EEG, MRI, and computational modeling methods in our research. We also advocate for and try to demonstrate open science practices in our work.\nProfessor Rick Gilmore directs the lab.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLab meeting: 2024-03-19\n\n\n\n\n\n\nlab meetings\n\n\nPLAY\n\n\nDatabrary\n\n\nVisual Acuity\n\n\nR\n\n\n\n\n\n\n\n\n\nMar 19, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nLab meeting: 2024-03-12\n\n\n\n\n\n\nlab meetings\n\n\nPLAY\n\n\nDatabrary\n\n\nVisual Acuity\n\n\nR\n\n\n\n\n\n\n\n\n\nMar 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nNew paper in Infancy\n\n\n\n\n\n\npublication\n\n\nPLAY\n\n\nDatabrary\n\n\nopen science\n\n\n\n\n\n\n\n\n\nMar 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nLab meeting: 2024-02-06\n\n\n\n\n\n\nlab meetings\n\n\nDatabrary\n\n\nPLAY\n\n\nR\n\n\nquarto\n\n\n\n\n\n\n\n\n\nFeb 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nLab meeting: 2023-11-14\n\n\n\n\n\n\nlab meetings\n\n\nDatabrary\n\n\nPLAY\n\n\nR\n\n\nquarto\n\n\n\n\n\n\n\n\n\nNov 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nLab meeting: 2023-10-10\n\n\n\n\n\n\nlab meetings\n\n\nVisual Acuity\n\n\nR\n\n\nquarto\n\n\n\n\n\n\n\n\n\nOct 10, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nPreliminary figures from Legacy: Visual Acuity\n\n\n\n\n\n\nvisual acuity\n\n\nvisualization\n\n\n\n\n\n\n\n\n\nSep 20, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nLab meeting: 2023-09-19\n\n\n\n\n\n\nlab meetings\n\n\nPLAY\n\n\nDatabrary\n\n\nVisual Acuity\n\n\n\n\n\n\n\n\n\nSep 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nLab meeting: 2023-09-12\n\n\n\n\n\n\nlab meetings\n\n\nPLAY\n\n\nDatabrary\n\n\n\n\n\n\n\n\n\nSep 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nNew website!\n\n\n\n\n\n\nwebsite\n\n\nquarto\n\n\n\n\n\n\n\n\n\nSep 11, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/lab-mtg-2024-02-24.html",
-    "href": "posts/lab-mtg-2024-02-24.html",
+    "objectID": "parents.html",
+    "href": "parents.html",
+    "title": "parents",
+    "section": "",
+    "text": "Some parents are surprised to learn how much we can learn from studies of infants and children. Dr. Gilmore has been conducting research with infants and children for more than 20 years, and he has two daughters of his own who have been regular participants in research studies. The Penn State Brain and Behavioral Dynamics Lab works very hard to ensure that you and your child will be safe and comfortable at all times and that everyone enjoys their visit to the lab. This page is designed to help parents prepare for a visit. If you have a question this page does not answer, please email (rogilmore@psu.edu) or call (814-865-3664) Dr. Gilmore.\n\n\n\n\nMost of our studies are conducted at Chandlee Laboratory on the main Penn State University Park campus in the Human Electrophysiology Laboratory (HEF). The HEF has parking set aside for research participants. We will give you directions to Chandlee Lab, and will make arrangements to meet you before your appointment and guide you to the parking spot. Here is a map that shows how to enter campus and provides directions to Chandlee. When you stop at the Parking Kiosk, you should tell the attendant that you are “here for a research study at the imaging center in Chandlee Laboratory.”\n\n\n\nMost appointments take about 45 min to an hour from start to finish. If we think we will go longer than that, we will tell you in advance.\n\n\n\nSome studies involve more than one visit. Others involve just a single visit. We will tell you in advance what the study requires. Sometimes, we may ask you to return if things have either gone especially well, or if we have made a mistake of some kind. You are under no obligation to participate, but we find that most families are happy to come back if they can make time in their schedule.\n\n\n\nYou and your child are in charge. If your child is unhappy about being in the study, we will stop. No questions asked."
+  },
+  {
+    "objectID": "parents.html#frequently-asked-questions-faqs",
+    "href": "parents.html#frequently-asked-questions-faqs",
+    "title": "parents",
+    "section": "",
+    "text": "Most of our studies are conducted at Chandlee Laboratory on the main Penn State University Park campus in the Human Electrophysiology Laboratory (HEF). The HEF has parking set aside for research participants. We will give you directions to Chandlee Lab, and will make arrangements to meet you before your appointment and guide you to the parking spot. Here is a map that shows how to enter campus and provides directions to Chandlee. When you stop at the Parking Kiosk, you should tell the attendant that you are “here for a research study at the imaging center in Chandlee Laboratory.”\n\n\n\nMost appointments take about 45 min to an hour from start to finish. If we think we will go longer than that, we will tell you in advance.\n\n\n\nSome studies involve more than one visit. Others involve just a single visit. We will tell you in advance what the study requires. Sometimes, we may ask you to return if things have either gone especially well, or if we have made a mistake of some kind. You are under no obligation to participate, but we find that most families are happy to come back if they can make time in their schedule.\n\n\n\nYou and your child are in charge. If your child is unhappy about being in the study, we will stop. No questions asked."
+  },
+  {
+    "objectID": "posts/lab-mtg-2023-09-12.html",
+    "href": "posts/lab-mtg-2023-09-12.html",
+    "title": "Lab meeting: 2023-09-12",
+    "section": "",
+    "text": "PLAY Project Logo\n\n\nMadison Gehringer talked about the Play & Learning Across a Year (PLAY) Project in today’s lab meeting. We had a great discussion about the ethics of sharing identifiable data like video, among other topics."
+  },
+  {
+    "objectID": "posts/lab-mtg-2023-10-10.html",
+    "href": "posts/lab-mtg-2023-10-10.html",
+    "title": "Lab meeting: 2023-10-10",
+    "section": "",
+    "text": "Datasaurus dozen\n\n\nRick talked about the Datasaurus dozen (see figure above). This is an entertaining demonstration about the importance of visualizing data.\nThe visual acuity project team discussed the draft protocol.\nRick and Andrea ran a how-to session based on some reaction time data Andrea collected in her son Alex’s class last year. We discussed how to plan a data visualization and analysis project like this in a way that “bakes-in” reproducible workflows from the very beginning.\nHere’s the figure we generated:\n\n\n\nHistogram of RT data\n\n\nThis document describes the process:\nhttps://gilmore-lab.github.io/ruler-reaction-time\nThe GitHub repo for this project is here:\nhttps://github.com/gilmore-lab/ruler-reaction-time/"
+  },
+  {
+    "objectID": "posts/lab-mtg-2024-02-06.html",
+    "href": "posts/lab-mtg-2024-02-06.html",
+    "title": "Lab meeting: 2024-02-06",
+    "section": "",
+    "text": "Figure 1 from Soska et al. 2021\n\n\nIn this week’s meeting, Rick and Belle talked about the PLAY Project workflow, focusing especially on the quality assurance procedures outlined in this paper:\nSoska, K. C., Xu, M., Gonzalez, S. L., Herzberg, O., Tamis-LeMonda, C. S., Gilmore, R. O. & Adolph, K. E. (2021). (Hyper)active data curation: A video case study from behavioral science. Journal of Escience Librarianship, 10(3). https://doi.org/10.7191/jeslib.2021.1208."
+  },
+  {
+    "objectID": "posts/lab-mtg-2024-03-12.html",
+    "href": "posts/lab-mtg-2024-03-12.html",
     "title": "Lab meeting: 2024-03-12",
     "section": "",
     "text": "Rick and the Legacy Project: Visual Acuity team talked about progress on this project. We made progress in figuring out the best procedure for taking screenshots of data tables and where to store those screenshots for later data entry.\nBelle Peterson talked about PLAY.\nNext week we will read and discuss this paper:\nFranconeri, S. L., Padilla, L. M., Shah, P., Zacks, J. M., & Hullman, J. (2021). The Science of Visual Data Communication: What Works. Psychological Science in the Public Interest: A Journal of the American Psychological Society, 22(3), 110–161. https://doi.org/10.1177/15291006211051956\n\n\n\nFigure 2 from Franconeri et al. (2021)\n\n\n\n\n\n\n\n\nImportant\n\n\n\nWho wants to be the lab website webmaster?\nWe’re still looking for a project lead for Legacy Project: Visual Acuity.\n\n\n\n\n\n\nReferences\n\nFranconeri, Steven L, Lace M Padilla, Priti Shah, Jeffrey M Zacks, and Jessica Hullman. 2021. “The Science of Visual Data Communication: What Works.” Psychological Science in the Public Interest: A Journal of the American Psychological Society 22 (3): 110–61. https://doi.org/10.1177/15291006211051956."

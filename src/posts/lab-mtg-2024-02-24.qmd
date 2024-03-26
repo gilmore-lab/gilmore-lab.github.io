@@ -1,6 +1,6 @@
 ---
-title: "Lab meeting: 2024-03-12"
-date: 2024-03-12
+title: "Lab meeting: 2024-03-19"
+date: 2024-03-19
 categories:
   - lab meetings
   - PLAY
@@ -10,22 +10,16 @@ categories:
 bibliography: ../bib/lab.bib
 ---
 
-Rick and the [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/) team talked about progress on this project.
-We made progress in figuring out the best procedure for taking screenshots of data tables and where to store those screenshots for later data entry.
+[Belle Peterson](../who-we-are.qmd#belle-peterson) talked about our first pilot PLAY participant.
 
-[Belle Peterson](../who-we-are.qmd#belle-peterson) talked about PLAY.
-
-Next week we will read and discuss this paper:
+We agreed to push discussion of this paper until two weeks from now:
 
 Franconeri, S. L., Padilla, L. M., Shah, P., Zacks, J. M., & Hullman, J. (2021). The Science of Visual Data Communication: What Works. *Psychological Science in the Public Interest: A Journal of the American Psychological Society*, *22*(3), 110–161. https://doi.org/10.1177/15291006211051956
 
-![Figure 2 from @Franconeri2021-uv](https://journals.sagepub.com/cms/10.1177/15291006211051956/asset/images/large/10.1177_15291006211051956-fig2.jpeg)
+Rick and the [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/) team worked on a dashboard to track progress.
+We found a bug in our code, but switching to the 'googlesheets4' package fixed our download errors.
+Here is a figure from that workflow:
 
-::: {.callout-important}
+![Distribution of publication dates encoded thus far.](https://gilmore-lab.github.io/visual-acuity/dashboard_files/figure-html/unnamed-chunk-3-1.png)
 
-Who wants to be the lab website webmaster?
-
-We're still looking for a project lead for [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/). 
-
-:::
 
