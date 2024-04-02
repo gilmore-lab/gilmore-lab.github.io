@@ -1,0 +1,21 @@
+---
+title: "Lab meeting: 2024-04-02"
+date: 2024-04-02
+categories:
+  - lab meetings
+  - Visual Acuity
+  - graphics
+bibliography: ../bib/lab.bib
+image: https://gilmore-lab.github.io/visual-acuity/dashboard_files/figure-html/fig-papers-by-pub-year-paperpile-1.png
+---
+
+Nicole, Julia, and Rick talked about progress on [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/).
+Specifically, we have a new workflow that takes advantage of a feature in Paperpile that will automatically synch a tagged set of references to a specified GitHub repository.
+
+![Figure showing exported papers with and without PDFs from <https://gilmore-lab.github.io/visual-acuity/dashboard.html>](https://gilmore-lab.github.io/visual-acuity/dashboard_files/figure-html/fig-papers-by-pub-year-paperpile-1.png)
+
+We discussed this paper:
+
+Franconeri, S. L., Padilla, L. M., Shah, P., Zacks, J. M., & Hullman, J. (2021). The Science of Visual Data Communication: What Works. *Psychological Science in the Public Interest: A Journal of the American Psychological Society*, *22*(3), 110–161. https://doi.org/10.1177/15291006211051956
+
+See our summary slides [here](../lab-mtg-talks/franconeri-etal-2021.qmd).

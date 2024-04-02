@@ -10,13 +10,24 @@ format:
 
 For the Spring 2024 Semester, we will meet on Tuesdays 8:00-8:50 am in room 444 Moore.
 
+### Tuesday, April 9, 2024
+
+- Attending:
+- Yiming will present her dissertation research.
+
 ### Tuesday, April 2, 2024
 
-- Attending
+- Attending: Trinity, Brianna, Andrea, Rick, Julia, Liu, Nicole, Yiming
+- Update on [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/).
+  - New automation (woot!), revising protocol.
 - Read & discuss [@Franconeri2021-uv].
   - Please bring a paper with a figure we can discuss.
     - Belle will send out an assignment
   - RevealJS [slides](lab-mtg-talks/franconeri-etal-2021.qmd)
+  
+### Tuesday, March 26, 2024
+
+- No meeting
 
 ### Tuesday, March 19, 2024
 
