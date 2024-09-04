@@ -1,152 +1,104 @@
 ---
-title: ""
+title: lab-meetings
 bibliography: "bib/lab.bib"
-format:
-  html:
-    toc: true
 ---
+
+For the Fall 2024 Semester, we will meet on Thursdays 8:00-8:50 am in room 444 Moore.
+
+## Fall 2024
+
+### Thursday, September 5, 2024
+
+- Attending:
+
+1. Introductions
+2. Orientation to Fall 2024 lab priorities (Rick)
+    - Play & Learning Across a Year (PLAY) Project, [PLAY site](https://play-project.org), [Parent site](https://anhourinthelife.org), [KoBoToolbox Surveys](https://PLAY-behaviorome.github.io/KoBoToolbox/)
+        - Data Collection Update (Paige, Brianna)
+    - Legacy Project, especially [Visual Acuity](https://gilmore-lab.github.io/visual-acuity/)
+    - [Databrary](https://databrary.org), especially the [Databrary Guide](https://databrary.github.io/guide), the [*databraryr* package](https://databrary.github.io/databraryr), and the [Databrary Analytics](https://databrary.github.io/analytics).
+    - Refreshing internal resources, especially the [lab website](https://gilmore-lab.github.io) and our lab [protocols site](https://gilmore-lab.github.io/protocols).
+3. [Onboarding and Training](https://gilmore-lab.github.io/protocols) and orientation (Andrea)
+4. Schedule
+
 
 ## Spring 2024
 
-For the Spring 2024 Semester, we will meet on Tuesdays 8:00-8:50 am in room 444 Moore.
-
-### Tuesday, April 23, 2024
-
-- No meeting; Election Day
-
-### Tuesday, April 16, 2024
-
 ### Tuesday, April 9, 2024
 
-- Attending: Rick, Liu, Belle, Molly, Brianna, Paige, Andrea, Liu
-- Check-ins/status reports:
-  - Belle ran our first [PLAY Project](https://play-project.org) pilot!
-- Dr. Yiming Qian will present her dissertation research.
-- Lab breakfast?
-
-### Tuesday, April 2, 2024
-
-- Attending: Trinity, Brianna, Andrea, Rick, Julia, Liu, Nicole, Yiming
-- Update on [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/).
-  - New automation (woot!), revising protocol.
-- Read & discuss [@Franconeri2021-uv].
-  - Please bring a paper with a figure we can discuss.
-    - Belle will send out an assignment
-  - RevealJS [slides](lab-mtg-talks/franconeri-etal-2021.qmd)
-  
-### Tuesday, March 26, 2024
-
-- No meeting
-
-### Tuesday, March 19, 2024
-
-- Attending: Rick, Trinity, Belle, Molly, Nicole, Julia, Liu, Trinity
-- Enjoy Datasaurus (again)
-- Begin work on dashboard for [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/).
-  
-### Tuesday, March 12, 2024
-
-- Attending: Rick, Liu, Peter, Nicole, Belle, Paige, Brianna
-- [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/) check-in.
-  - Still seeking project team leader
-- [PLAY Project](https://play-project.org) update; [Survey data](https://PLAY-behaviorome.github.io/KoBoToolbox)
-  - Paid recruiting & coding position for summer
-- Discuss future plan to read [@Tamis-LeMonda2024-lq]
-
-### Tuesday, February 27, 2024
-
-- No meeting
+1. Yiming presentation (tentative)
 
 ### Tuesday, February 20, 2024
 
-- Attending: Rick, Andrea, Belle, Brianna, Paige, Nicole
-- [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/) check-in.
-  - Seeking project team leader
-  - Capture screenshots of tables yes or no? Decided yes.
-- [PLAY Project](https://play-project.org) update; [Survey data](https://PLAY-behaviorome.github.io/KoBoToolbox)
-  - Paid recruiting & coding position for summer
-  - Starting calls today
-- Brianna & Rick `ggplot2`
+1. Brianna & Rick `ggplot2`
   - Assignment: Install (or update) [RStudio](https://posit.co/download/rstudio-desktop/).
   - [Choosing a chart type](https://guides.lib.berkeley.edu/data-visualization/type)
   - See also [@Cleveland1985-vu; @Franconeri2021-uv; @Friel2001-st].
-- Datacamp check-in
-- Next meeting: **Tuesday, March 12, 2024**
+2. Datacamp check-in
 
 ### Tuesday, February 13, 2024
 
-**Cancelled**
+::: {.callout-warning}
 
-- Brianna & Rick `ggplot2`
+Cancelled because of bad weather
+
+:::
+
+1. Brianna & Rick `ggplot2`
   - Assignment: Install (or update) [RStudio](https://posit.co/download/rstudio-desktop/).
-- Datacamp check-in
+2. Datacamp check-in
 
 ### Tuesday, February 6, 2024
 
-- Attending
+0. Attending
   - Rick, Bruna, Julia, Molly, Belle, Brianna, Paige, Andrea, Nicole
-- Announcements
+1. Announcements
   - Weekly lab times: Tue 9-11 (Molly, Julia, Paige, Liu, Belle), Thu 10:30-12 (Brianna, Julia, Bruna), Fri 11-1 (Nicole, Peter, Bruna, Brianna?)
-- Belle (& Rick) presentation/discussion of: 
-  - Soska, K. C., Xu, M., Gonzalez, S. L., Herzberg, O., Tamis-LeMonda, C. S., Gilmore, R. O. & Adolph, K. E. (2021). (Hyper)active data curation: A video case study from behavioral science. *Journal of Escience Librarianship*, *10*(3). <https://doi.org/10.7191/jeslib.2021.1208>.
+2. Belle (& Rick) presentation/discussion of: 
 
-[Quarto slides](lab-mtg-talks/soska-etal-2021.qmd)
+Soska, K. C., Xu, M., Gonzalez, S. L., Herzberg, O., Tamis-LeMonda, C. S., Gilmore, R. O. & Adolph, K. E. (2021). (Hyper)active data curation: A video case study from behavioral science. *Journal of Escience Librarianship*, *10*(3). <https://doi.org/10.7191/jeslib.2021.1208>.
+
+[Quarto slides](lab-mtgs/soska-etal-2021.qmd)
 
 ### Tuesday, January 30, 2024
 
-- Attending
+0. Attending
   - Rick, Belle, Brianna, Andrea, Paige, Molly, Liu, Peter
   - Bruna, Julia, Yiming, Nicole (unable to attend) 
-- Datacamp check-in
-- Confirm team work schedule
+1. Datacamp check-in
+2. Confirm team work schedule
   - Tue 9-11; Thu 10:30-12; Fri 11-1
-- Peter paper presentation
+3. Peter paper presentation
 
 ### Tuesday, January 23, 2024
 
-- Attending
+0. Attending
   - Nicole, Belle, Julia, Bruna, Liu, Andrea, Yiming, Rick, Peter
-- Status Report
+1. Status Report
    - [Datacamp](https://www.datacamp.com/)
    - [PLAY](https://play-project.org/) update
       - recruitment
       - data collection
    - [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/)
-- Schedule Outstanding Lab Member Presentations from last semester
+2. Schedule Outstanding Lab Member Presentations from last semester
    - `ggplot2` interactive (Brianna, Rick) demo?
    - Peter paper discussion?
-- Missing Webpage Biography
+3. Missing Webpage Biography
    - Molly, Julia, Bruna
 
-### Tuesday, January 16, 2024
+### CANCELLED ~~Tuesday, January 16, 2024~~
 
-**Cancelled**
-
-- Status Report
+1. Status Report
    - [Datacamp](https://www.datacamp.com/) 
    - [PLAY](https://play-project.org/) update
       - recruitment
       - data collection
    - [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/)
-- Schedule Outstanding Lab Member Presentations from last semester
+2. Schedule Outstanding Lab Member Presentations from last semester
    - `ggplot2` interactive (Brianna, Rick) demo?
    - Peter paper discussion?
-- Missing Webpage Biography
+3. Missing Webpage Biography
    - Molly, Julia, Bruna
-   
-## Radar
-
-### Tuesday, April 23, 2024
-
-- Election Day **NO MEETING**
-
-### Tuesday, April 9, 2024
-
-- Yiming presentation (tentative)
-
-### Tuesday, March 26, 2024
-
-- **NO MEETING**
 
 ## Fall 2023
 
