@@ -17,10 +17,10 @@ website:
       href: research.qmd
     - text: "Publications"
       href: publications.qmd
-    - text: "Parents"
+    - text: "For Parents"
       href: parents.qmd
-    - text: "Participants"
-      href: participants.qmd
+    # - text: "Participants"
+    #   href: participants.qmd
     - text: "Who we are"
       href: who-we-are.qmd
     - text: "Lab mtgs"
@@ -29,13 +29,10 @@ website:
           href: lab-meetings.qmd
         - text: "Past semesters"
           href: lab-meetings-archive.qmd
-        - text: "Soska et al. 2021"
-          href: lab-mtg-talks/soska-etal-2021.qmd
     - text: "Resources"
       href: resources.qmd
     - text: "Site info"
       href: site-info.qmd
-      
     right:
         - icon: github
           text: Github

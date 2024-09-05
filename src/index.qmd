@@ -8,7 +8,7 @@ listing:
   sort-ui: false
   filter-ui: false
 page-layout: full
-title-block-banner: true
+title-block-banner: false
 ---
 
 ![](images/fesi-2014.jpg){#fig-fesi-2014}![](images/optic-flow.jpg){#fig-optic-flow}![](images/lab-logo.png){#fig-lab-logo}
