@@ -7,10 +7,14 @@ bibliography: "bib/lab.bib"
 
 For the Fall 2024 Semester, we will meet on Thursdays 8:00-8:50 am in room 444 Moore.
 
+### Thursday, September 12, 2024
+
+0. Attending
+
 ### Thursday, September 5, 2024
 
-- Attending:
-
+0. Attending
+  - Julia, Bruna, Hayley, Gavin, Brianna, Trinity, Nicole, Paige, Lina
 1. Introductions
 2. Orientation to Fall 2024 lab priorities (Rick)
     - Play & Learning Across a Year (PLAY) Project, [PLAY site](https://play-project.org), [Parent site](https://anhourinthelife.org), [KoBoToolbox Surveys](https://PLAY-behaviorome.github.io/KoBoToolbox/)
