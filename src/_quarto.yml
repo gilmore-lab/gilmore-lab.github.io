@@ -27,6 +27,8 @@ website:
       menu: 
         - text: "Current semester"
           href: lab-meetings.qmd
+        - text: "Past semesters"
+          href: lab-meetings-archive.qmd
         - text: "Soska et al. 2021"
           href: lab-mtg-talks/soska-etal-2021.qmd
     - text: "Resources"

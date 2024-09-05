@@ -1,7 +1,5 @@
----
-title: resources
----
-  
+# Resources
+
 ## Lab Resources
 
 [New Lab Member Instructions](http://gilmore-lab.github.io/protocols/onboarding.html)  

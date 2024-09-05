@@ -1,8 +1,4 @@
----
-title: research
----
-  
-# Active Projects
+# Research
 
 ## Open Science
 

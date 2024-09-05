@@ -2,9 +2,12 @@
 title: People
 ---
 
+::: {.callout-important}
+
 The Brain and Behavioral Dynamics Lab, part of the [Psychology Department](https://psych.la.psu.edu) at Penn State, is looking for research assistants to study brain development in infants, children, and adolescents for **Fall 2024**. 
 You can earn research project (PSY 494) credit or work study funds, and learn video, computer, and communication skills. Prior research experience and computer skills are a plus, but aren't required. 
-We are especially interested in students who have morning availability, computer skills, or are interested in developing skills in advertising, marketing, or public relations. You may apply by completing an [application](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform). **At least a TWO semester commitment is required**
+We are especially interested in students who have morning availability, computer skills, or are interested in developing skills in advertising, marketing, or public relations. You may apply by completing an [application](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform). **At least a TWO semester commitment is required.**
+:::
 
 <!-- headshot image width = 175px and 175x220px is ideal -->
 
@@ -30,7 +33,7 @@ From 2008 to 2014, Gilmore served as the founding Director of Human Imaging at P
 He has won the College of the Liberal Arts tenure-line faculty teaching award, leads the Open Data in Developmental Science (ODDS) initiative for the Penn State Child Study Center, and has had support for his research from the National Institutes of Health and the National Science Foundation. 
 
 Gilmore has served as president of the [Centre Region Bicycle Coalition](https://centrebike.org), the [Acoustic Brew Concert Series](https://acousticbrew.org), and the [State College Community Theatre](https://scctonline.org).
-An active radio amateur or ham (callsign W3TM), he is member of the Board of Directors of the [Nittany Amateur Radio Club](https://www.nittany-arc.net/) and is the faculty adviser and K3CR license trustee for the Penn State Amateur Radio Club.
+An active radio amateur or ham (callsign W3TM), he is member of the Board of Directors of the [Nittany Amateur Radio Club](https://www.nittany-arc.net/) and served as the faculty adviser and K3CR license trustee for the Penn State Amateur Radio Club from 2018-2023.
 
 **Contact Information**
 
@@ -83,27 +86,27 @@ ars17 AT-SIGN psu DOT edu</p>
 
 ----
 
-### Molly Askin, Undergraduate Research Assistant {#molly-askin}
+<!-- ### Molly Askin, Undergraduate Research Assistant {#molly-askin} -->
 
-:::: {.columns}
+<!-- :::: {.columns} -->
 
-::: {.column width="25%"}
+<!-- ::: {.column width="25%"} -->
 
-![](images/lab-logo.png){fig-align="left" width="80%"}
+<!-- ![](images/lab-logo.png){fig-align="left" width="80%"} -->
 
-:::
+<!-- ::: -->
 
-::: {.column width="75%"}
+<!-- ::: {.column width="75%"} -->
 
 
 
-Molly Askin is a junior at the Pennsylvania State University and is from New Jersey. She is majoring in Psychology with the Neuroscience option with a minor in neuroscience. She is involved in campus through Greek life in her sorority [Alpha Xi Delta](https://www.alphaxidelta.org/). She is also involved in [THON](https://thon.org/) as an assistant THON chair which consists of helping with anything the other THON chairs need help with as well as helping to raise money for THON. She is interested in pursuing her education further and eventually getting her PhD in neuropsychology with hopes to eventually study patients with Alzheimer’s and dementia. 
+<!-- Molly Askin is a junior at the Pennsylvania State University and is from New Jersey. She is majoring in Psychology with the Neuroscience option with a minor in neuroscience. She is involved in campus through Greek life in her sorority [Alpha Xi Delta](https://www.alphaxidelta.org/). She is also involved in [THON](https://thon.org/) as an assistant THON chair which consists of helping with anything the other THON chairs need help with as well as helping to raise money for THON. She is interested in pursuing her education further and eventually getting her PhD in neuropsychology with hopes to eventually study patients with Alzheimer’s and dementia.  -->
 
-:::
+<!-- ::: -->
 
-::::
+<!-- :::: -->
 
-----
+<!-- ---- -->
 
 ### Bruna Baldivieso, Undergraduate Research Assistant {#bruna-baldivieso}
 
@@ -201,42 +204,11 @@ Peter is a senior student majoring in Biology with a focus on neuroscience optio
 
 ::::
 
-### Yinghe Liu, Undergraduate Research Assistant {#yinghe-liu}
-
-:::: {.columns}
-
-::: {.column width="25%"}
-
-![](images/yinghe-liu.jpeg){fig-align="left" width="80%"}
-
-:::
-
-::: {.column width="75%"}
-
-Liu is a senior undergraduate majoring in Psychology with a minor in Human Development and Family Study. Currently, Liu is working on improving the [guidance manual for Databrary](https://databrary.github.io/guide/). His academic journey has been defined by a deep interest in understanding the development of decision-making mechanism with a focus on cognitive flexibility. He is also planning on a post-undergraduate education after graduation. Outside of his academic interest, Liu is an enthusiastic player of the [game of Go](https://en.wikipedia.org/wiki/Go_(game)#Psychology), a complex board game that has significantly shaped his perspective on human intelligence. 
-
-:::
-
-::::
-
-### Sydney (Belle) Peterson, Undergraduate Research Assistant {#belle-peterson}
-
-:::: {.columns}
-
-::: {.column width="25%"}
-![](images/BellePcrop.jpeg)
-:::
-
-::: {.column width="75%"}
-
-Belle Peterson is a senior Biobehavioral Health Major, with minors in Global Health and Diversity and Inclusion in Health and Human Development. Belle is currently preparing to apply to medical school, with the goal of eventually becoming a Pediatrician and working with underserved pediatric populations, both domestically and abroad. Belle is passionate about the intersections between physiological and psychological health, and has had the opportunity to pursue this interest during her time in the Gilmore Lab, as well as through the founding of her artificial intelligence based start-up, Apoio, which focuses on improving the intake process for mental health providers in rural/remote regions. Belle is also involved with [Alpha Phi Omega](https://apo.org) and [Remote Area Medical](https://www.ramusa.org), which are both student-run service organizations on campus. In her free time, Belle enjoys swimming, baking, and trying new coffee shops.
-
-:::
-
-::::
-
 ## Recent Alumni
 
+- Molly Askin
+- Yinghe Liu
+- Sydney (Belle) Peterson
 - Madison Gehringer
 - Oriana Franco
 - Ysa Fernandez
@@ -270,18 +242,17 @@ Belle Peterson is a senior Biobehavioral Health Major, with minors in Global Hea
 - Shivani Patel
 - Michael O'Neill
 - Daved Fared
-- Auburn Lattanzio, Graduate student, Villanova University
+- Auburn Lattanzio
 - Michelle Shade
 - Sam Pai
-- Jun Oh, Apprentice Ruby on Rails Developer, Launch Academy, Inc.
+- Jun Oh
 - Amanda Thomas, Ph.D.
 - William Adamiak
 - Shivam Vedak, MBA, MD
-- Dan Elbich, Graduate student, Penn State
+- Dan Elbich
 - Jeremy Fesi, Ph.D., Research Analyst, U.S. Marine Corps
-- Lorena Gonzalez, Graduate student, Penn State
-- Ricky Groner, IT Support Specialist, Huck Institutes of the Life Sciences, Penn State
-- Ken Hwang, Consultant, Anexinet
-- Matthew Lee, MBA student, Penn State
-- Patricia Jones, Optometry student, Pennsylvania College of Optometry
-
+- Lorena Gonzalez
+- Ricky Groner
+- Ken Hwang
+- Matthew Lee
+- Patricia Jones

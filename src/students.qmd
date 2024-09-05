@@ -1,6 +1,4 @@
----
-pagetitle: who-we-are
----
+# Who we are
 
 ## Gilmore Bio
 
