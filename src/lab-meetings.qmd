@@ -7,9 +7,28 @@ bibliography: "bib/lab.bib"
 
 For the Fall 2024 Semester, we will meet on Thursdays 8:00-8:50 am in room 444 Moore.
 
+### Thursday, September 26, 2024
+
+0. Attending
+1. Data visualization paper journal club on [@Franconeri2021-uv].
+  - Bring at least 2 data visualizations that you want to talk about.
+
+### Thursday, September 19, 2024
+
+0. Attending
+1. Legacy Project discussion
+
 ### Thursday, September 12, 2024
 
 0. Attending
+  - Andrea, Brianna, Bruna, Hayley, Lina, Gavin, Nicole, Paige, Julia, Trinity
+1. Project updates
+  - PLAY
+2. [Onboarding and Training](https://gilmore-lab.github.io/protocols) and orientation (Andrea)
+3. Need volunteers for
+  - Lab meeting scribe
+  - Lab blogger
+4. Plans for next two weeks
 
 ### Thursday, September 5, 2024
 
@@ -24,4 +43,3 @@ For the Fall 2024 Semester, we will meet on Thursdays 8:00-8:50 am in room 444 M
     - Refreshing internal resources, especially the [lab website](https://gilmore-lab.github.io) and our lab [protocols site](https://gilmore-lab.github.io/protocols).
 3. [Onboarding and Training](https://gilmore-lab.github.io/protocols) and orientation (Andrea)
 4. Schedule
-
