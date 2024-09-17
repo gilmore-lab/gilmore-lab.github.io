@@ -9,7 +9,7 @@ We use [Paperpile](https://paperpile.com/) for reference management. Please use 
 #### Using R  
   - [R for Data Science](https://r4ds.had.co.nz/)  
   
-## Active Projects
+## Past Projects
 
 #### Motion Coherence (MOCO)   
   - Infant High Density EEG Data  

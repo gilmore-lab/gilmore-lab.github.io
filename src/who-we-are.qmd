@@ -5,6 +5,7 @@ title: People
 ::: {.callout-important}
 
 The Brain and Behavioral Dynamics Lab, part of the [Psychology Department](https://psych.la.psu.edu) at Penn State, is looking for research assistants to study brain development in infants, children, and adolescents for **Fall 2024**. 
+<center>**SENIOR slots are FULL for the 2024-2025 academic year**</center>
 You can earn research project (PSY 494) credit or work study funds, and learn video, computer, and communication skills. Prior research experience and computer skills are a plus, but aren't required. 
 We are especially interested in students who have morning availability, computer skills, or are interested in developing skills in advertising, marketing, or public relations. You may apply by completing an [application](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform). **At least a TWO semester commitment is required.**
 :::
@@ -66,11 +67,11 @@ rogilmore AT-SIGN psu DOT edu<br/>
 
 ::: {.column width="75%"}
 
-Andrea R. Seisler is the Laboratory Manager of the Brain and Behavioral Development Laboratory directed by Dr. Rick O. Gilmore. She has also been the Support and Authorizations Specialist at [Databrary](https://databrary.org) since November 2016. She received her bachelor's and master's degree in Biomedical Engineering from [The Catholic University of America](https://www.cua.edu/). During her graduate studies, she was a recipient of the [Clare Booth Luce Fellowship](https://www.hluce.org/programs/clare-boothe-luce-program/) award.
+Andrea R. Seisler is the Laboratory Manager of the Brain and Behavioral Dynamics Laboratory directed by Dr. Rick O. Gilmore and the Support and Authorizations Specialist at [Databrary](https://databrary.org). She received her bachelor's and master's degree in Biomedical Engineering from [The Catholic University of America](https://www.cua.edu/). During her graduate studies, she was a recipient of the [Clare Booth Luce Fellowship](https://www.hluce.org/programs/clare-boothe-luce-program/) award.
 
-She completed MRI based neuroscience and orthopedics research while working at [The National Institutes of Health](https://www.nih.gov/) from 2001-2007. After her move to State College, she served as an IRB Compliance Coordinator for the [Human Research Protection Program](https://www.research.psu.edu/irb) at Penn State and then moved on in 2009 to manage the Human Electrophysiology Facility located at the [Social, Life, and Enginineering Sciences Imaging Center](https://www.imaging.psu.edu/) through 2014. 
+She completed MRI based neuroscience and orthopedics research while working at [The National Institutes of Health](https://www.nih.gov/) from 2001-2007. After her move to State College, she served as an IRB Compliance Coordinator for the [Human Research Protection Program](https://www.research.psu.edu/irb) at Penn State and then moved on in 2009 to manage the [Human Electrophysiology Facility](https://www.imaging.psu.edu/facilities/hef) located at the [Social, Life, and Enginineering Sciences Imaging Center](https://www.imaging.psu.edu/) through 2014. 
 
-She is active in Scouts BSA as a Committee Member in [Troop 245](http://www.post245.com/about-us---scout-troop-245.html) and an Executive Board Member of the [Juniata Valley Council, BSA](https://jvcbsa.org/council-leadership/). She completed her [Wood Badge](http://woodbadge.org/) leadership training course in September 2020 and was a Troop Guide on staff in the Spring of 2022. She has been the Assistant Scoutmaster of Administration for [National Youth Leadership Training](https://www.ncacbsa.org/national-youth-leadership-training/) since 2021. In addition she enjoys dancing ballet and teaching at [Dance Academy](https://www.dancesc.com/).
+She is active in Scouts BSA as a Committee Member in [Troop 245](http://www.post245.com/about-us---scout-troop-245.html), an Executive Board Member of the [Juniata Valley Council, BSA](https://jvcbsa.org/council-leadership/), and Council Training Committee Vice-Chair. She completed her [Wood Badge](http://woodbadge.org/) leadership training course in September 2020 and was a Troop Guide on Wood Badge staff in the Spring of 2022. She has been the Assistant Scoutmaster of Administration for [National Youth Leadership Training](https://www.ncacbsa.org/national-youth-leadership-training/) since 2021. In addition she enjoys dancing ballet and teaching at [Dance Academy](https://www.dancesc.com/).
 
 **Contact Information**
 
@@ -186,7 +187,9 @@ Nicole Cruz is a sophomore at Pennsylvania State University pursuing an undergra
 
 ::::
 
-### Peter Huang, Undergraduate Research Assistant {#peter-huang}
+----
+
+### Paige Haplea, Undergraduate Research Assistant {#paige-haplea}
 
 :::: {.columns}
 
@@ -198,7 +201,91 @@ Nicole Cruz is a sophomore at Pennsylvania State University pursuing an undergra
 
 ::: {.column width="75%"}
 
-Peter is a senior student majoring in Biology with a focus on neuroscience option, he is currently participating in [Legacy project]( https://gilmore-lab.github.io/visual-acuity/) in [Gilmore Lab](https://gilmore-lab.github.io/) at Penn State. He is interested in how our brain works at neuron levels, especially visual perception. Peter plans to continue pursuing a Ph.D. in neuroscience after graduation from Penn State.
+<!-- Paige is a senior student -->
+
+:::
+
+::::
+
+----
+
+### Suenghee Ham, Undergraduate Research Assistant {#suenghee-ham}
+
+:::: {.columns}
+
+::: {.column width="25%"}
+
+![](images/lab-logo.png){fig-align="left" width="80%"}
+
+:::
+
+::: {.column width="75%"}
+
+
+
+<!-- Suenghee is a   -->
+
+:::
+
+::::
+
+----
+
+### Hayley Lawrence, Undergraduate Research Assistant {#hayley-lawrence}
+
+:::: {.columns}
+
+::: {.column width="25%"}
+
+![](images/lab-logo.png){fig-align="left" width="80%"}
+
+:::
+
+::: {.column width="75%"}
+
+
+
+<!-- Hayley Lawrence  -->
+
+:::
+
+::::
+
+----
+
+### Gavin Robinson, Undergraduate Research Assistant {#gavin-robinson}
+
+:::: {.columns}
+
+::: {.column width="25%"}
+
+![](images/lab-logo.png){fig-align="left" width="80%"}
+
+:::
+
+::: {.column width="75%"}
+
+<!-- Gavin Robinson is a  -->
+
+:::
+
+::::
+
+----
+
+### Trinity Wilson, Undergraduate Research Assistant {#trinity-wilson}
+
+:::: {.columns}
+
+::: {.column width="25%"}
+
+![](images/lab-logo.png){fig-align="left" width="80%"}
+
+:::
+
+::: {.column width="75%"}
+
+<!-- Trinity Wilson is a  -->
 
 :::
 
@@ -206,6 +293,7 @@ Peter is a senior student majoring in Biology with a focus on neuroscience optio
 
 ## Recent Alumni
 
+- Peter Huang
 - Molly Askin
 - Yinghe Liu
 - Sydney (Belle) Peterson
