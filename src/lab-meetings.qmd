@@ -17,6 +17,10 @@ For the Fall 2024 Semester, we will meet on Thursdays 8:00-8:50 am in room 444 M
 
 0. Attending
 1. Legacy Project discussion
+2. Brief DataCamp Discussion
+  - was group approved?
+3. Need volunteers for
+  - update text of [BBD Lab Parent Page](https://gilmore-lab.github.io/parents.html) to reflect PLAY study
 
 ### Thursday, September 12, 2024
 
