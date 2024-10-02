@@ -7,11 +7,16 @@ bibliography: "bib/lab.bib"
 
 For the Fall 2024 Semester, we will meet on Thursdays 8:00-8:50 am in room 444 Moore.
 
-### Thursday, October 3, 2024
-
+### Thursday, October 10, 2024
 0. Attending
 1. Data visualization paper journal club on [@Franconeri2021-uv].
   - Bring at least 2 data visualizations that you want to talk about.
+
+### Thursday, October 3, 2024
+
+0. Attending
+1. Learn R using [Datacamp](https://www.datacamp.com/) 
+2. Training new/returning lab members
   
 ### Thursday, September 26, 2024
 
