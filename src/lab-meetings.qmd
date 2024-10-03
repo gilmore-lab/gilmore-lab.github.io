@@ -11,13 +11,20 @@ For the Fall 2024 Semester, we will meet on Thursdays 8:00-8:50 am in room 444 M
 0. Attending
 1. Data visualization paper journal club on [@Franconeri2021-uv].
   - Bring at least 2 data visualizations that you want to talk about.
+2. Biography status
 
 ### Thursday, October 3, 2024
 
 0. Attending
+- Andrea, Lina, Hayley, Gavin, Nicole, Brianna, Trinity, Megan, Bruna, Kassandra
 1. Learn R using [Datacamp](https://www.datacamp.com/) 
-2. Training new/returning lab members
-  
+  - First Assignment Introduction to R - Due 10/10.
+2. Training new/returning lab members [Instructions](https://gilmore-lab.github.io/protocols/trainings.html)
+ - CITI, Clery Act, Reporting Suspected Child Abuse, Compliance Training, Title IX
+3. Write Biographies use [Markdown Cheatsheet create links](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+4. ARS To Do
+- send all lab members links to Datacamp
+
 ### Thursday, September 26, 2024
 
 0. Attending
