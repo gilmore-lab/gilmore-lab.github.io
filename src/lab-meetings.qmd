@@ -7,10 +7,14 @@ bibliography: "bib/lab.bib"
 
 For the Fall 2024 Semester, we will meet on Thursdays 8:00-8:50 am in room 444 Moore.
 
+### Thursday, October 17, 2024
+
 ### Thursday, October 10, 2024
+
 0. Attending
 1. Data visualization paper journal club on [@Franconeri2021-uv].
   - Bring at least 2 data visualizations that you want to talk about.
+  - Discussion [notes](lab-mtg-talks/franconeri-etal-2021.qmd) from Spring 2024
 
 ### Thursday, October 3, 2024
 

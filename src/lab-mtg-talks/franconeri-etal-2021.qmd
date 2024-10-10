@@ -11,17 +11,23 @@ bibliography: ../bib/lab.bib
 
 ---
 
+{{< video https://youtu.be/OdHLpZQF-Zs?si=3ATB7pEmaHk3Cjkw width="100%" height="70%" >}}
+
+@Data-Visualization-Society2024-av
+
+---
+
 Franconeri, S. L., Padilla, L. M., Shah, P., Zacks, J. M., & Hullman, J. (2021). The science of visual data communication: What works. *Psychological Science in the Public Interest: A Journal of the American Psychological Society*, *22*(3), 110–161. <https://doi.org/10.1177/15291006211051956>.
 
 ---
 
-![[Figure 1 from @Franconeri2021-uv]](../images/franconeri-etal-2021-fig1.jpeg)
+![Figure 1 from @Franconeri2021-uv](../images/franconeri-etal-2021-fig1.jpeg)
 
 ## Datasaurus Dozen 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DbJyPELmhJc?si=M7bfjK8oUXuz6YtJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{< video https://www.youtube.com/embed/DbJyPELmhJc?si=M7bfjK8oUXuz6YtJ width="100%" height="60%">}}
 
-[@datasaurus-rm; @Autodesk_Research2017-qm]
+@datasaurus-rm; @Autodesk_Research2017-qm
 
 ## Take homes
 
@@ -30,7 +36,7 @@ Franconeri, S. L., Padilla, L. M., Shah, P., Zacks, J. M., & Hullman, J. (2021).
 
 ## {.scrollable}
 
-![[Figure 2 from @Franconeri2021-uv]. Fig. 2. A summary of the power and limits of visual data processing. The two columns on the left show a quick reference guide to channels that can depict data visually and common illusions for each channel. The column in the center presents a summary of how visual statistics are powerful. The two columns on the right illustrate how comparisons are severely limited and present a set of design techniques that focus viewers on the “right” ones.](../images/franconeri-etal-2021-fig2.jpeg){.lightbox}
+![Figure 2 from @Franconeri2021-uv. Fig. 2. A summary of the power and limits of visual data processing. The two columns on the left show a quick reference guide to channels that can depict data visually and common illusions for each channel. The column in the center presents a summary of how visual statistics are powerful. The two columns on the right illustrate how comparisons are severely limited and present a set of design techniques that focus viewers on the “right” ones.](../images/franconeri-etal-2021-fig2.jpeg){.lightbox}
 
 ## Visual dimensions for representing quantity
 
