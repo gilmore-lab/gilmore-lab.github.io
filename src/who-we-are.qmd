@@ -215,16 +215,15 @@ Nicole Cruz is a sophomore at Pennsylvania State University pursuing an undergra
 
 ::: {.column width="25%"}
 
-![](images/lab-logo.png){fig-align="left" width="80%"}
+![](images/seunghee.jpg){fig-align="left"}
 
 :::
 
 ::: {.column width="75%"}
 
+Seunghee Ham is a class of 2025 majoring in Psychology with a life science focus. Currently, she is an undergraduate research assistant in [Dr. Gilmore’s Lab](https://gilmore-lab.github.io) and [Dr. Erika's Lab](https://pcd.la.psu.edu)s at Penn State. This role allows her to develop her research skills and contribute to projects in the Lab, a crucial step in becoming a clinical psychologist.
 
-
-<!-- Seunghee is a   -->
-
+Her academic interests are primarily in Clinical Psychology, and she intends to pursue an MD and/or Ph.D. in clinical psychology. She aspires to pursue a career as a clinical psychologist. She wants to improve her perspectives on psychotherapy and provide & settle better psychotherapy/counseling services at the University in Korea.
 :::
 
 ::::
@@ -237,15 +236,13 @@ Nicole Cruz is a sophomore at Pennsylvania State University pursuing an undergra
 
 ::: {.column width="25%"}
 
-![](images/lab-logo.png){fig-align="left" width="80%"}
+![](images/hayley.png){fig-align="left" width="80%"}
 
 :::
 
 ::: {.column width="75%"}
 
-
-
-<!-- Hayley Lawrence  -->
+Hayley Lawrence is an undergraduate student at Pennsylvania State University, expected to graduate in 2025. She plans on pursuing a B.S. in psychology with a concentration in neuroscience. Following her undergraduate studies she plans to attend medical school and pursue an MD in psychiatry. She is interested in the biology and behavior behind different types of prescribed medications as well as the neurological effects of addiction. She is currently working as an undergraduate research assistant in the [Brain and Behavioral Dynamics lab](https://gilmore-lab.github.io/) under Dr. Gilmore, the principal investigator, at Penn State. She is also a member of [Psi Chi](https://www.psichi.org/), the International Honor Society in Psychology. In her spare time, Hayley enjoys doing yoga, cooking, making crafts, traveling, and taking care of her many houseplants!
 
 :::
 
@@ -265,7 +262,7 @@ Nicole Cruz is a sophomore at Pennsylvania State University pursuing an undergra
 
 ::: {.column width="75%"}
 
-<!-- Gavin Robinson is a  -->
+Gavin is a Paterno Fellow and Schreyer Scholar double majoring in Psychology and Sociology intending to graduate in 2026. Gavin is a member of [Psi Chi](PSI CHI - The International Honor Society in Psychology | The Pennsylvania State University, University Park Chapter (psu.edu)), the international honor society in psychology, and a [Peer Advisor](Peer Advising | College of the Liberal Arts (psu.edu)) in the college of the Liberal Arts. After college, Gavin plans to pursue a career in brain imaging, hopefully working with rTMS technology in treatment of depression. Outside of school he enjoys playing guitar, going to concerts, and playing basketball. 
 
 :::
 
