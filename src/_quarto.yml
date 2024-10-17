@@ -40,3 +40,7 @@ website:
 format:
   html:
     theme: default
+    date-modified: last-modified
+    bibliography: [bib/lab.bib]
+    csl: bib/apa.csl
+    html-math-method: mathjax
