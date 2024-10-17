@@ -250,6 +250,46 @@ Hayley Lawrence is an undergraduate student at Pennsylvania State University, ex
 
 ----
 
+### Kassandra Marin, Undergraduate Research Assistant {#kassandra-marin}
+
+:::: {.columns}
+
+::: {.column width="25%"}
+
+![](images/lab-logo.png){fig-align="left" width="80%"}
+
+:::
+
+::: {.column width="75%"}
+
+<!-- Kassandra is a  -->
+
+:::
+
+::::
+
+----
+
+### Megan Orlando, Undergraduate Research Assistant {#megan-orlando}
+
+:::: {.columns}
+
+::: {.column width="25%"}
+
+![](images/lab-logo.png){fig-align="left" width="80%"}
+
+:::
+
+::: {.column width="75%"}
+
+<!-- Megan is a  -->
+
+:::
+
+::::
+
+----
+
 ### Gavin Robinson, Undergraduate Research Assistant {#gavin-robinson}
 
 :::: {.columns}
