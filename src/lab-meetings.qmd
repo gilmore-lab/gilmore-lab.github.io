@@ -7,7 +7,23 @@ bibliography: "bib/lab.bib"
 
 For the Fall 2024 Semester, we will meet on Thursdays 8:00-8:50 am in room 444 Moore.
 
+### Thursday, October 24, 2024
+
+0. Attending
+1. Discuss [@Franconeri2021-uv] and look at data visualizations provided by lab members.
+2. Catch up on Training/Biography/Datacamp Status
+
 ### Thursday, October 17, 2024
+
+0. Attending
+- Andrea, Brianna, Nicole, Julia, Lina, Hayley, Kassandra, Megan, Trinity 
+1. Watched and discussed some of [Thinking with Data Visualizations, Fast and Slow](https://www.youtube.com/watch?v=OdHLpZQF-Zs) 
+2. To Do 
+  - Read [@Franconeri2021-uv] and be prepared to discuss on 10/24.
+  - Bring at least 2 data visualizations that you want to talk about.
+  - Create a [Datacamp](https://www.datacamp.com/) account with your psu email account and accept the invitation to the  **PSY 494** space if you have not already
+  - Continue working on required training:  [Instructions](https://gilmore-lab.github.io/protocols/trainings.html)
+
 
 ### Thursday, October 10, 2024
 

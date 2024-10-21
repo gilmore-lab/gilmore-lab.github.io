@@ -256,13 +256,13 @@ Hayley Lawrence is an undergraduate student at Pennsylvania State University, ex
 
 ::: {.column width="25%"}
 
-![](images/lab-logo.png){fig-align="left" width="80%"}
+![](images/kmarin.png){fig-align="left" width="80%"}
 
 :::
 
 ::: {.column width="75%"}
 
-<!-- Kassandra is a  -->
+**Kassandra Marin** is an undergraduate student at *The Pennsylvania State University*, aiming to graduate with a degree in Psychology with a focus on neuroscience and a minor in Spanish, with the Class of 2028. She plans to pursue further studies in neuropsychology, either through a PsyD or PhD, with the goal of becoming a neuropsychologist. Her academic interests center around cognitive processes and brain dysfunction. Currently, Kassandra works as an undergraduate assistant in the Brain and [Behavioral Dynamics Lab](https://gilmore-lab.github.io/). Outside of her studies, she enjoys figure skating, painting, and hiking.
 
 :::
 
@@ -282,7 +282,7 @@ Hayley Lawrence is an undergraduate student at Pennsylvania State University, ex
 
 ::: {.column width="75%"}
 
-<!-- Megan is a  -->
+Megan Orlando is a senior here at Penn State studying psychology with a clinical focus on children. She works in the [Gilmore Lab](https://gilmore-lab.github.io/) here at Penn State and one day hopes to earn her Ph.D in Child Clinical Psychology to become a child psychologist. She hopes to be able to work with children and adolescents who have experienced traumatic events or mental disorders that have affected their daily lives. In her free time Megan enjoys writing, listening to music, studying, and hanging out with her friends. 
 
 :::
 
@@ -316,13 +316,13 @@ Gavin is a Paterno Fellow and Schreyer Scholar double majoring in Psychology and
 
 ::: {.column width="25%"}
 
-![](images/lab-logo.png){fig-align="left" width="80%"}
+![](images/twilson.jpg){fig-align="left" width="80%"}
 
 :::
 
 ::: {.column width="75%"}
 
-<!-- Trinity Wilson is a  -->
+Trinity Wilson is a third-year at Penn State studying Psychology, and will be graduating in May 2025. She plans to continue her education with a Ph.D. in clinical psychology, with the hopes of becoming a clinical neuropsychologist. She’s interested in psychopathology and neurological testing, and wants to have her own practice one day. Right now, she works in the [Gilmore Lab](https://gilmore-lab.github.io/) as an undergraduate research assistant under Dr. Gilmore. Outside of school, Trinity likes to read, take care of her plants, travel, and crochet new clothes.
 
 :::
 
