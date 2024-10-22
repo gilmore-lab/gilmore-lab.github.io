@@ -6,8 +6,21 @@
 
 We use [Paperpile](https://paperpile.com/) for reference management. Please use the [Paperpile Instructions](http://gilmore-lab.github.io/protocols/paperpile_instructions.html) to utilize this web based reference management system.  
 
-#### Using R  
-  - [R for Data Science](https://r4ds.had.co.nz/)  
+### Using R  
+
+- [R for Data Science](https://r4ds.had.co.nz/)
+  
+### Making QR codes
+
+The following code generates a QR code for the PLAY Project parent site and saves it to `images/play-recruiting.svg`.
+
+```{r}
+code <- qrcode::qr_code("https://www.anhourinthelife.org")
+plot(code)
+
+qr_code_svg <- qrcode::generate_svg(code, filename = "images/play-recruiting.svg")
+print(qr_code_svg) # Opens in separate browser
+```
   
 ## Past Projects
 
