@@ -195,13 +195,13 @@ Nicole Cruz is a sophomore at Pennsylvania State University pursuing an undergra
 
 ::: {.column width="25%"}
 
-![](images/lab-logo.png){fig-align="left" width="80%"}
+![](images/paigeh_1_175x234.jpg){fig-align="left" width="80%"}
 
 :::
 
 ::: {.column width="75%"}
 
-<!-- Paige is a senior student -->
+Paige is a psychology major at Penn State hoping to pursue her Ph.D. in clinical psychology or her PsyD after graduation. She works for the [Gilmore Lab](https://gilmore-lab.github.io/) as a research assistant and project leader on the PLAY project with [Brianna Beamer](https://gilmore-lab.github.io/who-we-are.html#brianna-beamer) as the primary data collector. She hopes to someday work as a clinical neuropsychologist and dabble in research to keep her curiosity growing. In her spare time when she is not working on her grad school applications, she likes to play bass guitar, go skiing, and bartend at Cafe210. One fun fact about Paige is that her hometown is the mushroom capital of the world (yum!). 
 
 :::
 
@@ -215,7 +215,7 @@ Nicole Cruz is a sophomore at Pennsylvania State University pursuing an undergra
 
 ::: {.column width="25%"}
 
-![](images/seunghee.jpg){fig-align="left"}
+![](images/Seunghee_175x233.jpg){fig-align="left"}
 
 :::
 
@@ -236,7 +236,7 @@ Her academic interests are primarily in Clinical Psychology, and she intends to 
 
 ::: {.column width="25%"}
 
-![](images/hayley.png){fig-align="left" width="80%"}
+![](images/hayley_optimized.png){fig-align="left" width="80%"}
 
 :::
 
