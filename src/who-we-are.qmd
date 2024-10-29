@@ -175,13 +175,13 @@ Nicole Cruz is a sophomore at Pennsylvania State University pursuing an undergra
 
 ::: {.column width="25%"}
 
-![](images/lab-logo.png){fig-align="left" width="80%"}
+![](images/JuliaD.jpg){fig-align="left" width="80%"}
 
 :::
 
 ::: {.column width="75%"}
 
-
+Julia DiFulvio is a current undergraduate student pursuing a biobehavioral health major and neuroscience minor at Penn State University. Julia is graduating in May of 2025, and plans to work in research and apply to Genetic Counseling Master's programs. In the meantime, she contributes to the Legacy Project: Visual Acuity as a Project Lead. Julia also serves as the [Penn State Genetic Counseling Club's](www.linkedin.com/in/psu-gcc) treasurer and student outreach chair. She is a member of the Health and Human Development Honor Society, which allows her to participate in volunteering, outreach, and professional development. In her free time, Julia enjoys spending time with friends, spending time outside, and cooking. A fun fact about Julia is that she is from Pittsburgh, PA!
 
 :::
 
