@@ -221,7 +221,7 @@ Paige is a psychology major at Penn State hoping to pursue her Ph.D. in clinical
 
 ::: {.column width="75%"}
 
-Seunghee Ham is a class of 2025 majoring in Psychology with a life science focus. Currently, she is an undergraduate research assistant in [Dr. Gilmore’s Lab](https://gilmore-lab.github.io) and [Dr. Erika's Lab](https://pcd.la.psu.edu)s at Penn State. This role allows her to develop her research skills and contribute to projects in the Lab, a crucial step in becoming a clinical psychologist.
+Seunghee Ham is a class of 2025 majoring in Psychology with a life science focus. Currently, she is an undergraduate research assistant in [Dr. Gilmore’s Lab](https://gilmore-lab.github.io) and [Dr. Erika's Lab](https://pcd.la.psu.edu)s at Penn State. This role allows her to develop her research skills and contribute to projects in the Lab, a crucial step in becoming a clinical psychologist. She is learning how to use R and GitHub! 
 
 Her academic interests are primarily in Clinical Psychology, and she intends to pursue an MD and/or Ph.D. in clinical psychology. She aspires to pursue a career as a clinical psychologist. She wants to improve her perspectives on psychotherapy and provide & settle better psychotherapy/counseling services at the University in Korea.
 :::
