@@ -21,7 +21,19 @@ plot(code)
 qr_code_svg <- qrcode::generate_svg(code, filename = "images/play-recruiting.svg")
 print(qr_code_svg) # Opens in separate browser
 ```
-  
+
+## Current Projects
+
+### Play & Learning Across a Year (PLAY) Project 
+- [PLAY site](https://play-project.org) 
+- [Parent site](https://anhourinthelife.org) 
+- [KoBoToolbox Surveys](https://PLAY-behaviorome.github.io/KoBoToolbox/) 
+
+The Brain and Behavioral Dynamics Lab is a [Data Collection](https://play-project.org/collection.html) and a [Data Coding](https://play-project.org/coding.html) site for the PLAY Project
+
+### Legacy Project
+- [Visual Acuity](https://gilmore-lab.github.io/visual-acuity/)
+
 ## Past Projects
 
 #### Motion Coherence (MOCO)   

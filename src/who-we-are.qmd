@@ -139,7 +139,7 @@ Bruna Baldivieso is a senior at Penn State University, majoring in Biology with 
 
 ::: {.column width="75%"}
 
-Brianna Beamer is a Junior at Penn State University studying Psychology with a neuroscience focus. She works in the [Gilmore Lab](https://gilmore-lab.github.io/) here at Penn State. She hopes to further her education and eventually earn a Ph.D. in Psychology to become a neuropsychologist. With this, she plans to help patients with damage in their central nervous system to help them to overcome the struggles they encounter. In Brianna's free time, she enjoys baking, listening to music, and exploring the outdoors. A fun fact about Brianna is she is from Dallas, Texas! 
+Brianna Beamer is a Senior at Penn State University studying Psychology with a neuroscience focus. She works in the [Gilmore Lab](https://gilmore-lab.github.io/) here at Penn State. She hopes to further her education and eventually earn a Ph.D. in Psychology to become a neuropsychologist. With this, she plans to help patients with damage in their central nervous system to help them to overcome the struggles they encounter. In Brianna's free time, she enjoys baking, listening to music, and exploring the outdoors. A fun fact about Brianna is she is from Dallas, Texas! 
 
 :::
 
@@ -159,7 +159,7 @@ Brianna Beamer is a Junior at Penn State University studying Psychology with a n
 
 ::: {.column width="75%"}
 
-Nicole Cruz is a sophomore at Pennsylvania State University pursuing an undergraduate degree in Psychology with a Neuroscience focus. She intends to graduate in the spring of 2025 and continue her education by pursuing an MD and/or Ph.D. in Neuropsychology. She is interested in research on topics about neurological disorders like Alzheimer’s disease. She is now an undergraduate research assistant working with Dr. Gilmore in his Brain and Behavioral Dynamics lab [Gilmore Lab](https://gilmore-lab.github.io/) at Penn State. In her free time, she enjoys listening and playing music, traveling, and cooking. 
+Nicole Cruz is pursuing an undergraduate degree in Psychology with a Neuroscience focus at Pennsylvania State University. She intends to graduate in the spring of 2025 and continue her education by pursuing an MD and/or Ph.D. in Neuropsychology. She is interested in research on topics about neurological disorders like Alzheimer’s disease. She is now an undergraduate research assistant working with Dr. Gilmore in his Brain and Behavioral Dynamics lab [Gilmore Lab](https://gilmore-lab.github.io/) at Penn State. In her free time, she enjoys listening and playing music, traveling, and cooking. 
 
 :::
 
@@ -320,7 +320,7 @@ Gavin is a Paterno Fellow and Schreyer Scholar double majoring in Psychology and
 
 ::: {.column width="75%"}
 
-Trinity Wilson is a third-year at Penn State studying Psychology, and will be graduating in May 2025. She plans to continue her education with a Ph.D. in clinical psychology, with the hopes of becoming a clinical neuropsychologist. She’s interested in psychopathology and neurological testing, and wants to have her own practice one day. Right now, she works in the [Gilmore Lab](https://gilmore-lab.github.io/) as an undergraduate research assistant under Dr. Gilmore. Outside of school, Trinity likes to read, take care of her plants, travel, and crochet new clothes.
+Trinity Wilson is studying Psychology, and will be graduating from Penn State in May 2025. She plans to continue her education with a Ph.D. in clinical psychology, with the hopes of becoming a clinical neuropsychologist. She’s interested in psychopathology and neurological testing, and wants to have her own practice one day. Right now, she works in the [Gilmore Lab](https://gilmore-lab.github.io/) as an undergraduate research assistant under Dr. Gilmore. Outside of school, Trinity likes to read, take care of her plants, travel, and crochet new clothes.
 
 :::
 
