@@ -215,7 +215,7 @@ Paige is a psychology major at Penn State hoping to pursue her Ph.D. in clinical
 
 ::: {.column width="25%"}
 
-![](images/Seunghee_175x233.jpg){fig-align="left"}
+![](images/Seunghee_175x233.jpg){fig-align="left" width="80%"}
 
 :::
 
