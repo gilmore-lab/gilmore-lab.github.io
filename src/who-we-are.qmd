@@ -122,7 +122,6 @@ ars17 AT-SIGN psu DOT edu</p>
 ::: {.column width="75%"}
 
 
-
 :::
 
 ::::
