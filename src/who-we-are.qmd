@@ -120,8 +120,7 @@ ars17 AT-SIGN psu DOT edu</p>
 :::
 
 ::: {.column width="75%"}
-
-
+Bruna Baldivieso is a senior at Penn State University, majoring in Biology with a concentration in Neuroscience and a minor in Psychology. She plans to continue her education in medical school, aspiring to become a neurologist specializing in epilepsy. Bruna is also actively involved in [LifeLink PSU](https://studentaffairs.psu.edu/experience-opportunities/lifelink-psu), a secondary transition program that offers college experiences for students with special needs from the State College Area School District. Outside of her academic pursuits, she enjoys attending concerts, fostering dogs, and shopping.
 :::
 
 ::::
