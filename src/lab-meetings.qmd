@@ -7,6 +7,23 @@ bibliography: "bib/lab.bib"
 
 For the Fall 2024 Semester, we will meet on Thursdays 8:00-8:50 am in room 444 Moore.
 
+### Thursday, November 14, 2024 
+
+0. Attending
+
+### Thursday, November 7, 2024 - 503 Moore
+
+0. Attending
+1. [Visual Acuity](https://gilmore-lab.github.io/visual-acuity/) Project - Paper analysis work session
+  - [Visual Acuity Analysis Procedure](https://docs.google.com/document/d/1jdoIzE1cLHphA9y89jyhK20lTXJ2WCu4fBIATH25EeY/edit?tab=t.0)
+  - [Legacy Project Acuity Data: By Paper](https://docs.google.com/spreadsheets/d/1UFZkbh9oU4JHpYsrkDQcNmDyqD4J-qB74dhyMzIkqKs/edit?gid=432255138#gid=432255138)
+  - [Legacy Project Data Analysis](https://docs.google.com/spreadsheets/d/1XnGweqEAiTlU8mhvWqtCCMNm9l5txdR0YpQsuMxvgio/edit?gid=998401983#gid=998401983)
+
+### Thursday, October 31, 2024 - 503 Moore
+
+0. Attending
+1. [Visual Acuity](https://gilmore-lab.github.io/visual-acuity/) Project - Paper analysis training session
+
 ### Thursday, October 24, 2024
 
 0. Attending
