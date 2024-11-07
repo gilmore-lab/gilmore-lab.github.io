@@ -9,11 +9,8 @@ For the Fall 2024 Semester, we will meet on Thursdays 8:00-8:50 am in room 444 M
 
 ### Thursday, November 14, 2024 
 
-0. Attending
-
 ### Thursday, November 7, 2024 - 503 Moore
 
-0. Attending
 1. [Visual Acuity](https://gilmore-lab.github.io/visual-acuity/) Project - Paper analysis work session
   - [Visual Acuity Analysis Procedure](https://docs.google.com/document/d/1jdoIzE1cLHphA9y89jyhK20lTXJ2WCu4fBIATH25EeY/edit?tab=t.0)
   - [Legacy Project Acuity Data: By Paper](https://docs.google.com/spreadsheets/d/1UFZkbh9oU4JHpYsrkDQcNmDyqD4J-qB74dhyMzIkqKs/edit?gid=432255138#gid=432255138)
@@ -21,19 +18,17 @@ For the Fall 2024 Semester, we will meet on Thursdays 8:00-8:50 am in room 444 M
 
 ### Thursday, October 31, 2024 - 503 Moore
 
-0. Attending
 1. [Visual Acuity](https://gilmore-lab.github.io/visual-acuity/) Project - Paper analysis training session
 
 ### Thursday, October 24, 2024
 
-0. Attending
-1. Discuss [@Franconeri2021-uv] and look at data visualizations provided by lab members.
+1. Discuss @Franconeri2021-uv and look at data visualizations provided by lab members.
 2. Catch up on Training/Biography/Datacamp Status
 
 ### Thursday, October 17, 2024
 
 0. Attending
-- Andrea, Brianna, Nicole, Julia, Lina, Hayley, Kassandra, Megan, Trinity 
+  - Andrea, Brianna, Nicole, Julia, Lina, Hayley, Kassandra, Megan, Trinity 
 1. Watched and discussed some of [Thinking with Data Visualizations, Fast and Slow](https://www.youtube.com/watch?v=OdHLpZQF-Zs) 
 2. To Do 
   - Read [@Franconeri2021-uv] and be prepared to discuss on 10/24.
