@@ -199,7 +199,7 @@ Julia DiFulvio is a current undergraduate student pursuing a biobehavioral healt
 
 ::: {.column width="75%"}
 
-Paige is a psychology major at Penn State hoping to pursue her Ph.D. in clinical psychology or her PsyD after graduation. She works for the [Gilmore Lab](https://gilmore-lab.github.io/) as a research assistant and project leader on the PLAY project with [Brianna Beamer](https://gilmore-lab.github.io/who-we-are.html#brianna-beamer) as the primary data collector. She hopes to someday work as a clinical neuropsychologist and dabble in research to keep her curiosity growing. In her spare time when she is not working on her grad school applications, she likes to play bass guitar, go skiing, and bartend at Cafe210. One fun fact about Paige is that her hometown is the mushroom capital of the world (yum!). 
+Paige is a psychology major at Penn State hoping to pursue her MD after graduation. She works for the [Gilmore Lab](https://gilmore-lab.github.io/) as a research assistant and project leader on the [PLAY project] with [Brianna Beamer](https://gilmore-lab.github.io/who-we-are.html#brianna-beamer) as the primary data collector. She hopes to someday work as a neurologist and use what the lab has taught her about the brain and development in her work and studies. In her spare time when she is not working on her applications, she likes to play bass guitar, go skiing, and bartend at Cafe210. One fun fact about Paige is that her hometown is the mushroom capital of the world (yum!).
 
 :::
 

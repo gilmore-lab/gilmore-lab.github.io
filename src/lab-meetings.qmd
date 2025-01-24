@@ -20,4 +20,15 @@ For the Spring 2025 Semester, we will meet on Fridays 8:00-8:50 am in room 444 M
     - [Legacy Project Data Analysis](https://docs.google.com/spreadsheets/d/1XnGweqEAiTlU8mhvWqtCCMNm9l5txdR0YpQsuMxvgio/edit?gid=998401983#gid=998401983)
   - [Databrary](https://databrary.org), especially the [Databrary Guide](https://databrary.github.io/guide), the [*databraryr* package](https://databrary.github.io/databraryr), and the [Databrary Analytics](https://databrary.github.io/analytics).
   - Refreshing internal resources, especially the [lab website](https://gilmore-lab.github.io) and our lab [protocols site](https://gilmore-lab.github.io/protocols).
+  - [Datacamp]() 
 3. Continue working on required training:  [Instructions](https://gilmore-lab.github.io/protocols/trainings.html)
+
+Scheduled Weekly Project Meetings:
+- Visual Acuity: Mondays 1:30-2:30 in 503 Moore
+- PLAY: Mondays 2:30-3:30 in 503 Moore
+
+Upcoming Talks ~15 min
+1/31: Trinity present 
+2/7: Paige present
+2/14: Julia present
+
