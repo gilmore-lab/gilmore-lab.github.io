@@ -12,12 +12,14 @@ For the Spring 2025 Semester, we will meet on Fridays 8:00-8:50 am in room 444 M
 1. Trinity present ["Freud's Technique Papers: Further Recommendations in the Technique of Psycho-Analysis -- On Beginning the Treatment. The Question of the Fist Communications. The Dynamics of the Cure."](/lab-mtg-talks/freud-further-recommendation.pdf) 
 
 Weekly Project Meetings
-- Visual Acuity: Mondays 12:00-1:00 in 503 Moore
-- PLAY: Mondays 2:30-3:30 in 503 Moore
+
+  - Visual Acuity: Mondays 12:00-1:00 in 503 Moore 
+  - PLAY: Mondays 2:30-3:30 in 503 Moore 
 
 Upcoming Talks ~15 min
-2/7: Paige present
-2/14: Julia present
+
+  - 2/7: Paige present 
+  - 2/14: Julia present 
 
 ### Friday, January 24, 2025
 
@@ -35,12 +37,13 @@ Upcoming Talks ~15 min
   - [Datacamp](https://www.datacamp.com/) 
 3. Continue working on required training:  [Instructions](https://gilmore-lab.github.io/protocols/trainings.html)
 
-Scheduled Weekly Project Meetings:
-- Visual Acuity: Mondays 1:30-2:30 in 503 Moore
-- PLAY: Mondays 2:30-3:30 in 503 Moore
+Scheduled Weekly Project Meetings
+
+  - Visual Acuity: Mondays 1:30-2:30 in 503 Moore
+  - PLAY: Mondays 2:30-3:30 in 503 Moore
 
 Upcoming Talks ~15 min
-1/31: Trinity present 
-2/7: Paige present
-2/14: Julia present
 
+  - 1/31: Trinity present 
+  - 2/7: Paige present
+  - 2/14: Julia present
