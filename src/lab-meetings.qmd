@@ -9,12 +9,16 @@ For the Spring 2025 Semester, we will meet on Fridays 8:00-8:50 am in room 444 M
 
 ### Friday, February 7, 2025
 
-- Attending
-- Paige Present
+0. Attending
+1. Visual Acuity Project
+
+  - Review New Protocol
+  - Schedule work sessions in the lab
 
 Upcoming Talks ~15 min 
 
-  - 2/14: Julia present 
+  - 2/14: Julia Present 
+  - XX: Paige Present
 
 ### Friday, January 31, 2025
 0. Attending: Rick, Kassandra, Nicole, Paige, Brianna, Trinity, Hayley, Bri, Lina
