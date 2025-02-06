@@ -219,6 +219,8 @@ This project is supported by the U.S. National Science Foundation (NSF) Grant No
 
 ## Sex Differences in Visual Perception
 
+![@Qian2022-yp Figure 2](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-022-22269-y/MediaObjects/41598_2022_22269_Fig2_HTML.png?as=webp)
+
 Previous research has shown that males and females differ on a number of psychological dimensions, including some basic aspects of visual processing.
 We are exploring the extent to which low-level visual dimensions of visual processing correlate with one another and with higher order characteristics like spatial cognition and hobby choices.
 
@@ -232,14 +234,12 @@ We are exploring the extent to which low-level visual dimensions of visual proce
 
 **Collaborators**
 
-- Sheri Berenbaum, Penn State
-- Yiming Qian, Penn State
+- Sheri Berenbaum, Ph.D., Penn State
+- Yiming Qian, Ph.D., UC Davis
 
 **Publications**
 
-Berenbaum, S.A., Qian, Y., & Gilmore, R.O. (in prep). Vision contributes to sex differences in spatial cognition and activity interests.
-
-**Presentations**
+Qian, Y., Berenbaum, S. A., & Gilmore, R. O. (2022). Vision contributes to sex differences in spatial cognition and activity interests. Scientific Reports, 12(1), 17623. <https://doi.org/10.1038/s41598-022-22269-y>
 
 ## Behavioral Analysis through Video (BehAV.ai)
 
@@ -442,7 +442,9 @@ The ability to sense regular or near-regular patterns serves critical biological
 
 **Publication**
 
-Kohler, P.J., Vedak, S., Y& Gilmore, R.O. (in prep). Perceptual similarities among wallpaper group exemplars. GitHub repo: [https://github.com/gilmore-lab/symmetry-sorting](https://github.com/gilmore-lab/symmetry-sorting).
+Kohler, P. J., Vedak, S., & Gilmore, R. O. (2022). Perceptual similarities among wallpaper group exemplars. *Symmetry*, *14*(5), 857. <https://doi.org/10.3390/sym14050857>.
+
+GitHub repo: [https://github.com/gilmore-lab/symmetry-sorting](https://github.com/gilmore-lab/symmetry-sorting).
 
 **Presentations**
 
