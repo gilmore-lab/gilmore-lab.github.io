@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -311,7 +331,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-022-22269-y/MediaObjects/41598_2022_22269_Fig2_HTML.png?as=webp" class="img-fluid figure-img"></p>
-<figcaption><span class="citation" data-cites="Qian2022-yp">(<a href="#ref-Qian2022-yp" role="doc-biblioref"><strong>Qian2022-yp?</strong></a>)</span> Figure 2</figcaption>
+<figcaption><span class="citation" data-cites="Qian2022-yp">Qian, Berenbaum, &amp; Gilmore (<a href="#ref-Qian2022-yp" role="doc-biblioref">2022</a>)</span> Figure 2</figcaption>
 </figure>
 </div>
 <p>Previous research has shown that males and females differ on a number of psychological dimensions, including some basic aspects of visual processing. We are exploring the extent to which low-level visual dimensions of visual processing correlate with one another and with higher order characteristics like spatial cognition and hobby choices.</p>
@@ -495,10 +515,15 @@ ul.task-list li input[type="checkbox"] {
 <p>This project was supported by the National Science Foundation under grant <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1248076">IIS-1248076</a>.</p>
 
 
+
 </section>
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-Qian2022-yp" class="csl-entry" role="listitem">
+Qian, Y., Berenbaum, S. A., &amp; Gilmore, R. O. (2022). Vision contributes to sex differences in spatial cognition and activity interests. <em>Scientific Reports</em>, <em>12</em>, 17623. <a href="https://doi.org/10.1038/s41598-022-22269-y">https://doi.org/10.1038/s41598-022-22269-y</a>
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

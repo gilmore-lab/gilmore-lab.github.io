@@ -11,14 +11,25 @@ For the Spring 2025 Semester, we will meet on Fridays 8:00-8:50 am in room 444 M
 
 0. Attending
 1. Paige Present: [@Thunstedt2022-qa] 
-2. Accept invitation to [DataCamp](https://www.datacamp.com/) sent to your PSU email address - Bri, Gavin, Megan, Paige, Brianna, Bruna
+2. Accept invitation to [DataCamp](https://www.datacamp.com/) sent to your PSU email address - Bri, Gavin, Megan, Brianna, Bruna
+3. Poster Presentation Opportunities
+  - [Psi Chi](https://sites.psu.edu/psichi/), the International Honor Society in Psychology, is hosting its annual  [Spring Research Conference](http://sites.psu.edu/psichi/research-conference-2/) in April.
+    - 2/21: Submit [application](https://forms.gle/UGqftFVr9daYMAKy8) at 11:59pm
+    - 4/23: 1:30-4:30pm In-person Conference, Moore Atrium
+    - 4/23: 6:00 -7:00pm Virtual Conference, Zoom
+  - The [Undergraduate Exhibition](https://urfm.psu.edu/programs/undergraduate-exhibition) is in April
+    - 2/24: application will be available
+    - 3/17: application due date
+    - 4/14-16: Virtual Exhibition
+    - 4/16: 11am-1pm In-Person Poster Presentation, Alumni Hall, HUB
+    - 4/17: 7:30-9pm An Evening of Creative Inquiry in Music, Recital Hall
 
-Upcoming Talks
+4. Upcoming Talks
 
   - 2/21 Julia Present [@Dewanjee2022-tf]
   - 2/28 Dr. Gilmore Present [@Page2021-dn]
 
-Homework
+5. Homework
 
   - [CITI Training](https://gilmore-lab.github.io/protocols/training.html#citi-training) ASAP - Gavin, Megan
   - [Clery Act Training](https://gilmore-lab.github.io/protocols/training.html#clery-act-training) by 2/14 - Bruna, Brianna, Nicole, Julia, Paige, Megan, Gavin
