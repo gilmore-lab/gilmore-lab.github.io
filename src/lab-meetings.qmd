@@ -7,6 +7,12 @@ bibliography: "bib/lab.bib"
 
 For the Spring 2025 Semester, we will meet on Fridays 8:00-8:50 am in room 444 Moore.
 
+### Friday, February 21, 2025
+
+0. Attending
+1. Visual Acuity Update
+2. Julia Present [@Palmer2005-qb]
+
 ### Friday, February 14, 2025
 
 0. Attending
@@ -29,11 +35,11 @@ For the Spring 2025 Semester, we will meet on Fridays 8:00-8:50 am in room 444 M
 5. Upcoming Events
 
   - 2/18 Visual Acuity Work Session, 503 Moore, 1:30-3:30pm
-  - 2/21 Julia Present [@Dewanjee2022-tf]
+  - 2/21 Julia Present [@Palmer2005-qb]
   - 2/28 Dr. Gilmore Present [@Page2021-dn]
 
 6. Homework
-
+  - READ: [@Palmer2005-qb]
   - [CITI Training](https://gilmore-lab.github.io/protocols/training.html#citi-training) ASAP - Gavin, Megan
   - [Clery Act Training](https://gilmore-lab.github.io/protocols/training.html#clery-act-training) by 2/14 - Bruna, Brianna, Nicole, Julia, Paige, Megan, Gavin
   - [Reporting Suspected Child Abuse](https://gilmore-lab.github.io/protocols/training.html#reporting-suspected-child-abuse) by 2/18 - Bruna, Brianna, Nicole, Julia, Paige, Megan
