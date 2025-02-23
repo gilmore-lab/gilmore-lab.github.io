@@ -14,8 +14,8 @@ We discussed about [Palmer et al. (2005) – 15-Year Outcomes Following Threshol
 1. Cryotherapy-treated eyes had a significantly lower rate of blindness compared to untreated eyes.
 2. Despite treatment, a substantial proportion of children still had visual impairment.
 3. Retinal structure abnormalities remained common in both treated and untreated groups.
-4.Long-term adverse effects of cryotherapy were noted, including myopia (nearsightedness) and structural ocular changes.
+4. Long-term adverse effects of cryotherapy were noted, including myopia (nearsightedness) and structural ocular changes.
 
 ---
 
-![Retinopathy of Prematurity](https://www.ranelle.com/wp-content/uploads/2016/08/Retinopathy-of-Prematurity-ROP.jpg)  
+![figure caption](https://www.ranelle.com/wp-content/uploads/2016/08/Retinopathy-of-Prematurity-ROP.jpg)  
