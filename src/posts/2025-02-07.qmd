@@ -1,21 +1,18 @@
 ---
-title: "Lab meeting - 2025-02-21"
-date: 2025-02-21
+title: "Lab meeting - 2025-02-07"
+date: 2025-02-07
 categories:
   - Journal Club
-# image: [https://www.ranelle.com/wp-content/uploads/2016/08/Retinopathy-of-Prematurity-ROP.jpg]
+# image: [https://www.versobooks.com/cdn/shop/articles/freud.jpg?v=1677630619]
 ---
 
-Julia led a work journal club for [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/).
-
-We discussed about [Palmer et al. (2005) – 15-Year Outcomes Following Threshold Retinopathy of Prematurity](https://doi.org/10.1001/archopht.123.3.311)
+Trinity led a work journal club, and we discussed about [Further Recommendation in the Technique of Psycho-Analysis](https://gilmore-lab.github.io/lab-mtg-talks/freud-further-recommendation.pdf)
 
 - Key Findings
-1. Cryotherapy-treated eyes had a significantly lower rate of blindness compared to untreated eyes.
-2. Despite treatment, a substantial proportion of children still had visual impairment.
-3. Retinal structure abnormalities remained common in both treated and untreated groups.
-4. Long-term adverse effects of cryotherapy were noted, including myopia (nearsightedness) and structural ocular changes.
-
+1. The analyst must remain neutral and objective, avoiding personal involvement.
+2. Free association helps uncover unconscious material, with resistance as a key focus.
+3. Transference is crucial for therapy, but the analyst must manage it carefully.
+4. Overcoming resistance is essential for progress in analysis.
 ---
 
-![figure caption](https://www.ranelle.com/wp-content/uploads/2016/08/Retinopathy-of-Prematurity-ROP.jpg)  
+![Sigmund Freud](https://www.versobooks.com/cdn/shop/articles/freud.jpg?v=1677630619)
