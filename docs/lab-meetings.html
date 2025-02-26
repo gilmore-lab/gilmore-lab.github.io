@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -55,10 +55,10 @@ div.csl-indent {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-79108a0fc1995748cbd19a5b0e3e3e7c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -182,7 +182,7 @@ div.csl-indent {
     <div>
     <div class="quarto-title-meta-heading">Modified</div>
     <div class="quarto-title-meta-contents">
-      <p class="date-modified">February 21, 2025</p>
+      <p class="date-modified">February 26, 2025</p>
     </div>
   </div>
     
@@ -196,13 +196,21 @@ div.csl-indent {
 <section id="spring-2025" class="level2">
 <h2 class="anchored" data-anchor-id="spring-2025">Spring 2025</h2>
 <p>For the Spring 2025 Semester, we will meet on Fridays 8:00-8:50 am in room 444 Moore.</p>
+<!-- ### Friday, March 14, 2025 -->
+<!-- 0. Attending -->
+<!-- 1. Visual Acuity Update -->
+<!-- 2. Datacamp - Plot data from [@Palmer2005-qb] -->
+<section id="friday-march-7-2025" class="level3">
+<h3 class="anchored" data-anchor-id="friday-march-7-2025">Friday, March 7, 2025</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/happy-spring-break-clipart-8-768x311.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
+</figure>
+</div>
+</section>
 <section id="friday-february-28-2025" class="level3">
 <h3 class="anchored" data-anchor-id="friday-february-28-2025">Friday, February 28, 2025</h3>
-<ol start="0" type="1">
-<li>Attending</li>
-<li>Visual Acuity Update</li>
-<li>Datacamp - Plot data from <span class="citation" data-cites="Palmer2005-qb">(<a href="#ref-Palmer2005-qb" role="doc-biblioref">Palmer et al., 2005</a>)</span></li>
-</ol>
+<p>Meeting Cancelled!</p>
 </section>
 <section id="friday-february-21-2025" class="level3">
 <h3 class="anchored" data-anchor-id="friday-february-21-2025">Friday, February 21, 2025</h3>
@@ -487,8 +495,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -599,7 +605,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

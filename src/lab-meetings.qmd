@@ -7,11 +7,19 @@ bibliography: "bib/lab.bib"
 
 For the Spring 2025 Semester, we will meet on Fridays 8:00-8:50 am in room 444 Moore.
 
+<!-- ### Friday, March 14, 2025 -->
+
+<!-- 0. Attending -->
+<!-- 1. Visual Acuity Update -->
+<!-- 2. Datacamp - Plot data from [@Palmer2005-qb] -->
+
+### Friday, March 7, 2025
+
+![](images/happy-spring-break-clipart-8-768x311.jpg){fig-align="center" width="70%"}
+
 ### Friday, February 28, 2025
 
-0. Attending
-1. Visual Acuity Update
-2. Datacamp - Plot data from [@Palmer2005-qb]
+Meeting Cancelled!
 
 ### Friday, February 21, 2025
 
