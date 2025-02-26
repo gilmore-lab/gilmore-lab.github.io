@@ -8,6 +8,5 @@ categories:
 ---
 
 Nicole and Julia led a work session for reviewing and coding papers on [Legacy Project: Visual Acuity](https://gilmore-lab.github.io/visual-acuity/).
-We had a 
 
 ![Visual Acuity Work Session](../images/worksession-20250218.jpg)
