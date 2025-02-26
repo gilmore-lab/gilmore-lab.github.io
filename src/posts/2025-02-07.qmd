@@ -1,0 +1,18 @@
+---
+title: "Lab meeting - 2025-02-07"
+date: 2025-02-07
+categories:
+  - Journal Club
+# image: [https://www.versobooks.com/cdn/shop/articles/freud.jpg?v=1677630619]
+---
+
+Trinity led a work journal club, and we discussed about [Further Recommendation in the Technique of Psycho-Analysis](https://gilmore-lab.github.io/lab-mtg-talks/freud-further-recommendation.pdf)
+
+- Key Findings
+1. The analyst must remain neutral and objective, avoiding personal involvement.
+2. Free association helps uncover unconscious material, with resistance as a key focus.
+3. Transference is crucial for therapy, but the analyst must manage it carefully.
+4. Overcoming resistance is essential for progress in analysis.
+---
+
+![Sigmund Freud](https://www.versobooks.com/cdn/shop/articles/freud.jpg?v=1677630619)
