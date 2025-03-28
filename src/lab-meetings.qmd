@@ -7,11 +7,25 @@ bibliography: "bib/lab.bib"
 
 For the Spring 2025 Semester, we will meet on Fridays 8:00-8:50 am in room 444 Moore.
 
-<!-- ### Friday, March 14, 2025 -->
+### Friday, April 4, 2025
 
-<!-- 0. Attending -->
-<!-- 1. Visual Acuity Update -->
-<!-- 2. Datacamp - Plot data from [@Palmer2005-qb] -->
+0. Attending
+1. Discuss [@Moher2009-pw]
+  - Github repo: [@UnknownUnknown-lm] 
+
+
+
+### Friday March 28, 2025
+
+0. Attending
+1. Visual Acuity Update
+2. Psy Chi Poster Update
+3. PAGC Poster Update
+4. Schedule more Visual Acuity Work Sessions for Thursday afternoons - on gilmore lab calendar
+
+Homework
+
+1. Read [@Moher2009-pw]
 
 ### Friday, March 7, 2025
 
