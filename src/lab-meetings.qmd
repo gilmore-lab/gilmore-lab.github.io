@@ -7,12 +7,41 @@ bibliography: "bib/lab.bib"
 
 For the Spring 2025 Semester, we will meet on Fridays 8:00-8:50 am in room 444 Moore.
 
+### Tuesday May 6, 2025 
+
+:::: {.columns}
+
+::: {.column width="20%"}
+![](images/breakfast.jpg){fig-align="left" width="100%"}
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+
+**Lab Breakfast**
+
+8:00 am 
+
+@ The Waffle Shop Downtown
+:::
+::::
+
+### Friday April 25, 2025
+
+### Friday April 18, 2025
+
 ### Friday April 11, 2025
 
 0. Attending
 1. Spot Check Visual Acuity Data
   - add column for units (cyc/deg and logMAR-Logarithmic Measure of Angle of Resolution)
   - how to QA - person 1 read from table, person 2 look at data in google sheets
+  - CRAN: library(eye), library(eyedata) [Package Info](https://cran.r-project.org/web/packages/eye/vignettes/eye.html)
+  - Snellen to logMAR: logMAR = -1 * log10(snellen_frac)
+  - To Snellen: Although there seems to be no good statistical reason to convert back to Snellen, it is a very natural thing to eye specialists to think in Snellen. A conversion to snellen gives a good gauge of how the visual acuity for the patients are. However, back-conversion should not be considered an exact science and any attempt to use formulas will result in very weird Snellen values that have no correspondence to common charts. Therefore, Snellen matching the nearest ETDRS and logMAR value in the VA conversion chart are used.
 2. Review [PLAY Survey Data - Rothbart ECBQ](https://play-project.org/KoBoToolbox/home-visit-viz.html#rothbart-ecbq)
 
 ### Friday, April 4, 2025
