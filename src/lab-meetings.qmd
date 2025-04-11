@@ -7,13 +7,19 @@ bibliography: "bib/lab.bib"
 
 For the Spring 2025 Semester, we will meet on Fridays 8:00-8:50 am in room 444 Moore.
 
+### Friday April 11, 2025
+
+0. Attending
+1. Spot Check Visual Acuity Data
+  - add column for units (cyc/deg and logMAR-Logarithmic Measure of Angle of Resolution)
+  - how to QA - person 1 read from table, person 2 look at data in google sheets
+2. Review [PLAY Survey Data - Rothbart ECBQ](https://play-project.org/KoBoToolbox/home-visit-viz.html#rothbart-ecbq)
+
 ### Friday, April 4, 2025
 
 0. Attending
 1. Discuss [@Moher2009-pw]
   - Github repo: [@UnknownUnknown-lm] 
-
-
 
 ### Friday March 28, 2025
 
