@@ -4,9 +4,9 @@ date: 2025-04-23
 categories:
   - Visual Acuity
   - graphics
-image: https://gilmore-lab.github.io/src/images/2025psichi-trinity-haley.jpg
+#image: 
 ---
 
-Trinity and Haley present the Visual Acuity Poster XXX at the [Psi Chi](https://sites.psu.edu/psichi/) Undergraduate Research Conference
+Trinity and Haley present the poster *The Legacy Project: Visual Acuity Data Collection* at the [Psi Chi](https://sites.psu.edu/psichi/) Undergraduate Research Conference
 
-![Picture of Presenters](https://gilmore-lab.github.io/src/images/2025psichi-trinity-haley.jpg)
+![Picture of Presenters](../images/2025psichi-trinity-haley.jpg)

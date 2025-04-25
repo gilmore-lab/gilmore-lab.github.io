@@ -40,7 +40,7 @@ For the Spring 2025 Semester, we will meet on Fridays 8:00-8:50 am in room 444 M
 0. Attending
 1. Review Draft of [VSS Poster](https://gilmore-lab.github.io/vss-2025-poster/vss-2025-poster.pdf) Scipted using [Quarto](https://gilmore-lab.github.io/vss-2025-poster/vss-2025-submission.html)
 
-Homework: Read paper [@Brown1986-th] [here](/src/pdfs/brown_yamamoto-1986.pdf)
+Homework: Read paper [@Brown1986-th] [here](../pdfs/brown_yamamoto-1986.pdf)
 
 ### Friday April 18, 2025
 
