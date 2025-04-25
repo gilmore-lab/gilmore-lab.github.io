@@ -1,0 +1,12 @@
+---
+title: "Psi Chi: 2025-04-23"
+date: 2025-04-23
+categories:
+  - Visual Acuity
+  - graphics
+image: https://gilmore-lab.github.io/src/images/2025psichi-trinity-haley.jpg
+---
+
+Trinity and Haley present the Visual Acuity Poster XXX at the [Psi Chi](https://sites.psu.edu/psichi/) Undergraduate Research Conference
+
+![Picture of Presenters](https://gilmore-lab.github.io/src/images/2025psichi-trinity-haley.jpg)
