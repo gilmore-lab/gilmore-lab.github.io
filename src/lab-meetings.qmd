@@ -38,7 +38,14 @@ For the Spring 2025 Semester, we will meet on Fridays 8:00-8:50 am in room 444 M
 1. Discuss [@Brown1986-th] and [@Neijzen2025-ak]
 - Add [@Brown1986-th] data to typical/atypical developing datasets
 - Review TELLER ACUITY CARDS™ II TAC II Manual [@Co_undated-ld] and ensure all papers at the end are in paperpile
+<<<<<<< HEAD
 2. Homework 
+- If you will be here in the for the Fall 2025 semester, please update your google calendar with your schedule before August 1, 2025.
+=======
+
+>>>>>>> 4b559769be313ea4a6b98a7209281941307a971b
+
+Homework
 - If you will be here in the for the Fall 2025 semester, please update your google calendar with your schedule before August 1, 2025.
 
 ### Friday April 25, 2025
