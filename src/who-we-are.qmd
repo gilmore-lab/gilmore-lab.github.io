@@ -109,101 +109,6 @@ ars17 AT-SIGN psu DOT edu</p>
 
 <!-- ---- -->
 
-### Bruna Baldivieso, Undergraduate Research Assistant {#bruna-baldivieso}
-
-:::: {.columns}
-
-::: {.column width="25%"}
-
-![](images/lab-logo.png){fig-align="left" width="80%"}
-
-:::
-
-::: {.column width="75%"}
-Bruna Baldivieso is a senior at Penn State University, majoring in Biology with a concentration in Neuroscience and a minor in Psychology. She plans to continue her education in medical school, aspiring to become a neurologist specializing in epilepsy. Bruna is also actively involved in [LifeLink PSU](https://studentaffairs.psu.edu/experience-opportunities/lifelink-psu), a secondary transition program that offers college experiences for students with special needs from the State College Area School District. Outside of her academic pursuits, she enjoys attending concerts, fostering dogs, and shopping.
-:::
-
-::::
-
-----
-
-### Brianna Beamer, Undergraduate Research Assistant {#brianna-beamer}
-
-:::: {.columns}
-
-::: {.column width="25%"}
-
-![](images/brianna-beamer.jpeg){fig-align="left" width="80%"}
-
-:::
-
-::: {.column width="75%"}
-
-Brianna Beamer is a Senior at Penn State University studying Psychology with a neuroscience focus. She works in the [Gilmore Lab](https://gilmore-lab.github.io/) here at Penn State. She hopes to further her education and eventually earn a Ph.D. in Psychology to become a neuropsychologist. With this, she plans to help patients with damage in their central nervous system to help them to overcome the struggles they encounter. In Brianna's free time, she enjoys baking, listening to music, and exploring the outdoors. A fun fact about Brianna is she is from Dallas, Texas! 
-
-:::
-
-::::
-
-----
-
-### Nicole Cruz, Undergraduate Research Assistant {#nicole-cruz}
-
-:::: {.columns}
-
-::: {.column width="25%"}
-
-![](images/nicole-cruz.jpeg){fig-align="left" width="80%"}
-
-:::
-
-::: {.column width="75%"}
-
-Nicole Cruz is pursuing an undergraduate degree in Psychology with a Neuroscience focus at Pennsylvania State University. She intends to graduate in the spring of 2025 and continue her education by pursuing an MD and/or Ph.D. in Neuropsychology. She is interested in research on topics about neurological disorders like Alzheimer’s disease. She is now an undergraduate research assistant working with Dr. Gilmore in his Brain and Behavioral Dynamics lab [Gilmore Lab](https://gilmore-lab.github.io/) at Penn State. In her free time, she enjoys listening and playing music, traveling, and cooking. 
-
-:::
-
-::::
-
-----
-
-### Julia DiFulvio, Undergraduate Research Assistant {#julia-difulvio}
-
-:::: {.columns}
-
-::: {.column width="25%"}
-
-![](images/JuliaD.jpg){fig-align="left" width="80%"}
-
-:::
-
-::: {.column width="75%"}
-
-Julia DiFulvio is a current undergraduate student pursuing a biobehavioral health major and neuroscience minor at Penn State University. Julia is graduating in May of 2025, and plans to work in research and apply to Genetic Counseling Master's programs. In the meantime, she contributes to the Legacy Project: Visual Acuity as a Project Lead. Julia also serves as the [Penn State Genetic Counseling Club's](www.linkedin.com/in/psu-gcc) treasurer and student outreach chair. She is a member of the Health and Human Development Honor Society, which allows her to participate in volunteering, outreach, and professional development. In her free time, Julia enjoys spending time with friends, spending time outside, and cooking. A fun fact about Julia is that she is from Pittsburgh, PA!
-
-:::
-
-::::
-
-----
-
-### Paige Haplea, Undergraduate Research Assistant {#paige-haplea}
-
-:::: {.columns}
-
-::: {.column width="25%"}
-
-![](images/paigeh_1_175x234.jpg){fig-align="left" width="80%"}
-
-:::
-
-::: {.column width="75%"}
-
-Paige is a psychology major at Penn State hoping to pursue her MD after graduation. She works for the [Gilmore Lab](https://gilmore-lab.github.io/) as a research assistant and project leader on the [PLAY project] with [Brianna Beamer](https://gilmore-lab.github.io/who-we-are.html#brianna-beamer) as the primary data collector. She hopes to someday work as a neurologist and use what the lab has taught her about the brain and development in her work and studies. In her spare time when she is not working on her applications, she likes to play bass guitar, go skiing, and bartend at Cafe210. One fun fact about Paige is that her hometown is the mushroom capital of the world (yum!).
-
-:::
-
-::::
 
 ----
 
@@ -222,26 +127,6 @@ Paige is a psychology major at Penn State hoping to pursue her MD after graduati
 Seunghee Ham is a class of 2025 majoring in Psychology with a life science focus. Currently, she is an undergraduate research assistant in [Dr. Gilmore’s Lab](https://gilmore-lab.github.io) and [Dr. Erika's Lab](https://pcd.la.psu.edu)s at Penn State. This role allows her to develop her research skills and contribute to projects in the Lab, a crucial step in becoming a clinical psychologist. She is learning how to use R and GitHub! 
 
 Her academic interests are primarily in Clinical Psychology, and she intends to pursue an MD and/or Ph.D. in clinical psychology. She aspires to pursue a career as a clinical psychologist. She wants to improve her perspectives on psychotherapy and provide & settle better psychotherapy/counseling services at the University in Korea.
-:::
-
-::::
-
-----
-
-### Hayley Lawrence, Undergraduate Research Assistant {#hayley-lawrence}
-
-:::: {.columns}
-
-::: {.column width="25%"}
-
-![](images/hayley_optimized.png){fig-align="left" width="80%"}
-
-:::
-
-::: {.column width="75%"}
-
-Hayley Lawrence is an undergraduate student at Pennsylvania State University, expected to graduate in 2025. She plans on pursuing a B.S. in psychology with a concentration in neuroscience. Following her undergraduate studies she plans to attend medical school and pursue an MD in psychiatry. She is interested in the biology and behavior behind different types of prescribed medications as well as the neurological effects of addiction. She is currently working as an undergraduate research assistant in the [Brain and Behavioral Dynamics lab](https://gilmore-lab.github.io/) under Dr. Gilmore, the principal investigator, at Penn State. She is also a member of [Psi Chi](https://www.psichi.org/), the International Honor Society in Psychology. In her spare time, Hayley enjoys doing yoga, cooking, making crafts, traveling, and taking care of her many houseplants!
-
 :::
 
 ::::
@@ -268,26 +153,6 @@ Hayley Lawrence is an undergraduate student at Pennsylvania State University, ex
 
 ----
 
-### Megan Orlando, Undergraduate Research Assistant {#megan-orlando}
-
-:::: {.columns}
-
-::: {.column width="25%"}
-
-![](images/lab-logo.png){fig-align="left" width="80%"}
-
-:::
-
-::: {.column width="75%"}
-
-Megan Orlando is a senior here at Penn State studying psychology with a clinical focus on children. She works in the [Gilmore Lab](https://gilmore-lab.github.io/) here at Penn State and one day hopes to earn her Ph.D in Child Clinical Psychology to become a child psychologist. She hopes to be able to work with children and adolescents who have experienced traumatic events or mental disorders that have affected their daily lives. In her free time Megan enjoys writing, listening to music, studying, and hanging out with her friends. 
-
-:::
-
-::::
-
-----
-
 ### Gavin Robinson, Undergraduate Research Assistant {#gavin-robinson}
 
 :::: {.columns}
@@ -307,27 +172,39 @@ Gavin is a Paterno Fellow and Schreyer Scholar double majoring in Psychology and
 ::::
 
 ----
-
-### Trinity Wilson, Undergraduate Research Assistant {#trinity-wilson}
+### Brianna Welzmuller, Undergraduate Research Assistant {#brianna-welzmuller}
 
 :::: {.columns}
 
 ::: {.column width="25%"}
 
-![](images/twilson.jpg){fig-align="left" width="80%"}
+![](images/lab-logo.png){fig-align="left" width="80%"}
 
 :::
 
 ::: {.column width="75%"}
 
-Trinity Wilson is studying Psychology, and will be graduating from Penn State in May 2025. She plans to continue her education with a Ph.D. in clinical psychology, with the hopes of becoming a clinical neuropsychologist. She’s interested in psychopathology and neurological testing, and wants to have her own practice one day. Right now, she works in the [Gilmore Lab](https://gilmore-lab.github.io/) as an undergraduate research assistant under Dr. Gilmore. Outside of school, Trinity likes to read, take care of her plants, travel, and crochet new clothes.
+
+
+<!-- Molly Askin is a junior at the Pennsylvania State University and is from New Jersey. She is majoring in Psychology with the Neuroscience option with a minor in neuroscience. She is involved in campus through Greek life in her sorority [Alpha Xi Delta](https://www.alphaxidelta.org/). She is also involved in [THON](https://thon.org/) as an assistant THON chair which consists of helping with anything the other THON chairs need help with as well as helping to raise money for THON. She is interested in pursuing her education further and eventually getting her PhD in neuropsychology with hopes to eventually study patients with Alzheimer’s and dementia. -->
 
 :::
 
 ::::
 
+----
+
+
 ## Recent Alumni
 
+- Bruna Baldiveso
+- Brianna Beamer
+- Nicole Cruz
+- Julia DiFulvio
+- Paige Haplea
+- Hayley Lawerence
+- Megan Orlando
+- Trinity Wilson
 - Peter Huang
 - Molly Askin
 - Yinghe Liu
