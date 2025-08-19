@@ -17,6 +17,7 @@ For the Fall 2025 Semester, we will meet on xxxx 8:00-8:50 am in room xxxx Moore
     - Locomotion Coding in Datavyu - Fall 2025
       - 2-3 hours per video
       - 75 video committment total
+  - Update [Databrary User Guide](https://databrary.github.io/guide/) to Databrary 2.0 using R Studio
   - [Visual Acuity](https://gilmore-lab.github.io/visual-acuity/) Project
     - [Visual Acuity Analysis Procedure](https://docs.google.com/document/d/1jdoIzE1cLHphA9y89jyhK20lTXJ2WCu4fBIATH25EeY/edit?tab=t.0)
     - [Legacy Project Acuity Data: By Paper](https://docs.google.com/spreadsheets/d/1UFZkbh9oU4JHpYsrkDQcNmDyqD4J-qB74dhyMzIkqKs/edit?gid=432255138#gid=432255138)
@@ -26,8 +27,10 @@ For the Fall 2025 Semester, we will meet on xxxx 8:00-8:50 am in room xxxx Moore
   - [Datacamp](https://www.datacamp.com/) 
 
 3. Homework
+  - [Create Discord Account](https://gilmore-lab.github.io/protocols/onboarding.html#discord)
   - [CITI Training](https://gilmore-lab.github.io/protocols/training.html#citi-training) ASAP - new lab members
   - [Clery Act Training](https://gilmore-lab.github.io/protocols/training.html#clery-act-training) 
   - [Reporting Suspected Child Abuse](https://gilmore-lab.github.io/protocols/training.html#reporting-suspected-child-abuse)
   - [Values, Ethics, & Compliance Training](https://gilmore-lab.github.io/protocols/training.html#values-ethics-and-compliance-training) 
   - [Title IX Training](https://gilmore-lab.github.io/protocols/training.html#understanding-title-ix-at-penn-state) 
+  - Create or update Lab Biography for Webpage
