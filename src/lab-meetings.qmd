@@ -5,7 +5,7 @@ bibliography: "bib/lab.bib"
 
 ## Fall 2025
 
-For the Fall 2025 Semester, we will meet on xxxx 8:00-8:50 am in room xxxx Moore.
+For the Fall 2025 Semester, we will meet on Thursdays from 8:00-8:50 am in room 467 Moore.
 
 ### First Meeting 2nd week of classes
 
@@ -33,4 +33,4 @@ For the Fall 2025 Semester, we will meet on xxxx 8:00-8:50 am in room xxxx Moore
   - [Reporting Suspected Child Abuse](https://gilmore-lab.github.io/protocols/training.html#reporting-suspected-child-abuse)
   - [Values, Ethics, & Compliance Training](https://gilmore-lab.github.io/protocols/training.html#values-ethics-and-compliance-training) 
   - [Title IX Training](https://gilmore-lab.github.io/protocols/training.html#understanding-title-ix-at-penn-state) 
-  - Create or update Lab Biography for Webpage
+  - Create or update [Lab Biography](https://gilmore-lab.github.io/who-we-are.html) for Webpage
