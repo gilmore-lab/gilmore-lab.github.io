@@ -73,7 +73,7 @@ Andrea R. Seisler is the Laboratory Manager of the Brain and Behavioral Dynamics
 
 She completed MRI based neuroscience and orthopedics research while working at [The National Institutes of Health](https://www.nih.gov/) from 2001-2007. After moving to State College, she served as an IRB Compliance Coordinator for the [Human Research Protection Program](https://www.research.psu.edu/irb) at Penn State and then moved on in 2009 to manage the [Human Electrophysiology Facility](https://www.imaging.psu.edu/facilities/hef) located at the [Social, Life, and Enginineering Sciences Imaging Center](https://www.imaging.psu.edu/) through 2014. 
 
-She is active in Scouts BSA as a Committee Member in [Troop 245](http://www.post245.com/about-us---scout-troop-245.html), an Executive Board Member of the [Juniata Valley Council, BSA](https://jvcbsa.org/council-leadership/), and the Council Training Committee Vice-Chair. She completed her [Wood Badge](http://woodbadge.org/) leadership training course in September 2020 and participated on Wood Badge staff as a Troop Guide (2022) and Scribe (2025). She has been the Assistant Scoutmaster of Administration for [National Youth Leadership Training](https://www.ncacbsa.org/national-youth-leadership-training/) 2021-2025. She was nominated and joined the [Order of the Arrow](https://oa-scouting.org/) in Fall 2024. In addition she enjoys dancing ballet as well as teaching preschoolers and adults at [Dance Academy](https://www.dancesc.com/).
+She is active in Scouts BSA as a Committee Member in [Troop 245](http://www.post245.com/about-us---scout-troop-245.html), an Executive Board Member of the [Juniata Valley Council, Scouting America](https://jvcscouting.org/council-leadership/), and the Council Training Committee Vice-Chair. She completed her [Wood Badge](http://woodbadge.org/) leadership training course in September 2020 and participated on Wood Badge staff as a Troop Guide (2022) and Scribe (2025). She has been the Assistant Scoutmaster of Administration for [National Youth Leadership Training](https://www.ncacbsa.org/national-youth-leadership-training/) 2021-2025. Recently she was nominated and joined the [Order of the Arrow](https://oa-scouting.org/) in Fall 2024. In addition she enjoys dancing ballet as well as teaching preschoolers and adults at [Dance Academy](https://www.dancesc.com/).
 
 **Contact Information**
 
@@ -89,30 +89,41 @@ ars17 AT-SIGN psu DOT edu</p>
 
 ----
 
-<!-- ### Molly Askin, Undergraduate Research Assistant {#molly-askin} -->
-
-<!-- :::: {.columns} -->
-
-<!-- ::: {.column width="25%"} -->
-
-<!-- ![](images/lab-logo.png){fig-align="left" width="80%"} -->
-
-<!-- ::: -->
-
-<!-- ::: {.column width="75%"} -->
-
-
-
-<!-- Molly Askin is a junior at the Pennsylvania State University and is from New Jersey. She is majoring in Psychology with the Neuroscience option with a minor in neuroscience. She is involved in campus through Greek life in her sorority [Alpha Xi Delta](https://www.alphaxidelta.org/). She is also involved in [THON](https://thon.org/) as an assistant THON chair which consists of helping with anything the other THON chairs need help with as well as helping to raise money for THON. She is interested in pursuing her education further and eventually getting her PhD in neuropsychology with hopes to eventually study patients with Alzheimer’s and dementia.  -->
-
-<!-- ::: -->
-
-<!-- :::: -->
-
-<!-- ---- -->
-
+### Chelsey Chehade, Undergraduate Research Assistant {#chelsey-chehade} 
+:::: {.columns}
+::: {.column width="25%"}
+![](images/lab-logo.png){fig-align="left" width="80%"}
+:::
+::: {.column width="75%"}
+Chelsey Chehade  plans to graduate in May 2027 from The Pennsylvania State University
+:::
+::::
 
 ----
+
+### Jeremy Chen, Undergraduate Research Assistant {#jeremy-chen} 
+:::: {.columns}
+::: {.column width="25%"}
+![](images/lab-logo.png){fig-align="left" width="80%"}
+:::
+::: {.column width="75%"}
+Jeremy Chen  plans to graduate in December 2027 from The Pennsylvania State University
+:::
+::::
+----
+
+### Ella Froemming, Undergraduate Research Assistant {#ella-froemming} 
+
+:::: {.columns}
+::: {.column width="25%"}
+![](images/lab-logo.png){fig-align="left" width="80%"}
+:::
+::: {.column width="75%"}
+Ella Froemming  plans to graduate in May 2026 from The Pennsylvania State University
+:::
+::::
+
+---- 
 
 ### Seunghee Ham, Undergraduate Research Assistant {#seunghee-ham}
 
@@ -135,6 +146,18 @@ Her academic interests are primarily in Clinical Psychology, and she intends to 
 
 ----
 
+### Anika Mahadevan, Undergraduate Research Assistant {#anika-mahadevan} 
+:::: {.columns}
+::: {.column width="25%"}
+![](images/lab-logo.png){fig-align="left" width="80%"}
+:::
+::: {.column width="75%"}
+Anika Mahadevan  plans to graduate in May 2027 from The Pennsylvania State University
+:::
+::::
+
+---- 
+
 ### Kassandra Marin, Undergraduate Research Assistant {#kassandra-marin}
 
 :::: {.columns}
@@ -155,46 +178,59 @@ Her academic interests are primarily in Clinical Psychology, and she intends to 
 
 ----
 
-### Gavin Robinson, Undergraduate Research Assistant {#gavin-robinson}
-
+### Megan McQuaid, Undergraduate Research Assistant {#megan-mcquaid} 
 :::: {.columns}
-
 ::: {.column width="25%"}
-
 ![](images/lab-logo.png){fig-align="left" width="80%"}
-
 :::
-
 ::: {.column width="75%"}
-
-Gavin is a Paterno Fellow and Schreyer Scholar double majoring in Psychology and Sociology intending to graduate in 2026. Gavin is a member of [Psi Chi](PSI CHI - The International Honor Society in Psychology | The Pennsylvania State University, University Park Chapter (psu.edu)), the international honor society in psychology, and a [Peer Advisor](Peer Advising | College of the Liberal Arts (psu.edu)) in the college of the Liberal Arts. After college, Gavin plans to pursue a career in brain imaging, hopefully working with rTMS technology in treatment of depression. Outside of school he enjoys playing guitar, going to concerts, and playing basketball. 
-
+Megan McQuaid  plans to graduate in May 2027 from The Pennsylvania State University
 :::
-
 ::::
 
 ----
-### Brianna Welzmuller, Undergraduate Research Assistant {#brianna-welzmuller}
 
+### Isabella Moyer, Undergraduate Research Assistant {#isabella-moyer} 
 :::: {.columns}
-
 ::: {.column width="25%"}
-
 ![](images/lab-logo.png){fig-align="left" width="80%"}
-
 :::
-
 ::: {.column width="75%"}
-
-
-
-<!-- Molly Askin is a junior at the Pennsylvania State University and is from New Jersey. She is majoring in Psychology with the Neuroscience option with a minor in neuroscience. She is involved in campus through Greek life in her sorority [Alpha Xi Delta](https://www.alphaxidelta.org/). She is also involved in [THON](https://thon.org/) as an assistant THON chair which consists of helping with anything the other THON chairs need help with as well as helping to raise money for THON. She is interested in pursuing her education further and eventually getting her PhD in neuropsychology with hopes to eventually study patients with Alzheimer’s and dementia. -->
-
+Isabella Moyer  plans to graduate in May 2026 from The Pennsylvania State University
 :::
-
 ::::
 
 ----
+
+<!-- ### Gavin Robinson, Undergraduate Research Assistant {#gavin-robinson} -->
+
+<!-- :::: {.columns} -->
+
+<!-- ::: {.column width="25%"} -->
+
+<!-- ![](images/lab-logo.png){fig-align="left" width="80%"} -->
+
+<!-- ::: -->
+
+<!-- ::: {.column width="75%"} -->
+
+<!-- Gavin is a Paterno Fellow and Schreyer Scholar double majoring in Psychology and Sociology intending to graduate in 2026. Gavin is a member of [Psi Chi](PSI CHI - The International Honor Society in Psychology | The Pennsylvania State University, University Park Chapter (psu.edu)), the international honor society in psychology, and a [Peer Advisor](Peer Advising | College of the Liberal Arts (psu.edu)) in the college of the Liberal Arts. After college, Gavin plans to pursue a career in brain imaging, hopefully working with rTMS technology in treatment of depression. Outside of school he enjoys playing guitar, going to concerts, and playing basketball.  -->
+
+<!-- ::: -->
+
+<!-- :::: -->
+
+<!-- ----  -->
+
+### Brianna Welzmuller, Undergraduate Research Assistant {#brianna-welzmuller} 
+:::: {.columns}
+::: {.column width="25%"}
+![](images/lab-logo.png){fig-align="left" width="80%"}
+:::
+::: {.column width="75%"}
+Brianna Welzmuller plans to graduate in May 2027 from The Pennsylvania State University
+:::
+::::
 
 
 ## Recent Alumni
