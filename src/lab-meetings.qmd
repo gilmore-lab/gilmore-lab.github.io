@@ -17,20 +17,19 @@ For the Fall 2025 Semester, we will meet on Thursdays from 8:00-8:50 am in room 
     - Locomotion Coding in Datavyu - Fall 2025
       - 2-3 hours per video
       - 75 video committment total
-  - Update [Databrary User Guide](https://databrary.github.io/guide/) to Databrary 2.0 using R Studio
   - [Visual Acuity](https://gilmore-lab.github.io/visual-acuity/) Project
     - [Visual Acuity Analysis Procedure](https://docs.google.com/document/d/1jdoIzE1cLHphA9y89jyhK20lTXJ2WCu4fBIATH25EeY/edit?tab=t.0)
     - [Legacy Project Acuity Data: By Paper](https://docs.google.com/spreadsheets/d/1UFZkbh9oU4JHpYsrkDQcNmDyqD4J-qB74dhyMzIkqKs/edit?gid=432255138#gid=432255138)
     - [Legacy Project Data Analysis](https://docs.google.com/spreadsheets/d/1XnGweqEAiTlU8mhvWqtCCMNm9l5txdR0YpQsuMxvgio/edit?gid=998401983#gid=998401983)
-  - [Databrary](https://databrary.org), especially the [Databrary Guide](https://databrary.github.io/guide), the [*databraryr* package](https://databrary.github.io/databraryr), and the [Databrary Analytics](https://databrary.github.io/analytics).
-  - Refreshing internal resources, especially the [lab website](https://gilmore-lab.github.io) and our lab [protocols site](https://gilmore-lab.github.io/protocols).
-  - [Datacamp](https://www.datacamp.com/) 
+  - Classification of Sport Mega Analysis
+  - Early Childhood Behavior Questionnaire Mega Analysis
+  - Journal Club
 
-3. Homework
+3. Homework - Required Training
   - [Create Discord Account](https://gilmore-lab.github.io/protocols/onboarding.html#discord)
-  - [CITI Training](https://gilmore-lab.github.io/protocols/training.html#citi-training) ASAP - new lab members
-  - [Clery Act Training](https://gilmore-lab.github.io/protocols/training.html#clery-act-training) 
-  - [Reporting Suspected Child Abuse](https://gilmore-lab.github.io/protocols/training.html#reporting-suspected-child-abuse)
-  - [Values, Ethics, & Compliance Training](https://gilmore-lab.github.io/protocols/training.html#values-ethics-and-compliance-training) 
-  - [Title IX Training](https://gilmore-lab.github.io/protocols/training.html#understanding-title-ix-at-penn-state) 
-  - Create or update [Lab Biography](https://gilmore-lab.github.io/who-we-are.html) for Webpage
+  - [CITI Training](https://gilmore-lab.github.io/protocols/training.html#citi-training) ASAP - new lab members (Anika, Chelsey, Ella, Isabella)
+  - [Clery Act Training](https://gilmore-lab.github.io/protocols/training.html#clery-act-training) (Anika, Chelsey, Ella, Isabella)
+  - [Reporting Suspected Child  Abuse](https://gilmore-lab.github.io/protocols/training.html#reporting-suspected-child-abuse) (Anika, Chelsey, Ella, Isabella, Kassandra, Lina)
+  - [Values, Ethics, & Compliance Training](https://gilmore-lab.github.io/protocols/training.html#values-ethics-and-compliance-training) (Anika, Brianna, Chelsey, Ella, Isabella, Kassandra, Lina)
+  - [Title IX Training](https://gilmore-lab.github.io/protocols/training.html#understanding-title-ix-at-penn-state) (Anika, Brianna, Chelsey, Ella, Isabella, Kassandra, Lina)
+  <!-- For next week- Create or update [Lab Biography](https://gilmore-lab.github.io/who-we-are.html) for Webpage -->
