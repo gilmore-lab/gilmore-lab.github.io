@@ -7,7 +7,7 @@ bibliography: "bib/lab.bib"
 
 For the Fall 2025 Semester, we will meet on Thursdays from 8:00-8:50 am in room 467 Moore.
 
-### First Meeting 2nd week of classes
+### Thursday, September 4, 2025 
 
 0. Attending
 1. Introductions
