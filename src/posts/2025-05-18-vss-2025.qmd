@@ -1,0 +1,16 @@
+---
+title: "Vision Sciences Society 2025"
+date: 2025-05-18
+categories:
+  - visual acuity
+  - publication
+image: https://github.com/gilmore-lab/vss-2025-poster/blob/main/include/generated/fig-typical-group-by-age-paper-group-trend-scaled-weight-n-no-classic-1.png?raw=true
+---
+
+Rick and Julia presented the lab's poster [@Gilmore2025-fz] at the Vision Sciences Society 2025 meeting in St. Pete Beach, FL.
+
+Here's a link to the [poster](https://github.com/gilmore-lab/vss-2025-poster/blob/main/vss-2025-poster.pdf).
+
+And here is one of the data figures:
+
+![Figure 3 from @Gilmore2025-fz](https://github.com/gilmore-lab/vss-2025-poster/blob/main/include/generated/fig-typical-group-by-age-paper-group-trend-scaled-weight-n-no-classic-1.png?raw=true)
