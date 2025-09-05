@@ -7,7 +7,7 @@ bibliography: "bib/lab.bib"
 
 For the Fall 2025 Semester, we will meet on Thursdays from 8:00-8:50 am in room 467 Moore.
 
-Psych 494 Syllabus - Link Coming Soon
+[Psych 494 Syllabus](https://psu-psychology.github.io/psych-494-gilmore/)
 
 ### Thursday, September 4, 2025 
 
@@ -36,4 +36,12 @@ Psych 494 Syllabus - Link Coming Soon
   - [Title IX Training](https://gilmore-lab.github.io/protocols/training.html#understanding-title-ix-at-penn-state) (Anika, Brianna, Ella, Isabella, Kassandra, Lina)
   - [Data Privacy at Penn State](https://gilmore-lab.github.io/protocols/training.html#data-privacy-at-penn-state) - EVERYONE
 
-  <!-- For next week- Create or update [Lab Biography](https://gilmore-lab.github.io/who-we-are.html) for Webpage -->
+
+### Thursday, September 11, 2025 
+
+0. Attending
+1. Visual acuity project overview
+  - *Discuss*: @Neijzen2025-ak; @Gilmore2025-fz | [poster](https://github.com/gilmore-lab/vss-2025-poster/blob/main/vss-2025-poster.pdf) 
+2. Homework  
+- Create or update [Lab Biography](https://gilmore-lab.github.io/who-we-are.html) for Webpage
+- Required Training 
