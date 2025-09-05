@@ -7,6 +7,8 @@ bibliography: "bib/lab.bib"
 
 For the Fall 2025 Semester, we will meet on Thursdays from 8:00-8:50 am in room 467 Moore.
 
+Psych 494 Syllabus - Link Coming Soon
+
 ### Thursday, September 4, 2025 
 
 0. Attending
@@ -26,10 +28,12 @@ For the Fall 2025 Semester, we will meet on Thursdays from 8:00-8:50 am in room 
   - Journal Club
 
 3. Homework - Required Training
-  - [Create Discord Account](https://gilmore-lab.github.io/protocols/onboarding.html#discord)
-  - [CITI Training](https://gilmore-lab.github.io/protocols/training.html#citi-training) ASAP - new lab members (Anika, Chelsey, Ella, Isabella)
-  - [Clery Act Training](https://gilmore-lab.github.io/protocols/training.html#clery-act-training) (Anika, Chelsey, Ella, Isabella)
-  - [Reporting Suspected Child  Abuse](https://gilmore-lab.github.io/protocols/training.html#reporting-suspected-child-abuse) (Anika, Chelsey, Ella, Isabella, Kassandra, Lina)
-  - [Values, Ethics, & Compliance Training](https://gilmore-lab.github.io/protocols/training.html#values-ethics-and-compliance-training) (Anika, Brianna, Chelsey, Ella, Isabella, Kassandra, Lina)
-  - [Title IX Training](https://gilmore-lab.github.io/protocols/training.html#understanding-title-ix-at-penn-state) (Anika, Brianna, Chelsey, Ella, Isabella, Kassandra, Lina)
+  - [Create Discord Account](https://gilmore-lab.github.io/protocols/onboarding.html#discord) and Join Lab Discord Channel - An email will be sent about this (Jeremy, Ella)
+  - [CITI Training](https://gilmore-lab.github.io/protocols/training.html#citi-training) ASAP - new lab members (Anika, Ella, Isabella)
+  - [Clery Act Training](https://gilmore-lab.github.io/protocols/training.html#clery-act-training) (Anika, Ella, Isabella)
+  - [Reporting Suspected Child  Abuse](https://gilmore-lab.github.io/protocols/training.html#reporting-suspected-child-abuse) (Anika, Ella, Isabella, Kassandra, Lina)
+  - [Values, Ethics, & Compliance Training](https://gilmore-lab.github.io/protocols/training.html#values-ethics-and-compliance-training) (Anika, Brianna, Ella, Isabella, Kassandra, Lina)
+  - [Title IX Training](https://gilmore-lab.github.io/protocols/training.html#understanding-title-ix-at-penn-state) (Anika, Brianna, Ella, Isabella, Kassandra, Lina)
+  - [Data Privacy at Penn State](https://gilmore-lab.github.io/protocols/training.html#data-privacy-at-penn-state) - EVERYONE
+
   <!-- For next week- Create or update [Lab Biography](https://gilmore-lab.github.io/who-we-are.html) for Webpage -->
