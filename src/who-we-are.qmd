@@ -89,17 +89,6 @@ ars17 AT-SIGN psu DOT edu</p>
 
 ----
 
-### Jeremy Chen, Undergraduate Research Assistant {#jeremy-chen} 
-:::: {.columns}
-::: {.column width="25%"}
-![](images/lab-logo.png){fig-align="left" width="80%"}
-:::
-::: {.column width="75%"}
-Jeremy Chen  plans to graduate in December 2027 from The Pennsylvania State University
-:::
-::::
-----
-
 ### Ella Froemming, Undergraduate Research Assistant {#ella-froemming} 
 
 :::: {.columns}
@@ -107,7 +96,7 @@ Jeremy Chen  plans to graduate in December 2027 from The Pennsylvania State Univ
 ![](images/lab-logo.png){fig-align="left" width="80%"}
 :::
 ::: {.column width="75%"}
-Ella Froemming  plans to graduate in May 2026 from The Pennsylvania State University
+Ella Froemming plans to graduate in May 2026 from The Pennsylvania State University
 :::
 ::::
 
@@ -140,7 +129,7 @@ Her academic interests are primarily in Clinical Psychology, and she intends to 
 ![](images/lab-logo.png){fig-align="left" width="80%"}
 :::
 ::: {.column width="75%"}
-Anika Mahadevan  plans to graduate in May 2027 from The Pennsylvania State University
+Anika Mahadevan plans to graduate in May 2027 from The Pennsylvania State University
 :::
 ::::
 
@@ -172,7 +161,7 @@ Anika Mahadevan  plans to graduate in May 2027 from The Pennsylvania State Unive
 ![](images/lab-logo.png){fig-align="left" width="80%"}
 :::
 ::: {.column width="75%"}
-Megan McQuaid  plans to graduate in May 2027 from The Pennsylvania State University
+Megan McQuaid plans to graduate in May 2027 from The Pennsylvania State University
 :::
 ::::
 
@@ -184,7 +173,7 @@ Megan McQuaid  plans to graduate in May 2027 from The Pennsylvania State Univers
 ![](images/lab-logo.png){fig-align="left" width="80%"}
 :::
 ::: {.column width="75%"}
-Isabella Moyer  plans to graduate in May 2026 from The Pennsylvania State University
+Isabella Moyer plans to graduate in May 2026 from The Pennsylvania State University
 :::
 ::::
 
