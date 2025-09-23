@@ -494,7 +494,21 @@
     "href": "posts/lab-mtg-2025-09-23.html#poster",
     "title": "Lab meeting - 2025-09-18",
     "section": "Poster",
-    "text": "Poster\n\nSynthesizing evidence about developmental patterns in human visual acuity as measured by Teller Acuity Cards\nThe poster presents a synthesis of published data on infant visual acuity measured with Teller Acuity Cards (TAC).\n\nGoal: describe how acuity develops across the first years of life\n\nFocus: comparing monocular vs. binocular testing\n\nApproach:\n\nCollected data from published sources (Gilmore Lab Poster)\n\n\nExtracted values when available\n\nStandardized and visualized results\n\nOutcome: developmental trends across studies using TAC-I and TAC-II\n\n\n## Paper (Neijzen et al., Acta Ophthalmologica, 2025) ### Reference values for the Teller Acuity Cards II in infants and preverbal children: a meta-analysis\nThis article provides updated reference norms for TAC-II in infants and preverbal children.\n\nGoal: establish age-related benchmarks for clinical use\n\nMethod:\n\nMeta-analysis of published datasets (Wiley Link)\n\n\nCorrection factor applied to adjust TAC-I data to TAC-II scale (~0.3 octave)\n\nContribution: standardized values for clinicians and researchers assessing infant vision\n\n\n## Meeting Discussion Summary\nDuring our lab meeting, we:\n\nClarified the goals of the poster (developmental synthesis) vs. the paper (reference norms).\n\nDiscussed strengths and limitations of the TAC method.\n\nCompared findings and compatibility issues between TAC-I and TAC-II.\n\nReviewed basic statistical concepts relevant to meta-analysis and data harmonization.\n\nReflected on the broader implications: how measuring infant visual acuity informs early visual development research and clinical practice."
+    "text": "Poster\n\nSynthesizing evidence about developmental patterns in human visual acuity as measured by Teller Acuity Cards\nThe poster presents a synthesis of published data on infant visual acuity measured with Teller Acuity Cards (TAC).\n\nGoal: describe how acuity develops across the first years of life\n\nFocus: comparing monocular vs. binocular testing\n\nApproach:\n\nCollected data from published sources (Gilmore Lab Poster)\n\n\nExtracted values when available\n\nStandardized and visualized results\n\nOutcome: developmental trends across studies using TAC-I and TAC-II"
+  },
+  {
+    "objectID": "posts/lab-mtg-2025-09-23.html#paper",
+    "href": "posts/lab-mtg-2025-09-23.html#paper",
+    "title": "Lab meeting - 2025-09-18",
+    "section": "Paper",
+    "text": "Paper\n\nNeijzen et al. (2025). Reference values for the Teller Acuity Cards II in infants and preverbal children: a meta-analysis\nThis article provides updated reference norms for TAC-II in infants and preverbal children.\n\nGoal: establish age-related benchmarks for clinical use\n\nMethod:\n\nMeta-analysis of published datasets (Wiley Link)\n\n\nCorrection factor applied to adjust TAC-I data to TAC-II scale (~0.3 octave)\n\nContribution: standardized values for clinicians and researchers assessing infant vision"
+  },
+  {
+    "objectID": "posts/lab-mtg-2025-09-23.html#meeting-discussion-summary",
+    "href": "posts/lab-mtg-2025-09-23.html#meeting-discussion-summary",
+    "title": "Lab meeting - 2025-09-18",
+    "section": "Meeting Discussion Summary",
+    "text": "Meeting Discussion Summary\nDuring our lab meeting, we:\n\nClarified the goals of the poster (developmental synthesis) vs. the paper (reference norms).\n\nDiscussed strengths and limitations of the TAC method.\n\nCompared findings and compatibility issues between TAC-I and TAC-II.\n\nReviewed basic statistical concepts relevant to meta-analysis and data harmonization.\n\nReflected on the broader implications: how measuring infant visual acuity informs early visual development research and clinical practice."
   },
   {
     "objectID": "posts/new-site.html",

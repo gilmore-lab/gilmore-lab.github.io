@@ -22,7 +22,9 @@ The poster presents a synthesis of published data on infant visual acuity measur
 
 ------------------------------------------------------------------------
 
-\## Paper (Neijzen et al., *Acta Ophthalmologica*, 2025) \### Reference values for the Teller Acuity Cards II in infants and preverbal children: a meta-analysis
+## Paper 
+
+### @Neijzen2025-ak. Reference values for the Teller Acuity Cards II in infants and preverbal children: a meta-analysis
 
 This article provides updated reference norms for TAC-II in infants and preverbal children.
 
@@ -34,7 +36,7 @@ This article provides updated reference norms for TAC-II in infants and preverba
 
 ------------------------------------------------------------------------
 
-\## Meeting Discussion Summary
+## Meeting Discussion Summary
 
 During our lab meeting, we:
 
