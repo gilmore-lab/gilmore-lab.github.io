@@ -9,14 +9,32 @@ For the Fall 2025 Semester, we will meet on Thursdays from 8:00-8:50 am in room 
 
 [Psych 494 Syllabus](https://psu-psychology.github.io/psych-494-gilmore/)
 
+### Thursday, October 9, 2025 
+
+0. Attending
+1. Databrary overview
+  - *Read*: @Gilmore2017-wd, @Gilmore2018-cb
+  - *Review*: @Gilmore2025-tx
+2. Discuss Quarto/Rmarkdown & How to create biographies
+  - [Markdown Basic Syntax Cheat Sheet](https://www.markdownguide.org/basic-syntax/)
+  
+3. Homework  
+- Create or update [Lab Biography](https://gilmore-lab.github.io/who-we-are.html) for Webpage - include at least 2 [Links](https://www.markdownguide.org/basic-syntax/#links) and 1 item in *[Italic](https://www.markdownguide.org/basic-syntax/#italic)* or **[Bold](https://www.markdownguide.org/basic-syntax/#bold)**
+
+
+### Thursday, October 2, 2025 
+
+![](images/no-meeting1.png){fig-align="left" width="20%"}
+
 ### Thursday, September 25, 2025 
 
 0. Attending
 1. PLAY project overview
   - *Read*: @Soska2021-mh
   - *Review*: @SoskaUnknown-pq; @SoskaUnknown-ai
-2. Homework  
-- Create or update [Lab Biography](https://gilmore-lab.github.io/who-we-are.html) for Webpage
+2. Homework
+  - *Read*: @Gilmore2017-wd, @Gilmore2018-cb
+  - *Review*: @Gilmore2025-tx
 
 ### Thursday, September 18, 2025 
 
