@@ -9,13 +9,18 @@ For the Fall 2025 Semester, we will meet on Thursdays from 8:00-8:50 am in room 
 
 [Psych 494 Syllabus](https://psu-psychology.github.io/psych-494-gilmore/)
 
+### Thursday, October 16, 2025
+
+0. Attending
+1. Continue Databrary overview
+
 ### Thursday, October 9, 2025 
 
 0. Attending
 1. Databrary overview
   - *Read*: @Gilmore2017-wd, @Gilmore2018-cb
   - *Review*: @Gilmore2025-tx
-2. Discuss Quarto/Rmarkdown & How to create biographies
+2. Discuss Quarto/Rmarkdown Databrary User Guide & How to create biographies
   - [Markdown Basic Syntax Cheat Sheet](https://www.markdownguide.org/basic-syntax/)
   
 3. Homework  
