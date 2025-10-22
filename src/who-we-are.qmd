@@ -63,7 +63,7 @@ rogilmore AT-SIGN psu DOT edu<br/>
 
 ::: {.column width="25%"}
 
-![](images/ARS-2018.jpeg){fig-align="left"}
+![](images/ARS-2018.jpeg){fig-align="left" width=80%}
 
 :::
 
@@ -205,7 +205,7 @@ Isabella Moyer plans to graduate in May 2026 from The Pennsylvania State Univers
 ![](images/lab-logo.png){fig-align="left" width="80%"}
 :::
 ::: {.column width="75%"}
-Brianna Welzmuller plans to graduate in May 2027 from The Pennsylvania State University
+Brianna Welzmuller is an undergraduate student at The Pennsylvania State University, working towards a degree in Biology and a minor in Disability Studies with the class of 2027. She aspires to continue her education by attending medical school and becoming an emergency medicine doctor. Currently, Brianna works as an undergraduate assistant in the [Brain and Behavioral Dynamics laboratory](https://gilmore-lab.github.io/). This research allows her to gain further knowledge of neuroscience and child development which are her primary academic interests. In her free time Brianna is involved with [Remote Area Medical](https://sites.psu.edu/pennstateram/), a club that plans and facilitates free medical clinics to remote underserved areas. She is also a mentor through Life link on campus as well as Paw Pals. During this time, she works with peers that have disabilities and teaches science lessons to elementary school students respectively.
 :::
 ::::
 
