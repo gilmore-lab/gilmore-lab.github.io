@@ -13,8 +13,15 @@ For the Fall 2025 Semester, we will meet on Thursdays from 8:00-8:50 am in room 
 
 0. Attending
 1. Open scholarship overview
+  - We watched [Data Sharing and Management Snafu in 3 Short Acts](https://www.youtube.com/watch?v=N2zK3sAtr-4)
+  - Discussed example: [Reproducibility in Cancer Biology: Challenges for assessing replicability in preclinical cancer biology](https://doi.org/10.7554/eLife.67995)
   - *Read*: @Gilmore2021-zr
-  - *Review*: @PSU-OSI-qa; @GilmoreUnknown-bj
+  - *Review*: @PSU-OSI-qa, [2025 Open Scholarship Bootcamp](https://penn-state-open-science.github.io/bootcamp-2025/); @GilmoreUnknown-bj
+2. Homework
+  - Big data developmental neuroscience
+  - *Review*: [HEALthy Brain and Child
+Development (HBCD) Study](https://hbcdstudy.org); [Adolescent Brain Cognitive Development (ABCD) study](https://abcdstudy.org)
+  - Submit Biography for webpage (Ella, Megan, Isabella)
 
 ### Thursday, October 16, 2025
 

@@ -12,7 +12,7 @@ You can earn research project (PSY 494) credit or work study funds, and learn vi
 We are especially interested in students who have morning availability, computer skills, or are interested in developing skills in advertising, marketing, or public relations. You may apply by completing an [application](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform). **At least a TWO semester commitment is required.**
 :::
 
-<!-- headshot image width = 175px and 175x233px is ideal -->
+<!-- headshot image width = 175px and 175x233px (3:4) is ideal -->
 
 ## Lab Director
 
@@ -126,7 +126,7 @@ Her academic interests are primarily in Clinical Psychology, and she intends to 
 ### Anika Mahadevan, Undergraduate Research Assistant {#anika-mahadevan} 
 :::: {.columns}
 ::: {.column width="25%"}
-![](images/lab-logo.png){fig-align="left" width="80%"}
+![](images/AnikaM.jpg){fig-align="left" width="80%"}
 :::
 ::: {.column width="75%"}
 Anika Mahadevan is a 3rd year undergraduate at The Pennsylvania State University. She is working towards a degree in both psychology and biology. In the future she aspires to attend medical school to become a radiologist. Currently she is a member of the [Brain and Behavioral Dynamics Lab](https://gilmore-lab.github.io/) and the [Emotional Development Lab](https://emotiondev.la.psu.edu/) at Penn State. These research opportunities allow her to further her interest in neuroscience and child development. She is also involved in the chemistry department as a learning assistant for general chemistry. In her free time, she enjoys trying new food, traveling, and being outdoors.
