@@ -1,0 +1,50 @@
+---
+title: "Lab meeting - 2025-09-18"
+format: html
+---
+date: 2025-09-18
+categories: ["Journal Club"]
+---
+
+Dr. Gilmore led the journal club, and lab members discussed two different studies.
+
+## Poster
+
+### Synthesizing evidence about developmental patterns in human visual acuity as measured by Teller Acuity Cards
+
+The poster presents a synthesis of published data on infant visual acuity measured with Teller Acuity Cards (TAC).
+
+- **Goal:** describe how acuity develops across the first years of life
+- **Focus:** comparing monocular vs. binocular testing
+- **Approach:**
+  - Collected data from published sources ([Gilmore Lab Poster](https://gilmore-lab.github.io/vss-2025-poster/vss-2025-poster.pdf))
+  - Extracted values when available
+  - Standardized and visualized results
+- **Outcome:** developmental trends across studies using TAC-I and TAC-II
+
+---
+
+## Paper (Neijzen et al., *Acta Ophthalmologica*, 2025)
+
+### Reference values for the Teller Acuity Cards II in infants and preverbal children: a meta-analysis
+
+This article provides updated reference norms for TAC-II in infants and preverbal children.
+
+- **Goal:** establish age-related benchmarks for clinical use
+- **Method:**
+  - Meta-analysis of published datasets ([Wiley Link](https://onlinelibrary.wiley.com/doi/10.1111/aos.17447))
+  - Correction factor applied to adjust TAC-I data to TAC-II scale (~0.3 octave)
+- **Contribution:** standardized values for clinicians and researchers assessing infant vision
+
+---
+
+## Meeting Discussion Summary
+
+During our lab meeting, we:
+
+- Clarified the goals of the poster (developmental synthesis) vs. the paper (reference norms).
+- Discussed strengths and limitations of the TAC method.
+- Compared findings and compatibility issues between TAC-I and TAC-II.
+- Reviewed basic statistical concepts relevant to meta-analysis and data harmonization.
+- Reflected on the broader implications: how measuring infant visual acuity informs early visual development research and clinical practice.
+
