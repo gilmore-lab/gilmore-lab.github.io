@@ -93,10 +93,11 @@ ars17 AT-SIGN psu DOT edu</p>
 
 :::: {.columns}
 ::: {.column width="25%"}
-![](images/lab-logo.png){fig-align="left" width="80%"}
+![](images/ellaf.png){fig-align="left" width="80%"}
 :::
 ::: {.column width="75%"}
-Ella Froemming plans to graduate in May 2026 from The Pennsylvania State University
+**Ella Froemming** is a research assistant in the [Gilmore Lab](https://gilmore-lab.github.io/) and a fourth-year student majoring in Biobehavioral Health, Class of 2026. She plans to pursue a medical degree, either through medical school or a combined medical
+ doctorate program. Her research interests include developmental psychology, neurological dysfunction, and the relationship between the brain and behavior. In her free time, she enjoys spending time with friends, Pilates, and going for walks. 
 :::
 ::::
 
@@ -173,7 +174,11 @@ Megan McQuaid plans to graduate in May 2027 from The Pennsylvania State Universi
 ![](images/lab-logo.png){fig-align="left" width="80%"}
 :::
 ::: {.column width="75%"}
-Isabella Moyer plans to graduate in May 2026 from The Pennsylvania State University
+Isabella Moyer is an undergraduate student at The Pennsylvania State University, graduating in December 2025. She is majoring in Psychology with a Neuroscience concentration and minoring in Biology. Her research interests include the etiology of neurodegenerative disorders on a biological level, and she plans to pursue a Ph.D. in Neuroscience after graduation.
+
+She currently works in the [Brain and Behavioral Dynamics Lab](https://gilmore-lab.github.io) and [Dr. Newman's Laboratory for Anxiety and Depression](https://newmanlabweb.wixsite.com/home), where she expands her understanding of psychological disorders and the broader field of neuroscience. 
+
+Outside of research, she is a member of the Psychology Honor Society, as well as the Alpha Epsilon Delta Honor Society. She also volunteers at a local nursing home through [Alzheimer's Buddies](https://www.alzbuddies.org) at Penn State, an experience that has provided her with valuable clinical insight into neurodegenerative disease.
 :::
 ::::
 
