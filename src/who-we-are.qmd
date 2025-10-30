@@ -159,10 +159,11 @@ Anika Mahadevan is a 3rd year undergraduate at The Pennsylvania State University
 ### Megan McQuaid, Undergraduate Research Assistant {#megan-mcquaid} 
 :::: {.columns}
 ::: {.column width="25%"}
-![](images/lab-logo.png){fig-align="left" width="80%"}
+![](images/meganm.jpg){fig-align="left" width="80%"}
 :::
 ::: {.column width="75%"}
-Megan McQuaid plans to graduate in May 2027 from The Pennsylvania State University
+Megan McQuaid is a third-year undergraduate student at The Pennsylvania State University, graduating in May 2027. She is majoring in Psychology B.S. with a Neuroscience concentration and minoring in Human Development and Family Studies. Her research interests include the brain-behavior relationships underlying autism and epilepsy. She plans to pursue a PhD in Neuropsychology after graduation.
+She currently works in the [Brain and Behavioral Dynamics Lab](https://gilmore-lab.github.io/) and is an active member of [Psi Chi - The International Honor Society in Psychology](https://sites.psu.edu/psichi/). In the future she plans to continue promoting excellence in psychology and address social issues through research, service, advocacy, and education!
 :::
 ::::
 
