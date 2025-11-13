@@ -4,8 +4,17 @@ format: html
 date: 2025-10-30
 categories: ["Journal Club"] 
 ---
-Teaser text
-
+Dr. Gilmore led the journal club and look over about data access and security.
 ---
 
-asdfjlakdjsf 
+During our meeting, we took a brief look at how large national brain-development studies manage and share their data, focusing on the HBCD and ABCD projects and the NIH Brain Development Cohorts (NBDC) platform.
+
+- The NBDC platform provides an overview of available datasets and aggregate information.
+
+- Access to controlled data requires an approved account and a data use agreement.
+
+- Because neuro-imaging and developmental data are highly sensitive, researchers must work within environments that meet NIST SP 800-171 or ISO/IEC 27001/27002 security standards.
+
+- Research groups typically store and analyze these datasets on university-managed secure servers, HPC clusters, or restricted-access storage systems designed for compliance.
+
+We also discussed the scale and infrastructure behind the NBDC platform and how such large data systems are maintained.
