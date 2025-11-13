@@ -1,142 +1,101 @@
 {
-  "research.qmd": {
-    "research.html": "5838dee9"
-  },
-  "posts/new-site.qmd": {
-    "new-site.html": "98ba03e2"
-  },
-  "posts/lab-mtg-2023-09-12.qmd": {
-    "lab-mtg-2023-09-12.html": "8c8311a6"
-  },
-  "lab-meetings.qmd": {
-    "lab-meetings.html": "503aa608"
-  },
-  "lab-mtgs/notes-murray-2018.Rmd": {
-    "notes-murray-2018.html": "b0f44830"
-  },
-  "lab-mtgs/leonard-lee-schultz-2017.Rmd": {
-    "leonard-lee-schultz-2017.html": "acac38e9"
-  },
-  "lab-mtgs/notes-cohen-2017.Rmd": {
-    "notes-cohen-2017.html": "56b563fe"
-  },
-  "parents.qmd": {
-    "parents.html": "05f60703"
+  "about.qmd": {
+    "about.html": "2d8af8c7"
   },
   "index.qmd": {
-    "index.html": "58fbc9b7"
-  },
-  "students.qmd": {
-    "students.html": "fb23c6ae"
-  },
-  "publications.qmd": {
-    "publications.html": "704d5fc3"
-  },
-  "about.qmd": {
-    "about.html": "828f7826"
-  },
-  "site-info.qmd": {
-    "site-info.html": "d05d58ec"
-  },
-  "who-we-are.qmd": {
-    "who-we-are.html": "b1066f7c"
-  },
-  "participants.qmd": {
-    "participants.html": "2ba2b25d"
-  },
-  "talk-slides/how-to-read-academic-paper.Rmd": {
-    "how-to-read-academic-paper.html": "5cea16f3"
-  },
-  "talk-slides/type-I-type-II-errors.Rmd": {
-    "type-I-type-II-errors.html": "b3376a56"
-  },
-  "talk-slides/munafo-etal-2017.Rmd": {
-    "munafo-etal-2017.html": "93dcbb77"
-  },
-  "talk-slides/abramov-etal-2012.Rmd": {
-    "abramov-etal-2012.html": "f9493c0d"
-  },
-  "resources.qmd": {
-    "resources.html": "716048be"
-  },
-  "posts/lab-mtg-2023-09-19.qmd": {
-    "lab-mtg-2023-09-19.html": "36750d2c"
-  },
-  "posts/visual-acuity-new-figs.qmd": {
-    "visual-acuity-new-figs.html": "f6ad6a58"
-  },
-  "posts/lab-mtg-2023-10-10.qmd": {
-    "lab-mtg-2023-10-10.html": "8deaa14d"
-  },
-  "posts/lab-mtg-2023-11-14.qmd": {
-    "lab-mtg-2023-11-14.html": "c8d4bbd6"
-  },
-  "talk-slides/soska-etal-2021.qmd": {
-    "soska-etal-2021.html": "67ddbf26"
-  },
-  "posts/lab-mtg-2024-02-06.qmd": {
-    "lab-mtg-2024-02-06.html": "23225429"
-  },
-  "lab-mtgs/soska-etal-2021.qmd": {
-    "soska-etal-2021.html": "7eec2a3c"
-  },
-  "lab-mtg-talks/soska-etal-2021.qmd": {
-    "soska-etal-2021.html": "d1c7f641"
-  },
-  "posts/lab-mtg-2024-02-24.qmd": {
-    "lab-mtg-2024-02-24.html": "50289b2c"
-  },
-  "posts/tamis-lemonda-et-al-2024.qmd": {
-    "tamis-lemonda-et-al-2024.html": "6ca1d908"
-  },
-  "lab-mtg-talks/franconeri-etal-2021.qmd": {
-    "franconeri-etal-2021.html": "3cb028da"
-  },
-  "posts/CopyOflab-mtg-2024-02-24.qmd": {
-    "CopyOflab-mtg-2024-02-24.html": "ee2f5833"
-  },
-  "posts/lab-mtg-2024-03-12.qmd": {
-    "lab-mtg-2024-03-12.html": "43eff627"
-  },
-  "posts/lab-mtg-2024-04-02.qmd": {
-    "lab-mtg-2024-04-02.html": "e9ec16c1"
+    "index.html": "f6f9bb94"
   },
   "lab-meetings-archive.qmd": {
-    "lab-meetings-archive.html": "dfbe049a"
+    "lab-meetings-archive.html": "73ad1155"
   },
-  "posts/lab-mtg-2025-02-18.qmd": {
-    "lab-mtg-2025-02-18.html": "e97ea958"
+  "lab-meetings.qmd": {
+    "lab-meetings.html": "8ab8f8a1"
   },
-  "posts/lab-wrk-session-2025-02-18.qmd": {
-    "lab-wrk-session-2025-02-18.html": "06e401cc"
+  "lab-mtg-talks/franconeri-etal-2021.qmd": {
+    "franconeri-etal-2021.html": "f03f201a"
   },
-  "posts/2025-02-21.qmd": {
-    "2025-02-21.html": "7ee2f9a9"
+  "lab-mtg-talks/soska-etal-2021.qmd": {
+    "soska-etal-2021.html": "b4c2e007"
+  },
+  "parents.qmd": {
+    "parents.html": "31bfcd8f"
+  },
+  "participants.qmd": {
+    "participants.html": "50c2a060"
   },
   "posts/2025-02-07.qmd": {
-    "2025-02-07.html": "d42998ad"
+    "2025-02-07.html": "2bc97463"
   },
-  "posts/psi-chi-2025-04-23.qmd": {
-    "psi-chi-2025-04-23.html": "7db54917"
+  "posts/2025-02-21.qmd": {
+    "2025-02-21.html": "feeace8f"
   },
   "posts/2025-05-18-vss-2025.qmd": {
-    "2025-05-18-vss-2025.html": "224e6d71"
+    "2025-05-18-vss-2025.html": "73c11b7f"
+  },
+  "posts/lab-mtg-2023-09-12.qmd": {
+    "lab-mtg-2023-09-12.html": "5db848f2"
+  },
+  "posts/lab-mtg-2023-09-19.qmd": {
+    "lab-mtg-2023-09-19.html": "b3c604f2"
+  },
+  "posts/lab-mtg-2023-10-10.qmd": {
+    "lab-mtg-2023-10-10.html": "85b03954"
+  },
+  "posts/lab-mtg-2023-11-14.qmd": {
+    "lab-mtg-2023-11-14.html": "f034b184"
+  },
+  "posts/lab-mtg-2024-02-06.qmd": {
+    "lab-mtg-2024-02-06.html": "681ed2a0"
+  },
+  "posts/lab-mtg-2024-02-24.qmd": {
+    "lab-mtg-2024-02-24.html": "d29b212e"
+  },
+  "posts/lab-mtg-2024-03-12.qmd": {
+    "lab-mtg-2024-03-12.html": "31fe946a"
+  },
+  "posts/lab-mtg-2024-04-02.qmd": {
+    "lab-mtg-2024-04-02.html": "93730ec0"
   },
   "posts/lab-mtg-2025-09-23.qmd": {
-    "lab-mtg-2025-09-23.html": "7e48bfc2"
+    "lab-mtg-2025-09-23.html": "15a7fc53"
   },
-  "posts/lab_journal_0918.qmd": {
-    "lab_journal_0918.html": "4205274a"
-  },
-  "posts/lab_journal_1030.qmd": {
-    "lab_journal_1030.html": "6e3dcd95"
-  },
-<<<<<<< HEAD
-  "posts/lab_jornal_11-6.qmd": {
-    "lab_jornal_11-6.html": "8412b4eb"
-=======
   "posts/lab-mtg-2025-10-30.qmd": {
-    "lab-mtg-2025-10-30.html": "f3e314b0"
->>>>>>> lina-temp
+    "lab-mtg-2025-10-30.html": "ed99b40f"
+  },
+  "posts/lab-wrk-session-2025-02-18.qmd": {
+    "lab-wrk-session-2025-02-18.html": "fffeb305"
+  },
+  "posts/lab_jornal_11-6.qmd": {
+    "lab_jornal_11-6.html": "c2a14b13"
+  },
+  "posts/new-site.qmd": {
+    "new-site.html": "eb458678"
+  },
+  "posts/psi-chi-2025-04-23.qmd": {
+    "psi-chi-2025-04-23.html": "5238ac3f"
+  },
+  "posts/tamis-lemonda-et-al-2024.qmd": {
+    "tamis-lemonda-et-al-2024.html": "2e1b6226"
+  },
+  "posts/visual-acuity-new-figs.qmd": {
+    "visual-acuity-new-figs.html": "dba98764"
+  },
+  "publications.qmd": {
+    "publications.html": "9fcfb328"
+  },
+  "research.qmd": {
+    "research.html": "cd10874b"
+  },
+  "resources.qmd": {
+    "resources.html": "34d2e579"
+  },
+  "site-info.qmd": {
+    "site-info.html": "c6887e44"
+  },
+  "students.qmd": {
+    "students.html": "810faa59"
+  },
+  "who-we-are.qmd": {
+    "who-we-are.html": "4aa381ed"
   }
 }
