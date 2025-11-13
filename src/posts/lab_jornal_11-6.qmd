@@ -1,5 +1,24 @@
 ---
-title: "lab_jornal_11-6"
+title: "Lab meeting - 2025-11-06 & 11-13"
 format: html
+date: 2025-11-13
+categories: ["Journal Club"] 
+---
+Autism and Tylenol – What’s the Evidence?
 ---
 
+Across two consecutive meetings, we reviewed and discussed the current evidence on whether prenatal or early-life exposure to Tylenol (acetaminophen) is associated with autism spectrum disorder (ASD).
+
+## Key Points from Both Sessions
+
+- Existing studies include observational human research, animal models, and clinical data, but findings are inconsistent across methods and populations.
+
+- Most evidence comes from observational designs, which limits causal interpretation due to factors such as recall bias, confounding by indication, and measurement variability.
+
+- Biological mechanisms proposed in the literature (e.g., inflammation pathways, oxidative stress) remain speculative and not directly validated in humans.
+
+- The review paper by Shaw et al. (2025) reinforced that effect sizes reported in prior studies are modest and that methodological limitations make strong conclusions premature.
+
+- Overall, current research suggests possible associations but insufficient evidence for causality, underscoring the need for more rigorous longitudinal and experimental designs.
+
+This combined review helped frame the complexities of interpreting ASD risk factors and highlighted the importance of careful evaluation when communicating findings to the public or applying them in clinical or policy contexts.
