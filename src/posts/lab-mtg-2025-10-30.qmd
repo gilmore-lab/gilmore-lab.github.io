@@ -4,7 +4,6 @@ format: html
 date: 2025-10-30
 categories: ["Journal Club"] 
 ---
-<<<<<<< HEAD:src/posts/lab_journal_1030.qmd
 Dr. Gilmore led the journal club and look over about data access and security.
 ---
 
@@ -18,10 +17,6 @@ qua
 
 - Research groups typically store and analyze these datasets on university-managed secure servers, HPC clusters, or restricted-access storage systems designed for compliance.
 
-We also discussed the scale and infrastructure behind the NBDC platform and how such large data systems are maintained.
+- We also discussed the scale and infrastructure behind the NBDC platform and how such large data systems are maintained.
 =======
-Teaser text
----
 
-placeholder
->>>>>>> lina-temp:src/posts/lab-mtg-2025-10-30.qmd

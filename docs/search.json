@@ -158,14 +158,14 @@
     "href": "posts/lab-mtg-2025-10-30.html",
     "title": "Lab meeting - 2025-10-30",
     "section": "",
-    "text": "&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD:src/posts/lab_journal_1030.qmd Dr. Gilmore led the journal club and look over about data access and security. —\nDuring our meeting, we took a brief look at how large national brain-development studies manage and share their data, focusing on the HBCD and ABCD projects and the NIH Brain Development Cohorts (NBDC) platform."
+    "text": "During our meeting, we took a brief look at how large national brain-development studies manage and share their data, focusing on the HBCD and ABCD projects and the NIH Brain Development Cohorts (NBDC) platform.\n\nThe NBDC platform provides an overview of available data-sets and aggregate information.\nAccess to controlled data requires an approved account and a data use agreement. qua\nBecause neuroimaging and developmental data are highly sensitive, researchers must work within environments that meet NIST SP 800-171 or ISO/IEC 27001/27002 security standards.\nResearch groups typically store and analyze these datasets on university-managed secure servers, HPC clusters, or restricted-access storage systems designed for compliance."
   },
   {
-    "objectID": "posts/lab-mtg-2025-10-30.html#teaser-text",
-    "href": "posts/lab-mtg-2025-10-30.html#teaser-text",
+    "objectID": "posts/lab-mtg-2025-10-30.html#dr.-gilmore-led-the-journal-club-and-look-over-about-data-access-and-security.",
+    "href": "posts/lab-mtg-2025-10-30.html#dr.-gilmore-led-the-journal-club-and-look-over-about-data-access-and-security.",
     "title": "Lab meeting - 2025-10-30",
-    "section": "Teaser text",
-    "text": "Teaser text\nplaceholder &gt;&gt;&gt;&gt;&gt;&gt;&gt; lina-temp:src/posts/lab-mtg-2025-10-30.qmd"
+    "section": "",
+    "text": "During our meeting, we took a brief look at how large national brain-development studies manage and share their data, focusing on the HBCD and ABCD projects and the NIH Brain Development Cohorts (NBDC) platform.\n\nThe NBDC platform provides an overview of available data-sets and aggregate information.\nAccess to controlled data requires an approved account and a data use agreement. qua\nBecause neuroimaging and developmental data are highly sensitive, researchers must work within environments that meet NIST SP 800-171 or ISO/IEC 27001/27002 security standards.\nResearch groups typically store and analyze these datasets on university-managed secure servers, HPC clusters, or restricted-access storage systems designed for compliance."
   },
   {
     "objectID": "posts/lab-mtg-2024-04-02.html",
