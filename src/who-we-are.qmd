@@ -130,7 +130,7 @@ Her academic interests are primarily in Clinical Psychology, and she intends to 
 ![](images/AnikaM.jpg){fig-align="left" width="80%"}
 :::
 ::: {.column width="75%"}
-Anika Mahadevan is a 3rd year undergraduate at The Pennsylvania State University. She is working towards a degree in both psychology and biology. In the future she aspires to attend medical school to become a radiologist. Currently she is a member of the [Brain and Behavioral Dynamics Lab](https://gilmore-lab.github.io/) and the [Emotional Development Lab](https://emotiondev.la.psu.edu/) at Penn State. These research opportunities allow her to further her interest in neuroscience and child development. She is also involved in the chemistry department as a learning assistant for general chemistry. In her free time, she enjoys trying new food, traveling, and being outdoors.
+Anika Mahadevan is a 3rd year undergraduate at The Pennsylvania State University. She is working towards a degree in both psychology and biology. In the future she aspires to attend medical school to become a radiologist. Currently she is a member of the [Brain and Behavioral Dynamics Lab](https://gilmore-lab.github.io/) and the [Emotional Development Lab](https://emotiondev.la.psu.edu/) at Penn State. These research opportunities allow her to further her interest in neuroscience and child development. She is also involved in the chemistry department as a learning assistant for general chemistry. In her free time, she enjoys trying new food, traveling, and being  outdoors.
 :::
 ::::
 
