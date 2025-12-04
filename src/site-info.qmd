@@ -16,6 +16,7 @@ sessionInfo()
 1. Open project
 2. Pull
 3. Make changes 
+4. Save Changes
 2. Render site
 3. Preview site
 4. Commit changes
