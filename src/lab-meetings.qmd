@@ -9,6 +9,35 @@ For the Fall 2025 Semester, we will meet on Thursdays from 8:00-8:50 am in room 
 
 [Psych 494 Syllabus](https://psu-psychology.github.io/psych-494-gilmore/)
 
+### Monday, December 15, 2025
+
+:::: {.columns}
+
+::: {.column width="20%"}
+![](images/breakfast.jpg){fig-align="left" width="100%"}
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+
+**Lab Breakfast**
+
+8:00 am 
+
+@ The Waffle Shop Downtown
+:::
+::::
+
+### Thursday, December 11, 2025
+
+0. Attending
+1. Lina and Isabella Graduating! Congratulations!
+2. Discussed virtues of using reference mangers (e.g. Zotero, EndNote, Paperpile, Honeybear)
+3. Planned meeting time next semester: Wednesdays 4-5pm
+
 ### Thursday, December 4, 2025
 
 0. Attending
