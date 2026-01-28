@@ -11,12 +11,19 @@ For the Spring 2026 Semester, we will meet on Wednesdays from 4:00-5:00 pm in ro
 
 The [Gilmore Lab Manual](https://gilmore-lab.github.io/protocols/) contains many useful instructions for onboarding new lab members, required training, and connect RStudio and Github.
 
+### Wednesday, February 4, 2026
+
+0. Attending
+1. Watch: @EIFL2018-lx
+2. Review Poster Presentation Suggestions
+3. Volunteer: Weekly Post to Lab Webpage 
+
 ### Wednesday, January 28, 2026
 
 0. Attending
 1. Discuss Paper: @D-Antonio2026-vo
-2. Review Poster Presentation Suggestions
-3. Volunteer: Weekly Post to Lab Webpage 
+  - [QUIPS tool](http://methods.cochrane.org/sites/methods.cochrane.org.prognosis/files/uploads/QUIPS%20tool.pdf)
+  - [Summary of Discussion](https://psu-psychology.github.io/psych-494-gilmore/2026-01-28-dantonio-etal.html)
 
 ### Wednesday, January 21, 2026
 
