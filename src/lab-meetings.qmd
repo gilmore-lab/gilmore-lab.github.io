@@ -14,9 +14,13 @@ The [Gilmore Lab Manual](https://gilmore-lab.github.io/protocols/) contains many
 ### Wednesday, February 4, 2026
 
 0. Attending
-1. Watch: @EIFL2018-lx
-2. Review Poster Presentation Suggestions
-3. Volunteer: Weekly Post to Lab Webpage 
+1. Play Coding
+  - 9 files completed to date
+  - 9 files per week until finished
+2. Watch: @EIFL2018-lx
+3. Homework: Submit suggestions to Discord for
+  - Poster Presentation Topics
+  - Journal Club Articles
 
 ### Wednesday, January 28, 2026
 
