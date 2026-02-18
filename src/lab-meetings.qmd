@@ -12,14 +12,22 @@ For the Spring 2026 Semester, we will meet on Wednesdays from 4:00-5:00 pm in ro
 The [Gilmore Lab Manual](https://gilmore-lab.github.io/protocols/) contains many useful instructions for onboarding new lab members, required training, and connect RStudio and Github.
 
 ### Poster Presentation Opportunities
-  - [Psi Chi](https://sites.psu.edu/psichi/), the International Honor Society in Psychology, is hosting its annual  [Undergraduate Research Conference](http://sites.psu.edu/psichi/research-conference-2/) Thursday, April 16, 2026 from 1-5pm in the Moore Building Atrium
-    - [Application](https://forms.gle/ZFngHWB3h88bpJa67), including < 500 word abstract, due by Sunday February 15th at 11:59pm.
-    - Poster can be Emperical, Conceptual, or Measurement based
   - The [Undergraduate Exhibition](https://urfm.psu.edu/programs/undergraduate-exhibition) is April 20-22, 2026
-    - February: application will be available
+    - 2/17: application available 
     - 3/17: application due date
     - 4/22: In-Person Poster Presentation, Alumni Hall, HUB
-5. Homework
+
+### Wednesday, February 18, 2026
+
+0. Attending
+2. Discuss: @McIntire2026-rg
+
+### Wednesday, February 11, 2026
+
+0. Attending
+1. Finish: @EIFL2018-lx
+2. Homework:
+  - Read: @McIntire2026-rg
 
 ### Wednesday, February 4, 2026
 
