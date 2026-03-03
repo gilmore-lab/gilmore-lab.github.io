@@ -18,6 +18,24 @@ The [Gilmore Lab Manual](https://gilmore-lab.github.io/protocols/) contains many
     - 4/6: final materials due
     - 4/22: In-Person Poster Presentation, Alumni Hall, HUB
 
+### Wednesday, March 4, 2026
+
+0. Attending
+1. Discuss @Hadad2015-qd
+2. Poster Update
+3. PLAY Coding project
+
+  | Status | N Files|        
+  |--------:|:------| 
+  | Remaining     | 41   | 
+  | Complete      | 34   | 
+  | Remaining/Week| 11.7 |
+  | 3/27 Goal     | 75   |
+
+: PLAY Coding {.bordered .striped .hover}
+
+
+
 ### Wednesday, February 25, 2026
 
 **Meeting CANCELLED**
