@@ -18,6 +18,10 @@ The [Gilmore Lab Manual](https://gilmore-lab.github.io/protocols/) contains many
     - 4/6: final materials due
     - 4/22: In-Person Poster Presentation, Alumni Hall, HUB
 
+### Wednesday, March 11, 2026
+
+![](images/happy-spring-break-clipart-8-768x311.jpg){fig-align="left" width="60%"}
+
 ### Wednesday, March 4, 2026
 
 0. Attending
@@ -31,14 +35,22 @@ The [Gilmore Lab Manual](https://gilmore-lab.github.io/protocols/) contains many
   
 3. PLAY Coding project
 
-  | Status | N Files|        
-  |--------:|:----| 
-  | Remaining     | 39   | 
-  | Complete      | 36   | 
-  | Remaining/Week| 11.1 |
-  | 3/27 Goal     | 75   |
+```{r, coding-status-chunk, echo=FALSE}
+# Create Data Frame
 
-: PLAY Coding {.bordered .striped .hover}
+# Load the knitr package
+library(knitr)
+library(kableExtra)
+
+coding_data <- data.frame(
+  File_Status = c("Total", "Completed", "Remaining", "Remaining/Wk"),
+  N_Files = c("75", "36", "39", "11.1")
+)
+
+# Generate the kable table
+kable(coding_data, caption = "Play Coding Status") %>% kable_styling(full_width = FALSE)
+
+```
 
 ### Wednesday, February 25, 2026
 
