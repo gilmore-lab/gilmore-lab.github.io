@@ -18,6 +18,40 @@ The [Gilmore Lab Manual](https://gilmore-lab.github.io/protocols/) contains many
     - 4/6: final materials due
     - 4/22: In-Person Poster Presentation, Alumni Hall, HUB
 
+### Wednesday, March 18, 2026
+
+0. Attending
+1. Discuss @Hadad2015-qd
+
+  - [Summary of Discussion](https://psu-psychology.github.io/psych-494-gilmore/2026-03-04-haddad-etal.html)
+
+2. Poster Update
+  - submitted the application 3/17.
+  - plan to fully complete within the next two weeks
+
+3. PLAY Coding project
+
+```{r, coding-status-chunk, echo=FALSE}
+# Load the knitr package
+library(knitr)
+library(kableExtra)
+
+# Create Data Frame
+coding_data <- data.frame(
+  file_status = c("Total", "Completed", "Remaining", "Remaining/Wk"),
+  n_files = c("75", "36", "39", "16.0")
+)
+
+# Generate the kable table
+knitr::kable(coding_data, caption = "PLAY Coding Status 3/18/2026", col.names = c("File Status", "# Files")) %>%
+  kable_styling(full_width = FALSE, position ="left", bootstrap_options = "condensed") %>%
+  row_spec(., row = 0, bold = TRUE)
+```
+
+4. Homework
+
+- Read @Blumberg2023-fs and possibly @Blumberg2023-ce
+
 ### Wednesday, March 11, 2026
 
 ![](images/happy-spring-break-clipart-8-768x311.jpg){fig-align="left" width="60%"}
@@ -35,21 +69,22 @@ The [Gilmore Lab Manual](https://gilmore-lab.github.io/protocols/) contains many
   
 3. PLAY Coding project
 
-```{r, coding-status-chunk, echo=FALSE}
-# Create Data Frame
-
+```{r, coding-status-chunk2, echo=FALSE}
 # Load the knitr package
 library(knitr)
 library(kableExtra)
+options(knitr.table.format = "html")
 
+# Create Data Frame
 coding_data <- data.frame(
-  File_Status = c("Total", "Completed", "Remaining", "Remaining/Wk"),
-  N_Files = c("75", "36", "39", "11.1")
+  file_status = c("Total", "Completed", "Remaining", "Remaining/Wk"),
+  n_files = c("75", "43", "32", "11.1")
 )
 
 # Generate the kable table
-kable(coding_data, caption = "Play Coding Status") %>% kable_styling(full_width = FALSE)
-
+kable(coding_data, caption = "PLAY Coding Status 3/3/2026", col.names = c("File Status", "# Files")) %>%
+  kable_classic("hover", full_width = FALSE, html_font = "sans-serif") %>%
+  row_spec(., row = 0, bold = TRUE)
 ```
 
 ### Wednesday, February 25, 2026
