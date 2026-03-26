@@ -13,10 +13,23 @@ The [Gilmore Lab Manual](https://gilmore-lab.github.io/protocols/) contains many
 
 ### Poster Presentation Opportunities
   - The [Undergraduate Exhibition](https://urfm.psu.edu/programs/undergraduate-exhibition) is April 20-22, 2026
-    - 2/17: application available 
-    - 3/17: application due date
     - 4/6: final materials due
     - 4/22: In-Person Poster Presentation, Alumni Hall, HUB
+
+### Wednesday, March 25, 2026
+
+0. Attending
+1. Play Coding
+
+  - 25/75 left to code
+  - Due Date will likely be pushed from 3/27 to 4/8
+  
+2. Discuss @Blumberg2023-fs and possibly @Blumberg2023-ce
+
+3. Poster update 
+
+  - review progress at lab meeting 4/1
+  - final abstract and poster must be uploaded on 4/6.
 
 ### Wednesday, March 18, 2026
 
