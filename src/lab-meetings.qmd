@@ -13,9 +13,30 @@ The [Gilmore Lab Manual](https://gilmore-lab.github.io/protocols/) contains many
 
 ### Poster Presentation Opportunities
   - The [Undergraduate Exhibition](https://urfm.psu.edu/programs/undergraduate-exhibition) is April 20-22, 2026
-    - 4/6: final materials due
     - 4/22: In-Person Poster Presentation, Alumni Hall, HUB
 
+### Wednesday, April 8, 2026
+
+0. Attending
+1. Play Coding
+
+  - 12/75 left to code by end of day 4/8
+  - possible additional coding - until 5/1/2026
+    1. Who wants to do this?
+    2. How many hours do we want to commit from April 15-30?
+  - What have you learned about behavioral coding? mother child interaction?
+    - when entertainment is put on (e.g. TV) child stops playing with items, so touching, but no interaction
+    - younger child lower time of object interaction
+    - mom modeling time of interaction doesn't seem to indicate child time of interaction
+    - mom, more interaction with objects than child
+  - future questions
+    - where mom child object + transcription overlap
+
+2. RStudio 
+  - create .gitignore so data file stays private
+  - create new quarto data file
+  - Sections: About, Setup, Load Functions, Import Data,
+  
 ### Wednesday, March 25, 2026
 
 0. Attending
