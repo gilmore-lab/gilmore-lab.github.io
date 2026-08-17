@@ -2,6 +2,173 @@
 title: "Lab meeting archive"
 bibliography: "bib/lab.bib"
 ---
+## Spring 2026
+
+### Wednesday, April 8, 2026
+
+0. Attending
+1. Play Coding
+
+  - 12/75 left to code by end of day 4/8
+  - possible additional coding - until 5/1/2026
+    1. Who wants to do this?
+    2. How many hours do we want to commit from April 15-30?
+  - What have you learned about behavioral coding? mother child interaction?
+    - when entertainment is put on (e.g. TV) child stops playing with items, so touching, but no interaction
+    - younger child lower time of object interaction
+    - mom modeling time of interaction doesn't seem to indicate child time of interaction
+    - mom, more interaction with objects than child
+  - future questions
+    - where mom child object + transcription overlap
+
+2. RStudio 
+  - create .gitignore so data file stays private
+  - create new quarto data file
+  - Sections: About, Setup, Load Functions, Import Data,
+  
+### Wednesday, March 25, 2026
+
+0. Attending
+1. Play Coding
+
+  - 25/75 left to code
+  - Due Date will likely be pushed from 3/27 to 4/8
+  
+2. Discuss @Blumberg2023-fs and possibly @Blumberg2023-ce
+
+3. Poster update 
+
+  - review progress at lab meeting 4/1
+  - final abstract and poster must be uploaded on 4/6.
+
+### Wednesday, March 18, 2026
+
+0. Attending
+1. Discuss @Hadad2015-qd
+
+  - [Summary of Discussion](https://psu-psychology.github.io/psych-494-gilmore/2026-03-04-haddad-etal.html)
+
+2. Poster Update
+  - submitted the application 3/17.
+  - plan to fully complete within the next two weeks
+
+3. PLAY Coding project
+
+```{r, coding-status-chunk, echo=FALSE}
+# Load the knitr package
+library(knitr)
+library(kableExtra)
+
+# Create Data Frame
+coding_data <- data.frame(
+  file_status = c("Total", "Completed", "Remaining", "Remaining/Wk"),
+  n_files = c("75", "36", "39", "16.0")
+)
+
+# Generate the kable table
+knitr::kable(coding_data, caption = "PLAY Coding Status 3/18/2026", col.names = c("File Status", "# Files")) %>%
+  kable_styling(full_width = FALSE, position ="left", bootstrap_options = "condensed") %>%
+  row_spec(., row = 0, bold = TRUE)
+```
+
+4. Homework
+
+- Read @Blumberg2023-fs and possibly @Blumberg2023-ce
+
+### Wednesday, March 11, 2026
+
+![](images/happy-spring-break-clipart-8-768x311.jpg){fig-align="left" width="60%"}
+
+### Wednesday, March 4, 2026
+
+0. Attending
+1. Discuss @Hadad2015-qd
+
+  - [Summary of Discussion](https://psu-psychology.github.io/psych-494-gilmore/2026-03-04-haddad-etal.html)
+  
+2. Poster Update
+
+  - idea: present overall PLAY project
+  
+3. PLAY Coding project
+
+```{r, coding-status-chunk2, echo=FALSE}
+# Load the knitr package
+library(knitr)
+library(kableExtra)
+options(knitr.table.format = "html")
+
+# Create Data Frame
+coding_data <- data.frame(
+  file_status = c("Total", "Completed", "Remaining", "Remaining/Wk"),
+  n_files = c("75", "43", "32", "11.1")
+)
+
+# Generate the kable table
+kable(coding_data, caption = "PLAY Coding Status 3/3/2026", col.names = c("File Status", "# Files")) %>%
+  kable_classic("hover", full_width = FALSE, html_font = "sans-serif") %>%
+  row_spec(., row = 0, bold = TRUE)
+```
+
+### Wednesday, February 25, 2026
+
+**Meeting CANCELLED**
+
+Homework
+
+- Read @Hadad2015-qd
+
+### Wednesday, February 18, 2026
+
+0. Attending
+1. Discuss: @McIntire2026-rg
+
+  - Adolescent Brain Cognitive Development Study [ABCD Study®](https://abcdstudy.org/)
+  - [Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html#xbasic)
+
+
+### Wednesday, February 11, 2026
+
+0. Attending
+1. Finish: @EIFL2018-lx
+2. Homework:
+  - Read: @McIntire2026-rg
+
+### Wednesday, February 4, 2026
+
+0. Attending
+1. Play Coding
+  - 9 files completed to date
+  - 9 files per week until finished
+2. Watch Video: @EIFL2018-lx
+3. Homework: Submit suggestions to Discord for
+  - Poster Presentation Topics
+  - Journal Club Articles
+
+### Wednesday, January 28, 2026
+
+0. Attending
+1. Discuss Paper: @D-Antonio2026-vo
+  - [QUIPS tool](http://methods.cochrane.org/sites/methods.cochrane.org.prognosis/files/uploads/QUIPS%20tool.pdf)
+  - [Summary of Discussion](https://psu-psychology.github.io/psych-494-gilmore/2026-01-28-dantonio-etal.html)
+
+### Wednesday, January 21, 2026
+
+0. Attending
+1. Discuss Goals for this semester
+2. Update on PLAY Coding project
+3. Address any outstanding training
+4. Poster Presentation Opportunities
+  - [Psi Chi](https://sites.psu.edu/psichi/), the International Honor Society in Psychology, is hosting its annual  [Spring Research Conference](http://sites.psu.edu/psichi/research-conference-2/) in the spring. **Details not yet available**
+  - The [Undergraduate Exhibition](https://urfm.psu.edu/programs/undergraduate-exhibition) is April 20-22, 2026
+    - February: application will be available
+    - 3/17: application due date
+    - 4/22: In-Person Poster Presentation, Alumni Hall, HUB
+5. Homework
+  - Read: @D-Antonio2026-vo
+  - Submit potential papers for Journal Club to the general channel on Discord
+  - Poster ideas for April?
+  
 ## Fall 2025
 
 For the Fall 2025 Semester, we will meet on Thursdays from 8:00-8:50 am in room 467 Moore.
