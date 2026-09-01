@@ -12,10 +12,16 @@ For the Fall 2026 Semester, we will meet on Tuesdays from 8:00 to 8:50 pm in roo
 The [Gilmore Lab Manual](https://gilmore-lab.github.io/protocols/) contains many useful instructions for on-boarding new lab members, required training, and connecting RStudio and Github.
 
 ### Poster Presentation Opportunities - Spring 2027
-  - [Psi Chi Research Conference](https://sites.psu.edu/psichi/research-conference-2/)
-    - Date: April XXX and the Application to Present
-  - [Undergraduate Exhibition](https://urfm.psu.edu/programs/undergraduate-exhibition) 
-    - Date: April XXX and the Application to Present
+[Psi Chi Research Conference](https://sites.psu.edu/psichi/research-conference-2/)
+  - Application to Present: Check Back February 2027
+  - Date: April XXX and the Application to Present
+  
+[Undergraduate Exhibition](https://urfm.psu.edu/programs/undergraduate-exhibition) 
+
+  - Application to Present: Details available February 2027
+  - Abstract Submission Deadline: *March 3, 2027*
+  - Final Poster Submission Deadline: *April 2, 2027*
+  - Poster Presentations: *April 28, 2027* @ Alumni Hall, HUB-Robeson Center
     
 ### Tuesday, September 1, 2026 
 
@@ -25,14 +31,11 @@ The [Gilmore Lab Manual](https://gilmore-lab.github.io/protocols/) contains many
   - [Databrary](https://databrary.org/) Overview
   - [Play and Learning Across a Year](https://play-project.org/index.html) (PLAY) Introduction
 3. Homework
-  - Please complete the Human Subjects Research Training FIRST: [CITI Training](https://gilmore-lab.github.io/protocols/training.html#citi-training) ASAP - new lab members (Rebecca, Sarah, Hayden, Hiya)
+  - Please complete the Human Subjects Research Training FIRST: [CITI Training](https://gilmore-lab.github.io/protocols/training.html#citi-training) ASAP - new lab members (Rebecca, Sarah, Hayden)
   - [Clery Act Training](https://gilmore-lab.github.io/protocols/training.html#clery-act-training) (Rebecca, Sarah, Megan, Hayden, Hiya, Brianna)
   - [Reporting Suspected Child  Abuse](https://gilmore-lab.github.io/protocols/training.html#reporting-suspected-child-abuse) (Rebecca, Sarah, Kassandra, Megan, Hayden, Hiya, Brianna)
-  - [Values, Ethics, & Compliance Training](https://gilmore-lab.github.io/protocols/training.html#values-ethics-and-compliance-training) (Rebecca, Sarah, Megan, Hayden, Hiya)
+  - [Values, Ethics, & Compliance Training](https://gilmore-lab.github.io/protocols/training.html#values-ethics-and-compliance-training) (Rebecca, Sarah, Megan, Hayden)
   - [Title IX Training](https://gilmore-lab.github.io/protocols/training.html#understanding-title-ix-at-penn-state) (Rebecca, Sarah, Megan, Hiya)
-  - [Data Privacy at Penn State](https://gilmore-lab.github.io/protocols/training.html#data-privacy-at-penn-state) (Rebecca, Sarah, Hiya)
+  - [Data Privacy at Penn State](https://gilmore-lab.github.io/protocols/training.html#data-privacy-at-penn-state) (Rebecca, Sarah)
   
-
-
-
-
+### Tuesday, September 8, 2026 
