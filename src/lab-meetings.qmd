@@ -22,13 +22,15 @@ The [Gilmore Lab Manual](https://gilmore-lab.github.io/protocols/) contains many
 0. Attending
 1. Introductions
 2. Fall 2026 Lab Priorities (Rick)
+  - [Databrary](https://databrary.org/) Overview
+  - [Play and Learning Across a Year](https://play-project.org/index.html) (PLAY) Introduction
 3. Homework
-  - [CITI Training](https://gilmore-lab.github.io/protocols/training.html#citi-training) ASAP - new lab members (Faith, Sarah, Hayden)
-  - [Clery Act Training](https://gilmore-lab.github.io/protocols/training.html#clery-act-training) (Faith, Sarah, Hayden, Brianna)
-  - [Reporting Suspected Child  Abuse](https://gilmore-lab.github.io/protocols/training.html#reporting-suspected-child-abuse) (Faith, Sarah, Hayden, Brianna)
-  - [Values, Ethics, & Compliance Training](https://gilmore-lab.github.io/protocols/training.html#values-ethics-and-compliance-training) (Faith, Sarah, Hayden, Kassandra)
-  - [Title IX Training](https://gilmore-lab.github.io/protocols/training.html#understanding-title-ix-at-penn-state) (Faith, Sarah, Hayden)
-  - [Data Privacy at Penn State](https://gilmore-lab.github.io/protocols/training.html#data-privacy-at-penn-state) (Faith, Sarah, Hayden)
+  - Please complete the Human Subjects Research Training FIRST: [CITI Training](https://gilmore-lab.github.io/protocols/training.html#citi-training) ASAP - new lab members (Rebecca, Sarah, Hayden, Hiya)
+  - [Clery Act Training](https://gilmore-lab.github.io/protocols/training.html#clery-act-training) (Rebecca, Sarah, Megan, Hayden, Hiya, Brianna)
+  - [Reporting Suspected Child  Abuse](https://gilmore-lab.github.io/protocols/training.html#reporting-suspected-child-abuse) (Rebecca, Sarah, Kassandra, Megan, Hayden, Hiya, Brianna)
+  - [Values, Ethics, & Compliance Training](https://gilmore-lab.github.io/protocols/training.html#values-ethics-and-compliance-training) (Rebecca, Sarah, Megan, Hayden, Hiya)
+  - [Title IX Training](https://gilmore-lab.github.io/protocols/training.html#understanding-title-ix-at-penn-state) (Rebecca, Sarah, Megan, Hiya)
+  - [Data Privacy at Penn State](https://gilmore-lab.github.io/protocols/training.html#data-privacy-at-penn-state) (Rebecca, Sarah, Hiya)
   
 
 
