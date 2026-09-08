@@ -40,8 +40,7 @@ The [Gilmore Lab Manual](https://gilmore-lab.github.io/protocols/) contains many
 3. Homework
 
 - **Everyone Read**: @Feynman1974-tk
-  
-  Finish Training Certificates
+- Finish Training Certificates
 
   - Please complete the Human Subjects Research Training FIRST: 
   [CITI Training](https://gilmore-lab.github.io/protocols/training.html#citi-training) (Rebecca, Sarah, Hayden)
