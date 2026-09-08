@@ -23,6 +23,34 @@ The [Gilmore Lab Manual](https://gilmore-lab.github.io/protocols/) contains many
   - Final Poster Submission Deadline: *April 2, 2027*
   - Poster Presentations: *April 28, 2027* @ Alumni Hall, HUB-Robeson Center
     
+### Tuesday, September 8, 2026
+
+0. Attending
+1. Discuss Quarto/Rmarkdown & Create biographies. 
+
+  - [Markdown Basic Syntax Cheat Sheet](https://www.markdownguide.org/basic-syntax/)
+  - [How to create Links](https://www.markdownguide.org/basic-syntax/#links)
+2. Watch [Data Sharing and Management Snafu in 3 Short Acts](https://youtu.be/66oNv_DJuPc) & Discuss
+
+  - Reproducability Crisis
+  - Why is sharing data important? 
+  - Data format shared is unreadable.
+  - Column Variable Names not clearly labeled - Need to Document Data (e.g. [Data Dictionary](https://datamanagement.hms.harvard.edu/collect-analyze/documentation-metadata/data-dictionary)) so that Data can be used by others.
+  
+3. Homework
+
+- **Everyone Read**: @Feynman1974-tk
+  
+  Finish Training Certificates
+
+  - Please complete the Human Subjects Research Training FIRST: 
+  [CITI Training](https://gilmore-lab.github.io/protocols/training.html#citi-training) (Rebecca, Sarah, Hayden)
+  - [Clery Act Training](https://gilmore-lab.github.io/protocols/training.html#clery-act-training) (Sarah, Megan, Hayden, Brianna, Anika)
+  - [Reporting Suspected Child  Abuse](https://gilmore-lab.github.io/protocols/training.html#reporting-suspected-child-abuse) (Sarah, Kassandra, Megan, Hayden, Brianna, Anika)
+  - [Values, Ethics, & Compliance Training](https://gilmore-lab.github.io/protocols/training.html#values-ethics-and-compliance-training) (Sarah, Megan, Hayden, Anika)
+  - [Title IX Training](https://gilmore-lab.github.io/protocols/training.html#understanding-title-ix-at-penn-state) (Rebecca, Sarah, Megan, Anika)
+  - [Data Privacy at Penn State](https://gilmore-lab.github.io/protocols/training.html#data-privacy-at-penn-state) (Sarah, Anika)  
+  
 ### Tuesday, September 1, 2026 
 
 0. Attending
