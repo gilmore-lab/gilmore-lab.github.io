@@ -40,6 +40,10 @@ The [Gilmore Lab Manual](https://gilmore-lab.github.io/protocols/) contains many
 3. Homework
 
 - **Everyone Read**: @Feynman1974-tk
+- Begin writing [Lab Biographies](/who-we-are.html#current-staff) in markdown format: 
+  - Use [How to create Links](https://www.markdownguide.org/basic-syntax/#links) to add at least 2 links in your biography using the markdown format.
+  - Email to lab email address along with your picture if you wish it to be on the website. This picture will be reformatted to a headshot image 175x233px (3:4).
+
 - Finish Training Certificates
 
   - Please complete the Human Subjects Research Training FIRST: 
