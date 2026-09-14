@@ -107,6 +107,26 @@ ars17 AT-SIGN psu DOT edu</p>
 
 ----
 
+### Kristina Cobb, Undergraduate Research Assistant {#kristina-cobb}
+
+:::: {.columns}
+
+::: {.column width="25%"}
+
+![](images/lab-logo.png){fig-align="left" width="80%"}
+
+:::
+
+::: {.column width="75%"}
+
+<!-- Enter Text here -->
+
+:::
+
+::::
+
+----
+
 ### Rebecca Drexler, Undergraduate Research Assistant {#rebecca-drexler}
 
 :::: {.columns}
