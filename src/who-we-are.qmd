@@ -199,18 +199,18 @@ Anika Mahadevan is a 3rd year undergraduate at The Pennsylvania State University
 
 ----
 
-### Megan McQuaid, Undergraduate Research Assistant {#megan-mcquaid} 
-:::: {.columns}
-::: {.column width="25%"}
-![](images/meganm.jpg){fig-align="left" width="80%"}
-:::
-::: {.column width="75%"}
-Megan McQuaid is a third-year undergraduate student at The Pennsylvania State University, graduating in May 2027. She is majoring in Psychology B.S. with a Neuroscience concentration and minoring in Human Development and Family Studies. Her research interests include the brain-behavior relationships underlying autism and epilepsy. She plans to pursue a PhD in Neuropsychology after graduation.
-She currently works in the [Brain and Behavioral Dynamics Lab](https://gilmore-lab.github.io/) and is an active member of [Psi Chi - The International Honor Society in Psychology](https://sites.psu.edu/psichi/). In the future she plans to continue promoting excellence in psychology and address social issues through research, service, advocacy, and education!
-:::
-::::
+<!-- ### Megan McQuaid, Undergraduate Research Assistant {#megan-mcquaid}  -->
+<!-- :::: {.columns} -->
+<!-- ::: {.column width="25%"} -->
+<!-- ![](images/meganm.jpg){fig-align="left" width="80%"} -->
+<!-- ::: -->
+<!-- ::: {.column width="75%"} -->
+<!-- Megan McQuaid is a third-year undergraduate student at The Pennsylvania State University, graduating in May 2027. She is majoring in Psychology B.S. with a Neuroscience concentration and minoring in Human Development and Family Studies. Her research interests include the brain-behavior relationships underlying autism and epilepsy. She plans to pursue a PhD in Neuropsychology after graduation. -->
+<!-- She currently works in the [Brain and Behavioral Dynamics Lab](https://gilmore-lab.github.io/) and is an active member of [Psi Chi - The International Honor Society in Psychology](https://sites.psu.edu/psichi/). In the future she plans to continue promoting excellence in psychology and address social issues through research, service, advocacy, and education! -->
+<!-- ::: -->
+<!-- :::: -->
 
-----
+<!-- ---- -->
 
 ### Hayden Richardson, Undergraduate Research Assistant {#hayden-richardson}
 
@@ -250,17 +250,17 @@ She currently works in the [Brain and Behavioral Dynamics Lab](https://gilmore-l
 
 ::::
 
-----
+<!-- ---- -->
 
-### Brianna Welzmuller, Undergraduate Research Assistant {#brianna-welzmuller} 
-:::: {.columns}
-::: {.column width="25%"}
-![](images/lab-logo.png){fig-align="left" width="80%"}
-:::
-::: {.column width="75%"}
-Brianna Welzmuller is an undergraduate student at The Pennsylvania State University, working towards a degree in Biology and a minor in Disability Studies with the class of 2027. She aspires to continue her education by attending medical school and becoming an emergency medicine doctor. Currently, Brianna works as an undergraduate assistant in the [Brain and Behavioral Dynamics laboratory](https://gilmore-lab.github.io/). This research allows her to gain further knowledge of neuroscience and child development which are her primary academic interests. In her free time Brianna is involved with [Remote Area Medical](https://sites.psu.edu/pennstateram/), a club that plans and facilitates free medical clinics to remote underserved areas. She is also a mentor through Life link on campus as well as Paw Pals. During this time, she works with peers that have disabilities and teaches science lessons to elementary school students respectively.
-:::
-::::
+<!-- ### Brianna Welzmuller, Undergraduate Research Assistant {#brianna-welzmuller}  -->
+<!-- :::: {.columns} -->
+<!-- ::: {.column width="25%"} -->
+<!-- ![](images/lab-logo.png){fig-align="left" width="80%"} -->
+<!-- ::: -->
+<!-- ::: {.column width="75%"} -->
+<!-- Brianna Welzmuller is an undergraduate student at The Pennsylvania State University, working towards a degree in Biology and a minor in Disability Studies with the class of 2027. She aspires to continue her education by attending medical school and becoming an emergency medicine doctor. Currently, Brianna works as an undergraduate assistant in the [Brain and Behavioral Dynamics laboratory](https://gilmore-lab.github.io/). This research allows her to gain further knowledge of neuroscience and child development which are her primary academic interests. In her free time Brianna is involved with [Remote Area Medical](https://sites.psu.edu/pennstateram/), a club that plans and facilitates free medical clinics to remote underserved areas. She is also a mentor through Life link on campus as well as Paw Pals. During this time, she works with peers that have disabilities and teaches science lessons to elementary school students respectively. -->
+<!-- ::: -->
+<!-- :::: -->
 
 
 ## Recent Alumni
