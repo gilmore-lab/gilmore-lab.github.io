@@ -23,7 +23,25 @@ The [Gilmore Lab Manual](https://gilmore-lab.github.io/protocols/) contains many
   - Final Poster Submission Deadline: *April 2, 2027*
   - Poster Presentations: *April 28, 2027* @ Alumni Hall, HUB-Robeson Center
     
-### Tuesday, September 14, 2026
+### Tuesday, September 22, 2026
+
+0. Attending
+1. Discuss
+2. Homework
+
+Finish Training Certificates
+
+  - Please complete the Human Subjects Research Training FIRST: 
+  [CITI Training](https://gilmore-lab.github.io/protocols/training.html#citi-training) (Kristina, Hayden)
+  - [Clery Act Training](https://gilmore-lab.github.io/protocols/training.html#clery-act-training) (Andrea, Kristina, Sarah, Anika, Megan)
+  - [Reporting Suspected Child  Abuse](https://gilmore-lab.github.io/protocols/training.html#reporting-suspected-child-abuse) (Kristina, Sarah, Anika, Megan)
+  - [Values, Ethics, & Compliance Training](https://gilmore-lab.github.io/protocols/training.html#values-ethics-and-compliance-training) (Kristina, Sarah, Anika, Kassandra, Megan)
+  - [Title IX Training](https://gilmore-lab.github.io/protocols/training.html#understanding-title-ix-at-penn-state) (Kristina, Sarah, Anika, Megan)
+  - [Data Privacy at Penn State](https://gilmore-lab.github.io/protocols/training.html#data-privacy-at-penn-state) (Kristina, Sarah, Anika, Megan)  
+
+Create [biographies for lab website](https://gilmore-lab.github.io/who-we-are.html)
+
+### Tuesday, September 15, 2026
 
 0. Attending
 1. Discuss: @Feynman1974-tk
