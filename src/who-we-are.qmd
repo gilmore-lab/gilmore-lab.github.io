@@ -99,7 +99,7 @@ ars17 AT-SIGN psu DOT edu</p>
 
 ::: {.column width="75%"}
 
-<!-- Enter Text here -->
+Faith Bennett is an undergraduate student at The Pennsylvania State University. She will graduate in May 2027 with a Bachelor of Science in Life Science Psychology. In the future, she plans to attend graduate school and earn at least a master's degree or a PsyD. Her academic interests have been cognitive, forensic, and abnormal psychology, and she hopes to find a job that combines all of them. Currently, she is a member of the [Brain and Behavioral Dynamics Lab](https://gilmore-lab.github.io/) and did previous work in [The Emotion Development Lab](https://emotiondev.la.psu.edu/). Outside of her academic commitments, she enjoys going to the gym, traveling, and cooking. 
 
 :::
 
