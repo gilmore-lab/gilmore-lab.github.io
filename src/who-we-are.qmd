@@ -61,7 +61,7 @@ rogilmore AT-SIGN psu DOT edu<br/>
 
 ::: {.column width="25%"}
 
-![](images/ARS-2018.jpeg){fig-align="left" width=80%}
+![](images/andrea2025.jpg){fig-align="left" width=80%}
 
 :::
 
@@ -93,7 +93,7 @@ ars17 AT-SIGN psu DOT edu</p>
 
 ::: {.column width="25%"}
 
-![](images/lab-logo.png){fig-align="left" width="80%"}
+![](images/FaithB.jpg){fig-align="left" width="80%"}
 
 :::
 
