@@ -25,13 +25,15 @@ The [Gilmore Lab Manual](https://gilmore-lab.github.io/protocols/) contains many
 ### Tuesday, October 6, 2026
 
 0.  Attending
-1.  Watch & Discuss 
-
-  - PLAY videos
-  - Read: @Soska2021-mh
-  - Review: @SoskaUnknown-pq
+1.  Discuss [PLAY Project](https://play-project.org/)
+- Data about [Collection Sites](https://play-project.org/overview.html#Collection_sites) 
+- The [Databrary](https://databrary.org/) PLAY Volume and its contents
+- Data Sharing Permissions granted by participants according to the [Databrary release levels](https://nyu.databrary.org/support/irb/release-levels)
+- Watch snippets of PLAY videos from PSU
+  
 2.  Homework
 
+- **Everyone** Read: @Soska2021-mh
 - Create [biographies for lab website](https://gilmore-lab.github.io/who-we-are.html) (Kristina, Rebecca, Sarah, Hayden, Hiya)
   - If you email me a picture, I will include this on your page.
   - Use the Month/Year you will graduate instead of sophomore/junior/etc.so updates are not required yearly.
@@ -42,7 +44,8 @@ The [Gilmore Lab Manual](https://gilmore-lab.github.io/protocols/) contains many
 ### Tuesday, September 29, 2026
 
 0.  Attending
-1.  Watch: @The-Royal-Institution2025-wu
+1.  Watch: 
+  - @The-Royal-Institution2025-wu
   - @UnknownUnknown-gn
 
 2.  Homework
