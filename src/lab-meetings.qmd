@@ -36,7 +36,7 @@ The [Gilmore Lab Manual](https://gilmore-lab.github.io/protocols/) contains many
     - Methods can also be found in IRB Protocols: [596-Chart Review and/or Analysis of Existing Restricted Data Set Study](https://pennstateoffice365.sharepoint.com/:w:/s/VPR-ORP/IQDs_dIODWmHT6uCCJLVC5tGAcPY1fB_Z3eK8cP5s5RHiY0)
     
 2. Homework
- - Read: @Apostolov2025-da
+ - **Everyone** Read: @Apostolov2025-da
 
 ### Tuesday, October 13, 2026
 
