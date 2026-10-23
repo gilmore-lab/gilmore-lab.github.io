@@ -4,7 +4,9 @@ title: People
 
 ::: {.callout-important}
 
-The Brain and Behavioral Dynamics Lab, part of the [Psychology Department](https://psych.la.psu.edu) at Penn State, is looking for research assistants to study brain development in infants, children, and adolescents for **Fall 2026**. 
+The Brain and Behavioral Dynamics Lab, part of the [Psychology Department](https://psych.la.psu.edu) at Penn State, is looking for research assistants to study brain development in infants, children, and adolescents.
+
+**We are full for the 2026-2027 Academic Year**
 
 You can earn research project (PSY 494) credit or work study funds, and learn video, computer, and communication skills. Prior research experience and computer skills are a plus, but aren't required. 
 We are especially interested in students who have morning availability, computer skills, or are interested in developing skills in advertising, marketing, or public relations. You may apply by completing an [application](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform). **At least a TWO semester commitment is required.**
@@ -139,7 +141,9 @@ Faith Bennett is an undergraduate student at The Pennsylvania State University. 
 
 ::: {.column width="75%"}
 
-<!-- Enter Text here -->
+Rebecca Drexler is an undergraduate student at [The Pennsylvania State University](https://www.psu.edu/), pursuing a Bachelor of Science in Psychology with a focus in neuroscience and a minor in Neuroscience and Biology. She is expected to graduate in May 2028. Following graduation, Rebecca plans to pursue a master's degree or PhD in psychology, with an interest in counseling and clinical applications. 
+
+Rebecca currently works as an undergraduate research assistant in the Brain and Behavioral Dynamics Lab. Outside of her academic and research pursuits, Rebecca is actively involved with the [Jana Marie Foundation](https://janamariefoundation.org/) and [Centre Helps](https://www.centrehelps.org/), where she contributes to community mental health initiatives, promotes mental health awareness, and support individuals in need. Additionally, she serves as an intern with [Mission Discovery](https://www.missiondiscovery.org/), participating in international mission trips focused on community service, leadership, and humanitarian outreach. 
 
 :::
 
@@ -233,6 +237,24 @@ Anika Mahadevan is a 3rd year undergraduate at The Pennsylvania State University
 ----
 
 ### Hiya Shah, Undergraduate Research Assistant {#hiya-shah}
+
+:::: {.columns}
+
+::: {.column width="25%"}
+
+![](images/lab-logo.png){fig-align="left" width="80%"}
+
+:::
+
+::: {.column width="75%"}
+
+<!-- Enter Text here -->
+
+:::
+
+::::
+
+### Melissa Waas, Undergraduate Research Assistant {#melissa-waas}
 
 :::: {.columns}
 
