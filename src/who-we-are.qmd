@@ -228,7 +228,11 @@ Anika Mahadevan is a 3rd year undergraduate at The Pennsylvania State University
 
 ::: {.column width="75%"}
 
-<!-- Enter Text here -->
+Hayden Richardson is an undergraduate student at The Pennsylvania State University, where she is pursuing a Bachelor’s degree in Psychology with a concentration in Neuroscience, expected to graduate in 2027. After completing her undergraduate studies, she plans to pursue a master’s degree to further develop her research interests in psychology before continuing on to earn a doctorate in Clinical Neuropsychology.
+
+Hayden currently works in the [Brain and Behavioral Dynamics Lab](https://gilmore-lab.github.io/) and also volunteers on a crisis hotline at [Centre Helps](https://www.centrehelps.org/), providing support to individuals experiencing emotional distress. Additionally, she interns with [Unraveling Stress](https://jazazari.com/), a mental health-focused website, where she assists with editing content. She is also a member of [Psi Chi](https://www.psichi.org/), the International Honor Society in Psychology.
+
+Outside of academics and her professional interests, Hayden enjoys spending time with family and friends, playing tennis, going to the beach, and listening to music.
 
 :::
 
