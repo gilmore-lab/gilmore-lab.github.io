@@ -27,6 +27,21 @@ The [Gilmore Lab Manual](https://gilmore-lab.github.io/protocols/) contains many
 - Final Poster Submission Deadline: *April 2, 2027*
 - Poster Presentations: *April 28, 2027* @ Alumni Hall, HUB-Robeson Center
 
+### Tuesday, November 24, 2026
+
+**Happy Thanksgiving!**
+
+### Tuesday, November 17, 2026
+
+0.  Attending
+1.  Discuss
+
+  - How to organize research documentation 
+      - [Open Scholarship Initiative website](https://penn-state-open-science.github.io/) and [Repository](https://github.com/penn-state-open-science/)
+      - folder and file naming conventions are very important
+  - Begin to discuss [HRP-596 Protocol for Human Subject Research -
+Chart Review and/or Analysis of Existing Restricted Data Set Study](https://pennstateoffice365.sharepoint.com/:w:/s/VPR-ORP/IQDs_dIODWmHT6uCCJLVC5tGAcPY1fB_Z3eK8cP5s5RHiY0) - this is a blank copy
+
 ### Tuesday, November 10, 2026
 
 **Cancelled** 
